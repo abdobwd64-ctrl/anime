@@ -32,6 +32,21 @@
     "score": 16
   },
   {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 14
+  },
+  {
     "id": "let-s-play-quest-darake-no-my-life",
     "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -75,21 +90,6 @@
     "score": 14
   },
   {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 13
-  },
-  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -103,6 +103,24 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022",
+    "score": 7
+  },
+  {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
     "score": 7
   },
   {
