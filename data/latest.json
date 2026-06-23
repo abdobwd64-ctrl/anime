@@ -14,6 +14,13 @@
     "date": "28 سبتمبر, 2022"
   },
   {
+    "anime_id": "yojouhan-time-machine-blues",
+    "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "episode": "1",
+    "date": "28 سبتمبر, 2022"
+  },
+  {
     "anime_id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "anime_title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "anime_poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -28,6 +35,20 @@
     "date": "19 يونيو, 2026"
   },
   {
+    "anime_id": "kami-no-shizuku",
+    "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-shizuku.webp",
+    "episode": "10",
+    "date": "12 يونيو, 2026"
+  },
+  {
+    "anime_id": "super-no-ura-de-yani-suu-futari",
+    "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
+    "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
+    "episode": "9",
+    "date": "04 يونيو, 2026"
+  },
+  {
     "anime_id": "super-no-ura-de-yani-suu-futari",
     "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
@@ -39,13 +60,6 @@
     "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
     "episode": "11",
-    "date": "04 يونيو, 2026"
-  },
-  {
-    "anime_id": "super-no-ura-de-yani-suu-futari",
-    "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
-    "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
-    "episode": "10",
     "date": "04 يونيو, 2026"
   }
 ]

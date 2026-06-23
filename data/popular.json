@@ -13,7 +13,7 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022",
-    "score": 6
+    "score": 7
   },
   {
     "id": "super-no-ura-de-yani-suu-futari",
@@ -27,6 +27,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2026",
+    "score": 6
+  },
+  {
+    "id": "kami-no-shizuku",
+    "title": "انمي Kami no Shizuku مترجم اون لاين",
+    "poster": "data/posters/kami-no-shizuku.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "سينين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 5
   },
   {
@@ -42,21 +57,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
-    "score": 4
-  },
-  {
-    "id": "kami-no-shizuku",
-    "title": "انمي Kami no Shizuku مترجم اون لاين",
-    "poster": "data/posters/kami-no-shizuku.webp",
-    "genres": [
-      "غموض",
-      "دراما",
-      "سينين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 4
   }
 ]
