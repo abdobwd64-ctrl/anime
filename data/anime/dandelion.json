@@ -97,7 +97,92 @@
           "url": "https://dsvplay.com/d/laxy50ru8hti"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الأونا 6Dandelion",
+      "date": "17 أبريل, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/RCiZpfysZqdYz"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/aeghRbID#zWEkOuyfphP8YeP_j0BpUVlyh3GXi5jGNbDGUbjWTF8"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/f1bh0lc7xdjw"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/rqtfvn3fr126"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-vaa5iflc1rsh.html"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-pi4izkuhxzrk.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-efw9qibd8gug.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!aeghRbID!zWEkOuyfphP8YeP_j0BpUVlyh3GXi5jGNbDGUbjWTF8"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/RCiZpfysZqdYz"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/RCiZpfysZqdYz"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/pi4izkuhxzrk"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/f1bh0lc7xdjw"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/de4LHL"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/efw9qibd8gug"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/rqtfvn3fr126"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:57:39.178991"
+  "last_updated": "2026-06-23T17:01:05.437117"
 }

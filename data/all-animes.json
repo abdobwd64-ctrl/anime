@@ -1315,6 +1315,17 @@
     "episodes_count": "12"
   },
   {
+    "id": "dandelion",
+    "title": "انمي Dandelion مترجم اون لاين",
+    "poster": "data/posters/dandelion.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "7"
+  },
+  {
     "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
     "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
     "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
@@ -1862,6 +1873,17 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "غير معروف"
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24"
   },
   {
     "id": "love-all-play",
