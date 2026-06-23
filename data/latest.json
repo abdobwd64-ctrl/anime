@@ -189,13 +189,6 @@
     "date": "10 يوليو, 2020"
   },
   {
-    "anime_id": "meikyuu-black-company",
-    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "anime_poster": "data/posters/meikyuu-black-company.webp",
-    "episode": "10",
-    "date": "10 سبتمبر, 2021"
-  },
-  {
     "anime_id": "beastars-final-season-part-2",
     "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
     "anime_poster": "data/posters/beastars-final-season-part-2.webp",
@@ -271,6 +264,13 @@
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
     "episode": "7",
     "date": "04 يونيو, 2026"
+  },
+  {
+    "anime_id": "meikyuu-black-company",
+    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "anime_poster": "data/posters/meikyuu-black-company.webp",
+    "episode": "9",
+    "date": "04 سبتمبر, 2021"
   },
   {
     "anime_id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram",
