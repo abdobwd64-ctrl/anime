@@ -47,6 +47,24 @@
     "score": 15
   },
   {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
+    "score": 15
+  },
+  {
     "id": "let-s-play-quest-darake-no-my-life",
     "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -90,24 +108,6 @@
     "score": 14
   },
   {
-    "id": "shaman-king-2021",
-    "title": "انمي Shaman King (2021) مترجم اون لاين",
-    "poster": "data/posters/shaman-king-2021.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2021",
-    "score": 14
-  },
-  {
     "id": "osananajimi-to-wa-love-comedy-ni-naranai",
     "title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
     "poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
@@ -119,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 9
+    "score": 10
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -135,7 +135,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
-    "score": 9
+    "score": 10
   },
   {
     "id": "yojouhan-time-machine-blues",
