@@ -28,6 +28,8 @@
   if (['ar','he','fa','ur'].includes(lang)) { html.setAttribute('dir','rtl'); html.setAttribute('lang','ar'); }
   else { html.setAttribute('dir','ltr'); html.setAttribute('lang','en'); }
 
+  var DATA_BASE = 'https://raw.githubusercontent.com/abdobwd64-ctrl/anime/main/data';
+
   /* ─── Search ─── */
   window.searchAnime = function(q) {
     if (!q || !q.trim()) return;
@@ -42,7 +44,7 @@
   window.loadSearch = async function(query) {
     var title = document.getElementById('resultTitle');
     if (title) title.textContent = '🔍 البحث عن: ' + query;
-    var data = await fetchJSON('../data/all-animes.json');
+    var data = await fetchJSON(DATA_BASE + '/all-animes.json');
     if (!data) { document.getElementById('searchResults').innerHTML = '<p style="color:var(--text-muted);text-align:center;">لا توجد بيانات</p>'; return; }
     var results = data.filter(function(a) {
       return a.title && a.title.toLowerCase().indexOf(query.toLowerCase()) !== -1;
@@ -70,11 +72,17 @@
     }
   }
 
+  function posterUrl(p) {
+    if (!p) return '';
+    if (p.startsWith('http')) return p;
+    return DATA_BASE.replace('/main/data', '/main') + '/' + p;
+  }
+
   function renderCard(item, link) {
     const card = document.createElement('div');
     card.className = 'anime-card';
     card.onclick = () => window.location.href = link;
-    const poster = item.poster || item.anime_poster || '';
+    const poster = posterUrl(item.poster || item.anime_poster || '');
     const ep = item.episode || item.ep || '';
     const title = item.title || item.anime_title || item.name || '?';
     card.innerHTML = `
@@ -89,8 +97,8 @@
   /* ─── Home page ─── */
   window.loadData = async function() {
     const [latest, popular] = await Promise.all([
-      fetchJSON('data/latest.json'),
-      fetchJSON('data/popular.json'),
+      fetchJSON(DATA_BASE + '/latest.json'),
+      fetchJSON(DATA_BASE + '/popular.json'),
     ]);
 
     const latestGrid = document.getElementById('latestGrid');
@@ -112,7 +120,7 @@
 
   /* ─── Anime detail page ─── */
   window.loadAnime = async function(id) {
-    const data = await fetchJSON(`../data/anime/${id}.json`);
+    const data = await fetchJSON(DATA_BASE + '/anime/' + id + '.json');
     if (!data) { document.body.innerHTML = '<div class="container" style="padding:100px 0;text-align:center;"><h2>❌ الأنمي غير موجود</h2><a href="../index.html">العودة للرئيسية</a></div>'; return; }
 
     document.title = data.title + ' - AnimeLek';
@@ -165,7 +173,7 @@
 
   /* ─── Episode watch page ─── */
   window.loadEpisode = async function(id, epNum) {
-    const data = await fetchJSON(`../data/anime/${id}.json`);
+    const data = await fetchJSON(DATA_BASE + '/anime/' + id + '.json');
     if (!data) { document.body.innerHTML = '<div class="container" style="padding:100px 0;text-align:center;"><h2>❌ الحلقة غير موجودة</h2><a href="../index.html">العودة للرئيسية</a></div>'; return; }
 
     const ep = data.episodes ? data.episodes.find(e => String(e.number) === String(epNum)) : null;
