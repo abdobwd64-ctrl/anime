@@ -106,6 +106,32 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
+    "score": 9
+  },
+  {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 8
+  },
+  {
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
     "score": 8
   },
   {
@@ -126,19 +152,6 @@
     "score": 7
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 7
-  },
-  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -154,17 +167,17 @@
     "score": 7
   },
   {
-    "id": "blue-period",
-    "title": "انمي Blue Period مترجم اون لاين",
-    "poster": "data/posters/blue-period.webp",
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
     "genres": [
-      "دراما",
-      "شريحة من الحياة"
+      "شونين",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 7
+    "episodes_count": "24",
+    "score": 6
   },
   {
     "id": "fragtime",
@@ -197,19 +210,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 6
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 5
   },
   {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",

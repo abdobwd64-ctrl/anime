@@ -245,6 +245,13 @@
     "date": "06 يونيو, 2026"
   },
   {
+    "anime_id": "blue-period",
+    "anime_title": "انمي Blue Period مترجم اون لاين",
+    "anime_poster": "data/posters/blue-period.webp",
+    "episode": "7",
+    "date": "06 نوفمبر, 2021"
+  },
+  {
     "anime_id": "level-1-dakedo-unique-skill-de-saikyou-desu",
     "anime_title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
     "anime_poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
@@ -278,13 +285,6 @@
     "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
     "episode": "9",
     "date": "01 يونيو, 2026"
-  },
-  {
-    "anime_id": "blue-period",
-    "anime_title": "انمي Blue Period مترجم اون لاين",
-    "anime_poster": "data/posters/blue-period.webp",
-    "episode": "12",
-    "date": "01 يناير, 2022"
   },
   {
     "anime_id": "meitantei-conan-movie-21-karakurenai-no-love-letter",
