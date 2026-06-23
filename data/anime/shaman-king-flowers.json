@@ -924,7 +924,64 @@
           "url": "https://updown.cam/bfngfcuhhlnz"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Shaman King: Flowers",
+      "date": "07 فبراير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/2H3qglde5CWJY"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/2H3qglde5CWJY"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/2H3qglde5CWJY"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-zfqmmatkoan5.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/wqFmiAZI!RaCMwJXMVR5U3PSKCIPEfSM7V9CscIiew7Ma9rTVwbM"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/pvc3lCTQ!HhM6kFwxlnxvscyuin1_CkQ91Taq4fCQ1-UTJGzK5us"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/dgo5q5y2qlxj"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!wqFmiAZI!RaCMwJXMVR5U3PSKCIPEfSM7V9CscIiew7Ma9rTVwbM"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/421sfyh77qfd"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!pvc3lCTQ!HhM6kFwxlnxvscyuin1_CkQ91Taq4fCQ1-UTJGzK5us"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:13:58.588411"
+  "last_updated": "2026-06-23T16:14:12.101840"
 }
