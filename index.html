@@ -14,8 +14,7 @@
       <a href="index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
       <nav class="nav">
         <a href="index.html" class="active">الرئيسية</a>
-        <a href="#">الأقسام</a>
-        <a href="#">الأحدث</a>
+        <a href="index.html?show=all">كل الأنميات</a>
       </nav>
       <div class="search-box">
         <span class="icon">🔍</span>
@@ -48,10 +47,23 @@
     </div>
   </section>
 
+  <section class="section seasons-section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">📅 المواسم</h2>
+      </div>
+      <div class="genre-tags" id="homeSeasonTags">
+        <span class="genre-tag active" onclick="filterBySeason('all')">الكل</span>
+      </div>
+      <div class="anime-grid" id="seasonGrid" style="display:none;"></div>
+    </div>
+  </section>
+
   <section class="section">
     <div class="container">
       <div class="section-header">
         <h2 class="section-title">أحدث الحلقات <span class="badge">جديد</span></h2>
+        <a href="#" class="view-all" id="latestMoreBtn" style="display:none;">عرض الكل ←</a>
       </div>
       <div class="anime-grid" id="latestGrid"></div>
     </div>

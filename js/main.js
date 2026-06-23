@@ -33,8 +33,13 @@
   /* ─── Search ─── */
   window.searchAnime = function(q) {
     if (!q || !q.trim()) return;
-    var depth = window.location.pathname.includes('/pages/') ? '../' : '';
-    window.location.href = depth + 'pages/search.html?q=' + encodeURIComponent(q.trim());
+    var isSearch = window.location.pathname.includes('/search.html');
+    if (isSearch) {
+      window.location.href = 'search.html?q=' + encodeURIComponent(q.trim());
+    } else {
+      var depth = window.location.pathname.includes('/pages/') ? '../' : '';
+      window.location.href = depth + 'pages/search.html?q=' + encodeURIComponent(q.trim());
+    }
   };
 
   window.loadSearch = async function(query) {
@@ -98,6 +103,8 @@
     var target = document.querySelector('#homeGenreTags .genre-tag[data-genre="' + genre + '"]');
     if (target) target.classList.add('active');
     else document.querySelector('#homeGenreTags .genre-tag:first-child').classList.add('active');
+    document.getElementById('seasonGrid').style.display = 'none';
+    document.querySelector('#homeSeasonTags .genre-tag:first-child').classList.add('active');
 
     var grid = document.getElementById('genreGrid');
     if (genre === 'all') { grid.style.display = 'none'; return; }
@@ -112,23 +119,58 @@
     });
   };
 
-  window.loadGenres = async function() {
+  window.filterBySeason = function(season) {
+    document.querySelectorAll('#homeSeasonTags .genre-tag').forEach(t => t.classList.remove('active'));
+    var target = document.querySelector('#homeSeasonTags .genre-tag[data-season="' + season + '"]');
+    if (target) target.classList.add('active');
+    else document.querySelector('#homeSeasonTags .genre-tag:first-child').classList.add('active');
+    document.getElementById('genreGrid').style.display = 'none';
+    document.querySelector('#homeGenreTags .genre-tag:first-child').classList.add('active');
+
+    var grid = document.getElementById('seasonGrid');
+    if (season === 'all') { grid.style.display = 'none'; return; }
+    grid.innerHTML = '';
+    grid.style.display = 'grid';
+    var filtered = _allAnimesData.filter(function(a) {
+      return a.season && a.season === season;
+    });
+    if (filtered.length === 0) { grid.style.display = 'none'; return; }
+    filtered.forEach(function(item) {
+      grid.appendChild(renderCard(item, 'pages/anime.html?id=' + item.id));
+    });
+  };
+
+  window.loadFilters = async function() {
     var data = await fetchJSON(DATA_BASE + '/all-animes.json');
     if (!data) return;
     _allAnimesData = data;
-    var genreSet = {};
+    var genreSet = {}, seasonSet = {};
     data.forEach(function(a) {
       if (a.genres) a.genres.forEach(function(g) { genreSet[g] = true; });
+      if (a.season) seasonSet[a.season] = true;
     });
-    var sorted = Object.keys(genreSet).sort();
-    var container = document.getElementById('homeGenreTags');
-    sorted.forEach(function(g) {
+    var genreContainer = document.getElementById('homeGenreTags');
+    Object.keys(genreSet).sort().forEach(function(g) {
       var span = document.createElement('span');
       span.className = 'genre-tag';
       span.textContent = g;
       span.setAttribute('data-genre', g);
       span.onclick = function() { filterByGenre(g); };
-      container.appendChild(span);
+      genreContainer.appendChild(span);
+    });
+    var seasonContainer = document.getElementById('homeSeasonTags');
+    if (!seasonContainer) return;
+    Object.keys(seasonSet).sort(function(a,b) {
+      var aYear = parseInt(a.split(' ')[1]) || 0;
+      var bYear = parseInt(b.split(' ')[1]) || 0;
+      return bYear - aYear;
+    }).forEach(function(s) {
+      var span = document.createElement('span');
+      span.className = 'genre-tag';
+      span.textContent = s;
+      span.setAttribute('data-season', s);
+      span.onclick = function() { filterBySeason(s); };
+      seasonContainer.appendChild(span);
     });
   };
 
@@ -139,13 +181,31 @@
       fetchJSON(DATA_BASE + '/popular.json'),
     ]);
 
-    const latestGrid = document.getElementById('latestGrid');
-    if (latestGrid && latest) {
-      latest.slice(0, 24).forEach(ep => {
-        const card = renderCard(ep, `pages/watch.html?id=${ep.anime_id}&ep=${ep.episode}`);
-        latestGrid.appendChild(card);
+    var params = new URLSearchParams(window.location.search);
+    var _latestFull = latest || [];
+    var _latestLimit = params.get('show') === 'all' ? _latestFull.length : 24;
+    var _showAllLatest = params.get('show') === 'all';
+
+    function renderLatest() {
+      var grid = document.getElementById('latestGrid');
+      if (!grid) return;
+      grid.innerHTML = '';
+      var items = _showAllLatest ? _latestFull : _latestFull.slice(0, _latestLimit);
+      items.forEach(function(ep) {
+        grid.appendChild(renderCard(ep, 'pages/watch.html?id=' + ep.anime_id + '&ep=' + ep.episode));
       });
+      var btn = document.getElementById('latestMoreBtn');
+      if (btn) {
+        if (_latestFull.length > _latestLimit && !_showAllLatest) {
+          btn.style.display = 'inline-flex';
+          btn.textContent = 'عرض الكل ← (' + _latestFull.length + ')';
+          btn.onclick = function(e) { e.preventDefault(); _showAllLatest = true; renderLatest(); btn.style.display = 'none'; };
+        } else {
+          btn.style.display = 'none';
+        }
+      }
     }
+    renderLatest();
 
     const popularGrid = document.getElementById('popularGrid');
     if (popularGrid && popular) {
@@ -155,12 +215,17 @@
       });
     }
 
-    loadGenres().then(function() {
-      var params = new URLSearchParams(window.location.search);
-      var genreParam = params.get('genre');
+    loadFilters().then(function() {
+      var p = new URLSearchParams(window.location.search);
+      var genreParam = p.get('genre');
       if (genreParam) {
         var tag = document.querySelector('#homeGenreTags .genre-tag[data-genre="' + genreParam + '"]');
         if (tag) tag.click();
+      }
+      var seasonParam = p.get('season');
+      if (seasonParam) {
+        var stag = document.querySelector('#homeSeasonTags .genre-tag[data-season="' + seasonParam + '"]');
+        if (stag) stag.click();
       }
     });
   };
@@ -181,7 +246,19 @@
       if (data[key]) {
         const div = document.createElement('div');
         div.className = 'item';
-        div.innerHTML = `<span class="label">${label}</span> <span class="value">${data[key]}</span>`;
+        const valueSpan = document.createElement('span');
+        valueSpan.className = 'value';
+        valueSpan.textContent = data[key];
+        if (key === 'season') {
+          valueSpan.style.cursor = 'pointer';
+          valueSpan.style.color = 'var(--primary-light)';
+          valueSpan.title = 'اضغط لعرض أنمي هذا الموسم';
+          valueSpan.onclick = function() {
+            window.location.href = '../index.html?season=' + encodeURIComponent(data[key]);
+          };
+        }
+        div.innerHTML = `<span class="label">${label}</span> `;
+        div.appendChild(valueSpan);
         metaContainer.appendChild(div);
       }
     }
