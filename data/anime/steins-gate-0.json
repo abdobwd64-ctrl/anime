@@ -1482,7 +1482,90 @@
           "url": "http://upbaam.com/z2zh88h0v9o3"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Steins;Gate 0",
+      "date": "23 نوفمبر, 2024",
+      "servers": [
+        {
+          "name": "anime7u | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://anime7u.com/v/6sp6vbmi020f"
+        },
+        {
+          "name": "wishfast top | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://wishfast.top/e/qhjqm2kmuoso"
+        },
+        {
+          "name": "d000d | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://d000d.com/e/2sd8m1mwejqa"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-k6h08qq9i99t.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/i8vlzlditjnj"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6201781717722"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-sxxstpdm20l3.html"
+        },
+        {
+          "name": "vadbam | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://cvb5.vadbam.net/embed-h4qmt2bmrru2.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/i8vlzlditjnj"
+        },
+        {
+          "server": "anime7u",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anime7u.com/f/6sp6vbmi020f"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/4u3yuutiia9j"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/sxxstpdm20l3"
+        },
+        {
+          "server": "wishfast",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://wishfast.top/qhjqm2kmuoso"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/2sd8m1mwejqa"
+        },
+        {
+          "server": "upbaam",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://upbaam.com/evn8u7280pdc"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:04:05.129588"
+  "last_updated": "2026-06-23T16:04:12.547165"
 }
