@@ -184,7 +184,162 @@
           "url": "https://gofile.io/d/7Tqmoa"
         }
       ]
+    },
+    {
+      "number": "11",
+      "title": "الحلقة 11Let's Play: Quest-darake no My Life",
+      "date": "11 ديسمبر, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/XQ6RjPcZRNXtf"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/XQ6RjPcZRNXtf"
+        },
+        {
+          "name": "larhu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://larhu.com/embed-ouhxwb1nzx2t.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ndcTTApa#t8CtG7_2YegeyJzXTRS0dTXQxDuYK768-H2fJ_lJNcU"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=OnYrgVofhuo3fGDD"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456239200&hash=fcd3f353500ac418&hd=3"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/yj6w8kafif8r"
+        },
+        {
+          "name": "vidmoly | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-is6jn8qqmble.html"
+        },
+        {
+          "name": "dsvplay | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/e2b3osa3onn6"
+        },
+        {
+          "name": "file-upload org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-0srzf1nih1gk.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-allpost7v8t6.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/qdkhmIQT#baONSU7erOTeIVwArA9rtdR2MU_PTGHPGYBUGCwCALs"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-8h47rx44gc4m.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-n9pc7zby638j.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/OAch0CCT#V91U0HXCYe45WSdkzIgoPawYevXMrxhz3Hw160cHJoI"
+        },
+        {
+          "name": "file-upload org | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-4t50jcj0z3n5.html"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-i45jp5t6lv7m.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!OAch0CCT!V91U0HXCYe45WSdkzIgoPawYevXMrxhz3Hw160cHJoI"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/4t50jcj0z3n5"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/i45jp5t6lv7m"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ndcTTApa!t8CtG7_2YegeyJzXTRS0dTXQxDuYK768-H2fJ_lJNcU"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/0srzf1nih1gk"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/yj6w8kafif8r"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/allpost7v8t6"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/e2b3osa3onn6"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/is6jn8qqmble"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!qdkhmIQT!baONSU7erOTeIVwArA9rtdR2MU_PTGHPGYBUGCwCALs"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/8h47rx44gc4m"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/XQ6RjPcZRNXtf"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/n9pc7zby638j"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:02:49.985868"
+  "last_updated": "2026-06-23T21:02:58.891886"
 }

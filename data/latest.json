@@ -1,5 +1,12 @@
 [
   {
+    "anime_id": "kami-no-shizuku",
+    "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-shizuku.webp",
+    "episode": "8",
+    "date": "29 مايو, 2026"
+  },
+  {
     "anime_id": "yojouhan-time-machine-blues",
     "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -31,8 +38,8 @@
     "anime_id": "kami-no-shizuku",
     "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
     "anime_poster": "data/posters/kami-no-shizuku.webp",
-    "episode": "11",
-    "date": "19 يونيو, 2026"
+    "episode": "7",
+    "date": "22 مايو, 2026"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
@@ -42,11 +49,11 @@
     "date": "17 ديسمبر, 2025"
   },
   {
-    "anime_id": "kami-no-shizuku",
-    "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
-    "anime_poster": "data/posters/kami-no-shizuku.webp",
-    "episode": "10",
-    "date": "12 يونيو, 2026"
+    "anime_id": "let-s-play-quest-darake-no-my-life",
+    "anime_title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
+    "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
+    "episode": "11",
+    "date": "11 ديسمبر, 2025"
   },
   {
     "anime_id": "kami-no-shizuku",
@@ -73,7 +80,7 @@
     "anime_id": "super-no-ura-de-yani-suu-futari",
     "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
-    "episode": "12",
+    "episode": "7",
     "date": "04 يونيو, 2026"
   }
 ]
