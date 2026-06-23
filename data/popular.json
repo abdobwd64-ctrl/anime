@@ -18,22 +18,6 @@
     "score": 22
   },
   {
-    "id": "one-punch-man-3",
-    "title": "انمي One Punch Man 3 مترجم اون لاين",
-    "poster": "data/posters/one-punch-man-3.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "كوميدي",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2025",
-    "score": 17
-  },
-  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -47,6 +31,22 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
+    "score": 18
+  },
+  {
+    "id": "one-punch-man-3",
+    "title": "انمي One Punch Man 3 مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-3.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025",
     "score": 17
   },
   {
@@ -165,7 +165,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 5
+    "score": 6
   },
   {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
