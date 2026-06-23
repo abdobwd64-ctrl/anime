@@ -210,6 +210,13 @@
     "date": "15 نوفمبر, 2025"
   },
   {
+    "anime_id": "dragon-ball-daima",
+    "anime_title": "انمي Dragon Ball Daima مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-ball-daima.webp",
+    "episode": "18",
+    "date": "14 فبراير, 2025"
+  },
+  {
     "anime_id": "mofa-gongzhu-de-xiao-fannao",
     "anime_title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
     "anime_poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
@@ -222,6 +229,13 @@
     "anime_poster": "data/posters/blue-period.webp",
     "episode": "8",
     "date": "13 نوفمبر, 2021"
+  },
+  {
+    "anime_id": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
+    "anime_title": "انمي Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka مترجم اون لاين",
+    "anime_poster": "data/posters/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka.webp",
+    "episode": "12",
+    "date": "12 ديسمبر, 2025"
   },
   {
     "anime_id": "fragtime",

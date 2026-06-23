@@ -211,6 +211,19 @@
     "episodes_count": "1"
   },
   {
+    "id": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
+    "title": "انمي Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka مترجم اون لاين",
+    "poster": "data/posters/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13"
+  },
+  {
     "id": "steins-gate-0",
     "title": "انمي Steins;Gate 0 مترجم اون لاين",
     "poster": "data/posters/steins-gate-0.webp",
