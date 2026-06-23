@@ -147,6 +147,13 @@
     "date": "19 نوفمبر, 2025"
   },
   {
+    "anime_id": "meikyuu-black-company",
+    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "anime_poster": "data/posters/meikyuu-black-company.webp",
+    "episode": "11",
+    "date": "18 سبتمبر, 2021"
+  },
+  {
     "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
     "anime_title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
     "anime_poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
@@ -180,6 +187,13 @@
     "anime_poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
     "episode": "7",
     "date": "10 يوليو, 2020"
+  },
+  {
+    "anime_id": "meikyuu-black-company",
+    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "anime_poster": "data/posters/meikyuu-black-company.webp",
+    "episode": "10",
+    "date": "10 سبتمبر, 2021"
   },
   {
     "anime_id": "beastars-final-season-part-2",
