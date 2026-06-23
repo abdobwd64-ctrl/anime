@@ -41,18 +41,6 @@
     "score": 13
   },
   {
-    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
-    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
-    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
-  },
-  {
     "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
     "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
@@ -63,6 +51,18 @@
       "مدرسي"
     ],
     "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 13
+  },
+  {
+    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
+    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
+    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 12
