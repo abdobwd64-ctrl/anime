@@ -182,6 +182,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "steins-gate-0",
+    "title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "ربيع 2018"
+  },
+  {
     "id": "kami-no-shizuku",
     "title": "انمي Kami no Shizuku مترجم اون لاين",
     "poster": "data/posters/kami-no-shizuku.webp",
