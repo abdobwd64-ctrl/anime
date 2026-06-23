@@ -172,6 +172,19 @@
     "score": 5
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 3
+  },
+  {
     "id": "isekai-quartet-movie-another-world",
     "title": "انمي Isekai Quartet Movie: Another World مترجم اون لاين",
     "poster": "data/posters/isekai-quartet-movie-another-world.webp",

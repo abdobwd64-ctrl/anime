@@ -1,5 +1,17 @@
 [
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24"
+  },
+  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",

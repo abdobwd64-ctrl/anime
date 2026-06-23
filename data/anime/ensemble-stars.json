@@ -1,0 +1,102 @@
+{
+  "id": "ensemble-stars",
+  "title": "انمي Ensemble Stars! مترجم اون لاين",
+  "url": "https://animelek.top/anime/ensemble-stars/",
+  "poster": "data/posters/ensemble-stars.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "24",
+  "start_date": "2019",
+  "season": "صيف 2019",
+  "genres": [
+    "مدرسي",
+    "موسيقي"
+  ],
+  "story": "قصة انمي Ensemble Stars! تدور حول مدرسة متخصصة في تدريب الشباب على أن يصبحوا فنانين.",
+  "episodes": [
+    {
+      "number": "15",
+      "title": "الحلقة 15Ensemble Stars!",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1288168803034"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1pkTSnqEl8W1ifua_TBuVZRF8cUmrOXf7/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3tEdm&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/GGMngYKr7qLw2"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!SGZ1FATC!DZkvHPVOvbTYJNm5ZB-4s0ptkPqxF8Wczf6zR1ugJAQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/r6werqr856pk"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/emb.html?huc5t5jpm00r=img.vidbm.com/huc5t5jpm00r"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-q4o8vpr7bzfc.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1pkTSnqEl8W1ifua_TBuVZRF8cUmrOXf7&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!SGZ1FATC!DZkvHPVOvbTYJNm5ZB-4s0ptkPqxF8Wczf6zR1ugJAQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/q4o8vpr7bzfc"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/r6werqr856pk"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/r6urjihntfir"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/GGMngYKr7qLw2"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/3tEdm/[Anime4up.com]_ES_EP_15_HD.mp4"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-23T16:20:36.357220"
+}
