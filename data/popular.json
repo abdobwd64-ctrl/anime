@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 14
+    "score": 15
   },
   {
     "id": "let-s-play-quest-darake-no-my-life",
@@ -90,6 +90,24 @@
     "score": 14
   },
   {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
+    "score": 8
+  },
+  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -106,24 +124,6 @@
     "score": 7
   },
   {
-    "id": "shaman-king-2021",
-    "title": "انمي Shaman King (2021) مترجم اون لاين",
-    "poster": "data/posters/shaman-king-2021.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2021",
-    "score": 7
-  },
-  {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -137,5 +137,19 @@
     "episodes_count": "1",
     "season": "ربيع 2011",
     "score": 4
+  },
+  {
+    "id": "osananajimi-to-wa-love-comedy-ni-naranai",
+    "title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
+    "poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 3
   }
 ]
