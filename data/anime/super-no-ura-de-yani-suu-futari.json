@@ -745,7 +745,86 @@
           "url": "https://dsvplay.com/d/oxg95267zp0m"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Super no Ura de Yani Suu Futari",
+      "date": "04 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/VtjjZsJok7tlO"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/Gi4GTLpI#CVYJxFUlCF8siOd-29nQQyZOOEK415wdtlugKKIstNs"
+        },
+        {
+          "name": "larhu website | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=8xwpmtflir5l"
+        },
+        {
+          "name": "rubyvidhub | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://rubyvidhub.com/embed-qwkhapwelyry.html"
+        },
+        {
+          "name": "vkvideo ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456240054&hash=11dd103744479152&hd=3"
+        },
+        {
+          "name": "videa hu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=3YNW3ftdNOVZ5U8a"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-hzg0zya0bytw.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/VtjjZsJok7tlO"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Gi4GTLpI!CVYJxFUlCF8siOd-29nQQyZOOEK415wdtlugKKIstNs"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/VtjjZsJok7tlO"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/jwl2j92f1jvo"
+        },
+        {
+          "server": "streamruby",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://streamruby.com/d/qwkhapwelyry"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/BoQBYD"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hzg0zya0bytw"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:03:23.409459"
+  "last_updated": "2026-06-23T21:03:32.840261"
 }
