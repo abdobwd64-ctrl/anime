@@ -13,5 +13,18 @@
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1"
+  },
+  {
+    "id": "steins-gate-0",
+    "title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23"
   }
 ]

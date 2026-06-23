@@ -1,5 +1,12 @@
 [
   {
+    "anime_id": "steins-gate-0",
+    "anime_title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "anime_poster": "data/posters/steins-gate-0.webp",
+    "episode": "23",
+    "date": "23 نوفمبر, 2024"
+  },
+  {
     "anime_id": "fragtime",
     "anime_title": "انمي Fragtime مترجم اون لاين",
     "anime_poster": "data/posters/fragtime.webp",
