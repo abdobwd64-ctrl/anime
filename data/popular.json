@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 26
+    "score": 27
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -149,7 +149,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 9
+    "score": 10
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -196,6 +196,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
+    "score": 4
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 4
   },
   {
