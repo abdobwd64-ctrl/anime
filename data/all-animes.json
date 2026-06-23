@@ -1,5 +1,19 @@
 [
   {
+    "id": "yojouhan-time-machine-blues",
+    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6"
+  },
+  {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
     "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
     "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
@@ -115,6 +129,21 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "23"
+  },
+  {
+    "id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",
+    "title": "انمي Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1"
   },
   {
     "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",

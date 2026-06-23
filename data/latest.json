@@ -14,6 +14,13 @@
     "date": "30 مايو, 2026"
   },
   {
+    "anime_id": "yojouhan-time-machine-blues",
+    "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "episode": "3",
+    "date": "29 سبتمبر, 2022"
+  },
+  {
     "anime_id": "shaman-king-flowers",
     "anime_title": "انمي Shaman King: Flowers مترجم اون لاين",
     "anime_poster": "data/posters/shaman-king-flowers.webp",
@@ -138,6 +145,13 @@
     "anime_poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
     "episode": "8",
     "date": "06 سبتمبر, 2023"
+  },
+  {
+    "anime_id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",
+    "anime_title": "انمي Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu.webp",
+    "episode": "1",
+    "date": "06 أبريل, 2024"
   },
   {
     "anime_id": "shaman-king-flowers",
