@@ -112,6 +112,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram",
+    "title": "انمي Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram مترجم اون لاين",
+    "poster": "data/posters/fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
+  },
+  {
     "id": "super-no-ura-de-yani-suu-futari",
     "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
