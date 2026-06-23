@@ -90,6 +90,48 @@
     return card;
   }
 
+  /* ─── Genres ─── */
+  var _allAnimesData = null;
+
+  window.filterByGenre = function(genre) {
+    document.querySelectorAll('#homeGenreTags .genre-tag').forEach(t => t.classList.remove('active'));
+    var target = document.querySelector('#homeGenreTags .genre-tag[data-genre="' + genre + '"]');
+    if (target) target.classList.add('active');
+    else document.querySelector('#homeGenreTags .genre-tag:first-child').classList.add('active');
+
+    var grid = document.getElementById('genreGrid');
+    if (genre === 'all') { grid.style.display = 'none'; return; }
+    grid.innerHTML = '';
+    grid.style.display = 'grid';
+    var filtered = _allAnimesData.filter(function(a) {
+      return a.genres && a.genres.indexOf(genre) !== -1;
+    });
+    if (filtered.length === 0) { grid.style.display = 'none'; return; }
+    filtered.forEach(function(item) {
+      grid.appendChild(renderCard(item, 'pages/anime.html?id=' + item.id));
+    });
+  };
+
+  window.loadGenres = async function() {
+    var data = await fetchJSON(DATA_BASE + '/all-animes.json');
+    if (!data) return;
+    _allAnimesData = data;
+    var genreSet = {};
+    data.forEach(function(a) {
+      if (a.genres) a.genres.forEach(function(g) { genreSet[g] = true; });
+    });
+    var sorted = Object.keys(genreSet).sort();
+    var container = document.getElementById('homeGenreTags');
+    sorted.forEach(function(g) {
+      var span = document.createElement('span');
+      span.className = 'genre-tag';
+      span.textContent = g;
+      span.setAttribute('data-genre', g);
+      span.onclick = function() { filterByGenre(g); };
+      container.appendChild(span);
+    });
+  };
+
   /* ─── Home page ─── */
   window.loadData = async function() {
     const [latest, popular] = await Promise.all([
@@ -112,6 +154,15 @@
         popularGrid.appendChild(card);
       });
     }
+
+    loadGenres().then(function() {
+      var params = new URLSearchParams(window.location.search);
+      var genreParam = params.get('genre');
+      if (genreParam) {
+        var tag = document.querySelector('#homeGenreTags .genre-tag[data-genre="' + genreParam + '"]');
+        if (tag) tag.click();
+      }
+    });
   };
 
   /* ─── Anime detail page ─── */
@@ -140,6 +191,11 @@
       const span = document.createElement('span');
       span.className = 'genre-tag';
       span.textContent = g;
+      span.style.cursor = 'pointer';
+      span.onclick = function(e) {
+        e.stopPropagation();
+        window.location.href = '../index.html?genre=' + encodeURIComponent(g);
+      };
       genreContainer.appendChild(span);
     });
 

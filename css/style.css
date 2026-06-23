@@ -463,6 +463,16 @@ img { max-width: 100%; height: auto; display: block; }
   color: #fff;
 }
 
+.genre-tag.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+.genres-section .anime-grid {
+  margin-top: 20px;
+}
+
 .story-box {
   background: var(--bg-elevated);
   border-radius: var(--radius);
