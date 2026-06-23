@@ -3,14 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ون بيس 1122 - AnimeLek</title>
+  <title>AnimeLek</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-
-  <!-- Header -->
   <header class="header">
     <div class="container header-inner">
       <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
@@ -21,137 +19,52 @@
       </nav>
       <div class="search-box">
         <span class="icon">🔍</span>
-        <input type="text" placeholder="ابحث عن انمي...">
+        <input type="text" placeholder="ابحث عن انمي..." onkeydown="if(event.key==='Enter') searchAnime(this.value)">
       </div>
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
     </div>
   </header>
 
-  <!-- Watch Page -->
   <div class="watch-page">
     <div class="container">
+      <div id="breadcrumb" style="padding:16px 0;font-size:.85rem;color:var(--text-muted);display:flex;gap:8px;align-items:center;"></div>
+      <h1 id="epTitle" style="font-size:1.1rem;font-weight:700;margin-bottom:4px;"></h1>
+      <p id="epDate" style="font-size:.82rem;color:var(--text-muted);margin-bottom:16px;"></p>
 
-      <!-- Breadcrumb -->
-      <div style="padding:16px 0;font-size:.85rem;color:var(--text-muted);display:flex;gap:8px;align-items:center;">
-        <a href="../index.html">الرئيسية</a>
-        <span>/</span>
-        <a href="anime.html">ون بيس</a>
-        <span>/</span>
-        <span style="color:var(--text);font-weight:600;">الحلقة 1122</span>
-      </div>
-
-      <!-- Episode Title -->
-      <h1 style="font-size:1.1rem;font-weight:700;margin-bottom:4px;">ون بيس - الحلقة 1122</h1>
-      <p style="font-size:.82rem;color:var(--text-muted);margin-bottom:16px;">📅 أضيفت في 22 يونيو, 2026</p>
-
-      <!-- Player -->
-      <div class="player-wrapper" id="playerWrapper">
+      <div class="player-wrapper">
         <div class="player-placeholder" id="playerPlaceholder">
-          <img src="https://placehold.co/1280x720/1e293b/64748b?text=One+Piece+1122" alt="">
+          <img src="https://placehold.co/1280x720/1e293b/64748b?text=اختر+سيرفر" alt="">
           <div class="big-play">▶</div>
           <span style="font-size:.9rem;z-index:1;">اختر سيرفر للمشاهدة</span>
         </div>
         <iframe id="playerIframe" style="display:none;" allowfullscreen></iframe>
       </div>
 
-      <!-- Servers -->
-      <div style="margin-bottom:8px;">
-        <h3 style="font-size:.95rem;font-weight:600;margin-bottom:12px;">🖥 اختر السيرفر</h3>
-        <div class="server-tabs" id="serverTabs">
-          <!-- Rendered by JS -->
-        </div>
+      <h3 style="font-size:.95rem;font-weight:600;margin-bottom:12px;">🖥 اختر السيرفر</h3>
+      <div class="server-tabs" id="serverTabs"></div>
+
+      <div style="display:flex;gap:12px;margin:20px 0;flex-wrap:wrap;" id="navButtons"></div>
+
+      <h2 class="section-title" style="margin-bottom:16px;">📥 روابط التحميل</h2>
+      <div style="overflow-x:auto;">
+        <table class="download-table">
+          <thead><tr><th>السيرفر</th><th>الجودة</th><th>اللغة</th><th></th></tr></thead>
+          <tbody id="downloadBody"></tbody>
+        </table>
       </div>
-
-      <!-- Date info -->
-      <p style="font-size:.8rem;color:var(--text-muted);margin-bottom:8px;">
-        تاريخ الإضافة: <strong>22 يونيو, 2026</strong>
-      </p>
-
-      <!-- Nav Buttons -->
-      <div style="display:flex;gap:12px;margin-bottom:32px;flex-wrap:wrap;">
-        <a href="anime.html" style="display:inline-flex;align-items:center;gap:6px;padding:10px 24px;border-radius:10px;border:1px solid var(--border);color:var(--text);font-size:.85rem;font-weight:500;transition:all var(--transition);">← الحلقات</a>
-        <a href="watch.html" style="display:inline-flex;align-items:center;gap:6px;padding:10px 24px;border-radius:10px;background:var(--bg-elevated);border:1px solid var(--border);color:var(--text);font-size:.85rem;font-weight:500;transition:all var(--transition);">▶ الحلقة التالية</a>
-      </div>
-
-      <!-- Downloads -->
-      <section style="margin-bottom:40px;">
-        <h2 class="section-title" style="margin-bottom:16px;">📥 روابط التحميل</h2>
-        <div style="overflow-x:auto;">
-          <table class="download-table" id="downloadTable">
-            <thead>
-              <tr>
-                <th>السيرفر</th>
-                <th>الجودة</th>
-                <th>اللغة</th>
-                <th></th>
-              </tr>
-            </thead>
-            <tbody id="downloadBody">
-              <!-- Rendered by JS -->
-            </tbody>
-          </table>
-        </div>
-      </section>
-
     </div>
   </div>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container"><p>AnimeLek © 2026</p></div>
   </footer>
 
   <script src="../js/main.js"></script>
   <script>
-    (function() {
-      const servers = [
-        'Mega HD','Mega 720p','Mega 1080p','Mp4upload','Gofile',
-        'MegaMax 480p','MegaMax 720p','MegaMax 1080p',
-        'Streamtape','Vidmoly','Vidguard','Uqload','Doodstream'
-      ];
-      const tabsContainer = document.getElementById('serverTabs');
-      servers.forEach((s, i) => {
-        const btn = document.createElement('button');
-        btn.className = 'server-tab' + (i === 0 ? ' active' : '');
-        btn.textContent = s;
-        btn.onclick = function() {
-          document.querySelectorAll('.server-tab').forEach(el => el.classList.remove('active'));
-          this.classList.add('active');
-          const placeholder = document.getElementById('playerPlaceholder');
-          const iframe = document.getElementById('playerIframe');
-          placeholder.style.display = 'none';
-          iframe.style.display = 'block';
-          iframe.src = 'https://www.youtube-nocookie.com/embed/dQw4w9WgXcQ?autoplay=1';
-        };
-        tabsContainer.appendChild(btn);
-      });
-
-      const downloads = [
-        { server: 'Mega', quality: '480p', lang: 'مترجم', url: '#' },
-        { server: 'Mp4upload', quality: '480p', lang: 'مترجم', url: '#' },
-        { server: 'Gofile', quality: '480p', lang: 'مترجم', url: '#' },
-        { server: 'MegaMax', quality: '720p', lang: 'مترجم', url: '#' },
-        { server: 'Mega', quality: '720p', lang: 'مترجم', url: '#' },
-        { server: 'Mp4upload', quality: '720p', lang: 'مترجم', url: '#' },
-        { server: 'Gofile', quality: '720p', lang: 'مترجم', url: '#' },
-        { server: 'MegaMax', quality: '1080p', lang: 'مترجم', url: '#' },
-        { server: 'Mega', quality: '1080p', lang: 'مترجم', url: '#' },
-        { server: 'Mp4upload', quality: '1080p', lang: 'مترجم', url: '#' },
-        { server: 'Gofile', quality: '1080p', lang: 'مترجم', url: '#' },
-      ];
-      const tbody = document.getElementById('downloadBody');
-      downloads.forEach(dl => {
-        const qClass = dl.quality === '1080p' ? 'fhd' : dl.quality === '720p' ? 'hd' : 'sd';
-        const tr = document.createElement('tr');
-        tr.innerHTML = `
-          <td style="font-weight:600;">${dl.server}</td>
-          <td><span class="quality-badge ${qClass}">${dl.quality}</span></td>
-          <td><span class="lang-badge">${dl.lang}</span></td>
-          <td style="text-align:end;"><button class="dl-btn">⬇ تحميل</button></td>
-        `;
-        tbody.appendChild(tr);
-      });
-    })();
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    const ep = params.get('ep');
+    if (id && ep) loadEpisode(id, ep);
   </script>
 </body>
 </html>

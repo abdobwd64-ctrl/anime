@@ -3,14 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ون بيس - AnimeLek</title>
+  <title>AnimeLek</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
-
-  <!-- Header -->
   <header class="header">
     <div class="container header-inner">
       <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
@@ -21,87 +19,45 @@
       </nav>
       <div class="search-box">
         <span class="icon">🔍</span>
-        <input type="text" placeholder="ابحث عن انمي...">
+        <input type="text" placeholder="ابحث عن انمي..." id="searchInput" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
       </div>
       <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
     </div>
   </header>
 
-  <!-- Detail Hero -->
-  <div class="anime-detail-hero">
-    <div class="backdrop">
-      <img src="https://placehold.co/1280x720/1e293b/94a3b8?text=One+Piece" alt="">
-    </div>
+  <div class="anime-detail-hero" id="animeHero">
+    <div class="backdrop"><img id="backdropImg" src="" alt=""></div>
     <div class="container">
       <div class="detail-layout">
-        <!-- Poster -->
-        <div class="detail-poster">
-          <img src="https://placehold.co/400x560/7c3aed/fff?text=One+Piece" alt="ون بيس">
-        </div>
-        <!-- Info -->
+        <div class="detail-poster"><img id="posterImg" src="" alt=""></div>
         <div class="detail-info">
-          <h1>ون بيس <span style="font-weight:400;font-size:1rem;color:var(--text-muted)">One Piece</span></h1>
-          <div class="detail-meta">
-            <div class="item"><span class="label">الحالة</span> <span class="value">مستمر</span></div>
-            <div class="item"><span class="label">النوع</span> <span class="value">أنمي</span></div>
-            <div class="item"><span class="label">عدد الحلقات</span> <span class="value">1122+</span></div>
-            <div class="item"><span class="label">تاريخ البداية</span> <span class="value">1999-10-20</span></div>
-            <div class="item"><span class="label">الموسم</span> <span class="value">صيف 1999</span></div>
-            <div class="item"><span class="label">التصنيف</span> <span class="value">غير محدد</span></div>
-          </div>
-          <div class="genre-tags">
-            <span class="genre-tag">أكشن</span>
-            <span class="genre-tag">مغامرة</span>
-            <span class="genre-tag">كوميديا</span>
-            <span class="genre-tag">دراما</span>
-            <span class="genre-tag">خيال</span>
-            <span class="genre-tag">شونين</span>
-          </div>
-          <div class="story-box">
-            <strong>القصة:</strong><br>
-            منذ وفاة غولد دي روجر، انطلقت موجة قرصنة جديدة. مونكي دي لوفي، فتى صغير يملك قوة المطاط، يحلم بأن يصبح ملك القراصنة. ينطلق في رحلة عبر المحيطات لجمع طاقم قوي والعثور على الكنز الأسطوري "ون بيس".
-          </div>
+          <h1 id="animeTitle"></h1>
+          <div class="detail-meta" id="metaContainer"></div>
+          <div class="genre-tags" id="genreContainer"></div>
+          <div class="story-box" id="storyBox"></div>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- Episodes Section -->
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">📺 الحلقات <span class="badge">1122</span></h2>
+        <h2 class="section-title">📺 الحلقات <span class="badge" id="epCount"></span></h2>
       </div>
-      <div class="episodes-grid" id="episodesList">
-        <!-- Rendered by JS -->
-      </div>
+      <div class="episodes-grid" id="episodesList"></div>
     </div>
   </section>
 
-  <!-- Footer -->
   <footer class="footer">
     <div class="container"><p>AnimeLek © 2026</p></div>
   </footer>
 
   <script src="../js/main.js"></script>
   <script>
-    (function() {
-      const list = document.getElementById('episodesList');
-      for (let i = 1122; i >= 1100; i--) {
-        const div = document.createElement('div');
-        div.className = 'episode-item';
-        div.onclick = function() { window.location.href = 'watch.html'; };
-        div.innerHTML = `
-          <div class="num">${i}</div>
-          <div class="info">
-            <div class="title">ون بيس - الحلقة ${i}</div>
-            <div class="date">أضيفت في ${Math.floor(Math.random() * 28) + 1} يونيو, 2026</div>
-          </div>
-          <button class="action">▶</button>
-        `;
-        list.appendChild(div);
-      }
-    })();
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    if (id) loadAnime(id);
   </script>
 </body>
 </html>
