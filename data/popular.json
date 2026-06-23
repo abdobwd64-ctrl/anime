@@ -29,6 +29,20 @@
     "score": 16
   },
   {
+    "id": "shaman-king-flowers",
+    "title": "انمي Shaman King: Flowers مترجم اون لاين",
+    "poster": "data/posters/shaman-king-flowers.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "score": 14
+  },
+  {
     "id": "kill-ao",
     "title": "انمي Kill Ao مترجم اون لاين",
     "poster": "data/posters/kill-ao.webp",
@@ -53,20 +67,6 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
-    "score": 13
-  },
-  {
-    "id": "shaman-king-flowers",
-    "title": "انمي Shaman King: Flowers مترجم اون لاين",
-    "poster": "data/posters/shaman-king-flowers.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
     "score": 13
   },
   {

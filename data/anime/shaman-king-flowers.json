@@ -1088,7 +1088,114 @@
           "url": "https://mega.nz/#!U2MU2TDQ!OUinpZv44Q1lsG8RxlCPP309Jxcz6EoHBJKdkK4doxg"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Shaman King: Flowers",
+      "date": "23 يناير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ieuWAJSZeplXq"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ieuWAJSZeplXq"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/ieuWAJSZeplXq"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-yhn4swltltiu.html"
+        },
+        {
+          "name": "uqload io | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-abuuw95xa9w4.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-tcb9olx9q72b.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/lLsXCDJL!AQJ_IQApRyZW0GNjEMOOx44cvft0Dn9aLdgz_qhwTSU"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-2yi4rtsoen03.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/xPcXlRTa!oHJtrGCDhvP40e-QDaqGhRfMFsrzDPc-9vYcumgTKWw"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-wl2y84nc403x.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0eEHQJ7b!ToRweJBMewcmU3SvYytnsw2vD66zfkkTkZbVTNs5FsY"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/x0j4qcsvgr41"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wl2y84nc403x"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0eEHQJ7b!ToRweJBMewcmU3SvYytnsw2vD66zfkkTkZbVTNs5FsY"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/zkb4vxgkg9p7"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tcb9olx9q72b"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!lLsXCDJL!AQJ_IQApRyZW0GNjEMOOx44cvft0Dn9aLdgz_qhwTSU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2yi4rtsoen03"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/2y0mnp16zvhu"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!xPcXlRTa!oHJtrGCDhvP40e-QDaqGhRfMFsrzDPc-9vYcumgTKWw"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:14:25.493751"
+  "last_updated": "2026-06-23T16:14:38.593482"
 }
