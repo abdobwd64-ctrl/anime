@@ -1602,7 +1602,136 @@
           "url": "https://www.mp4upload.com/pclqqwkrftye"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Kami no Shizuku",
+      "date": "10 أبريل, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/LDSvLoNhcjObG"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/C05RDQZQ#lXjGIkI7uwYBFDSHTKDqPe5TtlWP8qwFQFYj_6ppuQw"
+        },
+        {
+          "name": "larhu website | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=uqkpa6uxmrve"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/0gfw81sshmuu"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=deuNvIssTr99LW0l"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456239840&hash=c1f0545d1cba977e&hd=4&autoplay=1"
+        },
+        {
+          "name": "dsvplay | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/t3xk9qmxlw7l"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-w26hhk2d30wa.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/moQBjLIY#N2KyEi6WBAuuFlbFCqUv07InVrf5rCD-F7nkHV6anz8"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-ftdrd8h3fl4m.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/q4hQ0AIJ#Yr33Co6ZQK031YstW-5pLQTX8BlS9SbeN6HAAP_EcVA"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-rdztqwhyh4ex.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!q4hQ0AIJ!Yr33Co6ZQK031YstW-5pLQTX8BlS9SbeN6HAAP_EcVA"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/IuTkMg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rdztqwhyh4ex"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!C05RDQZQ!lXjGIkI7uwYBFDSHTKDqPe5TtlWP8qwFQFYj_6ppuQw"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/0gfw81sshmuu"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/lnFQ2V"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/w26hhk2d30wa"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/t3xk9qmxlw7l"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/LDSvLoNhcjObG"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!moQBjLIY!N2KyEi6WBAuuFlbFCqUv07InVrf5rCD-F7nkHV6anz8"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/DUcYjf"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ftdrd8h3fl4m"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:03:52.248556"
+  "last_updated": "2026-06-23T21:04:02.638052"
 }
