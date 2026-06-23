@@ -83,11 +83,37 @@
     "score": 13
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 12
+  },
+  {
     "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
     "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
     "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
     "genres": [
       "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 12
+  },
+  {
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -109,32 +135,6 @@
     "score": 12
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 11
-  },
-  {
-    "id": "blue-period",
-    "title": "انمي Blue Period مترجم اون لاين",
-    "poster": "data/posters/blue-period.webp",
-    "genres": [
-      "دراما",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 11
-  },
-  {
     "id": "blue-lock",
     "title": "انمي Blue Lock مترجم اون لاين",
     "poster": "data/posters/blue-lock.webp",
@@ -145,7 +145,7 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "score": 10
+    "score": 11
   },
   {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
@@ -240,6 +240,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 5
+  },
+  {
+    "id": "black-clover-mahou-tei-no-ken",
+    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
+    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "score": 4
   },
   {
     "id": "isekai-quartet-movie-another-world",
