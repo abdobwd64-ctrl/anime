@@ -42,6 +42,13 @@
     "date": "28 سبتمبر, 2022"
   },
   {
+    "anime_id": "meikyuu-black-company",
+    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "anime_poster": "data/posters/meikyuu-black-company.webp",
+    "episode": "8",
+    "date": "28 أغسطس, 2021"
+  },
+  {
     "anime_id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "anime_title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "anime_poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -145,13 +152,6 @@
     "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
     "episode": "8",
     "date": "19 نوفمبر, 2025"
-  },
-  {
-    "anime_id": "meikyuu-black-company",
-    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "anime_poster": "data/posters/meikyuu-black-company.webp",
-    "episode": "11",
-    "date": "18 سبتمبر, 2021"
   },
   {
     "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
