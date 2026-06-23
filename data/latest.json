@@ -133,6 +133,13 @@
     "date": "12 نوفمبر, 2025"
   },
   {
+    "anime_id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+    "anime_title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
+    "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
+    "episode": "14",
+    "date": "11 يونيو, 2026"
+  },
+  {
     "anime_id": "beastars-final-season-part-2",
     "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
     "anime_poster": "data/posters/beastars-final-season-part-2.webp",
@@ -194,5 +201,12 @@
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
     "episode": "7",
     "date": "04 يونيو, 2026"
+  },
+  {
+    "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
+    "anime_title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
+    "anime_poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
+    "episode": "9",
+    "date": "02 مارس, 2026"
   }
 ]

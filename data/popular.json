@@ -105,7 +105,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 10
+    "score": 11
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -124,6 +124,20 @@
     "score": 7
   },
   {
+    "id": "osananajimi-to-wa-love-comedy-ni-naranai",
+    "title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
+    "poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 6
+  },
+  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -137,7 +151,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
-    "score": 5
+    "score": 6
   },
   {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
@@ -152,20 +166,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
-    "score": 4
-  },
-  {
-    "id": "osananajimi-to-wa-love-comedy-ni-naranai",
-    "title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
-    "poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 4
   }
 ]
