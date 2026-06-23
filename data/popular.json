@@ -56,18 +56,6 @@
     "score": 13
   },
   {
-    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
-    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
-    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
-  },
-  {
     "id": "shaman-king-flowers",
     "title": "انمي Shaman King: Flowers مترجم اون لاين",
     "poster": "data/posters/shaman-king-flowers.webp",
@@ -79,6 +67,18 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "13",
+    "score": 13
+  },
+  {
+    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
+    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
+    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
     "score": 12
   },
   {
