@@ -1,5 +1,37 @@
 [
   {
+    "id": "beastars-final-season-part-2",
+    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/beastars-final-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2026",
+    "score": 14
+  },
+  {
+    "id": "one-punch-man-3",
+    "title": "انمي One Punch Man 3 مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-3.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025",
+    "score": 14
+  },
+  {
     "id": "let-s-play-quest-darake-no-my-life",
     "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -43,38 +75,6 @@
     "score": 14
   },
   {
-    "id": "beastars-final-season-part-2",
-    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
-    "poster": "data/posters/beastars-final-season-part-2.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "نفسي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 13
-  },
-  {
-    "id": "one-punch-man-3",
-    "title": "انمي One Punch Man 3 مترجم اون لاين",
-    "poster": "data/posters/one-punch-man-3.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "كوميدي",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2025",
-    "score": 13
-  },
-  {
     "id": "sousei-no-aquarion-myth-of-emotions",
     "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -87,7 +87,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 9
+    "score": 10
   },
   {
     "id": "yojouhan-time-machine-blues",
