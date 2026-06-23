@@ -646,7 +646,106 @@
           "url": "https://dsvplay.com/d/wvttc8t7xc7n"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Super no Ura de Yani Suu Futari",
+      "date": "04 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/O64smnc2SyxHa"
+        },
+        {
+          "name": "larhu website | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=vzq9hvgfyeao"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/r75FATrB#o2m-I_FKy0wboDlQo7-ecZsSzv4QM2nfDgfQl_aiIDA"
+        },
+        {
+          "name": "videa hu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=kZ35ioCppuQuNh4J"
+        },
+        {
+          "name": "vkvideo ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456240055&hash=53507da1ca19f486&hd=3"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/msinypfedi9c"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-yozgy69lavmi.html"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/oxg95267zp0m"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-fs1trojfug35.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/O64smnc2SyxHa"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/O64smnc2SyxHa"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!r75FATrB!o2m-I_FKy0wboDlQo7-ecZsSzv4QM2nfDgfQl_aiIDA"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/7i0u8io7tlmg"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/msinypfedi9c"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/p2zcoz"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/fs1trojfug35"
+        },
+        {
+          "server": "uqload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uqload.is/yozgy69lavmi.html"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/oxg95267zp0m"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:03:14.507650"
+  "last_updated": "2026-06-23T21:03:23.409459"
 }
