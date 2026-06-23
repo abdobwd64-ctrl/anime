@@ -1,0 +1,103 @@
+{
+  "id": "dandelion",
+  "title": "انمي Dandelion مترجم اون لاين",
+  "url": "https://animelek.top/anime/dandelion/",
+  "poster": "data/posters/dandelion.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "7",
+  "start_date": "2026",
+  "season": "ربيع 2026",
+  "genres": [
+    "كوميدي"
+  ],
+  "story": "قصة انمي Dandelion تدور داخل قسم “إرسال الأرواح” في اتحاد الملائكة الياباني، حيث يتولى الملاك تيتسو تامبا ومساعدته ميساكي كوروغانه مهمة تعقّب الأرواح العالقة في الأرض—تلك التي لم تتمكن من الرحيل بسلام—ومساعدتها على العبور. ورغم صعوبة مهامهم اليومية، يختار تيتسو وقائدته ميساكي، من فرقة “دانديليون” التابعة للقسم الحادي والعشرين، العمل بطريقتهم الخاصة؛ فبدل التسرع، يمنحون كل روح الوقت الكافي للاستماع إلى ندمها ومساعدتها على تجاوز ما يعيقها. وفي أحد الأيام، يصادفون روح رجل مسن يركض بأقصى سرعته، وكأنه يحاول الهروب من شيء ما… لتبدأ قصة جديدة مليئة بالمشاعر والغموض.",
+  "episodes": [
+    {
+      "number": "7",
+      "title": "الأونا 7Dandelion",
+      "date": "17 أبريل, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/RacNxGW9yBhcI"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/nWBkxSSZ#GR_4hbCqvEcLpC_bTqJicNmjQ8J2KIPAa4c7gADXkKs"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/zq31lvrhepwv"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/laxy50ru8hti"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-wr90nss13glp.html"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-zu03xpghx1nu.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-tn23yui2jgpr.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nWBkxSSZ!GR_4hbCqvEcLpC_bTqJicNmjQ8J2KIPAa4c7gADXkKs"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/RacNxGW9yBhcI"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/RacNxGW9yBhcI"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/zu03xpghx1nu"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/zq31lvrhepwv"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/F4uh39"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tn23yui2jgpr"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/laxy50ru8hti"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-23T16:57:39.178991"
+}

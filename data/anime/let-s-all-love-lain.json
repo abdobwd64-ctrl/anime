@@ -2,7 +2,7 @@
   "id": "let-s-all-love-lain",
   "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
   "url": "https://animelek.top/anime/let-s-all-love-lain/",
-  "poster": "https://animelek.top/uploads/posters/poster-LET-S-ALL-LOVE-LAIN-645eb2f4d4bac.jpg?1.0.38",
+  "poster": "data/posters/let-s-all-love-lain.webp",
   "status": "مكتمل",
   "type": "فيلم",
   "episodes_count": "1",
@@ -271,5 +271,5 @@
       ]
     }
   ],
-  "last_updated": "2026-06-23T09:37:29.847642"
+  "last_updated": "2026-06-23T16:32:58.066763"
 }
