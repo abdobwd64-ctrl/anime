@@ -129,6 +129,49 @@ class ScraperEngine:
                 self.failed += 1
                 self.message = f'فشل: {anime["name"][:30]} - {str(e)[:60]}'
             time.sleep(DELAY)
+            if i % 5 == 0:
+                self._push_incremental(i, self.done + self.failed)
+
+    def _push_incremental(self, count, done):
+        if not self.gh_token:
+            return
+        self.message = f'🔄 رفع {done} أنمي إلى GitHub...'
+        headers = {'Authorization': f'token {self.gh_token}', 'Accept': 'application/vnd.github.v3+json'}
+        api = 'https://api.github.com'
+        repo = 'abdobwd64-ctrl/anime'
+        branch = 'main'
+
+        try:
+            ref = requests.get(f'{api}/repos/{repo}/git/refs/heads/{branch}', headers=headers).json()
+            latest = ref['object']['sha']
+            base = requests.get(f'{api}/repos/{repo}/git/commits/{latest}', headers=headers).json()['tree']['sha']
+
+            files = {}
+            for root, dirs, fs in os.walk(DATA):
+                for fn in fs:
+                    full = os.path.join(root, fn)
+                    rel = os.path.relpath(full, DIR).replace('\\', '/')
+                    with open(full, 'rb') as f:
+                        files[rel] = f.read().decode('utf-8')
+
+            blobs = []
+            for path, content in files.items():
+                r = requests.post(f'{api}/repos/{repo}/git/blobs',
+                    headers=headers, json={'content': content, 'encoding': 'utf-8'}).json()
+                blobs.append({'path': path, 'sha': r['sha'], 'mode': '100644', 'type': 'blob'})
+
+            tree = requests.post(f'{api}/repos/{repo}/git/trees',
+                headers=headers, json={'base_tree': base, 'tree': blobs}).json()
+            now = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+            cm = requests.post(f'{api}/repos/{repo}/git/commits',
+                headers=headers, json={
+                    'message': f'📊 تحديث تدريجي ({done} أنمي) — {now}',
+                    'tree': tree['sha'], 'parents': [latest],
+                }).json()
+            requests.patch(f'{api}/repos/{repo}/git/refs/heads/{branch}',
+                headers=headers, json={'sha': cm['sha'], 'force': False})
+        except:
+            pass
 
     def _scrape_one(self, anime):
         url = anime['url']
