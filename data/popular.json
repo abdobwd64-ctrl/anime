@@ -56,23 +56,7 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "شتاء 2026",
-    "score": 7
-  },
-  {
-    "id": "yojouhan-time-machine-blues",
-    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
-    "poster": "data/posters/yojouhan-time-machine-blues.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "كوميدي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "6",
-    "season": "شتاء 2022",
-    "score": 7
+    "score": 8
   },
   {
     "id": "one-punch-man-3",
@@ -88,6 +72,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025",
+    "score": 8
+  },
+  {
+    "id": "yojouhan-time-machine-blues",
+    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "شتاء 2022",
     "score": 7
   },
   {
