@@ -826,6 +826,109 @@
           "url": "https://uptobox.com/pkixq0kj88zi"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Val x Love",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1266673912538"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1r0OMpsXO7tKDD8sOZ3f4ct5Yek2oiI0r/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/KpMX2XzjdK5W5"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!9pphXDyY!xd02YWb3i0uO1_NjGvoP7uqh8N-9VjVfTWziwTXqwg4"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/xgypr20fcoez"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1266675092186"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1OYZni5XHqA-RvgJBLHIcP0p4QimDEssx/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1OYZni5XHqA-RvgJBLHIcP0p4QimDEssx&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0xh1WLaD!e02HEqY36jKJ3ivi6m2GhArbH_wnoT1rVXTgMIV0BAk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/x1it3cju8l1e"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/il1jas7tcwf5"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ffv0b44mrllr"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1r0OMpsXO7tKDD8sOZ3f4ct5Yek2oiI0r&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9pphXDyY!xd02YWb3i0uO1_NjGvoP7uqh8N-9VjVfTWziwTXqwg4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/d0xhrzljlyt3"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/xgypr20fcoez"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/u4b211xso9ch"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/KpMX2XzjdK5W5"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-23T09:46:26.967642"
