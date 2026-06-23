@@ -105,7 +105,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 8
+    "score": 10
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -122,6 +122,22 @@
     "episodes_count": "6",
     "season": "شتاء 2022",
     "score": 7
+  },
+  {
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
+    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "نفسي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2026",
+    "score": 5
   },
   {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
@@ -150,6 +166,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 3
+    "score": 4
   }
 ]
