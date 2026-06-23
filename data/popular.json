@@ -56,7 +56,7 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "شتاء 2026",
-    "score": 12
+    "score": 13
   },
   {
     "id": "one-punch-man-3",
@@ -72,7 +72,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025",
-    "score": 12
+    "score": 13
+  },
+  {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 9
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -88,21 +103,6 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022",
-    "score": 7
-  },
-  {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
     "score": 7
   },
   {

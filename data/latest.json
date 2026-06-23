@@ -35,18 +35,18 @@
     "date": "28 سبتمبر, 2022"
   },
   {
-    "anime_id": "sousei-no-aquarion-myth-of-emotions",
-    "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "episode": "12",
-    "date": "27 مارس, 2025"
-  },
-  {
     "anime_id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "anime_title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "anime_poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
     "episode": "1",
     "date": "27 مارس, 2024"
+  },
+  {
+    "anime_id": "sousei-no-aquarion-myth-of-emotions",
+    "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "episode": "8",
+    "date": "27 فبراير, 2025"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
@@ -73,8 +73,8 @@
     "anime_id": "sousei-no-aquarion-myth-of-emotions",
     "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "episode": "11",
-    "date": "20 مارس, 2025"
+    "episode": "7",
+    "date": "20 فبراير, 2025"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
