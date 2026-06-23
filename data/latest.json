@@ -35,6 +35,13 @@
     "date": "20 يونيو, 2026"
   },
   {
+    "anime_id": "kill-ao",
+    "anime_title": "انمي Kill Ao مترجم اون لاين",
+    "anime_poster": "data/posters/kill-ao.webp",
+    "episode": "10",
+    "date": "13 يونيو, 2026"
+  },
+  {
     "anime_id": "fragtime",
     "anime_title": "انمي Fragtime مترجم اون لاين",
     "anime_poster": "data/posters/fragtime.webp",
