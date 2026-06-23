@@ -15,7 +15,55 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
-    "score": 418
+    "score": 937
+  },
+  {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "score": 420
+  },
+  {
+    "id": "boruto-naruto-next-generations",
+    "title": "انمي Boruto: Naruto Next Generations مترجم اون لاين",
+    "poster": "data/posters/boruto-naruto-next-generations.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 185
+  },
+  {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "score": 114
   },
   {
     "id": "dragon-quest-dai-no-daibouken-2020",
@@ -33,6 +81,22 @@
     "score": 104
   },
   {
+    "id": "world-trigger",
+    "title": "انمي World Trigger مترجم اون لاين",
+    "poster": "data/posters/world-trigger.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "73",
+    "score": 78
+  },
+  {
     "id": "hajime-no-ippo",
     "title": "انمي Hajime no Ippo مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo.webp",
@@ -45,6 +109,37 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "score": 76
+  },
+  {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "score": 57
+  },
+  {
+    "id": "ashita-no-joe-2",
+    "title": "انمي Ashita no Joe 2 مترجم اون لاين",
+    "poster": "data/posters/ashita-no-joe-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "score": 50
   },
   {
     "id": "great-teacher-onizuka",
@@ -78,6 +173,37 @@
     "score": 43
   },
   {
+    "id": "kingdom",
+    "title": "انمي Kingdom مترجم اون لاين",
+    "poster": "data/posters/kingdom.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "38",
+    "score": 42
+  },
+  {
+    "id": "digimon-beatbreak",
+    "title": "انمي Digimon Beatbreak مترجم اون لاين",
+    "poster": "data/posters/digimon-beatbreak.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 39
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -109,6 +235,52 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 31
+  },
+  {
+    "id": "kingdom-3rd-season",
+    "title": "انمي Kingdom 3rd Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 30
+  },
+  {
+    "id": "monogatari-series-second-season",
+    "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
+    "poster": "data/posters/monogatari-series-second-season.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "score": 30
+  },
+  {
+    "id": "code-geass-hangyaku-no-lelouch",
+    "title": "انمي Code Geass: Hangyaku no Lelouch مترجم اون لاين",
+    "poster": "data/posters/code-geass-hangyaku-no-lelouch.webp",
+    "genres": [
+      "حربي",
+      "خارق للعادة",
+      "دراما",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "score": 30
   },
   {
     "id": "bastard-ankoku-no-hakaishin-ona",
@@ -283,168 +455,5 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "score": 26
-  },
-  {
-    "id": "love-all-play",
-    "title": "انمي Love All Play مترجم اون لاين",
-    "poster": "data/posters/love-all-play.webp",
-    "genres": [
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 25
-  },
-  {
-    "id": "one-piece-gyojin-tou-hen",
-    "title": "انمي One Piece: Gyojin Tou-hen مترجم اون لاين",
-    "poster": "data/posters/one-piece-gyojin-tou-hen.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "21",
-    "score": 24
-  },
-  {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "score": 19
-  },
-  {
-    "id": "guimi-zhi-zhu-xiaochou-pian",
-    "title": "انمي Guimi Zhi Zhu: Xiaochou Pian مترجم اون لاين",
-    "poster": "data/posters/guimi-zhi-zhu-xiaochou-pian.webp",
-    "genres": [
-      "أكشن",
-      "غموض",
-      "خارق للعادة",
-      "فنتازيا",
-      "نفسي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "13",
-    "score": 19
-  },
-  {
-    "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet",
-    "title": "انمي Mobile Suit Gundam: The Origin - Advent of the Red Comet مترجم اون لاين",
-    "poster": "data/posters/mobile-suit-gundam-the-origin-advent-of-the-red-comet.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "شونين",
-      "خيال علمي",
-      "ميكا",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "score": 19
-  },
-  {
-    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
-    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
-    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "نفسي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "score": 19
-  },
-  {
-    "id": "bakemonogatari",
-    "title": "انمي Bakemonogatari مترجم اون لاين",
-    "poster": "data/posters/bakemonogatari.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "قوى خارقة",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "15",
-    "score": 19
-  },
-  {
-    "id": "mofa-gongzhu-de-xiao-fannao",
-    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
-    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "16",
-    "score": 18
-  },
-  {
-    "id": "sword-art-online-alicization-war-of-underworld",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "score": 18
-  },
-  {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 17
-  },
-  {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 17
   }
 ]

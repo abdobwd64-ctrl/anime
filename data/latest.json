@@ -21,11 +21,25 @@
     "date": "31 مايو, 2026"
   },
   {
+    "anime_id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "anime_title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "anime_poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "episode": "9",
+    "date": "31 مايو, 2025"
+  },
+  {
     "anime_id": "hibi-wa-sugiredo-meshi-umashi",
     "anime_title": "انمي Hibi wa Sugiredo Meshi Umashi مترجم اون لاين",
     "anime_poster": "data/posters/hibi-wa-sugiredo-meshi-umashi.webp",
     "episode": "8",
     "date": "31 مايو, 2025"
+  },
+  {
+    "anime_id": "kingdom-3rd-season",
+    "anime_title": "انمي Kingdom 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/kingdom-3rd-season.webp",
+    "episode": "9",
+    "date": "31 مايو, 2021"
   },
   {
     "anime_id": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-tv-special",
@@ -70,6 +84,13 @@
     "date": "31 أغسطس, 2025"
   },
   {
+    "anime_id": "kingdom-6th-season",
+    "anime_title": "انمي Kingdom 6th Season مترجم اون لاين",
+    "anime_poster": "data/posters/kingdom-6th-season.webp",
+    "episode": "9",
+    "date": "30 نوفمبر, 2025"
+  },
+  {
     "anime_id": "one-punch-man-3",
     "anime_title": "انمي One Punch Man 3 مترجم اون لاين",
     "anime_poster": "data/posters/one-punch-man-3.webp",
@@ -77,11 +98,32 @@
     "date": "30 نوفمبر, 2025"
   },
   {
+    "anime_id": "digimon-beatbreak",
+    "anime_title": "انمي Digimon Beatbreak مترجم اون لاين",
+    "anime_poster": "data/posters/digimon-beatbreak.webp",
+    "episode": "9",
+    "date": "30 نوفمبر, 2025"
+  },
+  {
+    "anime_id": "blue-lock-vs-u-20-japan",
+    "anime_title": "انمي Blue Lock vs. U-20 Japan مترجم اون لاين",
+    "anime_poster": "data/posters/blue-lock-vs-u-20-japan.webp",
+    "episode": "9",
+    "date": "30 نوفمبر, 2024"
+  },
+  {
     "anime_id": "ao-no-exorcist-yuki-no-hate-hen",
     "anime_title": "انمي Ao no Exorcist: Yuki no Hate-hen مترجم اون لاين",
     "anime_poster": "data/posters/ao-no-exorcist-yuki-no-hate-hen.webp",
     "episode": "9",
     "date": "30 نوفمبر, 2024"
+  },
+  {
+    "anime_id": "dr-stone-new-world-part-2",
+    "anime_title": "انمي Dr. Stone: New World Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/dr-stone-new-world-part-2.webp",
+    "episode": "8",
+    "date": "30 نوفمبر, 2023"
   },
   {
     "anime_id": "shoujo-kageki-revue-starlight",
@@ -95,6 +137,13 @@
     "anime_title": "انمي Kill Ao مترجم اون لاين",
     "anime_poster": "data/posters/kill-ao.webp",
     "episode": "8",
+    "date": "30 مايو, 2026"
+  },
+  {
+    "anime_id": "snowball-earth",
+    "anime_title": "انمي Snowball Earth مترجم اون لاين",
+    "anime_poster": "data/posters/snowball-earth.webp",
+    "episode": "9",
     "date": "30 مايو, 2026"
   },
   {
@@ -138,6 +187,13 @@
     "anime_poster": "data/posters/sono-bisque-doll-wa-koi-wo-suru-season-2.webp",
     "episode": "9",
     "date": "30 أغسطس, 2025"
+  },
+  {
+    "anime_id": "one-piece-dokuta-choppa-no-boken-karute-shinyu-tachi-no-kurosurodo",
+    "anime_title": "انمي One Piece: Dokuta Choppa no Boken Karute Shinyu tachi no Kurosurodo مترجم اون لاين",
+    "anime_poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-shinyu-tachi-no-kurosurodo.webp",
+    "episode": "1",
+    "date": "29 يونيو, 2025"
   },
   {
     "anime_id": "spy-x-family-season-3",
@@ -196,6 +252,13 @@
     "date": "29 مايو, 2026"
   },
   {
+    "anime_id": "kami-no-shizuku",
+    "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-shizuku.webp",
+    "episode": "8",
+    "date": "29 مايو, 2026"
+  },
+  {
     "anime_id": "yojouhan-time-machine-blues",
     "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -238,6 +301,13 @@
     "date": "29 أبريل, 2022"
   },
   {
+    "anime_id": "tensei-shitara-dragon-no-tamago-datta",
+    "anime_title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
+    "anime_poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
+    "episode": "3",
+    "date": "28 يناير, 2026"
+  },
+  {
     "anime_id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal",
     "anime_title": "انمي Shin Tennis no Oujisama: U-17 World Cup Semifinal مترجم اون لاين",
     "anime_poster": "data/posters/shin-tennis-no-oujisama-u-17-world-cup-semifinal.webp",
@@ -266,87 +336,17 @@
     "date": "28 مايو, 2026"
   },
   {
-    "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
-    "anime_title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 4th Season مترجم اون لاين",
-    "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-4th-season.webp",
-    "episode": "8",
-    "date": "28 مايو, 2026"
-  },
-  {
-    "anime_id": "kujima-utaeba-ie-hororo",
-    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "episode": "8",
-    "date": "28 مايو, 2026"
-  },
-  {
-    "anime_id": "otaku-ni-yasashii-gal-wa-inai",
-    "anime_title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
-    "anime_poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
-    "episode": "8",
-    "date": "28 مايو, 2026"
-  },
-  {
-    "anime_id": "world-dai-star",
-    "anime_title": "انمي World Dai Star مترجم اون لاين",
-    "anime_poster": "data/posters/world-dai-star.webp",
-    "episode": "8",
-    "date": "28 مايو, 2023"
-  },
-  {
-    "anime_id": "love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season",
-    "anime_title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season مترجم اون لاين",
-    "anime_poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season.webp",
+    "anime_id": "dr-stone-science-future-part-3",
+    "anime_title": "انمي Dr. Stone: Science Future Part 3 مترجم اون لاين",
+    "anime_poster": "data/posters/dr-stone-science-future-part-3.webp",
     "episode": "9",
-    "date": "28 مايو, 2022"
+    "date": "28 مايو, 2026"
   },
   {
-    "anime_id": "love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season",
-    "anime_title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai 2nd Season مترجم اون لاين",
-    "anime_poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai-2nd-season.webp",
-    "episode": "8",
-    "date": "28 مايو, 2022"
-  },
-  {
-    "anime_id": "love-all-play",
-    "anime_title": "انمي Love All Play مترجم اون لاين",
-    "anime_poster": "data/posters/love-all-play.webp",
+    "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
+    "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
     "episode": "9",
-    "date": "28 مايو, 2022"
-  },
-  {
-    "anime_id": "build-divide-code-white",
-    "anime_title": "انمي Build Divide: Code White مترجم اون لاين",
-    "anime_poster": "data/posters/build-divide-code-white.webp",
-    "episode": "8",
-    "date": "28 مايو, 2022"
-  },
-  {
-    "anime_id": "blue-reflection-ray",
-    "anime_title": "انمي Blue Reflection Ray مترجم اون لاين",
-    "anime_poster": "data/posters/blue-reflection-ray.webp",
-    "episode": "8",
-    "date": "28 مايو, 2021"
-  },
-  {
-    "anime_id": "yuusha-no-kuzu",
-    "anime_title": "انمي Yuusha no Kuzu مترجم اون لاين",
-    "anime_poster": "data/posters/yuusha-no-kuzu.webp",
-    "episode": "8",
-    "date": "28 فبراير, 2026"
-  },
-  {
-    "anime_id": "trigun-stargaze",
-    "anime_title": "انمي Trigun Stargaze مترجم اون لاين",
-    "anime_poster": "data/posters/trigun-stargaze.webp",
-    "episode": "8",
-    "date": "28 فبراير, 2026"
-  },
-  {
-    "anime_id": "yojouhan-time-machine-blues",
-    "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
-    "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
-    "episode": "2",
-    "date": "28 سبتمبر, 2022"
+    "date": "28 مايو, 2026"
   }
 ]
