@@ -178,7 +178,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 8
+    "score": 9
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -225,6 +225,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
+    "score": 4
+  },
+  {
+    "id": "black-clover-mahou-tei-no-ken",
+    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
+    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2023",
     "score": 4
   },
   {

@@ -196,6 +196,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "black-clover-mahou-tei-no-ken",
+    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
+    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
