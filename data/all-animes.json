@@ -14,6 +14,20 @@
     "season": "ربيع 2011"
   },
   {
+    "id": "one-piece-fan-letter",
+    "title": "انمي One Piece: Fan Letter مترجم اون لاين",
+    "poster": "data/posters/one-piece-fan-letter.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2024"
+  },
+  {
     "id": "beastars-final-season-part-2",
     "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
     "poster": "data/posters/beastars-final-season-part-2.webp",

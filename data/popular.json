@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 44
+    "score": 45
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -193,7 +193,7 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018",
-    "score": 9
+    "score": 10
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -240,6 +240,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
+    "score": 4
+  },
+  {
+    "id": "one-piece-fan-letter",
+    "title": "انمي One Piece: Fan Letter مترجم اون لاين",
+    "poster": "data/posters/one-piece-fan-letter.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2024",
     "score": 4
   },
   {
