@@ -601,7 +601,118 @@
           "url": "https://www.solidfiles.com/v/XBPQaMnyXxprj"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Ensemble Stars!",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1lpq16L3avc6wBWmC7Md6QZvZJvN-WJkK/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/By6YaPNRRRMY7"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!HG4ynAZR!qnOLqKLS6UuJXkRDq7Cq-9sWtHz6eAdySsE2esKcvzc"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/lkhxqyka27zi"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/18aG3OSXil8mxM8sGtCpT-Yd5-wvrN-Rs/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!XeQljAaI!7vCWaacnN-XF7Kk6nr6121AFc61Hv94fZ6tgqA77g-M"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=18aG3OSXil8mxM8sGtCpT-Yd5-wvrN-Rs&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!XeQljAaI!7vCWaacnN-XF7Kk6nr6121AFc61Hv94fZ6tgqA77g-M"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xa38s6lm65wv"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/7Ib_jFJvNQM/%5BAnime4up.com%5D_ES_EP_07_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/uficelh591lp"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/wnl938067d6x"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1lpq16L3avc6wBWmC7Md6QZvZJvN-WJkK&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!HG4ynAZR!qnOLqKLS6UuJXkRDq7Cq-9sWtHz6eAdySsE2esKcvzc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wguer5g4eibc"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ojDAk-2KM1Q/%5BAnime4up.com%5D_ES_EP_07_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/lkhxqyka27zi"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/mjwx1rxxuk0q"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/By6YaPNRRRMY7"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:23:17.604331"
+  "last_updated": "2026-06-23T16:23:43.623419"
 }
