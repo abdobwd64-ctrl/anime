@@ -42,5 +42,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 6
+  },
+  {
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 3
   }
 ]
