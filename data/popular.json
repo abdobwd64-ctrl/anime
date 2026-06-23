@@ -105,23 +105,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 12
-  },
-  {
-    "id": "yojouhan-time-machine-blues",
-    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
-    "poster": "data/posters/yojouhan-time-machine-blues.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "كوميدي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "6",
-    "season": "شتاء 2022",
-    "score": 7
+    "score": 13
   },
   {
     "id": "osananajimi-to-wa-love-comedy-ni-naranai",
@@ -135,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 7
+    "score": 8
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -151,6 +135,22 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
+    "score": 8
+  },
+  {
+    "id": "yojouhan-time-machine-blues",
+    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "شتاء 2022",
     "score": 7
   },
   {
