@@ -541,7 +541,128 @@
           "url": "https://letsupload.co/2818e/[Anime4up.com]_GFTAS2_EP_09_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Granblue Fantasy The Animation Season 2",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2NHtW&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1huJ7XPH0CdmaJbUS3rmBahrGd-lwzYEb/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/2GN5VPgAK85Rx"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!WORUxQKI!sXdCYWssMtY0mKbtFoD4v2SSXaigl8PeWmkz3Wr7wiM"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/kbycmhtbtttp"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/emb.html?s18z0mznpg3g=img.vidbm.com/s18z0mznpg3g"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-op18z0dvy86h.html"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ORUEHh82XmzqbX4NG1yIPqBgXt5JGu49/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!XGABQYCB!XKG0A55tVd7PzphP-MuVSvPfYfi3J-JTPkd4s892dG0"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/bs827b6lbst1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1ORUEHh82XmzqbX4NG1yIPqBgXt5JGu49&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!XGABQYCB!XKG0A55tVd7PzphP-MuVSvPfYfi3J-JTPkd4s892dG0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/q9urfnq22afw"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/bs827b6lbst1"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/jnwev1hhosho"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1huJ7XPH0CdmaJbUS3rmBahrGd-lwzYEb&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!WORUxQKI!sXdCYWssMtY0mKbtFoD4v2SSXaigl8PeWmkz3Wr7wiM"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/op18z0dvy86h"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/kbycmhtbtttp"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/dtwychgmcu5s"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/2GN5VPgAK85Rx"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2NHtW/[Anime4up.com]_EP_08_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:10:57.311538"
+  "last_updated": "2026-06-23T21:11:14.476848"
 }
