@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 24
+    "score": 25
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -138,6 +138,20 @@
     "score": 14
   },
   {
+    "id": "granblue-fantasy-the-animation-season-2",
+    "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
+    "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 8
+  },
+  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -154,20 +168,6 @@
     "score": 7
   },
   {
-    "id": "granblue-fantasy-the-animation-season-2",
-    "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
-    "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
-    "score": 7
-  },
-  {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -181,5 +181,18 @@
     "episodes_count": "1",
     "season": "ربيع 2011",
     "score": 4
+  },
+  {
+    "id": "steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio",
+    "title": "انمي Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2018",
+    "score": 2
   }
 ]

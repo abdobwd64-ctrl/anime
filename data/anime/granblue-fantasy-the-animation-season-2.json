@@ -662,7 +662,106 @@
           "url": "https://letsupload.co/2NHtW/[Anime4up.com]_EP_08_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Granblue Fantasy The Animation Season 2",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/UefL4cPPea"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1thZCOwXfx_vmpH4X2KZtFSyfvYgZfJCG/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!WDwinCpS!uFBXX8fkr8XBUMyumV5uee3Ct8NGqupGTo7p4vEolyo"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/geb35euqy57f"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1RLZLeouXTN7w46RNNk8gMBovYrYILrvv/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!eWZmCQLa!9xx3ULHPbc7rNRgjxfW8lv0wVg4kb0_UYQgwfVwQXsk"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1RLZLeouXTN7w46RNNk8gMBovYrYILrvv&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!eWZmCQLa!9xx3ULHPbc7rNRgjxfW8lv0wVg4kb0_UYQgwfVwQXsk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/uc0ovrt8m38c"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/zm80tzro9g0m"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/u38alh3co54d"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1thZCOwXfx_vmpH4X2KZtFSyfvYgZfJCG&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!WDwinCpS!uFBXX8fkr8XBUMyumV5uee3Ct8NGqupGTo7p4vEolyo"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4dvhfux7j3a8"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/geb35euqy57f"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/6s0elr1wub8j"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/UefL4cPPea/Anime4upcom_GFTAS2_EP_07_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:11:14.476848"
+  "last_updated": "2026-06-23T21:11:31.766403"
 }

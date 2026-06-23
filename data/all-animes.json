@@ -169,5 +169,17 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio",
+    "title": "انمي Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2018"
   }
 ]
