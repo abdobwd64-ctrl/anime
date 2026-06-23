@@ -511,7 +511,158 @@
           "url": "https://www.mp4upload.com/wpk1ig0xbfic"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Aishiteru Game wo Owarasetai",
+      "date": "26 مايو, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/HWSlxiTurukda"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/5E8HXACY#BjIAGs7h2fL5nCO0OQf6FZxFYYLIqaDpvE6wPkdqClg"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/im5wtpdjlaxz"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=A90mwPK4YIpRsqrO"
+        },
+        {
+          "name": "dsvplay | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/p592nthrku58"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-hnsendjcrwzx.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0FcGzA7I#C6H_cb7L8YOsWS4-dY0C7H7UUTgDQInWkomKxVElQOA"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-jodimv8l43ux.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/McElhIyZ#ATyViVRch1JbJDBSVU0OwB-XScFViRZCNedsyVO3rMM"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-3tnvx9frbkt1.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/HWSlxiTurukda"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/HWSlxiTurukda"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0FcGzA7I!C6H_cb7L8YOsWS4-dY0C7H7UUTgDQInWkomKxVElQOA"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/gcs7rh1e9hji"
+        },
+        {
+          "server": "workupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://workupload.com/archive/h5LrKTwUMU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/jodimv8l43ux"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/JU3CEj"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!5E8HXACY!BjIAGs7h2fL5nCO0OQf6FZxFYYLIqaDpvE6wPkdqClg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/3b5aqwroxk73"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/im5wtpdjlaxz"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/Wox8ET"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hnsendjcrwzx"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/p592nthrku58"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!McElhIyZ!ATyViVRch1JbJDBSVU0OwB-XScFViRZCNedsyVO3rMM"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/vebq89gtg34g"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/3tnvx9frbkt1"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/erbx7b"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:05:04.984407"
+  "last_updated": "2026-06-23T16:05:13.111553"
 }
