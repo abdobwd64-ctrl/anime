@@ -14,6 +14,20 @@
     "score": 26
   },
   {
+    "id": "shaman-king-flowers",
+    "title": "انمي Shaman King: Flowers مترجم اون لاين",
+    "poster": "data/posters/shaman-king-flowers.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "score": 16
+  },
+  {
     "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
     "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
@@ -27,20 +41,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 16
-  },
-  {
-    "id": "shaman-king-flowers",
-    "title": "انمي Shaman King: Flowers مترجم اون لاين",
-    "poster": "data/posters/shaman-king-flowers.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "score": 15
   },
   {
     "id": "kill-ao",
