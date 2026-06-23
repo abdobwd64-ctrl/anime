@@ -691,6 +691,141 @@
       "date": "15 يوليو, 2020",
       "servers": [],
       "downloads": []
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Val x Love",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1285600053978"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1qrgFBNTU9FSQXqF-dHaIJlBpF1-lfENx/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/dbES9o9Qea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!jGpHgIIb!rLcX_uCgd71jwDh4SFqdw023W81ptkzbZ9cbnJj8a7g"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/u88rnfhrj2km"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1285609097946"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1KYNPMb3t5rDrisSFXnKCRq3Ww4N1Q4Tk/preview"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Cc2qfxkBtZsEc01SueFNN2nV6L7CMSf2/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Pfg0kYaC!6hL8Ln8Gq2BHcmh8FuBn3YHfB6_9IoLWKG5wrPmQnFw"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1Cc2qfxkBtZsEc01SueFNN2nV6L7CMSf2&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Pfg0kYaC!6hL8Ln8Gq2BHcmh8FuBn3YHfB6_9IoLWKG5wrPmQnFw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/krter12ldmwd"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/d4dxcvxcljm6"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/zzm1yxupjaei"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1qrgFBNTU9FSQXqF-dHaIJlBpF1-lfENx&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!jGpHgIIb!rLcX_uCgd71jwDh4SFqdw023W81ptkzbZ9cbnJj8a7g"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wr1b2q7h6ndd"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/u88rnfhrj2km"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/rjm4ihp6lydp"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/dbES9o9Qea/Anime4upcom_VXL_EP_07_HD.html"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1KYNPMb3t5rDrisSFXnKCRq3Ww4N1Q4Tk&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!qSpWCYRa!OHN7-rddRfdVL42hEhwxmkUVaMGPxT7aeYMlJ0JClew"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/guroidi4bqyc"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/pkixq0kj88zi"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-23T09:46:26.967642"
