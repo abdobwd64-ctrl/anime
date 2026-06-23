@@ -1277,7 +1277,118 @@
           "url": "https://www.solidfiles.com/v/GGe7P5Bg8QzA4"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Granblue Fantasy The Animation Season 2",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/13xPmMzEsEqKm7uKI_L7g_Q9OQRvAMckw/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/1UNXJTsyea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!cgQTlAgQ!Avmd18rJtB_xPicn32NMGkgWxeV4kr5i7tTT0yYQBbU"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/rz8qcaj5tfyi"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/11dW86kSXeJp4yKFmt2XPtktipxUkvyiv/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!I4ZFVCbI!xw0lEvESDtpGVRWgf8zp8Zx-ZtNaAqCpzgtZJHmRONQ"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=11dW86kSXeJp4yKFmt2XPtktipxUkvyiv&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!I4ZFVCbI!xw0lEvESDtpGVRWgf8zp8Zx-ZtNaAqCpzgtZJHmRONQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/o9zscussjcr0"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/J4GTikDtKKE/%5BAnime4up.com%5D_GFTAS2_EP_02_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/kdl3nzgxfuu3"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/vu51dyt2fq05"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=13xPmMzEsEqKm7uKI_L7g_Q9OQRvAMckw&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!cgQTlAgQ!Avmd18rJtB_xPicn32NMGkgWxeV4kr5i7tTT0yYQBbU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ralp9kwnlrqu"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ex9eVBTY87Q/%5BAnime4up.com%5D_GFTAS2_EP_02_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/rz8qcaj5tfyi"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/oxyjhh3jmwem"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/1UNXJTsyea/Anime4upcom_GFTAS2_EP_02_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:12:47.917545"
+  "last_updated": "2026-06-23T21:13:07.498137"
 }

@@ -147,13 +147,6 @@
     "date": "16 فبراير, 2026"
   },
   {
-    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
-    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
-    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
-    "episode": "10",
-    "date": "15 يونيو, 2026"
-  },
-  {
     "anime_id": "let-s-play-quest-darake-no-my-life",
     "anime_title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -264,6 +257,13 @@
     "anime_poster": "data/posters/fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram.webp",
     "episode": "1",
     "date": "03 مايو, 2021"
+  },
+  {
+    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "episode": "8",
+    "date": "02 يونيو, 2026"
   },
   {
     "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
