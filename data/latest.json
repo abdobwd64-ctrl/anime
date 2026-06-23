@@ -178,8 +178,8 @@
     "anime_id": "blue-period",
     "anime_title": "انمي Blue Period مترجم اون لاين",
     "anime_poster": "data/posters/blue-period.webp",
-    "episode": "11",
-    "date": "15 ديسمبر, 2021"
+    "episode": "8",
+    "date": "13 نوفمبر, 2021"
   },
   {
     "anime_id": "fragtime",
@@ -187,6 +187,13 @@
     "anime_poster": "data/posters/fragtime.webp",
     "episode": "1",
     "date": "11 يوليو, 2020"
+  },
+  {
+    "anime_id": "blue-lock",
+    "anime_title": "انمي Blue Lock مترجم اون لاين",
+    "anime_poster": "data/posters/blue-lock.webp",
+    "episode": "22",
+    "date": "11 مارس, 2023"
   },
   {
     "anime_id": "ensemble-stars",
