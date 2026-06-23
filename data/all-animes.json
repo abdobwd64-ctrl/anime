@@ -87,6 +87,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "meikyuu-black-company",
+    "title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "poster": "data/posters/meikyuu-black-company.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021"
+  },
+  {
     "id": "granblue-fantasy-the-animation-season-2",
     "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
     "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
