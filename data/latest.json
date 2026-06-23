@@ -91,13 +91,6 @@
     "date": "26 مايو, 2022"
   },
   {
-    "anime_id": "meikyuu-black-company",
-    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "anime_poster": "data/posters/meikyuu-black-company.webp",
-    "episode": "12",
-    "date": "25 سبتمبر, 2021"
-  },
-  {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -145,6 +138,13 @@
     "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
     "episode": "7",
     "date": "20 فبراير, 2025"
+  },
+  {
+    "anime_id": "meikyuu-black-company",
+    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "anime_poster": "data/posters/meikyuu-black-company.webp",
+    "episode": "7",
+    "date": "20 أغسطس, 2021"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
