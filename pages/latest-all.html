@@ -3,10 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AnimeLek</title>
+  <title>كل الحلقات - AnimeLek</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
+  <style>
+    .pagination { display:flex; gap:6px; justify-content:center; flex-wrap:wrap; margin-top:32px; }
+    .pagination button { padding:8px 14px; border-radius:8px; border:1px solid var(--border); background:var(--bg-card); color:var(--text); cursor:pointer; font-size:.85rem; transition:all var(--transition); }
+    .pagination button:hover { background:var(--primary); color:#fff; border-color:var(--primary); }
+    .pagination button.active { background:var(--primary); color:#fff; border-color:var(--primary); font-weight:700; }
+    .pagination button:disabled { opacity:.4; cursor:default; }
+  </style>
 </head>
 <body>
   <header class="header">
@@ -24,27 +31,14 @@
     </div>
   </header>
 
-  <div class="anime-detail-hero" id="animeHero">
-    <div class="backdrop"><img id="backdropImg" src="" alt=""></div>
-    <div class="container">
-      <div class="detail-layout">
-        <div class="detail-poster"><img id="posterImg" src="" alt=""></div>
-        <div class="detail-info">
-          <h1 id="animeTitle"></h1>
-          <div class="detail-meta" id="metaContainer"></div>
-          <div class="genre-tags" id="genreContainer"></div>
-          <div class="story-box" id="storyBox"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <section class="section">
+  <section class="section" style="padding-top:120px">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">📺 الحلقات <span class="badge" id="epCount"></span></h2>
+        <h2 class="section-title">📺 كل الحلقات</h2>
       </div>
-      <div class="episodes-grid" id="episodesList"></div>
+      <p id="allLatestDate" style="font-size:.82rem;color:var(--text-muted);margin-bottom:16px;"></p>
+      <div class="anime-grid" id="allLatestGrid"></div>
+      <div class="pagination" id="pagination"></div>
     </div>
   </section>
 
@@ -54,9 +48,7 @@
 
   <script src="../js/main.js"></script>
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const id = params.get('id');
-    if (id) loadAnime(id);
+    loadAllLatest();
   </script>
 </body>
 </html>

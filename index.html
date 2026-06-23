@@ -14,7 +14,7 @@
       <a href="index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
       <nav class="nav">
         <a href="index.html" class="active">الرئيسية</a>
-        <a href="index.html?show=all">كل الأنميات</a>
+        <a href="pages/all-anime.html">كل الأنميات</a>
       </nav>
       <div class="search-box">
         <span class="icon">🔍</span>
@@ -24,47 +24,13 @@
     </div>
   </header>
 
-  <section class="hero">
-    <div class="container">
-      <h1>اكتشف عالم الأنمي</h1>
-      <p>أحدث الحلقات وأشهر المسلسلات العربية المترجمة بجودة عالية</p>
-      <div class="search-box">
-        <input type="text" placeholder="ابحث عن انمي مفضل..." id="heroSearch" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
-        <button onclick="searchAnime(document.getElementById('heroSearch').value)">بحث</button>
-      </div>
-    </div>
-  </section>
-
-  <section class="section genres-section">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">📂 التصنيفات</h2>
-      </div>
-      <div class="genre-tags" id="homeGenreTags">
-        <span class="genre-tag active" onclick="filterByGenre('all')">الكل</span>
-      </div>
-      <div class="anime-grid" id="genreGrid" style="display:none;"></div>
-    </div>
-  </section>
-
-  <section class="section seasons-section">
-    <div class="container">
-      <div class="section-header">
-        <h2 class="section-title">📅 المواسم</h2>
-      </div>
-      <div class="genre-tags" id="homeSeasonTags">
-        <span class="genre-tag active" onclick="filterBySeason('all')">الكل</span>
-      </div>
-      <div class="anime-grid" id="seasonGrid" style="display:none;"></div>
-    </div>
-  </section>
-
-  <section class="section">
+  <section class="section" style="padding-top:120px">
     <div class="container">
       <div class="section-header">
         <h2 class="section-title">أحدث الحلقات <span class="badge">جديد</span></h2>
-        <a href="#" class="view-all" id="latestMoreBtn" style="display:none;">عرض الكل ←</a>
+        <a href="pages/latest-all.html" class="view-all" id="latestMoreBtn">عرض الكل ←</a>
       </div>
+      <p id="latestDate" style="font-size:.82rem;color:var(--text-muted);margin-bottom:16px;"></p>
       <div class="anime-grid" id="latestGrid"></div>
     </div>
   </section>

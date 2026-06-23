@@ -79,19 +79,33 @@
     return DATA_BASE.replace('/main/data', '/main') + '/' + p;
   }
 
-  function renderCard(item, link) {
+  var AR_MONTHS = {'يناير':1,'فبراير':2,'مارس':3,'أبريل':4,'إبريل':4,'مايو':5,'يونيو':6,'يوليو':7,'أغسطس':8,'غشت':8,'سبتمبر':9,'أكتوبر':10,'نوفمبر':11,'ديسمبر':12};
+
+  function dateSortValue(item) {
+    var d = item.date_sort || item.date || '';
+    if (d && d.length === 10 && d[4] === '-' && d[7] === '-') return d;
+    var m = d.match(/(\d+)\s+([^,\s]+),?\s*(\d+)/);
+    if (m) {
+      var monthNum = AR_MONTHS[m[2]] || 1;
+      return m[3] + '-' + String(monthNum).padStart(2,'0') + '-' + String(parseInt(m[1])).padStart(2,'0');
+    }
+    return '';
+  }
+
+  function renderCard(item, link, showDate) {
     const card = document.createElement('div');
     card.className = 'anime-card';
     card.onclick = () => window.location.href = link;
     const poster = posterUrl(item.poster || item.anime_poster || '');
     const ep = item.episode || item.ep || '';
     const title = item.title || item.anime_title || item.name || '?';
+    const date = item.date || '';
     card.innerHTML = `
       <div class="thumb">${poster ? `<img src="${poster}" alt="${title}">` : '<div style="width:100%;height:100%;background:var(--bg-elevated)"></div>'}
         <div class="overlay"><div class="play-btn">▶</div></div>
         ${ep ? `<span class="episode-badge">الحلقة ${ep}</span>` : ''}
       </div>
-      <div class="info"><h3>${title}</h3></div>`;
+      <div class="info"><h3>${title}</h3>${showDate && date ? `<span style="font-size:.7rem;color:var(--text-muted);">📅 ${date}</span>` : ''}</div>`;
     return card;
   }
 
@@ -150,28 +164,173 @@
       if (a.season) seasonSet[a.season] = true;
     });
     var genreContainer = document.getElementById('homeGenreTags');
-    Object.keys(genreSet).sort().forEach(function(g) {
-      var span = document.createElement('span');
-      span.className = 'genre-tag';
-      span.textContent = g;
-      span.setAttribute('data-genre', g);
-      span.onclick = function() { filterByGenre(g); };
-      genreContainer.appendChild(span);
-    });
+    if (genreContainer) {
+      Object.keys(genreSet).sort().forEach(function(g) {
+        var span = document.createElement('span');
+        span.className = 'genre-tag';
+        span.textContent = g;
+        span.setAttribute('data-genre', g);
+        span.onclick = function() { filterByGenre(g); };
+        genreContainer.appendChild(span);
+      });
+    }
     var seasonContainer = document.getElementById('homeSeasonTags');
-    if (!seasonContainer) return;
-    Object.keys(seasonSet).sort(function(a,b) {
-      var aYear = parseInt(a.split(' ')[1]) || 0;
-      var bYear = parseInt(b.split(' ')[1]) || 0;
-      return bYear - aYear;
-    }).forEach(function(s) {
-      var span = document.createElement('span');
-      span.className = 'genre-tag';
-      span.textContent = s;
-      span.setAttribute('data-season', s);
-      span.onclick = function() { filterBySeason(s); };
-      seasonContainer.appendChild(span);
+    if (seasonContainer) {
+      Object.keys(seasonSet).sort(function(a,b) {
+        var aYear = parseInt(a.split(' ')[1]) || 0;
+        var bYear = parseInt(b.split(' ')[1]) || 0;
+        return bYear - aYear;
+      }).forEach(function(s) {
+        var span = document.createElement('span');
+        span.className = 'genre-tag';
+        span.textContent = s;
+        span.setAttribute('data-season', s);
+        span.onclick = function() { filterBySeason(s); };
+        seasonContainer.appendChild(span);
+      });
+    }
+    var allGenreContainer = document.getElementById('allGenreTags');
+    if (allGenreContainer) {
+      Object.keys(genreSet).sort().forEach(function(g) {
+        var span = document.createElement('span');
+        span.className = 'genre-tag';
+        span.textContent = g;
+        span.setAttribute('data-genre', g);
+        span.onclick = function() { filterAllAnime('genre', g); };
+        allGenreContainer.appendChild(span);
+      });
+    }
+    var allSeasonContainer = document.getElementById('allSeasonTags');
+    if (allSeasonContainer) {
+      Object.keys(seasonSet).sort(function(a,b) {
+        var aYear = parseInt(a.split(' ')[1]) || 0;
+        var bYear = parseInt(b.split(' ')[1]) || 0;
+        return bYear - aYear;
+      }).forEach(function(s) {
+        var span = document.createElement('span');
+        span.className = 'genre-tag';
+        span.textContent = s;
+        span.setAttribute('data-season', s);
+        span.onclick = function() { filterAllAnime('season', s); };
+        allSeasonContainer.appendChild(span);
+      });
+    }
+  };
+
+  var _allFilter = {genre:'all', season:'all'};
+
+  /* ─── All Anime page ─── */
+  window.filterAllAnime = function(type, value) {
+    _allFilter[type] = value;
+    var containerId = type === 'genre' ? 'allGenreTags' : 'allSeasonTags';
+    document.querySelectorAll('#' + containerId + ' .genre-tag').forEach(function(t) {
+      t.classList.remove('active');
     });
+    var attr = type === 'genre' ? 'data-genre' : 'data-season';
+    var target = document.querySelector('#' + containerId + ' .genre-tag[' + attr + '="' + value + '"]');
+    if (target) target.classList.add('active');
+    else document.querySelector('#' + containerId + ' .genre-tag:first-child').classList.add('active');
+    var otherType = type === 'genre' ? 'season' : 'genre';
+    var otherContainer = type === 'genre' ? 'allSeasonTags' : 'allGenreTags';
+    if (_allFilter[otherType] !== 'all') {
+      _allFilter[otherType] = 'all';
+      document.querySelectorAll('#' + otherContainer + ' .genre-tag').forEach(function(t) {
+        t.classList.remove('active');
+      });
+      document.querySelector('#' + otherContainer + ' .genre-tag:first-child').classList.add('active');
+    }
+    var grid = document.getElementById('allAnimeGrid');
+    if (!grid) return;
+    grid.innerHTML = '';
+    var items = _allAnimesData.filter(function(a) {
+      if (_allFilter.genre !== 'all' && (!a.genres || a.genres.indexOf(_allFilter.genre) === -1)) return false;
+      if (_allFilter.season !== 'all' && a.season !== _allFilter.season) return false;
+      return true;
+    });
+    items.forEach(function(item) {
+      grid.appendChild(renderCard(item, 'anime.html?id=' + item.id));
+    });
+  };
+
+  window.loadAllAnime = async function() {
+    await loadFilters();
+    filterAllAnime('genre', 'all');
+  };
+
+  /* ─── All Latest Episodes page ─── */
+  var _ALL_LATEST_PAGE = 1;
+  var _ALL_LATEST_PER = 30;
+
+  window.loadAllLatest = async function() {
+    var data = await fetchJSON(DATA_BASE + '/latest.json');
+    if (!data) return;
+    data = data.slice();
+    data.sort(function(a,b) { return dateSortValue(b).localeCompare(dateSortValue(a)); });
+    var total = data.length;
+    var dateEl = document.getElementById('allLatestDate');
+    if (dateEl && data.length) dateEl.textContent = '📅 ' + data[0].date;
+
+    function renderPage(page) {
+      var start = (page - 1) * _ALL_LATEST_PER;
+      var end = Math.min(start + _ALL_LATEST_PER, total);
+      var grid = document.getElementById('allLatestGrid');
+      if (!grid) return;
+      grid.innerHTML = '';
+      for (var i = start; i < end; i++) {
+        grid.appendChild(renderCard(data[i], 'watch.html?id=' + data[i].anime_id + '&ep=' + data[i].episode, true));
+      }
+      var pages = Math.ceil(total / _ALL_LATEST_PER);
+      var pg = document.getElementById('pagination');
+      if (!pg) return;
+      pg.innerHTML = '';
+      if (pages <= 1) return;
+      if (page > 1) {
+        var prev = document.createElement('button');
+        prev.textContent = '←';
+        prev.onclick = function() { renderPage(page - 1); window.scrollTo(0,0); };
+        pg.appendChild(prev);
+      }
+      var rangeStart = Math.max(1, page - 2);
+      var rangeEnd = Math.min(pages, page + 2);
+      if (rangeStart > 1) {
+        var first = document.createElement('button');
+        first.textContent = '1';
+        first.onclick = function() { renderPage(1); window.scrollTo(0,0); };
+        pg.appendChild(first);
+        if (rangeStart > 2) {
+          var dots = document.createElement('span');
+          dots.textContent = '...';
+          dots.style.cssText = 'padding:8px 4px;color:var(--text-muted);';
+          pg.appendChild(dots);
+        }
+      }
+      for (var p = rangeStart; p <= rangeEnd; p++) {
+        var btn = document.createElement('button');
+        btn.textContent = String(p);
+        if (p === page) btn.className = 'active';
+        btn.onclick = (function(n) { return function() { renderPage(n); window.scrollTo(0,0); }; })(p);
+        pg.appendChild(btn);
+      }
+      if (rangeEnd < pages) {
+        if (rangeEnd < pages - 1) {
+          var dots2 = document.createElement('span');
+          dots2.textContent = '...';
+          dots2.style.cssText = 'padding:8px 4px;color:var(--text-muted);';
+          pg.appendChild(dots2);
+        }
+        var last = document.createElement('button');
+        last.textContent = String(pages);
+        last.onclick = function() { renderPage(pages); window.scrollTo(0,0); };
+        pg.appendChild(last);
+      }
+      if (page < pages) {
+        var next = document.createElement('button');
+        next.textContent = '→';
+        next.onclick = function() { renderPage(page + 1); window.scrollTo(0,0); };
+        pg.appendChild(next);
+      }
+    }
+    renderPage(1);
   };
 
   /* ─── Home page ─── */
@@ -181,31 +340,21 @@
       fetchJSON(DATA_BASE + '/popular.json'),
     ]);
 
-    var params = new URLSearchParams(window.location.search);
-    var _latestFull = latest || [];
-    var _latestLimit = params.get('show') === 'all' ? _latestFull.length : 24;
-    var _showAllLatest = params.get('show') === 'all';
+    var _latestFull = (latest || []).slice();
+    _latestFull.sort(function(a,b) { return dateSortValue(b).localeCompare(dateSortValue(a)); });
 
-    function renderLatest() {
-      var grid = document.getElementById('latestGrid');
-      if (!grid) return;
-      grid.innerHTML = '';
-      var items = _showAllLatest ? _latestFull : _latestFull.slice(0, _latestLimit);
-      items.forEach(function(ep) {
-        grid.appendChild(renderCard(ep, 'pages/watch.html?id=' + ep.anime_id + '&ep=' + ep.episode));
-      });
-      var btn = document.getElementById('latestMoreBtn');
-      if (btn) {
-        if (_latestFull.length > _latestLimit && !_showAllLatest) {
-          btn.style.display = 'inline-flex';
-          btn.textContent = 'عرض الكل ← (' + _latestFull.length + ')';
-          btn.onclick = function(e) { e.preventDefault(); _showAllLatest = true; renderLatest(); btn.style.display = 'none'; };
-        } else {
-          btn.style.display = 'none';
-        }
-      }
+    var dateEl = document.getElementById('latestDate');
+    if (dateEl && _latestFull.length) {
+      var firstDate = _latestFull[0].date || '';
+      dateEl.textContent = firstDate ? '📅 ' + firstDate : '';
     }
-    renderLatest();
+
+    var grid = document.getElementById('latestGrid');
+    if (grid) {
+      _latestFull.slice(0, 24).forEach(function(ep) {
+        grid.appendChild(renderCard(ep, 'pages/watch.html?id=' + ep.anime_id + '&ep=' + ep.episode, true));
+      });
+    }
 
     const popularGrid = document.getElementById('popularGrid');
     if (popularGrid && popular) {
@@ -237,8 +386,8 @@
 
     document.title = data.title + ' - AnimeLek';
     document.getElementById('animeTitle').textContent = data.title;
-    document.getElementById('posterImg').src = data.poster;
-    document.getElementById('backdropImg').src = data.poster;
+    document.getElementById('posterImg').src = posterUrl(data.poster);
+    document.getElementById('backdropImg').src = posterUrl(data.poster);
 
     const metaMap = { status:'الحالة', type:'النوع', episodes_count:'عدد الحلقات', start_date:'تاريخ البداية', season:'الموسم' };
     const metaContainer = document.getElementById('metaContainer');
@@ -316,7 +465,7 @@
     document.getElementById('epTitle').textContent = `${data.title} - الحلقة ${epNum}`;
     document.getElementById('epDate').textContent = ep.date ? `📅 ${ep.date}` : '';
     const playerBg = document.getElementById('playerBg');
-    if (playerBg) playerBg.src = data.poster;
+    if (playerBg) playerBg.src = posterUrl(data.poster);
 
     const tabsContainer = document.getElementById('serverTabs');
     tabsContainer.innerHTML = '';
@@ -337,6 +486,15 @@
       });
     } else {
       tabsContainer.innerHTML = '<p style="color:var(--text-muted);">لا توجد سيرفرات متاحة</p>';
+    }
+
+    var placeholder = document.getElementById('playerPlaceholder');
+    if (placeholder && ep.servers && ep.servers.length) {
+      placeholder.style.cursor = 'pointer';
+      placeholder.onclick = function() {
+        var firstTab = document.querySelector('.server-tab');
+        if (firstTab) firstTab.click();
+      };
     }
 
     const navDiv = document.getElementById('navButtons');

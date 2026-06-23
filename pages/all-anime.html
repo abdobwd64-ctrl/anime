@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AnimeLek</title>
+  <title>كل الأنميات - AnimeLek</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">
@@ -14,7 +14,7 @@
       <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
       <nav class="nav">
         <a href="../index.html">الرئيسية</a>
-        <a href="all-anime.html">كل الأنميات</a>
+        <a href="all-anime.html" class="active">كل الأنميات</a>
       </nav>
       <div class="search-box">
         <span class="icon">🔍</span>
@@ -24,27 +24,18 @@
     </div>
   </header>
 
-  <div class="anime-detail-hero" id="animeHero">
-    <div class="backdrop"><img id="backdropImg" src="" alt=""></div>
-    <div class="container">
-      <div class="detail-layout">
-        <div class="detail-poster"><img id="posterImg" src="" alt=""></div>
-        <div class="detail-info">
-          <h1 id="animeTitle"></h1>
-          <div class="detail-meta" id="metaContainer"></div>
-          <div class="genre-tags" id="genreContainer"></div>
-          <div class="story-box" id="storyBox"></div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <section class="section">
+  <section class="section" style="padding-top:120px">
     <div class="container">
       <div class="section-header">
-        <h2 class="section-title">📺 الحلقات <span class="badge" id="epCount"></span></h2>
+        <h2 class="section-title">📂 كل الأنميات</h2>
       </div>
-      <div class="episodes-grid" id="episodesList"></div>
+      <div class="genre-tags" id="allGenreTags">
+        <span class="genre-tag active" onclick="filterAllAnime('genre','all')">الكل</span>
+      </div>
+      <div class="genre-tags" id="allSeasonTags">
+        <span class="genre-tag active" onclick="filterAllAnime('season','all')">كل المواسم</span>
+      </div>
+      <div class="anime-grid" id="allAnimeGrid"></div>
     </div>
   </section>
 
@@ -54,9 +45,7 @@
 
   <script src="../js/main.js"></script>
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const id = params.get('id');
-    if (id) loadAnime(id);
+    loadAllAnime();
   </script>
 </body>
 </html>
