@@ -835,7 +835,96 @@
           "url": "https://updown.cam/452fyk9xo8u7"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Shaman King: Flowers",
+      "date": "14 فبراير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/jOYkPDU3PlzDr"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/jOYkPDU3PlzDr"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/jOYkPDU3PlzDr"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-lv1jcnhrdwoq.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-wpa21vmpth58.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0jUEERhD!uyDr2ih2dO-uYjs0WyXjgX-iFA_ax9LZNF5ZvKw9LnE"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/ode4rd62"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/UjEwjDxD!-YApMn3ET7axF7m4G1dOaD_iPmwcYPqzab7qu8vU1nQ"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/bq4xcbt9ph9l"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0jUEERhD!uyDr2ih2dO-uYjs0WyXjgX-iFA_ax9LZNF5ZvKw9LnE"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/1rva3g443sw0"
+        },
+        {
+          "server": "updown",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://updown.cam/8sgqkb4p07h0"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/2j8l0egqxvow"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!UjEwjDxD!-YApMn3ET7axF7m4G1dOaD_iPmwcYPqzab7qu8vU1nQ"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/6ye6hzxr00lp"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/bfngfcuhhlnz"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:13:45.188741"
+  "last_updated": "2026-06-23T16:13:58.588411"
 }
