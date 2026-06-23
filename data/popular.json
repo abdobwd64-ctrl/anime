@@ -1,21 +1,5 @@
 [
   {
-    "id": "beastars-final-season-part-2",
-    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
-    "poster": "data/posters/beastars-final-season-part-2.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "نفسي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 16
-  },
-  {
     "id": "one-punch-man-3",
     "title": "انمي One Punch Man 3 مترجم اون لاين",
     "poster": "data/posters/one-punch-man-3.webp",
@@ -29,6 +13,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025",
+    "score": 17
+  },
+  {
+    "id": "beastars-final-season-part-2",
+    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/beastars-final-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2026",
     "score": 16
   },
   {
@@ -87,7 +87,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 12
+    "score": 13
   },
   {
     "id": "yojouhan-time-machine-blues",
