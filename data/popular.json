@@ -16,6 +16,20 @@
     "score": 6
   },
   {
+    "id": "super-no-ura-de-yani-suu-futari",
+    "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
+    "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
+    "genres": [
+      "رومانسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2026",
+    "score": 5
+  },
+  {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -31,17 +45,18 @@
     "score": 4
   },
   {
-    "id": "super-no-ura-de-yani-suu-futari",
-    "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
-    "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
+    "id": "kami-no-shizuku",
+    "title": "انمي Kami no Shizuku مترجم اون لاين",
+    "poster": "data/posters/kami-no-shizuku.webp",
     "genres": [
-      "رومانسي",
+      "غموض",
+      "دراما",
       "سينين"
     ],
-    "status": "مكتمل",
+    "status": "يعرض الان",
     "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2026",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 4
   }
 ]
