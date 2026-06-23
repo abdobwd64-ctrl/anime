@@ -5,14 +5,16 @@ from datetime import datetime
 import requests
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+# إسكات كل الـ logs المزعجة
+for noisy in ['watchdog', 'urllib3', 'requests', 'PIL']:
+    logging.getLogger(noisy).setLevel(logging.ERROR)
+
 from animelek_scraper import (
     BASE_URL, HEADERS, SESSION, safe_request, clean_url, extract_domain,
     get_homepage_pinned, search_anime, get_anime_details,
     get_episode_servers, get_episode_downloads
 )
-
-logging.getLogger('animelek').setLevel(logging.WARNING)
-logging.getLogger('urllib3').setLevel(logging.WARNING)
 
 DIR = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(DIR, 'data')
