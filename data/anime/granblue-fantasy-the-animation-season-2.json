@@ -1049,7 +1049,124 @@
           "url": "https://www.solidfiles.com/v/3PA575K2eZRwj"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Granblue Fantasy The Animation Season 2",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1skLt2HvfWWLFdxsub8GoHoNaBjn3VtX3/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/M2qBaxXmvQm63"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!tkIDmazC!gJAvg1_w1jXeT7xZ-FSUT-26iWvcCCx05R2d-q8Tg7k"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/unxpa1yyc2g5"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Xu73cKENtGXJ1ZOkcGhGr0aqfscj_wTD/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!tsgX3KYA!0GqnUHpBbI_7OadEowblBI044WyorFQVI9JN2VgNQNw"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1Xu73cKENtGXJ1ZOkcGhGr0aqfscj_wTD&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!tsgX3KYA!0GqnUHpBbI_7OadEowblBI044WyorFQVI9JN2VgNQNw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tocjyh3aj1sv"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/DfgPqgkJeLk/%5BAnime4up.com%5D_GFTAS2_EP_04_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/17h3ig2jwacj"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/l0x0arudweqe"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1skLt2HvfWWLFdxsub8GoHoNaBjn3VtX3&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!tkIDmazC!gJAvg1_w1jXeT7xZ-FSUT-26iWvcCCx05R2d-q8Tg7k"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/lygsuvs7woop"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/dYEP8zUB17A/%5BAnime4up.com%5D_GFTAS2_EP_04_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/unxpa1yyc2g5"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/n0p7s0xd42hz"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/M2qBaxXmvQm63"
+        },
+        {
+          "server": "streamango",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://streamango.com/f/dncaadrkpstcnlpn/_Anime4up_com_GFTAS2_EP_04_HD_mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:12:08.181642"
+  "last_updated": "2026-06-23T21:12:27.929099"
 }
