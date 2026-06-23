@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 43
+    "score": 44
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -193,7 +193,7 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018",
-    "score": 8
+    "score": 9
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -240,6 +240,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
+    "score": 4
+  },
+  {
+    "id": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo",
+    "title": "انمي Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2006",
     "score": 4
   },
   {

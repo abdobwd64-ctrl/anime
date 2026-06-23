@@ -182,6 +182,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo",
+    "title": "انمي Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2006"
+  },
+  {
     "id": "steins-gate-0",
     "title": "انمي Steins;Gate 0 مترجم اون لاين",
     "poster": "data/posters/steins-gate-0.webp",
