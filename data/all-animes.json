@@ -42,6 +42,18 @@
     "episodes_count": "6"
   },
   {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24"
+  },
+  {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
     "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
     "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",

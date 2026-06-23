@@ -157,7 +157,72 @@
           "url": "https://www.solidfiles.com/v/L5XzMDG4vzGXm"
         }
       ]
+    },
+    {
+      "number": "13",
+      "title": "الحلقة 13Ensemble Stars!",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1284845669082"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1s9mOqorzebQcnmOX1fHgA0Bz1khUoy76/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/AnXd5Mm86Y58z"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!bXZCyaSY!FfcjOkc5mMKJ7S7UAKeUwy_BcTUeigs8LlQIr9iLLOo"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/3uon3phs0nkv"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1s9mOqorzebQcnmOX1fHgA0Bz1khUoy76&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!bXZCyaSY!FfcjOkc5mMKJ7S7UAKeUwy_BcTUeigs8LlQIr9iLLOo"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/48w67isjez4u"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/3uon3phs0nkv"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/epauouaq0z7p"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/AnXd5Mm86Y58z"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:20:56.062797"
+  "last_updated": "2026-06-23T16:21:19.115777"
 }

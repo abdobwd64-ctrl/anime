@@ -143,6 +143,20 @@
     "score": 6
   },
   {
+    "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
+    "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 6
+  },
+  {
     "id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",
     "title": "انمي Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu.webp",
@@ -159,6 +173,19 @@
     "score": 6
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 5
+  },
+  {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
     "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
     "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
@@ -171,6 +198,19 @@
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
+    "score": 5
+  },
+  {
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
     "score": 5
   },
   {
@@ -189,43 +229,16 @@
     "score": 5
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
     "genres": [
-      "مدرسي",
-      "موسيقي"
+      "شونين",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "score": 4
-  },
-  {
-    "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
-    "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
-    "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
-    "genres": [
-      "مدرسي",
-      "شريحة من الحياة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 4
-  },
-  {
-    "id": "blue-period",
-    "title": "انمي Blue Period مترجم اون لاين",
-    "poster": "data/posters/blue-period.webp",
-    "genres": [
-      "دراما",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
     "score": 3
   },
   {

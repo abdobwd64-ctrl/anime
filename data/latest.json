@@ -21,6 +21,13 @@
     "date": "29 سبتمبر, 2022"
   },
   {
+    "anime_id": "blue-period",
+    "anime_title": "انمي Blue Period مترجم اون لاين",
+    "anime_poster": "data/posters/blue-period.webp",
+    "episode": "10",
+    "date": "28 نوفمبر, 2021"
+  },
+  {
     "anime_id": "yojouhan-time-machine-blues",
     "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -61,6 +68,13 @@
     "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
     "episode": "8",
     "date": "25 مايو, 2026"
+  },
+  {
+    "anime_id": "blue-lock",
+    "anime_title": "انمي Blue Lock مترجم اون لاين",
+    "anime_poster": "data/posters/blue-lock.webp",
+    "episode": "24",
+    "date": "25 مارس, 2023"
   },
   {
     "anime_id": "nippon-sangoku",
@@ -105,6 +119,20 @@
     "date": "20 فبراير, 2024"
   },
   {
+    "anime_id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "anime_title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
+    "anime_poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
+    "episode": "8",
+    "date": "20 ديسمبر, 2020"
+  },
+  {
+    "anime_id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "anime_title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
+    "anime_poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
+    "episode": "7",
+    "date": "20 ديسمبر, 2020"
+  },
+  {
     "anime_id": "level-1-dakedo-unique-skill-de-saikyou-desu",
     "anime_title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
     "anime_poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
@@ -140,6 +168,13 @@
     "date": "15 نوفمبر, 2025"
   },
   {
+    "anime_id": "blue-period",
+    "anime_title": "انمي Blue Period مترجم اون لاين",
+    "anime_poster": "data/posters/blue-period.webp",
+    "episode": "11",
+    "date": "15 ديسمبر, 2021"
+  },
+  {
     "anime_id": "fragtime",
     "anime_title": "انمي Fragtime مترجم اون لاين",
     "anime_poster": "data/posters/fragtime.webp",
@@ -158,6 +193,13 @@
     "anime_title": "انمي Ensemble Stars! مترجم اون لاين",
     "anime_poster": "data/posters/ensemble-stars.webp",
     "episode": "14",
+    "date": "10 يوليو, 2020"
+  },
+  {
+    "anime_id": "ensemble-stars",
+    "anime_title": "انمي Ensemble Stars! مترجم اون لاين",
+    "anime_poster": "data/posters/ensemble-stars.webp",
+    "episode": "13",
     "date": "10 يوليو, 2020"
   },
   {
