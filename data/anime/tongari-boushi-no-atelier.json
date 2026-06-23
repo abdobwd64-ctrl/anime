@@ -484,6 +484,125 @@
           "url": "https://www.file-upload.org/2k19eyqqclyp"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Tongari Boushi no Atelier",
+      "date": "01 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/hqGjD1fmoRkMV"
+        },
+        {
+          "name": "larhu website | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=spykixmt9p7x"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/1almso3fsmno"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=ivEDkhG1Ee1Vz7Hq"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-7ug8con0jbhj.html"
+        },
+        {
+          "name": "rubyvidhub | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://rubyvidhub.com/embed-dtwivlzh0rfz.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-e8enlfixr5mc.html"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-e8nvv6el6xhk.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/bki7it5avdkn"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/e8nvv6el6xhk"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/56lExW"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/hqGjD1fmoRkMV"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/faqr2p9ap20b"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/1almso3fsmno"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/AmSG9p"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/7ug8con0jbhj"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/hqGjD1fmoRkMV"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/xxavajkmwqfq"
+        },
+        {
+          "server": "streamruby",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://streamruby.com/d/dtwivlzh0rfz"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/WQmjlR"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/e8enlfixr5mc"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-23T09:48:20.313013"
