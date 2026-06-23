@@ -28,6 +28,18 @@
     "episodes_count": "24"
   },
   {
+    "id": "mofa-gongzhu-de-xiao-fannao",
+    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16"
+  },
+  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",

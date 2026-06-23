@@ -56,6 +56,19 @@
     "score": 14
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 13
+  },
+  {
     "id": "kill-ao",
     "title": "انمي Kill Ao مترجم اون لاين",
     "poster": "data/posters/kill-ao.webp",
@@ -83,12 +96,25 @@
     "score": 13
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
     "genres": [
-      "مدرسي",
-      "موسيقي"
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 13
+  },
+  {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -108,19 +134,6 @@
     "score": 12
   },
   {
-    "id": "blue-period",
-    "title": "انمي Blue Period مترجم اون لاين",
-    "poster": "data/posters/blue-period.webp",
-    "genres": [
-      "دراما",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
-  },
-  {
     "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
     "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
     "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
@@ -133,19 +146,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 12
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 11
   },
   {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
@@ -254,6 +254,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 4
+  },
+  {
+    "id": "mofa-gongzhu-de-xiao-fannao",
+    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "score": 3
   },
   {
     "id": "isekai-quartet-movie-another-world",
