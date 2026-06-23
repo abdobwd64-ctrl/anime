@@ -126,5 +126,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 5
+  },
+  {
+    "id": "nippon-sangoku",
+    "title": "انمي Nippon Sangoku مترجم اون لاين",
+    "poster": "data/posters/nippon-sangoku.webp",
+    "genres": [
+      "حربي",
+      "دراما"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 3
   }
 ]
