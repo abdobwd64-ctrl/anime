@@ -43,25 +43,25 @@
     "score": 16
   },
   {
-    "id": "kill-ao",
-    "title": "انمي Kill Ao مترجم اون لاين",
-    "poster": "data/posters/kill-ao.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 13
-  },
-  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
     "genres": [
       "حربي",
       "دراما"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 14
+  },
+  {
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
