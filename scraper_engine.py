@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # scraper_engine.py — محرك السحب المتقدم (يدعم Streamlit + CLI)
-import sys, os, json, time, re, threading, logging, random
+import sys, os, json, time, re, threading, logging, random, io
 from datetime import datetime
 import requests
+from PIL import Image
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
@@ -68,6 +69,7 @@ class ScraperEngine:
     def _run(self):
         os.makedirs(DATA, exist_ok=True)
         os.makedirs(os.path.join(DATA, 'anime'), exist_ok=True)
+        os.makedirs(os.path.join(DATA, 'posters'), exist_ok=True)
 
         try:
             self._discover()
@@ -172,6 +174,20 @@ class ScraperEngine:
         except:
             pass
 
+    def _download_poster(self, aid, poster_url):
+        if not poster_url or not poster_url.startswith('http'):
+            return poster_url
+        local = os.path.join(DATA, 'posters', f'{aid}.webp')
+        if os.path.exists(local):
+            return f'data/posters/{aid}.webp'
+        try:
+            r = requests.get(poster_url, timeout=15)
+            img = Image.open(io.BytesIO(r.content))
+            img.save(local, 'WEBP', quality=85)
+            return f'data/posters/{aid}.webp'
+        except:
+            return poster_url
+
     def _scrape_one(self, anime):
         url = anime['url']
         name = anime['name']
@@ -199,12 +215,15 @@ class ScraperEngine:
         self.ep_total = len(ep_list)
         self.ep_progress = 0
 
+        poster_url = det.get('image', '')
+        poster_local = self._download_poster(aid, poster_url)
+
         # هيكل البيانات الأساسي
         anime_data = {
             'id': aid,
             'title': det.get('title', name),
             'url': url,
-            'poster': det.get('image', ''),
+            'poster': poster_local,
             'status': det.get('status', ''),
             'type': det.get('type', ''),
             'episodes_count': det.get('episodes', str(self.ep_total)),
