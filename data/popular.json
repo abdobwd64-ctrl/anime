@@ -95,6 +95,21 @@
     "score": 12
   },
   {
+    "id": "yojouhan-time-machine-blues",
+    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
+    "poster": "data/posters/yojouhan-time-machine-blues.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "score": 6
+  },
+  {
     "id": "fragtime",
     "title": "انمي Fragtime مترجم اون لاين",
     "poster": "data/posters/fragtime.webp",
@@ -125,21 +140,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 6
-  },
-  {
-    "id": "yojouhan-time-machine-blues",
-    "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
-    "poster": "data/posters/yojouhan-time-machine-blues.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "كوميدي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "6",
-    "score": 5
   },
   {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
