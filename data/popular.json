@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 18
+    "score": 20
   },
   {
     "id": "one-punch-man-3",
@@ -65,6 +65,22 @@
     "score": 15
   },
   {
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
+    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "نفسي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "let-s-play-quest-darake-no-my-life",
     "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -104,22 +120,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2026",
-    "score": 14
-  },
-  {
-    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
-    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
-    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "نفسي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2026",
     "score": 14
   },
   {
@@ -167,5 +167,19 @@
     "episodes_count": "1",
     "season": "ربيع 2011",
     "score": 4
+  },
+  {
+    "id": "granblue-fantasy-the-animation-season-2",
+    "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
+    "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 3
   }
 ]
