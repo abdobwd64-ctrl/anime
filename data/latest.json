@@ -1,5 +1,12 @@
 [
   {
+    "anime_id": "nippon-sangoku",
+    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
+    "anime_poster": "data/posters/nippon-sangoku.webp",
+    "episode": "9",
+    "date": "31 مايو, 2026"
+  },
+  {
     "anime_id": "kill-ao",
     "anime_title": "انمي Kill Ao مترجم اون لاين",
     "anime_poster": "data/posters/kill-ao.webp",
@@ -26,6 +33,13 @@
     "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
     "episode": "8",
     "date": "25 مايو, 2026"
+  },
+  {
+    "anime_id": "nippon-sangoku",
+    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
+    "anime_poster": "data/posters/nippon-sangoku.webp",
+    "episode": "8",
+    "date": "24 مايو, 2026"
   },
   {
     "anime_id": "steins-gate-0",
@@ -84,13 +98,6 @@
     "date": "18 مايو, 2026"
   },
   {
-    "anime_id": "nippon-sangoku",
-    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
-    "anime_poster": "data/posters/nippon-sangoku.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026"
-  },
-  {
     "anime_id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
     "anime_title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
     "anime_poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
@@ -117,13 +124,6 @@
     "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
     "episode": "9",
     "date": "09 يونيو, 2026"
-  },
-  {
-    "anime_id": "nippon-sangoku",
-    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
-    "anime_poster": "data/posters/nippon-sangoku.webp",
-    "episode": "10",
-    "date": "07 يونيو, 2026"
   },
   {
     "anime_id": "kill-ao",

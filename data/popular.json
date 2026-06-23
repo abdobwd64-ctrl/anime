@@ -82,6 +82,19 @@
     "score": 12
   },
   {
+    "id": "nippon-sangoku",
+    "title": "انمي Nippon Sangoku مترجم اون لاين",
+    "poster": "data/posters/nippon-sangoku.webp",
+    "genres": [
+      "حربي",
+      "دراما"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 7
+  },
+  {
     "id": "fragtime",
     "title": "انمي Fragtime مترجم اون لاين",
     "poster": "data/posters/fragtime.webp",
@@ -110,19 +123,6 @@
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
-    "score": 5
-  },
-  {
-    "id": "nippon-sangoku",
-    "title": "انمي Nippon Sangoku مترجم اون لاين",
-    "poster": "data/posters/nippon-sangoku.webp",
-    "genres": [
-      "حربي",
-      "دراما"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
     "score": 5
   },
   {
