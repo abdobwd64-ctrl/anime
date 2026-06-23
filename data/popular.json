@@ -32,21 +32,6 @@
     "score": 16
   },
   {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 15
-  },
-  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
@@ -62,6 +47,21 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
+    "score": 16
+  },
+  {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
     "score": 15
   },
   {
@@ -119,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 10
+    "score": 11
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -135,7 +135,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
-    "score": 10
+    "score": 11
   },
   {
     "id": "yojouhan-time-machine-blues",
