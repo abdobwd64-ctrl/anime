@@ -257,7 +257,88 @@
           "url": "https://www.4shared.com/video/UCLuw95Diq/Anime4upcom_SG0_EP_21_HD.html"
         }
       ]
+    },
+    {
+      "number": "20",
+      "title": "الحلقة 20Steins;Gate 0",
+      "date": "23 نوفمبر, 2024",
+      "servers": [
+        {
+          "name": "d000d | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://d000d.com/e/ederkz45abth"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-wgvhj3ryz06u.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/8ZMX2yzpRgWgZ"
+        },
+        {
+          "name": "vadbam | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-mt3n1bbnd3qj.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3221346454234"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/ZEvbKjvHea/"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-og31m2ba1trn.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9roCHSjQ!LMtbDPwic0ryW1Wub89-e2-hURBRTZVqqzZakVuHtZE"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/nao1ch05clbq"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/72v1fr6y0ib1"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/og31m2ba1trn"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9roCHSjQ!LMtbDPwic0ryW1Wub89-e2-hURBRTZVqqzZakVuHtZE"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/8ZMX2yzpRgWgZ"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/ederkz45abth"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/ZEvbKjvHea/Anime4upcom_SG0_EP_20_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:02:15.109714"
+  "last_updated": "2026-06-23T16:02:22.547956"
 }
