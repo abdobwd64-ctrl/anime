@@ -89,6 +89,18 @@
     "episodes_count": "13"
   },
   {
+    "id": "isekai-quartet-movie-another-world",
+    "title": "انمي Isekai Quartet Movie: Another World مترجم اون لاين",
+    "poster": "data/posters/isekai-quartet-movie-another-world.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1"
+  },
+  {
     "id": "meitantei-conan-movie-21-karakurenai-no-love-letter",
     "title": "انمي Meitantei Conan Movie 21: Karakurenai no Love Letter مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-21-karakurenai-no-love-letter.webp",
