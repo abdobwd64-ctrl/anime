@@ -16,22 +16,6 @@
     "score": 17
   },
   {
-    "id": "beastars-final-season-part-2",
-    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
-    "poster": "data/posters/beastars-final-season-part-2.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "نفسي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 16
-  },
-  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
@@ -47,6 +31,22 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
+    "score": 17
+  },
+  {
+    "id": "beastars-final-season-part-2",
+    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/beastars-final-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2026",
     "score": 16
   },
   {
@@ -119,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 11
+    "score": 12
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -135,7 +135,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
-    "score": 11
+    "score": 12
   },
   {
     "id": "yojouhan-time-machine-blues",

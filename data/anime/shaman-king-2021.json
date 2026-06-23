@@ -2235,7 +2235,110 @@
           "url": "https://www.4shared.com/video/kwv8n0sjea/Anime4upcom_SK2021_EP_43_HD.html"
         }
       ]
+    },
+    {
+      "number": "42",
+      "title": "الحلقة 42Shaman King (2021)",
+      "date": "26 مايو, 2022",
+      "servers": [
+        {
+          "name": "sbfull | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbfull.com/e/uduidxpv13mm"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3382865890010"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/H5Ix1Sztea/"
+        },
+        {
+          "name": "dood pm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/b330xma353t7"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-eurv5ajvj2g3.html"
+        },
+        {
+          "name": "vidbam org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbam.org/embed-m5ikd2g3q57a.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/z3ZGgKgG4d8km"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-b32k1gcz67hx.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/YeN2BLaA!gzAs81wtxlTAiqaA7fANBC3qttPrs3IQ9iaVo3KD6IU"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/v3pchbm7spvt"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sbfull",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://sbfull.com/uduidxpv13mm.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/e77kyw1ivptb"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!YeN2BLaA!gzAs81wtxlTAiqaA7fANBC3qttPrs3IQ9iaVo3KD6IU"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/3ca3f2k0ye"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/b32k1gcz67hx"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/z3ZGgKgG4d8km"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/v3pchbm7spvt"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/b330xma353t7"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/H5Ix1Sztea/Anime4upcom_SK2021_EP_42_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:09:00.435122"
+  "last_updated": "2026-06-23T21:09:15.978380"
 }
