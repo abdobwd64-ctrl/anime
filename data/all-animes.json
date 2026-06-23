@@ -29,6 +29,19 @@
     "season": "شتاء 2022"
   },
   {
+    "id": "let-s-play-quest-darake-no-my-life",
+    "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
+    "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2025"
+  },
+  {
     "id": "super-no-ura-de-yani-suu-futari",
     "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",

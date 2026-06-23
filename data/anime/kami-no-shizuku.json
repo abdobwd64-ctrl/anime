@@ -342,7 +342,180 @@
           "url": "https://gofile.io/d/OvPG1I"
         }
       ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Kami no Shizuku",
+      "date": "05 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/EiYCnef3VXsTY"
+        },
+        {
+          "name": "larhu website | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=la6vsb1dw1ci"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/u7IWnCwZ#CpjvTPRkW_7InvQ4sezo9MalOwzww4KgzQg_ESwJYDA"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=LlzsSgwC6SHwt4Fs"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456240061&hash=5e4fb2678e316dc9&hd=3"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/4tywo5p40r1k"
+        },
+        {
+          "name": "uqload is | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-3dxgp5rf06q7.html"
+        },
+        {
+          "name": "dsvplay | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/yrqp01aberys"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-vyquqg7jx0f1.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/Oqhz3bKT#j-lwlL2z43MqsbCR8luzu_EtuQ2eUevQrJuoug7SxJc"
+        },
+        {
+          "name": "rubyvidhub | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://rubyvidhub.com/embed-6tpr2ikt5n04.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-eif5arfayaz1.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/vrR1iI6C#ayvRv1CNwEhwkmnAsBxvu5iInQVgsglPkeWROB6PVv4"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-6n5hlhepr6zb.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!vrR1iI6C!ayvRv1CNwEhwkmnAsBxvu5iInQVgsglPkeWROB6PVv4"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/8qlb535yzyd8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/6n5hlhepr6zb"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/YdBL7y"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/EiYCnef3VXsTY"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!u7IWnCwZ!CpjvTPRkW_7InvQ4sezo9MalOwzww4KgzQg_ESwJYDA"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/occl6hkcavon"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/4tywo5p40r1k"
+        },
+        {
+          "server": "uqload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uqload.is/3dxgp5rf06q7.html"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vyquqg7jx0f1"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/UNtBOG"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/yrqp01aberys"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/EiYCnef3VXsTY"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Oqhz3bKT!j-lwlL2z43MqsbCR8luzu_EtuQ2eUevQrJuoug7SxJc"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/tzfn4iga0kgo"
+        },
+        {
+          "server": "streamruby",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://streamruby.com/d/6tpr2ikt5n04"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/eif5arfayaz1"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/cAs7iD"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:02:41.179720"
+  "last_updated": "2026-06-23T21:02:48.764523"
 }

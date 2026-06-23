@@ -35,11 +35,25 @@
     "date": "19 يونيو, 2026"
   },
   {
+    "anime_id": "let-s-play-quest-darake-no-my-life",
+    "anime_title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
+    "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
+    "episode": "12",
+    "date": "17 ديسمبر, 2025"
+  },
+  {
     "anime_id": "kami-no-shizuku",
     "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
     "anime_poster": "data/posters/kami-no-shizuku.webp",
     "episode": "10",
     "date": "12 يونيو, 2026"
+  },
+  {
+    "anime_id": "kami-no-shizuku",
+    "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-shizuku.webp",
+    "episode": "9",
+    "date": "05 يونيو, 2026"
   },
   {
     "anime_id": "super-no-ura-de-yani-suu-futari",
@@ -52,14 +66,14 @@
     "anime_id": "super-no-ura-de-yani-suu-futari",
     "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
-    "episode": "12",
+    "episode": "8",
     "date": "04 يونيو, 2026"
   },
   {
     "anime_id": "super-no-ura-de-yani-suu-futari",
     "anime_title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
-    "episode": "11",
+    "episode": "12",
     "date": "04 يونيو, 2026"
   }
 ]
