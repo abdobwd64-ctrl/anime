@@ -141,6 +141,23 @@
     "episodes_count": "13"
   },
   {
+    "id": "dragon-ball-daima",
+    "title": "انمي Dragon Ball Daima مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-daima.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "20"
+  },
+  {
     "id": "blue-period",
     "title": "انمي Blue Period مترجم اون لاين",
     "poster": "data/posters/blue-period.webp",

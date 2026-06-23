@@ -21,6 +21,13 @@
     "date": "29 سبتمبر, 2022"
   },
   {
+    "anime_id": "dragon-ball-daima",
+    "anime_title": "انمي Dragon Ball Daima مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-ball-daima.webp",
+    "episode": "20",
+    "date": "28 فبراير, 2025"
+  },
+  {
     "anime_id": "yojouhan-time-machine-blues",
     "anime_title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "anime_poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -194,6 +201,13 @@
     "anime_poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
     "episode": "1",
     "date": "15 نوفمبر, 2025"
+  },
+  {
+    "anime_id": "mofa-gongzhu-de-xiao-fannao",
+    "anime_title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "anime_poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "episode": "14",
+    "date": "14 ديسمبر, 2025"
   },
   {
     "anime_id": "blue-period",

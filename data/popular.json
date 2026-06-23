@@ -14,6 +14,19 @@
     "score": 26
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 16
+  },
+  {
     "id": "shaman-king-flowers",
     "title": "انمي Shaman King: Flowers مترجم اون لاين",
     "poster": "data/posters/shaman-king-flowers.webp",
@@ -43,12 +56,12 @@
     "score": 16
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
     "genres": [
-      "مدرسي",
-      "موسيقي"
+      "شونين",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -80,19 +93,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 14
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 13
   },
   {
     "id": "kill-ao",
@@ -146,6 +146,24 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 12
+  },
+  {
+    "id": "dragon-ball-daima",
+    "title": "انمي Dragon Ball Daima مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-daima.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "20",
+    "score": 8
   },
   {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
@@ -212,6 +230,19 @@
     "score": 6
   },
   {
+    "id": "mofa-gongzhu-de-xiao-fannao",
+    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "score": 5
+  },
+  {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
     "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
     "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
@@ -240,19 +271,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 5
-  },
-  {
-    "id": "mofa-gongzhu-de-xiao-fannao",
-    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
-    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "16",
-    "score": 4
   },
   {
     "id": "black-clover-mahou-tei-no-ken",
