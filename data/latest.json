@@ -84,6 +84,13 @@
     "date": "26 مايو, 2022"
   },
   {
+    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "episode": "7",
+    "date": "24 مايو, 2026"
+  },
+  {
     "anime_id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "anime_title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -110,13 +117,6 @@
     "anime_poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
     "episode": "8",
     "date": "23 فبراير, 2026"
-  },
-  {
-    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
-    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
-    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
-    "episode": "11",
-    "date": "22 يونيو, 2026"
   },
   {
     "anime_id": "kami-no-shizuku",
