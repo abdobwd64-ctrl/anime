@@ -11,7 +11,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2026",
-    "score": 11
+    "score": 12
   },
   {
     "id": "kami-no-shizuku",
@@ -26,7 +26,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 11
+    "score": 12
+  },
+  {
+    "id": "let-s-play-quest-darake-no-my-life",
+    "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
+    "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2025",
+    "score": 8
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -42,20 +56,6 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022",
-    "score": 7
-  },
-  {
-    "id": "let-s-play-quest-darake-no-my-life",
-    "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
-    "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2025",
     "score": 7
   },
   {
