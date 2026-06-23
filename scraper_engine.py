@@ -52,7 +52,8 @@ class ScraperEngine:
         if self.phase == 'discover':
             return 0
         if self.phase == 'scrape' and self.total > 0:
-            return (self.current / self.total) * 100
+            c = min(self.current, self.total)
+            return (c / self.total) * 100
         if self.phase == 'save':
             return 95
         if self.phase in ('done', 'pushed'):
@@ -121,14 +122,16 @@ class ScraperEngine:
     def _scrape_all(self):
         self.phase = 'scrape'
         self.current = 0
+        self.done = 0
+        self.failed = 0
         def _scrape_wrapper(anime):
             if self._stop: return None
+            with self._lock:
+                self.current += 1
+                self.current_name = anime['name'][:45]
             try:
-                with self._lock:
-                    self.current_name = anime['name'][:45]
                 ad = self._scrape_one(anime)
                 with self._lock:
-                    self.current += 1
                     if ad is None:
                         self.failed += 1
                         self.message = f'❌ {anime["name"][:30]} فشل'
@@ -144,7 +147,6 @@ class ScraperEngine:
                 return ad if isinstance(ad, dict) else None
             except Exception as e:
                 with self._lock:
-                    self.current += 1
                     self.failed += 1
                     self.message = f'فشل: {anime["name"][:30]} - {str(e)[:60]}'
                 return None
