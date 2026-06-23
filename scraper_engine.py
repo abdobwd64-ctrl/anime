@@ -176,6 +176,19 @@ class ScraperEngine:
         url = anime['url']
         name = anime['name']
         aid = url.rstrip('/').split('/')[-1]
+        fp = os.path.join(DATA, 'anime', f'{aid}.json')
+
+        # تحقق إذا كان الأنمي مسحوب قبل كده
+        existing_eps = {}
+        if os.path.exists(fp):
+            try:
+                with open(fp, 'r', encoding='utf-8') as f:
+                    old = json.load(f)
+                for ep in old.get('episodes', []):
+                    existing_eps[str(ep.get('number', ''))] = ep
+                self.message = f'استئناف: {name} ({len(existing_eps)} حلقة موجودة)'
+            except:
+                existing_eps = {}
 
         det = get_anime_details(url)
         if not det:
@@ -186,10 +199,33 @@ class ScraperEngine:
         self.ep_total = len(ep_list)
         self.ep_progress = 0
 
+        # هيكل البيانات الأساسي
+        anime_data = {
+            'id': aid,
+            'title': det.get('title', name),
+            'url': url,
+            'poster': det.get('image', ''),
+            'status': det.get('status', ''),
+            'type': det.get('type', ''),
+            'episodes_count': det.get('episodes', str(self.ep_total)),
+            'start_date': det.get('start_date', ''),
+            'season': det.get('season', ''),
+            'genres': det.get('genres', []),
+            'story': det.get('story', ''),
+            'episodes': [],
+            'last_updated': datetime.utcnow().isoformat(),
+        }
+
         for idx, ep in enumerate(ep_list, 1):
             if self._stop: return None
             self.ep_progress = idx
-            ep_num = ep.get('number', str(idx))
+            ep_num = str(ep.get('number', str(idx)))
+
+            # تخطي الحلقات الموجودة
+            if ep_num in existing_eps:
+                eps_data.append(existing_eps[ep_num])
+                continue
+
             ep_url = ep.get('url', '')
             if not ep_url:
                 eps_data.append({'number': ep_num, 'title': ep.get('title', ''),
@@ -208,35 +244,30 @@ class ScraperEngine:
             self.ep_servers = len(srv)
             self.ep_dls = len(dls)
 
-            eps_data.append({
+            ep_data = {
                 'number': ep_num,
                 'title': ep.get('title', ''),
                 'date': pub_date,
                 'servers': [{'name': s['name'], 'embed_url': s['embed_url']} for s in srv],
                 'downloads': [{'server': d['server'], 'quality': d['quality'],
                                 'language': d['language'], 'url': d['url']} for d in dls],
-            })
+            }
+            eps_data.append(ep_data)
+
+            # حفظ بعد كل حلقة (حماية من الفشل)
+            anime_data['episodes'] = eps_data
+            with open(fp, 'w', encoding='utf-8') as f:
+                json.dump(anime_data, f, ensure_ascii=False, indent=2)
+
             time.sleep(DELAY)
 
-        anime_data = {
-            'id': aid,
-            'title': det.get('title', name),
-            'url': url,
-            'poster': det.get('image', ''),
-            'status': det.get('status', ''),
-            'type': det.get('type', ''),
-            'episodes_count': det.get('episodes', str(self.ep_total)),
-            'start_date': det.get('start_date', ''),
-            'season': det.get('season', ''),
-            'genres': det.get('genres', []),
-            'story': det.get('story', ''),
-            'episodes': eps_data,
-            'last_updated': datetime.utcnow().isoformat(),
-        }
-
-        fp = os.path.join(DATA, 'anime', f'{aid}.json')
+        anime_data['episodes'] = eps_data
         with open(fp, 'w', encoding='utf-8') as f:
             json.dump(anime_data, f, ensure_ascii=False, indent=2)
+
+        skipped = len(existing_eps)
+        if skipped:
+            self.message = f'{name}: {skipped} حلقة موجودة تم تخطيها'
         return anime_data
 
     def _save_indexes(self):
