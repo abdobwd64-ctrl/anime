@@ -24,7 +24,7 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "score": 16
+    "score": 17
   },
   {
     "id": "shaman-king-flowers",
@@ -66,7 +66,7 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "score": 14
+    "score": 15
   },
   {
     "id": "nippon-sangoku",
@@ -163,7 +163,7 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "20",
-    "score": 8
+    "score": 9
   },
   {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
@@ -198,6 +198,19 @@
     "score": 7
   },
   {
+    "id": "mofa-gongzhu-de-xiao-fannao",
+    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "score": 6
+  },
+  {
     "id": "fragtime",
     "title": "انمي Fragtime مترجم اون لاين",
     "poster": "data/posters/fragtime.webp",
@@ -228,19 +241,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 6
-  },
-  {
-    "id": "mofa-gongzhu-de-xiao-fannao",
-    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
-    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "16",
-    "score": 5
   },
   {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
