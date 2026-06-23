@@ -53,6 +53,21 @@
     "score": 12
   },
   {
+    "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
+    "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 7
+  },
+  {
     "id": "fragtime",
     "title": "انمي Fragtime مترجم اون لاين",
     "poster": "data/posters/fragtime.webp",
@@ -66,21 +81,6 @@
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
-    "score": 6
-  },
-  {
-    "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-    "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
-    "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
-    "genres": [
-      "شونين",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
     "score": 6
   }
 ]
