@@ -1,21 +1,5 @@
 [
   {
-    "id": "one-punch-man-3",
-    "title": "انمي One Punch Man 3 مترجم اون لاين",
-    "poster": "data/posters/one-punch-man-3.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "كوميدي",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2025",
-    "score": 17
-  },
-  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
@@ -31,6 +15,22 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
+    "score": 18
+  },
+  {
+    "id": "one-punch-man-3",
+    "title": "انمي One Punch Man 3 مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-3.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025",
     "score": 17
   },
   {
@@ -119,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 12
+    "score": 13
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -135,7 +135,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
-    "score": 12
+    "score": 13
   },
   {
     "id": "yojouhan-time-machine-blues",
