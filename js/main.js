@@ -53,10 +53,8 @@
     const poster = item.poster || item.anime_poster || '';
     const ep = item.episode || item.ep || '';
     const title = item.title || item.anime_title || item.name || '?';
-    const thumbStyle = poster ? `<img src="${poster}" alt="${title}">` :
-      `<div style="width:100%;height:100%;background:#7c3aed;display:flex;align-items:center;justify-content:center;font-size:2.5rem;color:rgba(255,255,255,.5);">🍥</div>`;
     card.innerHTML = `
-      <div class="thumb">${thumbStyle}
+      <div class="thumb">${poster ? `<img src="${poster}" alt="${title}">` : '<div style="width:100%;height:100%;background:var(--bg-elevated)"></div>'}
         <div class="overlay"><div class="play-btn">▶</div></div>
         ${ep ? `<span class="episode-badge">الحلقة ${ep}</span>` : ''}
       </div>
@@ -95,8 +93,8 @@
 
     document.title = data.title + ' - AnimeLek';
     document.getElementById('animeTitle').textContent = data.title;
-    document.getElementById('posterImg').src = data.poster || 'https://placehold.co/400x560/7c3aed/fff?text=Anime';
-    document.getElementById('backdropImg').src = data.poster || '';
+    document.getElementById('posterImg').src = data.poster;
+    document.getElementById('backdropImg').src = data.poster;
 
     const metaMap = { status:'الحالة', type:'النوع', episodes_count:'عدد الحلقات', start_date:'تاريخ البداية', season:'الموسم' };
     const metaContainer = document.getElementById('metaContainer');
@@ -156,6 +154,8 @@
 
     document.getElementById('epTitle').textContent = `${data.title} - الحلقة ${epNum}`;
     document.getElementById('epDate').textContent = ep.date ? `📅 ${ep.date}` : '';
+    const playerBg = document.getElementById('playerBg');
+    if (playerBg) playerBg.src = data.poster;
 
     const tabsContainer = document.getElementById('serverTabs');
     tabsContainer.innerHTML = '';
