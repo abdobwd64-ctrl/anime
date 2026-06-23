@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 42
+    "score": 43
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -96,6 +96,20 @@
     "score": 14
   },
   {
+    "id": "meikyuu-black-company",
+    "title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "poster": "data/posters/meikyuu-black-company.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021",
+    "score": 14
+  },
+  {
     "id": "granblue-fantasy-the-animation-season-2",
     "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
     "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
@@ -167,18 +181,19 @@
     "score": 14
   },
   {
-    "id": "meikyuu-black-company",
-    "title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "poster": "data/posters/meikyuu-black-company.webp",
+    "id": "steins-gate-0",
+    "title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0.webp",
     "genres": [
-      "فنتازيا",
-      "كوميدي"
+      "دراما",
+      "خيال علمي",
+      "اثارة"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2021",
-    "score": 13
+    "episodes_count": "23",
+    "season": "ربيع 2018",
+    "score": 8
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -194,21 +209,6 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022",
-    "score": 7
-  },
-  {
-    "id": "steins-gate-0",
-    "title": "انمي Steins;Gate 0 مترجم اون لاين",
-    "poster": "data/posters/steins-gate-0.webp",
-    "genres": [
-      "دراما",
-      "خيال علمي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "23",
-    "season": "ربيع 2018",
     "score": 7
   },
   {
