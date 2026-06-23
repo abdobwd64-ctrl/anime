@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 20
+    "score": 21
   },
   {
     "id": "one-punch-man-3",
@@ -50,21 +50,6 @@
     "score": 16
   },
   {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 15
-  },
-  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -78,6 +63,21 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
+    "score": 16
+  },
+  {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
     "score": 15
   },
   {
@@ -180,6 +180,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 3
+    "score": 4
   }
 ]
