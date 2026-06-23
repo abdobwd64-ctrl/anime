@@ -31,7 +31,31 @@
   /* ─── Search ─── */
   window.searchAnime = function(q) {
     if (!q || !q.trim()) return;
-    window.location.href = 'pages/anime.html?id=' + encodeURIComponent(q.trim().toLowerCase().replace(/\s+/g,'-'));
+    var isDetail = window.location.pathname.includes('/pages/anime.html');
+    if (isDetail) {
+      window.location.href = 'search.html?q=' + encodeURIComponent(q.trim());
+    } else {
+      window.location.href = 'pages/search.html?q=' + encodeURIComponent(q.trim());
+    }
+  };
+
+  window.loadSearch = async function(query) {
+    var title = document.getElementById('resultTitle');
+    if (title) title.textContent = '🔍 البحث عن: ' + query;
+    var data = await fetchJSON('../data/all-animes.json');
+    if (!data) { document.getElementById('searchResults').innerHTML = '<p style="color:var(--text-muted);text-align:center;">لا توجد بيانات</p>'; return; }
+    var results = data.filter(function(a) {
+      return a.title && a.title.toLowerCase().indexOf(query.toLowerCase()) !== -1;
+    });
+    var grid = document.getElementById('searchResults');
+    if (results.length === 0) {
+      grid.innerHTML = '<p style="color:var(--text-muted);text-align:center;">لا توجد نتائج لـ "' + query + '"</p>';
+      return;
+    }
+    results.forEach(function(item) {
+      var card = renderCard(item, 'anime.html?id=' + item.id);
+      grid.appendChild(card);
+    });
   };
 
   /* ─── Fetch helpers ─── */
