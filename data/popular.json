@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 21
+    "score": 22
   },
   {
     "id": "one-punch-man-3",
@@ -34,22 +34,6 @@
     "score": 17
   },
   {
-    "id": "beastars-final-season-part-2",
-    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
-    "poster": "data/posters/beastars-final-season-part-2.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "نفسي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 16
-  },
-  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -63,6 +47,22 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026",
+    "score": 17
+  },
+  {
+    "id": "beastars-final-season-part-2",
+    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/beastars-final-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2026",
     "score": 16
   },
   {
@@ -154,6 +154,20 @@
     "score": 7
   },
   {
+    "id": "granblue-fantasy-the-animation-season-2",
+    "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
+    "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 5
+  },
+  {
     "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -166,20 +180,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2011",
-    "score": 4
-  },
-  {
-    "id": "granblue-fantasy-the-animation-season-2",
-    "title": "انمي Granblue Fantasy The Animation Season 2 مترجم اون لاين",
-    "poster": "data/posters/granblue-fantasy-the-animation-season-2.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
     "score": 4
   }
 ]
