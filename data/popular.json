@@ -14,6 +14,19 @@
     "score": 26
   },
   {
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 13
+  },
+  {
     "id": "aishiteru-game-wo-owarasetai",
     "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -26,19 +39,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 13
-  },
-  {
-    "id": "kill-ao",
-    "title": "انمي Kill Ao مترجم اون لاين",
-    "poster": "data/posters/kill-ao.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
   },
   {
     "id": "fragtime",
