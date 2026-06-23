@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>بحث - AnimeLek</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
+      <nav class="nav">
+        <a href="../index.html">الرئيسية</a>
+        <a href="#">الأقسام</a>
+        <a href="#">الأحدث</a>
+      </nav>
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="text" placeholder="ابحث عن انمي..." id="searchInput" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <section class="section" style="padding-top:120px">
+    <div class="container">
+      <h2 id="resultTitle" class="section-title">🔍 البحث</h2>
+      <div class="anime-grid" id="searchResults"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container"><p>AnimeLek © 2026</p></div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const q = params.get('q');
+    if (q) loadSearch(q);
+  </script>
+</body>
+</html>
