@@ -28,6 +28,13 @@
     "date": "28 سبتمبر, 2022"
   },
   {
+    "anime_id": "one-punch-man-3",
+    "anime_title": "انمي One Punch Man 3 مترجم اون لاين",
+    "anime_poster": "data/posters/one-punch-man-3.webp",
+    "episode": "12",
+    "date": "28 ديسمبر, 2025"
+  },
+  {
     "anime_id": "meitantei-conan-movie-15-chinmoku-no-quarter",
     "anime_title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
     "anime_poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
@@ -61,6 +68,13 @@
     "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
     "episode": "7",
     "date": "12 نوفمبر, 2025"
+  },
+  {
+    "anime_id": "beastars-final-season-part-2",
+    "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/beastars-final-season-part-2.webp",
+    "episode": "12",
+    "date": "08 مارس, 2026"
   },
   {
     "anime_id": "kami-no-shizuku",

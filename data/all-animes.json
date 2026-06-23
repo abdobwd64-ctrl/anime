@@ -14,6 +14,21 @@
     "season": "ربيع 2011"
   },
   {
+    "id": "beastars-final-season-part-2",
+    "title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/beastars-final-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "yojouhan-time-machine-blues",
     "title": "انمي Yojouhan Time Machine Blues مترجم اون لاين",
     "poster": "data/posters/yojouhan-time-machine-blues.webp",
@@ -27,6 +42,21 @@
     "type": "أونا",
     "episodes_count": "6",
     "season": "شتاء 2022"
+  },
+  {
+    "id": "one-punch-man-3",
+    "title": "انمي One Punch Man 3 مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-3.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
   },
   {
     "id": "let-s-play-quest-darake-no-my-life",
