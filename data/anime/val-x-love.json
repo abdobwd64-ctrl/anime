@@ -1268,6 +1268,121 @@
           "url": "https://www.4shared.com/video/FFPT6SXniq/Anime4upcom_VXL_EP_02_HD.html"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Val x Love",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1241384422106"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1hl2FLjKLmY00jcWircm0iHgqUk54wxCq/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/7NB_wGUfea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!E0hghShI!IK5RRgZVUyR3qUAYcJA9YJiyTbPZDXo7jjsTlIUTC1Q"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/rgh1fi0oxftp"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1241399233242"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1b6ybp6ecucXFmCwqEfy54EvJq8oXTzpS/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1b6ybp6ecucXFmCwqEfy54EvJq8oXTzpS&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!5kpR2KoC!NONjJrlVX-wRMxdc2ThQImPFSABm-laNwaL6zbaLNr4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/5fx951yofi7o"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/jSHIMXmCs0A/%5BAnime4up.com%5D_VXL_EP_01_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/6o9vp6i94ef2"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/gss6gvilye2m"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1hl2FLjKLmY00jcWircm0iHgqUk54wxCq&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!E0hghShI!IK5RRgZVUyR3qUAYcJA9YJiyTbPZDXo7jjsTlIUTC1Q"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2x0r2ocwpl9g"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/OhQ6sfcV7xQ/%5BAnime4up.com%5D_VXL_EP_01_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/rgh1fi0oxftp"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/m8r11t9msgrv"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/7NB_wGUfea/Anime4upcom_VXL_EP_01_HD.html"
+        }
+      ]
     }
   ],
   "last_updated": "2026-06-23T09:46:26.967642"
