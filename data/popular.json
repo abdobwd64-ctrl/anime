@@ -43,6 +43,19 @@
     "score": 16
   },
   {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 14
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -56,12 +69,25 @@
     "score": 14
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
     "genres": [
-      "مدرسي",
-      "موسيقي"
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 14
+  },
+  {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -94,32 +120,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "score": 13
-  },
-  {
-    "id": "blue-period",
-    "title": "انمي Blue Period مترجم اون لاين",
-    "poster": "data/posters/blue-period.webp",
-    "genres": [
-      "دراما",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 13
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 12
   },
   {
     "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
@@ -242,6 +242,19 @@
     "score": 5
   },
   {
+    "id": "mofa-gongzhu-de-xiao-fannao",
+    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
+    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "score": 4
+  },
+  {
     "id": "black-clover-mahou-tei-no-ken",
     "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
     "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
@@ -254,19 +267,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 4
-  },
-  {
-    "id": "mofa-gongzhu-de-xiao-fannao",
-    "title": "انمي Mofa Gongzhu de Xiao Fannao مترجم اون لاين",
-    "poster": "data/posters/mofa-gongzhu-de-xiao-fannao.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "16",
-    "score": 3
   },
   {
     "id": "isekai-quartet-movie-another-world",
