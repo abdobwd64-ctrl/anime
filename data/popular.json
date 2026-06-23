@@ -70,18 +70,6 @@
     "score": 13
   },
   {
-    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
-    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
-    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
-  },
-  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -92,7 +80,19 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
-    "score": 11
+    "score": 12
+  },
+  {
+    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
+    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
+    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 12
   },
   {
     "id": "fragtime",
