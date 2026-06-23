@@ -56,6 +56,13 @@
     "date": "22 مايو, 2026"
   },
   {
+    "anime_id": "one-punch-man-3",
+    "anime_title": "انمي One Punch Man 3 مترجم اون لاين",
+    "anime_poster": "data/posters/one-punch-man-3.webp",
+    "episode": "11",
+    "date": "21 ديسمبر, 2025"
+  },
+  {
     "anime_id": "let-s-play-quest-darake-no-my-life",
     "anime_title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
     "anime_poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
@@ -74,6 +81,13 @@
     "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
     "anime_poster": "data/posters/beastars-final-season-part-2.webp",
     "episode": "12",
+    "date": "08 مارس, 2026"
+  },
+  {
+    "anime_id": "beastars-final-season-part-2",
+    "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/beastars-final-season-part-2.webp",
+    "episode": "11",
     "date": "08 مارس, 2026"
   },
   {
