@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 46
+    "score": 47
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -193,7 +193,7 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018",
-    "score": 11
+    "score": 12
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -298,6 +298,19 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "خريف 2018",
+    "score": 2
+  },
+  {
+    "id": "shin-tennis-no-ouji-sama-u-17-world-cup",
+    "title": "انمي Shin Tennis no Ouji-sama: U-17 World Cup مترجم اون لاين",
+    "poster": "data/posters/shin-tennis-no-ouji-sama-u-17-world-cup.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022",
     "score": 2
   }
 ]

@@ -279,5 +279,17 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "خريف 2018"
+  },
+  {
+    "id": "shin-tennis-no-ouji-sama-u-17-world-cup",
+    "title": "انمي Shin Tennis no Ouji-sama: U-17 World Cup مترجم اون لاين",
+    "poster": "data/posters/shin-tennis-no-ouji-sama-u-17-world-cup.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   }
 ]
