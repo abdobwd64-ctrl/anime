@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 38
+    "score": 40
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -178,7 +178,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 10
+    "score": 11
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -213,21 +213,6 @@
     "score": 5
   },
   {
-    "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
-    "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
-    "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
-    "genres": [
-      "غموض",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "ربيع 2011",
-    "score": 4
-  },
-  {
     "id": "steins-gate-0",
     "title": "انمي Steins;Gate 0 مترجم اون لاين",
     "poster": "data/posters/steins-gate-0.webp",
@@ -240,6 +225,21 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018",
+    "score": 5
+  },
+  {
+    "id": "meitantei-conan-movie-15-chinmoku-no-quarter",
+    "title": "انمي Meitantei Conan Movie 15: Chinmoku no Quarter مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-15-chinmoku-no-quarter.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2011",
     "score": 4
   },
   {
