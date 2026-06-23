@@ -450,7 +450,96 @@
           "url": "http://vidmoly.me/w/6mel7cshg141"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الأونا 7Beastars Final Season Part 2",
+      "date": "08 مارس, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/XbO9QwUYq3YSa"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0zgmCLpA#rtfUkxLnJXFSm3B9M2iobgUVHvNwXQ9dDCqyFVtH5IM"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-w8ivniepqytq.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/xjltf52bevsf"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/a4lofbogs5sw"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-pnbhec8blrjx.html"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-gfwaxsuyqzsu.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-gd2p707m50sd.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0zgmCLpA!rtfUkxLnJXFSm3B9M2iobgUVHvNwXQ9dDCqyFVtH5IM"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/XbO9QwUYq3YSa"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/gfwaxsuyqzsu"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/xjltf52bevsf"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/XOSzpV"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/gd2p707m50sd"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/a4lofbogs5sw"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/w8ivniepqytq"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T21:05:00.116326"
+  "last_updated": "2026-06-23T21:05:13.012092"
 }

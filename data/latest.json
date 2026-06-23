@@ -35,13 +35,6 @@
     "date": "28 سبتمبر, 2022"
   },
   {
-    "anime_id": "one-punch-man-3",
-    "anime_title": "انمي One Punch Man 3 مترجم اون لاين",
-    "anime_poster": "data/posters/one-punch-man-3.webp",
-    "episode": "12",
-    "date": "28 ديسمبر, 2025"
-  },
-  {
     "anime_id": "sousei-no-aquarion-myth-of-emotions",
     "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -63,11 +56,25 @@
     "date": "26 نوفمبر, 2025"
   },
   {
+    "anime_id": "one-punch-man-3",
+    "anime_title": "انمي One Punch Man 3 مترجم اون لاين",
+    "anime_poster": "data/posters/one-punch-man-3.webp",
+    "episode": "7",
+    "date": "23 نوفمبر, 2025"
+  },
+  {
     "anime_id": "kami-no-shizuku",
     "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
     "anime_poster": "data/posters/kami-no-shizuku.webp",
     "episode": "7",
     "date": "22 مايو, 2026"
+  },
+  {
+    "anime_id": "sousei-no-aquarion-myth-of-emotions",
+    "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "episode": "11",
+    "date": "20 مارس, 2025"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
@@ -101,7 +108,7 @@
     "anime_id": "beastars-final-season-part-2",
     "anime_title": "انمي Beastars Final Season Part 2 مترجم اون لاين",
     "anime_poster": "data/posters/beastars-final-season-part-2.webp",
-    "episode": "12",
+    "episode": "7",
     "date": "08 مارس, 2026"
   },
   {
