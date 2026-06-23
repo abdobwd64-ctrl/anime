@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnimeLek - احدث الانمي</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="container header-inner">
+      <a href="#" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
+      <nav class="nav">
+        <a href="index.html" class="active">الرئيسية</a>
+        <a href="#">الأقسام</a>
+        <a href="#">الأحدث</a>
+      </nav>
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="text" placeholder="ابحث عن انمي..." id="searchInput">
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <!-- Hero -->
+  <section class="hero">
+    <div class="container">
+      <h1>اكتشف عالم الأنمي</h1>
+      <p>أحدث الحلقات وأشهر المسلسلات العربية المترجمة بجودة عالية</p>
+      <div class="search-box">
+        <input type="text" placeholder="ابحث عن انمي مفضل...">
+        <button>بحث</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Episodes -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">أحدث الحلقات <span class="badge">جديد</span></h2>
+        <a href="#" class="view-all">عرض الكل ←</a>
+      </div>
+      <div class="anime-grid" id="latestGrid">
+        <!-- Cards injected by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Popular Animes -->
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">🔥 أشهر الأنمي</h2>
+        <a href="#" class="view-all">عرض الكل ←</a>
+      </div>
+      <div class="anime-grid" id="popularGrid">
+        <!-- Cards injected by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>AnimeLek © 2026 — جميع الحقوق محفوظة</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    renderSampleCards('latestGrid', [
+      { title: 'ون بيس', ep: 'الحلقة 1122', img: '', url: 'pages/anime.html' },
+      { title: 'هنتر x هنتر', ep: 'الحلقة 148', img: '', url: 'pages/anime.html' },
+      { title: 'اتاك على العمالقة', ep: 'الحلقة 87', img: '', url: 'pages/anime.html' },
+      { title: 'ناروتو شيبودن', ep: 'الحلقة 500', img: '', url: 'pages/anime.html' },
+      { title: 'بيرسيرك', ep: 'الحلقة 25', img: '', url: 'pages/anime.html' },
+      { title: 'فين لاند ساغا', ep: 'الحلقة 24', img: '', url: 'pages/anime.html' },
+      { title: 'جوجوتسو كايسن', ep: 'الحلقة 47', img: '', url: 'pages/anime.html' },
+      { title: 'كيميتسو نو يايبا', ep: 'الحلقة 63', img: '', url: 'pages/anime.html' },
+    ]);
+    renderSampleCards('popularGrid', [
+      { title: 'ديث نوت', ep: 'الحلقة 37', img: '', url: 'pages/anime.html' },
+      { title: 'كود غياس', ep: 'الحلقة 50', img: '', url: 'pages/anime.html' },
+      { title: 'ستينز;غيت', ep: 'الحلقة 24', img: '', url: 'pages/anime.html' },
+      { title: 'فول ميتال بانكيمست', ep: 'الحلقة 64', img: '', url: 'pages/anime.html' },
+    ]);
+  </script>
+</body>
+</html>
