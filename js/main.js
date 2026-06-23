@@ -33,12 +33,8 @@
   /* ─── Search ─── */
   window.searchAnime = function(q) {
     if (!q || !q.trim()) return;
-    var isDetail = window.location.pathname.includes('/pages/anime.html');
-    if (isDetail) {
-      window.location.href = 'search.html?q=' + encodeURIComponent(q.trim());
-    } else {
-      window.location.href = 'pages/search.html?q=' + encodeURIComponent(q.trim());
-    }
+    var depth = window.location.pathname.includes('/pages/') ? '../' : '';
+    window.location.href = depth + 'pages/search.html?q=' + encodeURIComponent(q.trim());
   };
 
   window.loadSearch = async function(query) {
