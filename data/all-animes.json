@@ -1,0 +1,93 @@
+[
+  {
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
+  },
+  {
+    "id": "aishiteru-game-wo-owarasetai",
+    "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
+  },
+  {
+    "id": "level-1-dakedo-unique-skill-de-saikyou-desu",
+    "title": "انمي Level 1 dakedo Unique Skill de Saikyou desu مترجم اون لاين",
+    "poster": "data/posters/level-1-dakedo-unique-skill-de-saikyou-desu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
+  },
+  {
+    "id": "shaman-king-flowers",
+    "title": "انمي Shaman King: Flowers مترجم اون لاين",
+    "poster": "data/posters/shaman-king-flowers.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13"
+  },
+  {
+    "id": "fragtime",
+    "title": "انمي Fragtime مترجم اون لاين",
+    "poster": "data/posters/fragtime.webp",
+    "genres": [
+      "رومانسي",
+      "خيال علمي",
+      "مدرسي",
+      "شريحة من الحياة",
+      "شوجو آي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1"
+  },
+  {
+    "id": "steins-gate-0",
+    "title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23"
+  },
+  {
+    "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
+    "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
+  }
+]

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnimeLek</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
+      <nav class="nav">
+        <a href="../index.html">الرئيسية</a>
+        <a href="#">الأقسام</a>
+        <a href="#">الأحدث</a>
+      </nav>
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="text" placeholder="ابحث عن انمي..." onkeydown="if(event.key==='Enter') searchAnime(this.value)">
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <div class="watch-page">
+    <div class="container">
+      <div id="breadcrumb" style="padding:16px 0;font-size:.85rem;color:var(--text-muted);display:flex;gap:8px;align-items:center;"></div>
+      <h1 id="epTitle" style="font-size:1.1rem;font-weight:700;margin-bottom:4px;"></h1>
+      <p id="epDate" style="font-size:.82rem;color:var(--text-muted);margin-bottom:16px;"></p>
+
+      <div class="player-wrapper">
+        <div class="player-placeholder" id="playerPlaceholder">
+          <img id="playerBg" src="" alt="">
+          <div class="big-play">▶</div>
+          <span style="font-size:.9rem;z-index:1;">اختر سيرفر للمشاهدة</span>
+        </div>
+        <iframe id="playerIframe" style="display:none;" allowfullscreen></iframe>
+      </div>
+
+      <h3 style="font-size:.95rem;font-weight:600;margin-bottom:12px;">🖥 اختر السيرفر</h3>
+      <div class="server-tabs" id="serverTabs"></div>
+
+      <div style="display:flex;gap:12px;margin:20px 0;flex-wrap:wrap;" id="navButtons"></div>
+
+      <h2 class="section-title" style="margin-bottom:16px;">📥 روابط التحميل</h2>
+      <div style="overflow-x:auto;">
+        <table class="download-table">
+          <thead><tr><th>السيرفر</th><th>الجودة</th><th>اللغة</th><th></th></tr></thead>
+          <tbody id="downloadBody"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container"><p>AnimeLek © 2026</p></div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    const ep = params.get('ep');
+    if (id && ep) loadEpisode(id, ep);
+  </script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnimeLek - احدث الانمي</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
+      <nav class="nav">
+        <a href="index.html" class="active">الرئيسية</a>
+        <a href="#">الأقسام</a>
+        <a href="#">الأحدث</a>
+      </nav>
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="text" placeholder="ابحث عن انمي..." id="searchInput" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h1>اكتشف عالم الأنمي</h1>
+      <p>أحدث الحلقات وأشهر المسلسلات العربية المترجمة بجودة عالية</p>
+      <div class="search-box">
+        <input type="text" placeholder="ابحث عن انمي مفضل..." id="heroSearch" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
+        <button onclick="searchAnime(document.getElementById('heroSearch').value)">بحث</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">أحدث الحلقات <span class="badge">جديد</span></h2>
+      </div>
+      <div class="anime-grid" id="latestGrid"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">🔥 أشهر الأنمي</h2>
+      </div>
+      <div class="anime-grid" id="popularGrid"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container"><p>AnimeLek © 2026</p></div>
+  </footer>
+
+  <script src="js/main.js"></script>
+  <script>
+    loadData();
+  </script>
+</body>
+</html>

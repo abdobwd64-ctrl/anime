@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AnimeLek</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="header">
+    <div class="container header-inner">
+      <a href="../index.html" class="logo"><span class="logo-icon">🍥</span>AnimeLek</a>
+      <nav class="nav">
+        <a href="../index.html">الرئيسية</a>
+        <a href="#">الأقسام</a>
+        <a href="#">الأحدث</a>
+      </nav>
+      <div class="search-box">
+        <span class="icon">🔍</span>
+        <input type="text" placeholder="ابحث عن انمي..." id="searchInput" onkeydown="if(event.key==='Enter') searchAnime(this.value)">
+      </div>
+      <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">🌙</button>
+    </div>
+  </header>
+
+  <div class="anime-detail-hero" id="animeHero">
+    <div class="backdrop"><img id="backdropImg" src="" alt=""></div>
+    <div class="container">
+      <div class="detail-layout">
+        <div class="detail-poster"><img id="posterImg" src="" alt=""></div>
+        <div class="detail-info">
+          <h1 id="animeTitle"></h1>
+          <div class="detail-meta" id="metaContainer"></div>
+          <div class="genre-tags" id="genreContainer"></div>
+          <div class="story-box" id="storyBox"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">📺 الحلقات <span class="badge" id="epCount"></span></h2>
+      </div>
+      <div class="episodes-grid" id="episodesList"></div>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container"><p>AnimeLek © 2026</p></div>
+  </footer>
+
+  <script src="../js/main.js"></script>
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const id = params.get('id');
+    if (id) loadAnime(id);
+  </script>
+</body>
+</html>
