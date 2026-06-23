@@ -1,5 +1,12 @@
 [
   {
+    "anime_id": "kill-ao",
+    "anime_title": "انمي Kill Ao مترجم اون لاين",
+    "anime_poster": "data/posters/kill-ao.webp",
+    "episode": "8",
+    "date": "30 مايو, 2026"
+  },
+  {
     "anime_id": "aishiteru-game-wo-owarasetai",
     "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -33,13 +40,6 @@
     "anime_poster": "data/posters/kill-ao.webp",
     "episode": "11",
     "date": "20 يونيو, 2026"
-  },
-  {
-    "anime_id": "kill-ao",
-    "anime_title": "انمي Kill Ao مترجم اون لاين",
-    "anime_poster": "data/posters/kill-ao.webp",
-    "episode": "10",
-    "date": "13 يونيو, 2026"
   },
   {
     "anime_id": "fragtime",
