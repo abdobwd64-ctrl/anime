@@ -129,8 +129,7 @@ class ScraperEngine:
                 self.failed += 1
                 self.message = f'فشل: {anime["name"][:30]} - {str(e)[:60]}'
             time.sleep(DELAY)
-            if i % 5 == 0:
-                self._push_incremental(i, self.done + self.failed)
+            self._push_incremental(i, self.done + self.failed)
 
     def _push_incremental(self, count, done):
         if not self.gh_token:
