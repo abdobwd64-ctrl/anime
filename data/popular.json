@@ -14,25 +14,25 @@
     "score": 26
   },
   {
-    "id": "ensemble-stars",
-    "title": "انمي Ensemble Stars! مترجم اون لاين",
-    "poster": "data/posters/ensemble-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "score": 17
-  },
-  {
     "id": "blue-lock",
     "title": "انمي Blue Lock مترجم اون لاين",
     "poster": "data/posters/blue-lock.webp",
     "genres": [
       "شونين",
       "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "score": 18
+  },
+  {
+    "id": "ensemble-stars",
+    "title": "انمي Ensemble Stars! مترجم اون لاين",
+    "poster": "data/posters/ensemble-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -134,20 +134,6 @@
     "score": 12
   },
   {
-    "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
-    "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
-    "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
-    "genres": [
-      "مدرسي",
-      "شريحة من الحياة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "score": 12
-  },
-  {
     "id": "dragon-ball-daima",
     "title": "انمي Dragon Ball Daima مترجم اون لاين",
     "poster": "data/posters/dragon-ball-daima.webp",
@@ -163,7 +149,21 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "20",
-    "score": 11
+    "score": 12
+  },
+  {
+    "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
+    "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "score": 12
   },
   {
     "id": "mofa-gongzhu-de-xiao-fannao",
@@ -176,7 +176,7 @@
     "status": "مكتمل",
     "type": "أونا",
     "episodes_count": "16",
-    "score": 8
+    "score": 9
   },
   {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
@@ -227,6 +227,20 @@
     "score": 6
   },
   {
+    "id": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
+    "title": "انمي Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka مترجم اون لاين",
+    "poster": "data/posters/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "score": 6
+  },
+  {
     "id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",
     "title": "انمي Dragon Ball Z Movie 02: Kono Yo de Ichiban Tsuyoi Yatsu مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu.webp",
@@ -270,20 +284,6 @@
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
-    "score": 5
-  },
-  {
-    "id": "saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka",
-    "title": "انمي Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka مترجم اون لاين",
-    "poster": "data/posters/saigo-ni-hitotsu-dake-onegai-shitemo-yoroshii-deshou-ka.webp",
-    "genres": [
-      "أكشن",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "13",
     "score": 5
   },
   {
