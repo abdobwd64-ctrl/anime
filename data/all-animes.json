@@ -1,5 +1,21 @@
 [
   {
+    "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
+    "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
+    "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1"
+  },
+  {
     "id": "ensemble-stars",
     "title": "انمي Ensemble Stars! مترجم اون لاين",
     "poster": "data/posters/ensemble-stars.webp",
@@ -101,6 +117,18 @@
     "episodes_count": "13"
   },
   {
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
+  },
+  {
     "id": "isekai-quartet-movie-another-world",
     "title": "انمي Isekai Quartet Movie: Another World مترجم اون لاين",
     "poster": "data/posters/isekai-quartet-movie-another-world.webp",
@@ -153,6 +181,19 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "23"
+  },
+  {
+    "id": "love-live-nijigasaki-gakuen-school-idol-doukoukai",
+    "title": "انمي Love Live! Nijigasaki Gakuen School Idol Doukoukai مترجم اون لاين",
+    "poster": "data/posters/love-live-nijigasaki-gakuen-school-idol-doukoukai.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف"
   },
   {
     "id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",

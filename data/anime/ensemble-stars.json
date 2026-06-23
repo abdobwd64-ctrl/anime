@@ -96,7 +96,68 @@
           "url": "https://letsupload.co/3tEdm/[Anime4up.com]_ES_EP_15_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "14",
+      "title": "الحلقة 14Ensemble Stars!",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1h-kAL-XJKCCWSfD26hvmu5Pdq4V2UcT4/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/L5XzMDG4vzGXm"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!mDJUxYKA!P0_vXtywr4PbTc1t0QZaGVUFmX3odnEjtvVedPXW8yE"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/eihg8u7g9jg7"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1h-kAL-XJKCCWSfD26hvmu5Pdq4V2UcT4&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!mDJUxYKA!P0_vXtywr4PbTc1t0QZaGVUFmX3odnEjtvVedPXW8yE"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/usey18ry32cz"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/eihg8u7g9jg7"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/creu1ivqk8iz"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/L5XzMDG4vzGXm"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-23T16:20:36.357220"
+  "last_updated": "2026-06-23T16:20:56.062797"
 }
