@@ -1,5 +1,19 @@
 [
   {
+    "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
+    "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
+    "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1"
+  },
+  {
     "id": "kill-ao",
     "title": "انمي Kill Ao مترجم اون لاين",
     "poster": "data/posters/kill-ao.webp",
