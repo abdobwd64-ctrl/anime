@@ -91,6 +91,13 @@
     "date": "23 مارس, 2026"
   },
   {
+    "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
+    "anime_title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
+    "anime_poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
+    "episode": "8",
+    "date": "23 فبراير, 2026"
+  },
+  {
     "anime_id": "kami-no-shizuku",
     "anime_title": "انمي Kami no Shizuku مترجم اون لاين",
     "anime_poster": "data/posters/kami-no-shizuku.webp",
@@ -117,13 +124,6 @@
     "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
     "episode": "15",
     "date": "17 يونيو, 2026"
-  },
-  {
-    "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
-    "anime_title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
-    "anime_poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
-    "episode": "11",
-    "date": "16 مارس, 2026"
   },
   {
     "anime_id": "let-s-play-quest-darake-no-my-life",
@@ -201,6 +201,13 @@
     "anime_poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
     "episode": "7",
     "date": "04 يونيو, 2026"
+  },
+  {
+    "anime_id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
+    "anime_title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
+    "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
+    "episode": "13",
+    "date": "03 يونيو, 2026"
   },
   {
     "anime_id": "osananajimi-to-wa-love-comedy-ni-naranai",
