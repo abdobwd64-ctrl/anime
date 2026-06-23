@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "52",
     "season": "ربيع 2021",
-    "score": 40
+    "score": 41
   },
   {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -178,7 +178,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 11
+    "score": 12
   },
   {
     "id": "yojouhan-time-machine-blues",
@@ -197,6 +197,21 @@
     "score": 7
   },
   {
+    "id": "steins-gate-0",
+    "title": "انمي Steins;Gate 0 مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "ربيع 2018",
+    "score": 6
+  },
+  {
     "id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram",
     "title": "انمي Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram مترجم اون لاين",
     "poster": "data/posters/fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram.webp",
@@ -210,21 +225,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2020",
-    "score": 5
-  },
-  {
-    "id": "steins-gate-0",
-    "title": "انمي Steins;Gate 0 مترجم اون لاين",
-    "poster": "data/posters/steins-gate-0.webp",
-    "genres": [
-      "دراما",
-      "خيال علمي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "23",
-    "season": "ربيع 2018",
     "score": 5
   },
   {
