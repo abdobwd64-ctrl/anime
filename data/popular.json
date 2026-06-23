@@ -68,6 +68,20 @@
     "score": 12
   },
   {
+    "id": "shaman-king-flowers",
+    "title": "انمي Shaman King: Flowers مترجم اون لاين",
+    "poster": "data/posters/shaman-king-flowers.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "score": 6
+  },
+  {
     "id": "fragtime",
     "title": "انمي Fragtime مترجم اون لاين",
     "poster": "data/posters/fragtime.webp",
@@ -82,19 +96,5 @@
     "type": "فيلم",
     "episodes_count": "1",
     "score": 6
-  },
-  {
-    "id": "shaman-king-flowers",
-    "title": "انمي Shaman King: Flowers مترجم اون لاين",
-    "poster": "data/posters/shaman-king-flowers.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "score": 5
   }
 ]
