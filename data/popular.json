@@ -15,19 +15,6 @@
     "score": 27
   },
   {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021",
-    "score": 25
-  },
-  {
     "id": "hajime-no-ippo-new-challenger",
     "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
@@ -39,7 +26,20 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 24
+    "score": 25
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2021",
+    "score": 25
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -161,7 +161,7 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
-    "score": 12
+    "score": 13
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
