@@ -1304,7 +1304,82 @@
           "url": "https://www.4shared.com/video/zpweWmatea/Anime4upcom_HSS_EP_18_HD.html"
         }
       ]
+    },
+    {
+      "number": "17",
+      "title": "الحلقة 17Haikyuu!! Second Season",
+      "date": "03 أكتوبر, 2020",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/E6ApVkmLiq.html"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1KfNcJdsxECQKCz63ngEXJufI4tTJdm3B/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed-6gakwjm1477c.html"
+        },
+        {
+          "name": "jawcloud | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://jawcloud.co/embed-t8bdimiwphzv.html"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28sw2"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-pg9syzicswvb.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2013130394288"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-ugii4c14eu9b.html"
+        },
+        {
+          "name": "vidfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidfast.co/embed-qpuguq27t225.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/E6ApVkmLiq/XSAnimecom_HSS_EP17_BD-FHD.html"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ujxhyru8pmq4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/file/d/1KfNcJdsxECQKCz63ngEXJufI4tTJdm3B/view?usp=sharing"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/28sw2/[XSAnime.com]_HSS_EP17_[BD-FHD].mp4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/pg9syzicswvb"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:14:20.926715"
+  "last_updated": "2026-06-24T21:14:27.834458"
 }
