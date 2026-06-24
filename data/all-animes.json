@@ -992,6 +992,18 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "potion-wagami-wo-tasukeru",
+    "title": "انمي Potion, Wagami wo Tasukeru مترجم اون لاين",
+    "poster": "data/posters/potion-wagami-wo-tasukeru.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "mahouka-koukou-no-rettousei-tsuioku-hen",
     "title": "انمي Mahouka Koukou no Rettousei: Tsuioku-hen مترجم اون لاين",
     "poster": "data/posters/mahouka-koukou-no-rettousei-tsuioku-hen.webp",
