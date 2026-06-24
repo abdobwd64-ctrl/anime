@@ -8,22 +8,6 @@
     "date_sort": "2026-06-22"
   },
   {
-    "anime_id": "koori-no-jouheki",
-    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
-    "anime_poster": "data/posters/koori-no-jouheki.webp",
-    "episode": "12",
-    "date": "18 يونيو, 2026",
-    "date_sort": "2026-06-18"
-  },
-  {
-    "anime_id": "koori-no-jouheki",
-    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
-    "anime_poster": "data/posters/koori-no-jouheki.webp",
-    "episode": "11",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -80,6 +64,14 @@
     "date_sort": "2026-05-24"
   },
   {
+    "anime_id": "koori-no-jouheki",
+    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
+    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "episode": "8",
+    "date": "21 مايو, 2026",
+    "date_sort": "2026-05-21"
+  },
+  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -126,6 +118,14 @@
     "episode": "7",
     "date": "16 مايو, 2026",
     "date_sort": "2026-05-16"
+  },
+  {
+    "anime_id": "koori-no-jouheki",
+    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
+    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "episode": "7",
+    "date": "14 مايو, 2026",
+    "date_sort": "2026-05-14"
   },
   {
     "anime_id": "boku-no-hero-academia-more",
