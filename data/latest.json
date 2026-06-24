@@ -192,6 +192,14 @@
     "date_sort": "2026-06-19"
   },
   {
+    "anime_id": "tensei-shitara-slime-datta-ken-4th-season",
+    "anime_title": "انمي Tensei shitara Slime Datta Ken 4th Season مترجم اون لاين",
+    "anime_poster": "data/posters/tensei-shitara-slime-datta-ken-4th-season.webp",
+    "episode": "11",
+    "date": "19 يونيو, 2026",
+    "date_sort": "2026-06-19"
+  },
+  {
     "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Mushishi مترجم اون لاين",
     "anime_poster": "data/posters/mushishi.webp",
     "episode": "23",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
-    "anime_id": "mushishi",
-    "anime_title": "انمي Mushishi مترجم اون لاين",
-    "anime_poster": "data/posters/mushishi.webp",
-    "episode": "22",
     "date": "11 يونيو, 2026",
     "date_sort": "2026-06-11"
   }
