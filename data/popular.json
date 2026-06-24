@@ -33,21 +33,6 @@
     "score": 58
   },
   {
-    "id": "captain-tsubasa-2018",
-    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
-    "poster": "data/posters/captain-tsubasa-2018.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2018",
-    "score": 52
-  },
-  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -62,6 +47,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2020",
+    "score": 53
+  },
+  {
+    "id": "captain-tsubasa-2018",
+    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
+    "poster": "data/posters/captain-tsubasa-2018.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2018",
     "score": 52
   },
   {

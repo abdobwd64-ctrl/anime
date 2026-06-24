@@ -1080,6 +1080,22 @@
     "season": "خريف 2021"
   },
   {
+    "id": "dragon-ball-z-movie-03-chikyuu-marugoto-choukessen",
+    "title": "انمي Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-03-chikyuu-marugoto-choukessen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1990"
+  },
+  {
     "id": "mobile-suit-gundam-the-witch-from-mercury",
     "title": "انمي Mobile Suit Gundam: The Witch from Mercury مترجم اون لاين",
     "poster": "data/posters/mobile-suit-gundam-the-witch-from-mercury.webp",
