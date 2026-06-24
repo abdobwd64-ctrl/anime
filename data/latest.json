@@ -280,14 +280,6 @@
     "date_sort": "2026-03-19"
   },
   {
-    "anime_id": "champignon-no-majo",
-    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
-    "anime_poster": "data/posters/champignon-no-majo.webp",
-    "episode": "11",
-    "date": "12 مارس, 2026",
-    "date_sort": "2026-03-12"
-  },
-  {
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
@@ -307,6 +299,14 @@
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
+    "episode": "8",
+    "date": "19 فبراير, 2026",
+    "date_sort": "2026-02-19"
+  },
+  {
+    "anime_id": "champignon-no-majo",
+    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
+    "anime_poster": "data/posters/champignon-no-majo.webp",
     "episode": "8",
     "date": "19 فبراير, 2026",
     "date_sort": "2026-02-19"
