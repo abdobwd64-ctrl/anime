@@ -269,6 +269,20 @@
     "score": 16
   },
   {
+    "id": "ouran-koukou-host-club",
+    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "poster": "data/posters/ouran-koukou-host-club.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2006",
+    "score": 16
+  },
+  {
     "id": "enen-no-shouboutai-san-no-shou-part-2",
     "title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
     "poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
@@ -326,20 +340,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 15
-  },
-  {
-    "id": "ouran-koukou-host-club",
-    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
-    "poster": "data/posters/ouran-koukou-host-club.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 2006",
     "score": 15
   },
   {
