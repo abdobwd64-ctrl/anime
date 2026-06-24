@@ -199,7 +199,100 @@
           "url": "https://www.4shared.com/video/3C-nMD_xfa/Anime4uptv_FELEIT_EP_02_BD-FHD.html"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Fate/Extra: Last Encore - Illustrias Tendousetsu",
+      "date": "10 ديسمبر, 2022",
+      "servers": [
+        {
+          "name": "play cdngo | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://play.cdngo.me/hd.php?code=jalfi15ruasg"
+        },
+        {
+          "name": "sblongvu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblongvu.com/e/yyakvnc03hmv"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/0h16wV6Zjq/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4085313768154"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/eu0ie74i5udp"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-icoky3d0j2uu.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-os3bw62v9fxu.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/mA0TGRZA!YpRSxCF4VjQYglkVJBBJBkZ1-BggYI7FGSVPnv71oZc"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/n7j0vabuntq0"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sblongvu",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblongvu.com/yyakvnc03hmv.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/ny1b18i2d7h3"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!mA0TGRZA!YpRSxCF4VjQYglkVJBBJBkZ1-BggYI7FGSVPnv71oZc"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/RcibL1L8yd"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/lklqqrzl6pjf"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/n7j0vabuntq0"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/eu0ie74i5udp"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/0h16wV6Zjq/"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:18:54.538933"
+  "last_updated": "2026-06-24T21:19:01.102498"
 }
