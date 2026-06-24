@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 142
+    "score": 143
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 34
+    "score": 35
   },
   {
     "id": "cowboy-bebop",
@@ -337,6 +337,21 @@
     "score": 14
   },
   {
+    "id": "needy-girl-overdose",
+    "title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "poster": "data/posters/needy-girl-overdose.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -359,21 +374,6 @@
     "genres": [
       "أكشن",
       "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
-    "id": "needy-girl-overdose",
-    "title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "poster": "data/posters/needy-girl-overdose.webp",
-    "genres": [
-      "دراما",
-      "مغامرات",
-      "شريحة من الحياة"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
