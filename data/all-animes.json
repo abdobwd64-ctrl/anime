@@ -313,6 +313,23 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
+    "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
+    "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "dead-mount-death-play",
     "title": "انمي Dead Mount Death Play مترجم اون لاين",
     "poster": "data/posters/dead-mount-death-play.webp",
@@ -434,6 +451,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
+    "title": "انمي Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu مترجم اون لاين",
+    "poster": "data/posters/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu.webp",
+    "genres": [
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
   },
   {
     "id": "hataraku-saibou-black-tv",
