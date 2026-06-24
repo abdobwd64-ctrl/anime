@@ -177,6 +177,20 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025",
+    "score": 12
+  },
+  {
+    "id": "kami-no-niwatsuki-kusunoki-tei",
+    "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
+    "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 11
   },
   {
@@ -195,18 +209,18 @@
     "score": 10
   },
   {
-    "id": "kami-no-niwatsuki-kusunoki-tei",
-    "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
-    "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "id": "isekai-suicide-squad",
+    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "poster": "data/posters/isekai-suicide-squad.webp",
     "genres": [
-      "فنتازيا",
-      "شريحة من الحياة"
+      "أكشن",
+      "فنتازيا"
     ],
-    "status": "يعرض الان",
+    "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 10
+    "episodes_count": "10",
+    "season": "صيف 2024",
+    "score": 9
   },
   {
     "id": "fangkai-nage-nuwu",
@@ -220,20 +234,6 @@
     "episodes_count": "8",
     "season": "شتاء 2026",
     "score": 9
-  },
-  {
-    "id": "isekai-suicide-squad",
-    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
-    "poster": "data/posters/isekai-suicide-squad.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "10",
-    "season": "صيف 2024",
-    "score": 8
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
