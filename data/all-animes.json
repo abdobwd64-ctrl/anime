@@ -4127,6 +4127,21 @@
     "season": "خريف 2021"
   },
   {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-specials",
+    "title": "انمي Arifureta Shokugyou de Sekai Saikyou Specials مترجم اون لاين",
+    "poster": "data/posters/arifureta-shokugyou-de-sekai-saikyou-specials.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "2",
+    "season": "خريف 2019"
+  },
+  {
     "id": "donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai",
     "title": "انمي Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai مترجم اون لاين",
     "poster": "data/posters/donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai.webp",
