@@ -398,6 +398,24 @@
     "score": 15
   },
   {
+    "id": "naruto",
+    "title": "انمي Naruto مترجم اون لاين",
+    "poster": "data/posters/naruto.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "220",
+    "season": "خريف 2002",
+    "score": 14
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-4th-season",
     "title": "انمي Tensei shitara Slime Datta Ken 4th Season مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-slime-datta-ken-4th-season.webp",
@@ -437,20 +455,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "genres": [
-      "فنتازيا",
-      "جوسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
     "score": 14
   }
 ]

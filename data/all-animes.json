@@ -513,6 +513,21 @@
     "season": "خريف 2021"
   },
   {
+    "id": "snowball-earth",
+    "title": "انمي Snowball Earth مترجم اون لاين",
+    "poster": "data/posters/snowball-earth.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي",
+      "سينين",
+      "ميكا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
