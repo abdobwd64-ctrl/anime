@@ -3414,6 +3414,20 @@
     "season": "ربيع 2009"
   },
   {
+    "id": "yama-no-susume-next-summit",
+    "title": "انمي Yama no Susume: Next Summit مترجم اون لاين",
+    "poster": "data/posters/yama-no-susume-next-summit.webp",
+    "genres": [
+      "مغامرات",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2022"
+  },
+  {
     "id": "naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo",
     "title": "انمي Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! مترجم اون لاين",
     "poster": "data/posters/naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo.webp",
@@ -4112,6 +4126,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "golden-time",
+    "title": "انمي Golden Time مترجم اون لاين",
+    "poster": "data/posters/golden-time.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013"
   },
   {
     "id": "summer-ghost",
