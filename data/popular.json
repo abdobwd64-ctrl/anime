@@ -75,6 +75,21 @@
     "score": 18
   },
   {
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 18
+  },
+  {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
     "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -89,21 +104,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 17
-  },
-  {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
     "score": 17
   },
   {
@@ -269,19 +269,6 @@
     "score": 10
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -298,7 +285,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 8
+    "score": 9
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 9
   },
   {
     "id": "meikyuu-black-company",
@@ -312,7 +312,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 5
+    "score": 6
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
