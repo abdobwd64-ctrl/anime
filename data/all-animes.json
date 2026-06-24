@@ -424,6 +424,19 @@
     "season": "صيف 2013"
   },
   {
+    "id": "granblue-fantasy-the-animation-season-2-djeeta-hen",
+    "title": "انمي Granblue Fantasy The Animation Season 2: Djeeta-hen مترجم اون لاين",
+    "poster": "data/posters/granblue-fantasy-the-animation-season-2-djeeta-hen.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "black-clover-mahou-tei-no-ken",
     "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
     "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
