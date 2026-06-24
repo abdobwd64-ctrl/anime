@@ -2729,6 +2729,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
+    "title": "انمي Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san مترجم اون لاين",
+    "poster": "data/posters/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "ame-iro-cocoa-side-g",
     "title": "انمي Ame-iro Cocoa: Side G مترجم اون لاين",
     "poster": "data/posters/ame-iro-cocoa-side-g.webp",
@@ -4092,6 +4106,20 @@
     "type": "تلفزيون",
     "episodes_count": "22",
     "season": "شتاء 2015"
+  },
+  {
+    "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
+    "title": "انمي Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2024"
   },
   {
     "id": "kitsutsuki-tanteidokoro",
