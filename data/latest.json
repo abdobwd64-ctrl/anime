@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+    "anime_title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
+    "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
+    "episode": "12",
+    "date": "24 يونيو, 2026",
+    "date_sort": "2026-06-24"
+  },
+  {
     "anime_id": "ouran-koukou-host-club",
     "anime_title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
@@ -390,13 +398,5 @@
     "episode": "9",
     "date": "29 مايو, 2026",
     "date_sort": "2026-05-29"
-  },
-  {
-    "anime_id": "replica-datte-koi-wo-suru",
-    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
-    "episode": "8",
-    "date": "26 مايو, 2026",
-    "date_sort": "2026-05-26"
   }
 ]
