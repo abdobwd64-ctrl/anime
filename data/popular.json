@@ -434,22 +434,19 @@
     "score": 9
   },
   {
-    "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
-    "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
-    "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
+    "id": "mao",
+    "title": "انمي Mao مترجم اون لاين",
+    "poster": "data/posters/mao.webp",
     "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "دراما",
-      "فنتازيا",
+      "غموض",
       "شونين",
-      "مغامرات",
-      "كوميدي"
+      "قوى خارقة",
+      "تاريخي"
     ],
-    "status": "مكتمل",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "خريف 2024",
-    "score": 8
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 9
   }
 ]
