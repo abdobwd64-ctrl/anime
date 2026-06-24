@@ -1064,6 +1064,23 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "overlord",
+    "title": "انمي Overlord مترجم اون لاين",
+    "poster": "data/posters/overlord.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2015"
+  },
+  {
     "id": "delico-s-nursery",
     "title": "انمي Delico's Nursery مترجم اون لاين",
     "poster": "data/posters/delico-s-nursery.webp",
