@@ -1,5 +1,20 @@
 [
   {
+    "id": "cowboy-bebop",
+    "title": "انمي Cowboy Bebop مترجم اون لاين",
+    "poster": "data/posters/cowboy-bebop.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 1998",
+    "score": 16
+  },
+  {
     "id": "diamond-no-ace-act-ii-second-season",
     "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
     "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
@@ -15,21 +30,6 @@
     "score": 15
   },
   {
-    "id": "cowboy-bebop",
-    "title": "انمي Cowboy Bebop مترجم اون لاين",
-    "poster": "data/posters/cowboy-bebop.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 1998",
-    "score": 14
-  },
-  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -42,7 +42,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026",
-    "score": 10
+    "score": 11
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -90,6 +90,21 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2013",
+    "score": 4
+  },
+  {
+    "id": "black-clover-mahou-tei-no-ken",
+    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
+    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2023",
     "score": 4
   },
   {

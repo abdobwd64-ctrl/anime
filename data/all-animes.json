@@ -85,6 +85,20 @@
     "season": "صيف 2013"
   },
   {
+    "id": "black-clover-mahou-tei-no-ken",
+    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
+    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "boku-no-hero-academia-more",
     "title": "انمي Boku no Hero Academia: More مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-more.webp",
