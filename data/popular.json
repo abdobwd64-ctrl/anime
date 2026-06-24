@@ -75,6 +75,23 @@
     "score": 17
   },
   {
+    "id": "mars-red",
+    "title": "انمي Mars Red مترجم اون لاين",
+    "poster": "data/posters/mars-red.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021",
+    "score": 16
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-5",
     "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -106,23 +123,6 @@
     "score": 15
   },
   {
-    "id": "mars-red",
-    "title": "انمي Mars Red مترجم اون لاين",
-    "poster": "data/posters/mars-red.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "قوى خارقة",
-      "تاريخي",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2021",
-    "score": 15
-  },
-  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
@@ -135,6 +135,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 15
+  },
+  {
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
     "score": 15
   },
   {
@@ -182,21 +197,6 @@
     "score": 14
   },
   {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 14
-  },
-  {
     "id": "kami-no-niwatsuki-kusunoki-tei",
     "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
     "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
@@ -226,6 +226,20 @@
     "score": 14
   },
   {
+    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
+    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
+    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 12
+  },
+  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -238,20 +252,6 @@
     "episodes_count": "10",
     "season": "صيف 2024",
     "score": 12
-  },
-  {
-    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
-    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
-    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
-    "score": 11
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
