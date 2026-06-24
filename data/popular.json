@@ -1,19 +1,5 @@
 [
   {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
-  },
-  {
     "id": "hajime-no-ippo",
     "title": "انمي Hajime no Ippo مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo.webp",
@@ -26,6 +12,20 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
+    "score": 29
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
     "score": 28
   },
   {
@@ -438,22 +438,16 @@
     "score": 9
   },
   {
-    "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
-    "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
-    "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
     "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "دراما",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي"
+      "دراما"
     ],
     "status": "مكتمل",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "خريف 2024",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
     "score": 8
   }
 ]
