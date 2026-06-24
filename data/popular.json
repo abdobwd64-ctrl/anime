@@ -399,6 +399,21 @@
     "score": 14
   },
   {
+    "id": "aishiteru-game-wo-owarasetai",
+    "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -439,21 +454,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "dr-stone-new-world",
-    "title": "انمي Dr. Stone: New World مترجم اون لاين",
-    "poster": "data/posters/dr-stone-new-world.webp",
-    "genres": [
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023",
     "score": 14
   }
 ]
