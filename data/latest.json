@@ -336,6 +336,14 @@
     "date_sort": "2025-11-23"
   },
   {
+    "anime_id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
+    "anime_title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
+    "anime_poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
+    "episode": "1",
+    "date": "15 نوفمبر, 2025",
+    "date_sort": "2025-11-15"
+  },
+  {
     "anime_id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "anime_title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "anime_poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "23 فبراير, 2025",
     "date_sort": "2025-02-23"
-  },
-  {
-    "anime_id": "ji-yao-lu-qicheng-pian",
-    "anime_title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
-    "anime_poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
-    "episode": "8",
-    "date": "02 نوفمبر, 2024",
-    "date_sort": "2024-11-02"
   }
 ]
