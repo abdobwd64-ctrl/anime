@@ -320,21 +320,6 @@
     "score": 12
   },
   {
-    "id": "star-wars-visions",
-    "title": "انمي Star Wars: Visions مترجم اون لاين",
-    "poster": "data/posters/star-wars-visions.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "9",
-    "season": "صيف 2021",
-    "score": 12
-  },
-  {
     "id": "ghost-concert-missing-songs",
     "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
     "poster": "data/posters/ghost-concert-missing-songs.webp",
@@ -348,7 +333,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026",
-    "score": 11
+    "score": 12
+  },
+  {
+    "id": "star-wars-visions",
+    "title": "انمي Star Wars: Visions مترجم اون لاين",
+    "poster": "data/posters/star-wars-visions.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "9",
+    "season": "صيف 2021",
+    "score": 12
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
