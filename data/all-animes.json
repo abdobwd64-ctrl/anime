@@ -6626,6 +6626,19 @@
     "season": "صيف 2021"
   },
   {
+    "id": "cardfight-vanguard-overdress",
+    "title": "انمي Cardfight!! Vanguard: overDress مترجم اون لاين",
+    "poster": "data/posters/cardfight-vanguard-overdress.webp",
+    "genres": [
+      "أكشن",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season",
     "title": "انمي Muhyo to Rouji no Mahouritsu Soudan Jimusho 2nd Season مترجم اون لاين",
     "poster": "data/posters/muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season.webp",
