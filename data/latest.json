@@ -8,6 +8,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "23 نوفمبر, 2024",
     "date_sort": "2024-11-23"
-  },
-  {
-    "anime_id": "spy-x-family-movie-code-white",
-    "anime_title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
-    "anime_poster": "data/posters/spy-x-family-movie-code-white.webp",
-    "episode": "1",
-    "date": "05 أغسطس, 2024",
-    "date_sort": "2024-08-05"
   }
 ]

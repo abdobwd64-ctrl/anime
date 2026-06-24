@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 133
+    "score": 134
   },
   {
     "id": "cowboy-bebop",
@@ -33,20 +33,6 @@
     "score": 28
   },
   {
-    "id": "yi-ren-zhi-xia-6",
-    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2026",
-    "score": 27
-  },
-  {
     "id": "black-clover",
     "title": "انمي Black Clover مترجم اون لاين",
     "poster": "data/posters/black-clover.webp",
@@ -61,7 +47,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 26
+    "score": 27
+  },
+  {
+    "id": "yi-ren-zhi-xia-6",
+    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
+    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "26",
+    "season": "شتاء 2026",
+    "score": 27
   },
   {
     "id": "tu-bian-yingxiong-x",
@@ -89,7 +89,7 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2025",
-    "score": 23
+    "score": 24
   },
   {
     "id": "dragon-raja-long-zu",
