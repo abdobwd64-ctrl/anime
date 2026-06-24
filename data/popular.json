@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 67
+    "score": 68
   },
   {
     "id": "cowboy-bebop",
@@ -179,6 +179,21 @@
     "score": 14
   },
   {
+    "id": "dead-mount-death-play-part-2",
+    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023",
+    "score": 14
+  },
+  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -193,19 +208,18 @@
     "score": 13
   },
   {
-    "id": "dead-mount-death-play-part-2",
-    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
     "genres": [
-      "أكشن",
       "فنتازيا",
-      "قوى خارقة"
+      "كوميدي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2023",
-    "score": 12
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 7
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -240,20 +254,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
     "score": 6
   },
   {
