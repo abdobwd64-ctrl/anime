@@ -328,6 +328,22 @@
     "date_sort": "2023-12-25"
   },
   {
+    "anime_id": "dead-mount-death-play-part-2",
+    "anime_title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "episode": "11",
+    "date": "20 ديسمبر, 2023",
+    "date_sort": "2023-12-20"
+  },
+  {
+    "anime_id": "dead-mount-death-play-part-2",
+    "anime_title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "episode": "10",
+    "date": "11 ديسمبر, 2023",
+    "date_sort": "2023-12-11"
+  },
+  {
     "anime_id": "black-clover-mahou-tei-no-ken",
     "anime_title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
     "anime_poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
@@ -380,22 +396,6 @@
     "anime_title": "انمي Naruto: Shippuuden مترجم اون لاين",
     "anime_poster": "data/posters/naruto-shippuuden.webp",
     "episode": "500",
-    "date": "15 يوليو, 2020",
-    "date_sort": "2020-07-15"
-  },
-  {
-    "anime_id": "naruto-shippuuden",
-    "anime_title": "انمي Naruto: Shippuuden مترجم اون لاين",
-    "anime_poster": "data/posters/naruto-shippuuden.webp",
-    "episode": "499",
-    "date": "15 يوليو, 2020",
-    "date_sort": "2020-07-15"
-  },
-  {
-    "anime_id": "naruto-shippuuden",
-    "anime_title": "انمي Naruto: Shippuuden مترجم اون لاين",
-    "anime_poster": "data/posters/naruto-shippuuden.webp",
-    "episode": "498",
     "date": "15 يوليو, 2020",
     "date_sort": "2020-07-15"
   }
