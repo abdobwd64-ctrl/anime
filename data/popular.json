@@ -318,7 +318,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020",
-    "score": 11
+    "score": 12
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -421,6 +421,20 @@
     "score": 5
   },
   {
+    "id": "ao-no-exorcist-shimane-illuminati-hen",
+    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024",
+    "score": 4
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
@@ -449,19 +463,5 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
-  },
-  {
-    "id": "ao-no-exorcist-shimane-illuminati-hen",
-    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2024",
-    "score": 3
   }
 ]
