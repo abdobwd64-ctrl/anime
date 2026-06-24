@@ -160,6 +160,14 @@
     "date_sort": "2026-05-16"
   },
   {
+    "anime_id": "snowball-earth",
+    "anime_title": "انمي Snowball Earth مترجم اون لاين",
+    "anime_poster": "data/posters/snowball-earth.webp",
+    "episode": "7",
+    "date": "16 مايو, 2026",
+    "date_sort": "2026-05-16"
+  },
+  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "23 يونيو, 2023",
     "date_sort": "2023-06-23"
-  },
-  {
-    "anime_id": "free-movie-1-timeless-medley-kizuna",
-    "anime_title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
-    "anime_poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
-    "episode": "1",
-    "date": "04 يناير, 2023",
-    "date_sort": "2023-01-04"
   }
 ]

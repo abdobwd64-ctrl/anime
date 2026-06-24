@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 85
+    "score": 86
   },
   {
     "id": "cowboy-bebop",
@@ -268,7 +268,7 @@
     "type": "أونا",
     "episodes_count": "9",
     "season": "صيف 2021",
-    "score": 9
+    "score": 10
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -289,6 +289,22 @@
     "score": 7
   },
   {
+    "id": "snowball-earth",
+    "title": "انمي Snowball Earth مترجم اون لاين",
+    "poster": "data/posters/snowball-earth.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي",
+      "سينين",
+      "ميكا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026",
+    "score": 7
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -303,22 +319,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "snowball-earth",
-    "title": "انمي Snowball Earth مترجم اون لاين",
-    "poster": "data/posters/snowball-earth.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي",
-      "سينين",
-      "ميكا"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2026",
     "score": 6
   },
   {
