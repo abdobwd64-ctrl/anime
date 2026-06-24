@@ -5459,6 +5459,21 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "kanojo-okarishimasu",
+    "title": "انمي Kanojo, Okarishimasu مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
+  },
+  {
     "id": "kimi-no-na-wa",
     "title": "انمي Kimi no Na wa. مترجم اون لاين",
     "poster": "data/posters/kimi-no-na-wa.webp",
