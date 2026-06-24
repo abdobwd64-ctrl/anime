@@ -353,6 +353,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "soukou-musume-senki",
+    "title": "انمي Soukou Musume Senki مترجم اون لاين",
+    "poster": "data/posters/soukou-musume-senki.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
