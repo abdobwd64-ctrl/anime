@@ -298,6 +298,21 @@
     "season": "صيف 2023"
   },
   {
+    "id": "champignon-no-majo",
+    "title": "انمي Champignon no Majo مترجم اون لاين",
+    "poster": "data/posters/champignon-no-majo.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "let-s-all-love-lain",
     "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
     "poster": "data/posters/let-s-all-love-lain.webp",
