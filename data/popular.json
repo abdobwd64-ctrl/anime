@@ -61,6 +61,21 @@
     "score": 19
   },
   {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 16
+  },
+  {
     "id": "diamond-no-ace-act-ii-second-season",
     "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
     "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
@@ -91,21 +106,6 @@
     "score": 15
   },
   {
-    "id": "world-trigger-3rd-season",
-    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "poster": "data/posters/world-trigger-3rd-season.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 15
-  },
-  {
     "id": "sousei-no-aquarion-myth-of-emotions",
     "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -119,6 +119,20 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 15
+  },
+  {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 14
   },
   {
     "id": "koori-no-jouheki",
@@ -148,20 +162,6 @@
     "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 13
   },
   {
     "id": "marriagetoxin",
