@@ -353,6 +353,23 @@
     "score": 27
   },
   {
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2015",
+    "score": 27
+  },
+  {
     "id": "enen-no-shouboutai",
     "title": "انمي Enen no Shouboutai مترجم اون لاين",
     "poster": "data/posters/enen-no-shouboutai.webp",
@@ -452,23 +469,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 26
-  },
-  {
-    "id": "haikyuu-second-season",
-    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
-    "poster": "data/posters/haikyuu-second-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2015",
     "score": 26
   }
 ]
