@@ -425,6 +425,22 @@
     "score": 5
   },
   {
+    "id": "dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da",
+    "title": "انمي Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1994",
+    "score": 5
+  },
+  {
     "id": "tensei-shitara-dragon-no-tamago-datta",
     "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
@@ -437,17 +453,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
-    "score": 4
-  },
-  {
-    "id": "let-s-all-love-lain",
-    "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
-    "poster": "data/posters/let-s-all-love-lain.webp",
-    "genres": [],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "خريف 2021",
-    "score": 1
+    "score": 5
   }
 ]

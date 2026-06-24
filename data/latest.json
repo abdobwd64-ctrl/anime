@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "biao-ren-er",
+    "anime_title": "انمي Biao Ren Er مترجم اون لاين",
+    "anime_poster": "data/posters/biao-ren-er.webp",
+    "episode": "1",
+    "date": "12 يونيو, 2026",
+    "date_sort": "2026-06-12"
+  },
+  {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -256,6 +264,14 @@
     "date_sort": "2026-01-28"
   },
   {
+    "anime_id": "tensei-shitara-dragon-no-tamago-datta",
+    "anime_title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
+    "anime_poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
+    "episode": "2",
+    "date": "26 يناير, 2026",
+    "date_sort": "2026-01-26"
+  },
+  {
     "anime_id": "xian-wang-de-richang-shenghuo-5",
     "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -382,21 +398,5 @@
     "episode": "7",
     "date": "25 يوليو, 2024",
     "date_sort": "2024-07-25"
-  },
-  {
-    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "episode": "9",
-    "date": "01 أغسطس, 2023",
-    "date_sort": "2023-08-01"
-  },
-  {
-    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "episode": "8",
-    "date": "01 أغسطس, 2023",
-    "date_sort": "2023-08-01"
   }
 ]
