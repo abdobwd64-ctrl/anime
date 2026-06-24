@@ -826,6 +826,19 @@
     "season": "خريف 2024"
   },
   {
+    "id": "yichang-shengwu-jianwenlu",
+    "title": "انمي Yichang Shengwu Jianwenlu مترجم اون لاين",
+    "poster": "data/posters/yichang-shengwu-jianwenlu.webp",
+    "genres": [
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
     "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
     "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
