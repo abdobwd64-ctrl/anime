@@ -1688,6 +1688,21 @@
     "season": "صيف 2025"
   },
   {
+    "id": "listeners",
+    "title": "انمي Listeners مترجم اون لاين",
+    "poster": "data/posters/listeners.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "bullet-bullet",
     "title": "انمي Bullet/Bullet مترجم اون لاين",
     "poster": "data/posters/bullet-bullet.webp",

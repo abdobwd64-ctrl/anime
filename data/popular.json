@@ -65,22 +65,6 @@
     "score": 52
   },
   {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
-    "score": 51
-  },
-  {
     "id": "fullmetal-alchemist-brotherhood",
     "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
     "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
@@ -98,7 +82,23 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
-    "score": 50
+    "score": 51
+  },
+  {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 51
   },
   {
     "id": "great-teacher-onizuka",
