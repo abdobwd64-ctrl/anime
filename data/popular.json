@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 80
+    "score": 81
   },
   {
     "id": "cowboy-bebop",
@@ -165,6 +165,23 @@
     "score": 15
   },
   {
+    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2020",
+    "score": 15
+  },
+  {
     "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
     "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
@@ -208,23 +225,6 @@
     "score": 14
   },
   {
-    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "11",
-    "season": "صيف 2020",
-    "score": 14
-  },
-  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -253,7 +253,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 10
+    "score": 12
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
