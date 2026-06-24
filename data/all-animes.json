@@ -622,6 +622,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "evangelion-3-0-1-0-thrice-upon-a-time",
+    "title": "انمي Evangelion: 3.0+1.0 Thrice Upon a Time مترجم اون لاين",
+    "poster": "data/posters/evangelion-3-0-1-0-thrice-upon-a-time.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "kirio-fanclub",
     "title": "انمي Kirio Fanclub مترجم اون لاين",
     "poster": "data/posters/kirio-fanclub.webp",
