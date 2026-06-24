@@ -686,7 +686,46 @@
           "url": "https://3rbup.com/f78e6d5e787f9b83"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Bermuda Triangle: Colorful Pastrale",
+      "date": "09 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1683119016568"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1E6ON0xNgVTpIBALYNXw5MCpVwYWIqoWk/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!fjZUhIoZ!MsjtjyF8fC5URH37so9_4JLNEwwYYOdNR_MTu7HcmX4"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1E6ON0xNgVTpIBALYNXw5MCpVwYWIqoWk&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!fjZUhIoZ!MsjtjyF8fC5URH37so9_4JLNEwwYYOdNR_MTu7HcmX4"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/d142459932e9e544"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:25:32.768792"
+  "last_updated": "2026-06-24T21:25:38.979263"
 }
