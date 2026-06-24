@@ -2647,6 +2647,19 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
+    "title": "انمي 29-sai Dokushin Chuuken Boukensha no Nichijou مترجم اون لاين",
+    "poster": "data/posters/29-sai-dokushin-chuuken-boukensha-no-nichijou.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "grisaia-phantom-trigger-the-animation",
     "title": "انمي Grisaia: Phantom Trigger - The Animation مترجم اون لاين",
     "poster": "data/posters/grisaia-phantom-trigger-the-animation.webp",
