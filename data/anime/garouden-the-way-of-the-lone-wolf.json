@@ -454,7 +454,70 @@
           "url": "https://updown.cam/6xsru5ohj5qg"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الأونا 1Garouden: The Way of the Lone Wolf",
+      "date": "23 مايو, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/b3QMfw53llNFp"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/b3QMfw53llNFp"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/b3QMfw53llNFp"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6947631794906"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ry57k8o2d9nz.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/bWpExCDA!Q4QgY77xpIn2SPOzGcoGTPphRL6b9OnPmd2LNp5iVnA"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/n8n3lor5l4oc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ry57k8o2d9nz"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!bWpExCDA!Q4QgY77xpIn2SPOzGcoGTPphRL6b9OnPmd2LNp5iVnA"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/glu0qktgrtb8"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/tctqj43kzfjo"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T02:33:49.881594"
+  "last_updated": "2026-06-24T02:33:55.264039"
 }
