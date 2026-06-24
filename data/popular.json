@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 122
+    "score": 123
   },
   {
     "id": "cowboy-bebop",
@@ -75,6 +75,23 @@
     "score": 19
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017",
+    "score": 18
+  },
+  {
     "id": "sword-art-online-alicization-war-of-underworld",
     "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
@@ -90,23 +107,6 @@
     "episodes_count": "12",
     "season": "خريف 2019",
     "score": 18
-  },
-  {
-    "id": "black-clover",
-    "title": "انمي Black Clover مترجم اون لاين",
-    "poster": "data/posters/black-clover.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2017",
-    "score": 17
   },
   {
     "id": "ao-no-exorcist-yosuga-hen",
@@ -323,6 +323,20 @@
     "score": 14
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 13
+  },
+  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -351,20 +365,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 13
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
-    "score": 12
   },
   {
     "id": "star-wars-visions",
