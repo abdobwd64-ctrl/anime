@@ -32,14 +32,6 @@
     "date_sort": "2026-06-12"
   },
   {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "10",
-    "date": "06 يونيو, 2026",
-    "date_sort": "2026-06-06"
-  },
-  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -67,6 +59,14 @@
     "anime_id": "ghost-concert-missing-songs",
     "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
     "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
+    "episode": "9",
+    "date": "31 مايو, 2026",
+    "date_sort": "2026-05-31"
+  },
+  {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
     "episode": "9",
     "date": "31 مايو, 2026",
     "date_sort": "2026-05-31"
