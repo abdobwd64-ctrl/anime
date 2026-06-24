@@ -337,6 +337,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "star-wars-visions",
+    "title": "انمي Star Wars: Visions مترجم اون لاين",
+    "poster": "data/posters/star-wars-visions.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "9",
+    "season": "صيف 2021"
+  },
+  {
     "id": "blue-thermal",
     "title": "انمي Blue Thermal مترجم اون لاين",
     "poster": "data/posters/blue-thermal.webp",
