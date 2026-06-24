@@ -3664,6 +3664,22 @@
     "season": "خريف 2018"
   },
   {
+    "id": "ore-dake-haireru-kakushi-dungeon",
+    "title": "انمي Ore dake Haireru Kakushi Dungeon مترجم اون لاين",
+    "poster": "data/posters/ore-dake-haireru-kakushi-dungeon.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
@@ -7075,6 +7091,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "صيف 2005"
+  },
+  {
+    "id": "gintama-movie-1-shinyaku-benizakura-hen",
+    "title": "انمي Gintama Movie 1: Shinyaku Benizakura-hen مترجم اون لاين",
+    "poster": "data/posters/gintama-movie-1-shinyaku-benizakura-hen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2010"
   },
   {
     "id": "beastars-2nd-season",
