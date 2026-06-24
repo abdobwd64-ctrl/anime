@@ -57,6 +57,22 @@
     "score": 25
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 19
+  },
+  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
@@ -106,22 +122,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2021",
-    "score": 18
-  },
-  {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "season": "صيف 2023",
     "score": 18
   },
   {
@@ -246,6 +246,20 @@
     "score": 14
   },
   {
+    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "kami-no-niwatsuki-kusunoki-tei",
     "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
     "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
@@ -289,20 +303,6 @@
     "score": 13
   },
   {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
-    "genres": [
-      "رومانسي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -327,7 +327,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018",
-    "score": 11
+    "score": 12
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
