@@ -3543,6 +3543,18 @@
     "season": "خريف 2019"
   },
   {
+    "id": "sk",
+    "title": "انمي SK∞ مترجم اون لاين",
+    "poster": "data/posters/sk.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "the-idolm-ster-cinderella-girls-u149",
     "title": "انمي The IDOLM@STER Cinderella Girls: U149 مترجم اون لاين",
     "poster": "data/posters/the-idolm-ster-cinderella-girls-u149.webp",
@@ -4150,6 +4162,20 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005"
+  },
+  {
+    "id": "kimitachi-wa-dou-ikiru-ka",
+    "title": "انمي Kimitachi wa Dou Ikiru ka مترجم اون لاين",
+    "poster": "data/posters/kimitachi-wa-dou-ikiru-ka.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2023"
   },
   {
     "id": "kirio-fanclub",
