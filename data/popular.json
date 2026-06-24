@@ -1,5 +1,24 @@
 [
   {
+    "id": "one-piece",
+    "title": "انمي One Piece مترجم اون لاين",
+    "poster": "data/posters/one-piece.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 1999",
+    "score": 299
+  },
+  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
@@ -16,6 +35,21 @@
     "episodes_count": "220",
     "season": "خريف 2002",
     "score": 110
+  },
+  {
+    "id": "fairy-tail-2014",
+    "title": "انمي Fairy Tail (2014) مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-2014.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "102",
+    "season": "ربيع 2014",
+    "score": 88
   },
   {
     "id": "digimon-adventure",
@@ -68,6 +102,42 @@
     "episodes_count": "75",
     "season": "خريف 2000",
     "score": 58
+  },
+  {
+    "id": "bakuten-shoot-beyblade",
+    "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
+    "poster": "data/posters/bakuten-shoot-beyblade.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "خريف 2001",
+    "score": 57
+  },
+  {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
+    "score": 57
   },
   {
     "id": "captain-tsubasa-2018",
@@ -164,6 +234,39 @@
     "episodes_count": "26",
     "season": "خريف 2005",
     "score": 32
+  },
+  {
+    "id": "toaru-majutsu-no-index-iii",
+    "title": "انمي Toaru Majutsu no Index III مترجم اون لاين",
+    "poster": "data/posters/toaru-majutsu-no-index-iii.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "سحر",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2018",
+    "score": 30
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-3rd-season",
+    "title": "انمي Tensei shitara Slime Datta Ken 3rd Season مترجم اون لاين",
+    "poster": "data/posters/tensei-shitara-slime-datta-ken-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2024",
+    "score": 30
   },
   {
     "id": "haikyuu",
@@ -297,6 +400,21 @@
     "score": 28
   },
   {
+    "id": "cowboy-bebop",
+    "title": "انمي Cowboy Bebop مترجم اون لاين",
+    "poster": "data/posters/cowboy-bebop.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 1998",
+    "score": 28
+  },
+  {
     "id": "black-cat",
     "title": "انمي Black Cat مترجم اون لاين",
     "poster": "data/posters/black-cat.webp",
@@ -374,107 +492,5 @@
     "episodes_count": "24",
     "season": "خريف 2018",
     "score": 27
-  },
-  {
-    "id": "ansatsu-kyoushitsu-2nd-season",
-    "title": "انمي Ansatsu Kyoushitsu 2nd Season مترجم اون لاين",
-    "poster": "data/posters/ansatsu-kyoushitsu-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "شتاء 2016",
-    "score": 27
-  },
-  {
-    "id": "enen-no-shouboutai",
-    "title": "انمي Enen no Shouboutai مترجم اون لاين",
-    "poster": "data/posters/enen-no-shouboutai.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2019",
-    "score": 27
-  },
-  {
-    "id": "golden-time",
-    "title": "انمي Golden Time مترجم اون لاين",
-    "poster": "data/posters/golden-time.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2013",
-    "score": 27
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 26
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2022",
-    "score": 26
-  },
-  {
-    "id": "fumetsu-no-anata-e-season-3",
-    "title": "انمي Fumetsu no Anata e Season 3 مترجم اون لاين",
-    "poster": "data/posters/fumetsu-no-anata-e-season-3.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "22",
-    "season": "خريف 2025",
-    "score": 26
-  },
-  {
-    "id": "anne-shirley",
-    "title": "انمي Anne Shirley مترجم اون لاين",
-    "poster": "data/posters/anne-shirley.webp",
-    "genres": [
-      "دراما",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 26
   }
 ]

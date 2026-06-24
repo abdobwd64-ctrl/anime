@@ -200,6 +200,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "ghost-concert-missing-songs",
+    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
     "anime_id": "nippon-sangoku",
     "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
     "anime_poster": "data/posters/nippon-sangoku.webp",
@@ -212,6 +220,14 @@
     "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
     "episode": "11",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
+    "anime_id": "one-piece",
+    "anime_title": "انمي One Piece مترجم اون لاين",
+    "anime_poster": "data/posters/one-piece.webp",
+    "episode": "1167",
     "date": "21 يونيو, 2026",
     "date_sort": "2026-06-21"
   },
@@ -259,6 +275,14 @@
     "anime_id": "nippon-sangoku",
     "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
     "anime_poster": "data/posters/nippon-sangoku.webp",
+    "episode": "11",
+    "date": "17 يونيو, 2026",
+    "date_sort": "2026-06-17"
+  },
+  {
+    "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
+    "anime_title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 4th Season مترجم اون لاين",
+    "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-4th-season.webp",
     "episode": "11",
     "date": "17 يونيو, 2026",
     "date_sort": "2026-06-17"
@@ -368,34 +392,10 @@
     "date_sort": "2026-06-15"
   },
   {
-    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
-    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
-    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
-    "episode": "10",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
-  },
-  {
-    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
-    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
-    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
-    "episode": "9",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
-  },
-  {
-    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
-    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
-    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
-    "episode": "8",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
-  },
-  {
-    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
-    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
-    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
-    "episode": "7",
+    "anime_id": "maid-san-wa-taberu-dake",
+    "anime_title": "انمي Maid-san wa Taberu dake مترجم اون لاين",
+    "anime_poster": "data/posters/maid-san-wa-taberu-dake.webp",
+    "episode": "12",
     "date": "14 يونيو, 2026",
     "date_sort": "2026-06-14"
   }
