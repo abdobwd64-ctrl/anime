@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 29
+    "score": 30
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -425,6 +425,19 @@
     "score": 10
   },
   {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 9
+  },
+  {
     "id": "fangkai-nage-nuwu",
     "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
     "poster": "data/posters/fangkai-nage-nuwu.webp",
@@ -436,18 +449,5 @@
     "episodes_count": "8",
     "season": "شتاء 2026",
     "score": 9
-  },
-  {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 8
   }
 ]

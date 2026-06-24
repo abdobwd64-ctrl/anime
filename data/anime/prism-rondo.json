@@ -663,7 +663,100 @@
           "url": "http://vidmoly.me/w/q91xvza45o9e"
         }
       ]
+    },
+    {
+      "number": "13",
+      "title": "الأونا 13Prism Rondo",
+      "date": "16 يناير, 2026",
+      "servers": [
+        {
+          "name": "megamax me | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/popu2lXiGXXdj"
+        },
+        {
+          "name": "megamax me | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/popu2lXiGXXdj"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/VYtAnBRT#868qO8zHf36H79qVrs_RyUUQah4l1i6SjUHKeH-OWM4"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-8cb4rhxbb1tt.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/msbguytrkitk"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/cpvg7bhcyzn3"
+        },
+        {
+          "name": "uqload bz | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.bz/embed-pf36jlvt3tj7.html"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-s0e7g6l0i2sf.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-bqm7vzap2918.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!VYtAnBRT!868qO8zHf36H79qVrs_RyUUQah4l1i6SjUHKeH-OWM4"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/popu2lXiGXXdj"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/s0e7g6l0i2sf"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/msbguytrkitk"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/TvMziK"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/bqm7vzap2918"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/cpvg7bhcyzn3"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/8cb4rhxbb1tt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T03:02:43.353730"
+  "last_updated": "2026-06-24T03:02:48.765106"
 }
