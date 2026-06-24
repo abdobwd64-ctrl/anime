@@ -2440,6 +2440,22 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "dragon-ball-z-movie-12-fukkatsu-no-fusion-gokuu-to-vegeta",
+    "title": "انمي Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-12-fukkatsu-no-fusion-gokuu-to-vegeta.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 1995"
+  },
+  {
     "id": "soukou-musume-senki",
     "title": "انمي Soukou Musume Senki مترجم اون لاين",
     "poster": "data/posters/soukou-musume-senki.webp",
