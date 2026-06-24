@@ -2673,6 +2673,20 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "bukiyou-na-senpai",
+    "title": "انمي Bukiyou na Senpai. مترجم اون لاين",
+    "poster": "data/posters/bukiyou-na-senpai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "ame-iro-cocoa-side-g",
     "title": "انمي Ame-iro Cocoa: Side G مترجم اون لاين",
     "poster": "data/posters/ame-iro-cocoa-side-g.webp",
