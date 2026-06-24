@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 47
+    "score": 50
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -236,6 +236,24 @@
     "score": 16
   },
   {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 16
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -392,24 +410,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 14
-  },
-  {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
     "score": 14
   },
   {

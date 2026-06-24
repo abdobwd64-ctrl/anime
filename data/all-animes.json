@@ -268,6 +268,18 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "blue-lock-episode-nagi",
+    "title": "انمي Blue Lock: Episode Nagi مترجم اون لاين",
+    "poster": "data/posters/blue-lock-episode-nagi.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
     "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
