@@ -1,5 +1,15 @@
 [
   {
+    "id": "shoujo-kageki-revue-starlight",
+    "title": "انمي Shoujo☆Kageki Revue Starlight مترجم اون لاين",
+    "poster": "data/posters/shoujo-kageki-revue-starlight.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
