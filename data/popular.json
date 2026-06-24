@@ -343,7 +343,7 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 10
+    "score": 11
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
@@ -361,19 +361,6 @@
     "score": 10
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
@@ -388,6 +375,34 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020",
+    "score": 9
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 9
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
     "score": 8
   },
   {
@@ -408,21 +423,6 @@
     "episodes_count": "1",
     "season": "خريف 2024",
     "score": 8
-  },
-  {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 7
   },
   {
     "id": "tensei-shitara-dragon-no-tamago-datta",
