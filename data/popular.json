@@ -1,5 +1,35 @@
 [
   {
+    "id": "cowboy-bebop",
+    "title": "انمي Cowboy Bebop مترجم اون لاين",
+    "poster": "data/posters/cowboy-bebop.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 1998",
+    "score": 9
+  },
+  {
+    "id": "diamond-no-ace-act-ii-second-season",
+    "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
+    "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 8
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -17,36 +47,6 @@
     "score": 6
   },
   {
-    "id": "diamond-no-ace-act-ii-second-season",
-    "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
-    "genres": [
-      "شونين",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 6
-  },
-  {
-    "id": "cowboy-bebop",
-    "title": "انمي Cowboy Bebop مترجم اون لاين",
-    "poster": "data/posters/cowboy-bebop.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 1998",
-    "score": 6
-  },
-  {
     "id": "boku-no-hero-academia-more",
     "title": "انمي Boku no Hero Academia: More مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-more.webp",
@@ -61,6 +61,21 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
+  },
+  {
+    "id": "kujima-utaeba-ie-hororo",
+    "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
+    "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026",
+    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",

@@ -57,6 +57,20 @@
     "season": "ربيع 1998"
   },
   {
+    "id": "kujima-utaeba-ie-hororo",
+    "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
+    "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
