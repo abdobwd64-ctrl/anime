@@ -4889,6 +4889,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "choukadou-girl",
+    "title": "انمي Choukadou Girl ⅙ مترجم اون لاين",
+    "poster": "data/posters/choukadou-girl.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "bocchi-the-rock",
     "title": "انمي Bocchi the Rock! مترجم اون لاين",
     "poster": "data/posters/bocchi-the-rock.webp",
