@@ -2324,7 +2324,84 @@
           "url": "http://vidmoly.me/w/iag4nvochyd6"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Nana",
+      "date": "21 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/NjmIRzi33FMlt"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-0ivuy4sqwdau.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/gjyjac0ppcod"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/ukiawjl706w3"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-zcptq3t7zpz6.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/NjmIRzi33FMlt"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/NjmIRzi33FMlt"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/zcptq3t7zpz6"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/gjyjac0ppcod"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/99clprwax4kt"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/onyVNU"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/ukiawjl706w3"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/0ivuy4sqwdau"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T03:09:10.158238"
+  "last_updated": "2026-06-24T03:09:15.552199"
 }
