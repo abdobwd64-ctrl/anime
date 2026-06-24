@@ -370,6 +370,26 @@
     "score": 27
   },
   {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
+    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "ربيع 2009",
+    "score": 27
+  },
+  {
     "id": "enen-no-shouboutai",
     "title": "انمي Enen no Shouboutai مترجم اون لاين",
     "poster": "data/posters/enen-no-shouboutai.webp",
@@ -454,21 +474,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2025",
-    "score": 26
-  },
-  {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
     "score": 26
   }
 ]
