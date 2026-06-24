@@ -387,6 +387,19 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "steins-gate-movie-fuka-ryouiki-no-d-j-vu",
+    "title": "انمي Steins;Gate Movie: Fuka Ryouiki no Déjà vu مترجم اون لاين",
+    "poster": "data/posters/steins-gate-movie-fuka-ryouiki-no-d-j-vu.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2013"
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
