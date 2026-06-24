@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 36
+    "score": 37
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -222,6 +222,19 @@
     "score": 15
   },
   {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 15
+  },
+  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
@@ -267,19 +280,6 @@
     "score": 14
   },
   {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 14
-  },
-  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -305,6 +305,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 14
+  },
+  {
+    "id": "mf-ghost-3rd-season",
+    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mf-ghost-3rd-season.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2026",
     "score": 14
   },
   {
@@ -393,19 +406,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 13
-  },
-  {
-    "id": "mf-ghost-3rd-season",
-    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
-    "poster": "data/posters/mf-ghost-3rd-season.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "شتاء 2026",
     "score": 13
   },
   {
