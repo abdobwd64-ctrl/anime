@@ -56,14 +56,6 @@
     "date_sort": "2026-06-21"
   },
   {
-    "anime_id": "aishiteru-game-wo-owarasetai",
-    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "episode": "10",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -147,6 +139,14 @@
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "episode": "8",
+    "date": "02 يونيو, 2026",
+    "date_sort": "2026-06-02"
+  },
+  {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
     "episode": "8",
     "date": "02 يونيو, 2026",
     "date_sort": "2026-06-02"
