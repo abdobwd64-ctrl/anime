@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 124
+    "score": 125
   },
   {
     "id": "cowboy-bebop",
@@ -75,7 +75,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 19
+    "score": 20
   },
   {
     "id": "dragon-raja-long-zu",
@@ -221,6 +221,20 @@
     "score": 15
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 15
+  },
+  {
     "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
     "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
@@ -305,20 +319,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
     "score": 14
   },
   {
