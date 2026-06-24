@@ -216,14 +216,6 @@
     "date_sort": "2026-02-13"
   },
   {
-    "anime_id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "anime_title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "anime_poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "episode": "12",
-    "date": "21 يونيو, 2025",
-    "date_sort": "2025-06-21"
-  },
-  {
     "anime_id": "tu-bian-yingxiong-x",
     "anime_title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
     "anime_poster": "data/posters/tu-bian-yingxiong-x.webp",
@@ -262,6 +254,14 @@
     "episode": "7",
     "date": "18 مايو, 2025",
     "date_sort": "2025-05-18"
+  },
+  {
+    "anime_id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "anime_title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "anime_poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "episode": "7",
+    "date": "17 مايو, 2025",
+    "date_sort": "2025-05-17"
   },
   {
     "anime_id": "sousei-no-aquarion-myth-of-emotions",

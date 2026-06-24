@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 69
+    "score": 70
   },
   {
     "id": "cowboy-bebop",
@@ -150,6 +150,21 @@
     "score": 15
   },
   {
+    "id": "dead-mount-death-play-part-2",
+    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023",
+    "score": 15
+  },
+  {
     "id": "koori-no-jouheki",
     "title": "انمي Koori no Jouheki مترجم اون لاين",
     "poster": "data/posters/koori-no-jouheki.webp",
@@ -179,21 +194,6 @@
     "score": 14
   },
   {
-    "id": "dead-mount-death-play-part-2",
-    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play-part-2.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2023",
-    "score": 14
-  },
-  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -219,7 +219,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 7
+    "score": 9
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
