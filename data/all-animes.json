@@ -756,6 +756,24 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "fujimoto-tatsuki-17-26",
+    "title": "انمي Fujimoto Tatsuki 17-26 مترجم اون لاين",
+    "poster": "data/posters/fujimoto-tatsuki-17-26.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "خريف 2025"
+  },
+  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
