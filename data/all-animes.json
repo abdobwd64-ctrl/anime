@@ -1079,6 +1079,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "bermuda-triangle-colorful-pastrale",
+    "title": "انمي Bermuda Triangle: Colorful Pastrale مترجم اون لاين",
+    "poster": "data/posters/bermuda-triangle-colorful-pastrale.webp",
+    "genres": [
+      "فنتازيا",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "hinomaruzumou",
     "title": "انمي Hinomaruzumou مترجم اون لاين",
     "poster": "data/posters/hinomaruzumou.webp",
