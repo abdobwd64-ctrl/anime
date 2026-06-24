@@ -330,6 +330,22 @@
     "score": 12
   },
   {
+    "id": "ji-yao-lu-qicheng-pian",
+    "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
+    "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2024",
+    "score": 10
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
@@ -345,22 +361,6 @@
     "score": 10
   },
   {
-    "id": "ji-yao-lu-qicheng-pian",
-    "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
-    "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "خريف 2024",
-    "score": 9
-  },
-  {
     "id": "fangkai-nage-nuwu",
     "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
     "poster": "data/posters/fangkai-nage-nuwu.webp",
@@ -372,6 +372,23 @@
     "episodes_count": "8",
     "season": "شتاء 2026",
     "score": 9
+  },
+  {
+    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
+    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 8
   },
   {
     "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
@@ -393,23 +410,6 @@
     "score": 8
   },
   {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
-    "score": 7
-  },
-  {
     "id": "hajime-no-ippo",
     "title": "انمي Hajime no Ippo مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo.webp",
@@ -422,7 +422,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 6
+    "score": 7
   },
   {
     "id": "tensei-shitara-dragon-no-tamago-datta",
