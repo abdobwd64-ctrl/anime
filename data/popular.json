@@ -66,20 +66,6 @@
     "score": 32
   },
   {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
-  },
-  {
     "id": "ginga-eiyuu-densetsu",
     "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu.webp",
@@ -93,6 +79,20 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
+    "score": 29
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
     "score": 28
   },
   {
@@ -173,6 +173,20 @@
     "score": 18
   },
   {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2022",
+    "score": 18
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru.webp",
@@ -237,20 +251,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2025",
-    "score": 17
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2022",
     "score": 17
   },
   {
