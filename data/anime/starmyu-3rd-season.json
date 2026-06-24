@@ -349,7 +349,74 @@
           "url": "https://www.solidfiles.com/v/GGYm2ABgPVezg"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Starmyu 3rd Season",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/GGYpYvweMpdqK"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1KXb_naP3WHFdHHeC25hJd2bAqjtu6fIE/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!uyZT2I6Q!e7XqvfuHT8vsLS7u5DpVDJdueV1cnpepaNJm5r-P2Vo"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/rmm1jevlrsx5"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1KXb_naP3WHFdHHeC25hJd2bAqjtu6fIE&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!uyZT2I6Q!e7XqvfuHT8vsLS7u5DpVDJdueV1cnpepaNJm5r-P2Vo"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/v2coa9yrppo3"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/6MER5XKLepA/%5BAnime4up.com%5D_S3S_EP_07_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/rmm1jevlrsx5"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/anz3bzrlulap"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/GGYpYvweMpdqK"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:15:32.413719"
+  "last_updated": "2026-06-24T20:15:38.313470"
 }
