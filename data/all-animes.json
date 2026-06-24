@@ -202,6 +202,21 @@
     "season": "خريف 2023"
   },
   {
+    "id": "ghost-concert-missing-songs",
+    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "poster": "data/posters/ghost-concert-missing-songs.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة",
+      "موسيقي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "ao-no-exorcist-yosuga-hen",
     "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",

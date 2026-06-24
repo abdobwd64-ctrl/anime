@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 104
+    "score": 105
   },
   {
     "id": "cowboy-bebop",
@@ -403,6 +403,22 @@
     "score": 5
   },
   {
+    "id": "ghost-concert-missing-songs",
+    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "poster": "data/posters/ghost-concert-missing-songs.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة",
+      "موسيقي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -447,21 +463,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2013",
-    "score": 4
-  },
-  {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "1",
-    "season": "صيف 2013",
     "score": 4
   }
 ]

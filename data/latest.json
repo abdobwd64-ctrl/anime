@@ -8,6 +8,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "ghost-concert-missing-songs",
+    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -387,14 +395,6 @@
     "anime_id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
     "anime_title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
     "anime_poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
-    "episode": "1",
-    "date": "09 أبريل, 2024",
-    "date_sort": "2024-04-09"
-  },
-  {
-    "anime_id": "dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi",
-    "anime_title": "انمي Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi مترجم اون لاين",
-    "anime_poster": "data/posters/dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi.webp",
     "episode": "1",
     "date": "09 أبريل, 2024",
     "date_sort": "2024-04-09"
