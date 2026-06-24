@@ -56,6 +56,23 @@
     "season": "خريف 2023"
   },
   {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "season": "شتاء 2007"
+  },
+  {
     "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
     "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",

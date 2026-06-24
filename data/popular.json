@@ -30,6 +30,21 @@
     "score": 15
   },
   {
+    "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
+    "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
+    "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026",
+    "score": 14
+  },
+  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -45,21 +60,6 @@
     "score": 14
   },
   {
-    "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-    "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
-    "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 13
-  },
-  {
     "id": "yi-ren-zhi-xia-6",
     "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
     "poster": "data/posters/yi-ren-zhi-xia-6.webp",
@@ -71,7 +71,25 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2026",
-    "score": 10
+    "score": 11
+  },
+  {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "season": "شتاء 2007",
+    "score": 8
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",

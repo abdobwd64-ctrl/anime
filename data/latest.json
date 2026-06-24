@@ -166,5 +166,21 @@
     "episode": "1",
     "date": "06 أغسطس, 2020",
     "date_sort": "2020-08-06"
+  },
+  {
+    "anime_id": "naruto-shippuuden",
+    "anime_title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "anime_poster": "data/posters/naruto-shippuuden.webp",
+    "episode": "500",
+    "date": "15 يوليو, 2020",
+    "date_sort": "2020-07-15"
+  },
+  {
+    "anime_id": "naruto-shippuuden",
+    "anime_title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "anime_poster": "data/posters/naruto-shippuuden.webp",
+    "episode": "499",
+    "date": "15 يوليو, 2020",
+    "date_sort": "2020-07-15"
   }
 ]
