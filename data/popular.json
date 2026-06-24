@@ -343,6 +343,22 @@
     "score": 15
   },
   {
+    "id": "replica-datte-koi-wo-suru",
+    "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -369,22 +385,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 14
-  },
-  {
-    "id": "replica-datte-koi-wo-suru",
-    "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "poster": "data/posters/replica-datte-koi-wo-suru.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "قوى خارقة",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2026",
     "score": 14
   },
   {
