@@ -5299,6 +5299,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "grand-blue-season-2",
+    "title": "انمي Grand Blue Season 2 مترجم اون لاين",
+    "poster": "data/posters/grand-blue-season-2.webp",
+    "genres": [
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "princess-connect-re-dive-season-2",
     "title": "انمي Princess Connect! Re:Dive Season 2 مترجم اون لاين",
     "poster": "data/posters/princess-connect-re-dive-season-2.webp",
