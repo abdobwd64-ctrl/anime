@@ -596,5 +596,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018"
+  },
+  {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005"
   }
 ]

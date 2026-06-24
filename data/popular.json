@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 43
+    "score": 44
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -436,18 +436,19 @@
     "score": 12
   },
   {
-    "id": "sd-gundam-world-sangoku-souketsuden",
-    "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "id": "champignon-no-majo",
+    "title": "انمي Champignon no Majo مترجم اون لاين",
+    "poster": "data/posters/champignon-no-majo.webp",
     "genres": [
-      "أكشن",
-      "ميكا",
-      "تاريخي"
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
     ],
-    "status": "مكتمل",
-    "type": "أونا",
+    "status": "يعرض الان",
+    "type": "تلفزيون",
     "episodes_count": "غير معروف",
-    "season": "صيف 2019",
-    "score": 10
+    "season": "شتاء 2026",
+    "score": 11
   }
 ]
