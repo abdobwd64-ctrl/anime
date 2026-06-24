@@ -186,6 +186,20 @@
     "score": 18
   },
   {
+    "id": "ouran-koukou-host-club",
+    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "poster": "data/posters/ouran-koukou-host-club.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2006",
+    "score": 18
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
@@ -234,20 +248,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 17
-  },
-  {
-    "id": "ouran-koukou-host-club",
-    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
-    "poster": "data/posters/ouran-koukou-host-club.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 2006",
     "score": 17
   },
   {
