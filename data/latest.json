@@ -264,6 +264,14 @@
     "date_sort": "2026-06-12"
   },
   {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
+    "episode": "10",
+    "date": "11 يونيو, 2026",
+    "date_sort": "2026-06-11"
+  },
+  {
     "anime_id": "hajime-no-ippo",
     "anime_title": "انمي Hajime no Ippo مترجم اون لاين",
     "anime_poster": "data/posters/hajime-no-ippo.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
     "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
     "episode": "10",
-    "date": "09 يونيو, 2026",
-    "date_sort": "2026-06-09"
-  },
-  {
-    "anime_id": "tadaima-ojamasaremasu",
-    "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
-    "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
-    "episode": "9",
     "date": "09 يونيو, 2026",
     "date_sort": "2026-06-09"
   }
