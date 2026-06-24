@@ -8,6 +8,22 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
+    "episode": "11",
+    "date": "17 يونيو, 2026",
+    "date_sort": "2026-06-17"
+  },
+  {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
+    "episode": "10",
+    "date": "11 يونيو, 2026",
+    "date_sort": "2026-06-11"
+  },
+  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -174,6 +190,14 @@
     "episode": "16",
     "date": "29 يونيو, 2024",
     "date_sort": "2024-06-29"
+  },
+  {
+    "anime_id": "dragon-raja-long-zu",
+    "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-raja-long-zu.webp",
+    "episode": "15",
+    "date": "22 يونيو, 2024",
+    "date_sort": "2024-06-22"
   },
   {
     "anime_id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
