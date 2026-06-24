@@ -2795,6 +2795,22 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "piano-no-mori-tv-2nd-season",
+    "title": "انمي Piano no Mori (TV) 2nd Season مترجم اون لاين",
+    "poster": "data/posters/piano-no-mori-tv-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "سينين",
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "uramichi-oniisan",
     "title": "انمي Uramichi Oniisan مترجم اون لاين",
     "poster": "data/posters/uramichi-oniisan.webp",
