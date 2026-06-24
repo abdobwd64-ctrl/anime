@@ -8,14 +8,6 @@
     "date_sort": "2026-06-20"
   },
   {
-    "anime_id": "kami-no-niwatsuki-kusunoki-tei",
-    "anime_title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
-    "anime_poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
-    "episode": "11",
-    "date": "13 يونيو, 2026",
-    "date_sort": "2026-06-13"
-  },
-  {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -128,6 +120,14 @@
     "date_sort": "2026-05-23"
   },
   {
+    "anime_id": "kami-no-niwatsuki-kusunoki-tei",
+    "anime_title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "episode": "8",
+    "date": "23 مايو, 2026",
+    "date_sort": "2026-05-23"
+  },
+  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -235,7 +235,7 @@
     "anime_id": "xian-wang-de-richang-shenghuo-5",
     "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
-    "episode": "10",
+    "episode": "9",
     "date": "13 فبراير, 2026",
     "date_sort": "2026-02-13"
   },
@@ -294,6 +294,14 @@
     "episode": "9",
     "date": "08 أغسطس, 2024",
     "date_sort": "2024-08-08"
+  },
+  {
+    "anime_id": "isekai-suicide-squad",
+    "anime_title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "anime_poster": "data/posters/isekai-suicide-squad.webp",
+    "episode": "8",
+    "date": "03 أغسطس, 2024",
+    "date_sort": "2024-08-03"
   },
   {
     "anime_id": "dr-stone-new-world",
@@ -388,14 +396,6 @@
     "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
     "episode": "6",
-    "date": "11 يوليو, 2020",
-    "date_sort": "2020-07-11"
-  },
-  {
-    "anime_id": "sd-gundam-world-sangoku-souketsuden",
-    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
-    "episode": "5",
     "date": "11 يوليو, 2020",
     "date_sort": "2020-07-11"
   }
