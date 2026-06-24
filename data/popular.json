@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 115
+    "score": 116
   },
   {
     "id": "cowboy-bebop",
@@ -365,7 +365,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 10
+    "score": 11
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -420,6 +420,20 @@
     "score": 6
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 6
+  },
+  {
     "id": "dragon-ball-z-movie-03-chikyuu-marugoto-choukessen",
     "title": "انمي Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-03-chikyuu-marugoto-choukessen.webp",
@@ -450,20 +464,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1991",
-    "score": 5
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
     "score": 5
   }
 ]
