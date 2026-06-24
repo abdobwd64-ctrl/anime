@@ -127,7 +127,251 @@
           "url": "https://www.file-up.org/t1p2n64gluqd"
         }
       ]
+    },
+    {
+      "number": "23",
+      "title": "الحلقة 23Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1c1KxYsAiQH_Con65oY6QIgcxJTIBSc2q/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!jnJ0RCYa!rjOCqy0YSdmgLD8mfIVMcKHqK_-g6KjkYJsAJMYFsCo"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-cs5g2z6bh1gk.html"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1IZZlZl9Bh9ykRssslaxdjtTBZlLpb2Ow/preview"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!PnZDiYKS!d2jJhrvCBEDJaxx8tAgbnOcllCwX0vmP-xNtJd6zBjU"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1z8L7OS3rneEObn8YufuUYxt4r_k3kt-i/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!f2w2wYhY!xiCH0lH8M_ZOEaZNrM3MgwX-uiEkSGZ33z7y02XTcak"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1z8L7OS3rneEObn8YufuUYxt4r_k3kt-i&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!f2w2wYhY!xiCH0lH8M_ZOEaZNrM3MgwX-uiEkSGZ33z7y02XTcak"
+        },
+        {
+          "server": "3rbup",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/9a92780fb1250685"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4tddkfo69re4"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/UaogtW8POjA/%5BAnime4up.com%5D_SAOA_EP_23_SD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1c1KxYsAiQH_Con65oY6QIgcxJTIBSc2q&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!jnJ0RCYa!rjOCqy0YSdmgLD8mfIVMcKHqK_-g6KjkYJsAJMYFsCo"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/81297b4e457f696c"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/abh79behzwvl"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/CWfhsVGZLh8/%5BAnime4up.com%5D_SAOA_EP_23_HD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1IZZlZl9Bh9ykRssslaxdjtTBZlLpb2Ow&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!PnZDiYKS!d2jJhrvCBEDJaxx8tAgbnOcllCwX0vmP-xNtJd6zBjU"
+        },
+        {
+          "server": "3rbup",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/bccbc4e2238f0090"
+        },
+        {
+          "server": "openload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/VG_YqDiHTTQ/%5BAnime4up.com%5D_SAOA_EP_23_FHD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/0akardt18w0t"
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "title": "الحلقة 22Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/14Faq_6XMoXjeGvAGe0vdMROqMrupFqXN/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!nn4WkIpR!7tHJ3BlhyXmH9uPvm_qRiot17h-nzLl9uQw9fVR4BlQ"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-febsku8b7p06.html"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ej0kDxZ9xLe-i3oGn_dkueq6HSN3IqnT/preview"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!jrAymC5C!V-zLWrNgEwllFrwrbeluz8XJW_eRyCfH7t3dJZKeJfo"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1-ECjeKdO5VjNOSw6xnaU2uszhW795-fb/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1-ECjeKdO5VjNOSw6xnaU2uszhW795-fb&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!rn4QHAxC!_yekW5oV1hk0ekR6VllxbQW4eX_AOH1Z0fnYG0KTgjM"
+        },
+        {
+          "server": "3rbup",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/cc58608bb01532a1"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/7dfo30fcr2bx"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/3gDHAAVV384/%5BAnime4up.com%5D_SAOA_EP_22_SD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=14Faq_6XMoXjeGvAGe0vdMROqMrupFqXN&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nn4WkIpR!7tHJ3BlhyXmH9uPvm_qRiot17h-nzLl9uQw9fVR4BlQ"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/3c33ab6ec7900403"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/sdmsgelvqq4x"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/q16dsfTg6vk/%5BAnime4up.com%5D_SAOA_EP_22_HD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1ej0kDxZ9xLe-i3oGn_dkueq6HSN3IqnT&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!jrAymC5C!V-zLWrNgEwllFrwrbeluz8XJW_eRyCfH7t3dJZKeJfo"
+        },
+        {
+          "server": "3rbup",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/95ae2b9095569807"
+        },
+        {
+          "server": "openload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/acmpGxNQmWg/%5BAnime4up.com%5D_SAOA_EP_22_FHD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:29:35.848811"
+  "last_updated": "2026-06-24T20:29:49.594256"
 }
