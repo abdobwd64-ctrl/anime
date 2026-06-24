@@ -295,6 +295,22 @@
     "score": 15
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 15
+  },
+  {
     "id": "aishiteru-game-wo-owarasetai",
     "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -362,22 +378,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "season": "صيف 2023",
     "score": 14
   },
   {

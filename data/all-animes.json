@@ -318,6 +318,19 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "hataraku-saibou-black-tv",
+    "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
+    "poster": "data/posters/hataraku-saibou-black-tv.webp",
+    "genres": [
+      "أكشن",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "biao-ren-er",
     "title": "انمي Biao Ren Er مترجم اون لاين",
     "poster": "data/posters/biao-ren-er.webp",
