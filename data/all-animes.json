@@ -663,6 +663,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "sen-to-chihiro-no-kamikakushi",
+    "title": "انمي Sen to Chihiro no Kamikakushi مترجم اون لاين",
+    "poster": "data/posters/sen-to-chihiro-no-kamikakushi.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2001"
+  },
+  {
     "id": "one-piece-movie-14-stampede",
     "title": "انمي One Piece Movie 14: Stampede مترجم اون لاين",
     "poster": "data/posters/one-piece-movie-14-stampede.webp",
@@ -4952,6 +4966,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
+    "title": "انمي Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru مترجم اون لاين",
+    "poster": "data/posters/yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "hananoi-kun-to-koi-no-yamai",
