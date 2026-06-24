@@ -1226,5 +1226,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "mob-psycho-100-iii",
+    "title": "انمي Mob Psycho 100 III مترجم اون لاين",
+    "poster": "data/posters/mob-psycho-100-iii.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   }
 ]
