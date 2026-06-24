@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 406
+    "score": 407
   },
   {
     "id": "naruto",
@@ -253,6 +253,19 @@
     "score": 32
   },
   {
+    "id": "shadowverse-flame",
+    "title": "انمي Shadowverse Flame مترجم اون لاين",
+    "poster": "data/posters/shadowverse-flame.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022",
+    "score": 31
+  },
+  {
     "id": "toaru-majutsu-no-index-iii",
     "title": "انمي Toaru Majutsu no Index III مترجم اون لاين",
     "poster": "data/posters/toaru-majutsu-no-index-iii.webp",
@@ -266,19 +279,6 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2018",
-    "score": 30
-  },
-  {
-    "id": "shadowverse-flame",
-    "title": "انمي Shadowverse Flame مترجم اون لاين",
-    "poster": "data/posters/shadowverse-flame.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2022",
     "score": 30
   },
   {
