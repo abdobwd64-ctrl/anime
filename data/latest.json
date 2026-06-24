@@ -8,14 +8,6 @@
     "date_sort": "2026-06-22"
   },
   {
-    "anime_id": "marriagetoxin",
-    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
-    "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026",
-    "date_sort": "2026-06-17"
-  },
-  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -70,6 +62,14 @@
     "episode": "7",
     "date": "21 مايو, 2026",
     "date_sort": "2026-05-21"
+  },
+  {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
+    "episode": "7",
+    "date": "20 مايو, 2026",
+    "date_sort": "2026-05-20"
   },
   {
     "anime_id": "diamond-no-ace-act-ii-second-season",
