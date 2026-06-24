@@ -409,6 +409,23 @@
     "score": 26
   },
   {
+    "id": "digimon-adventure",
+    "title": "انمي Digimon Adventure: مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
+    "score": 26
+  },
+  {
     "id": "ousama-ranking",
     "title": "انمي Ousama Ranking مترجم اون لاين",
     "poster": "data/posters/ousama-ranking.webp",
@@ -437,23 +454,6 @@
     "episodes_count": "24",
     "season": "ربيع 2025",
     "score": 26
-  },
-  {
-    "id": "digimon-adventure",
-    "title": "انمي Digimon Adventure: مترجم اون لاين",
-    "poster": "data/posters/digimon-adventure.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
-    "score": 25
   },
   {
     "id": "ansatsu-kyoushitsu",
