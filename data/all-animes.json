@@ -1840,6 +1840,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "houkago-teibou-nisshi",
+    "title": "انمي Houkago Teibou Nisshi مترجم اون لاين",
+    "poster": "data/posters/houkago-teibou-nisshi.webp",
+    "genres": [
+      "كوميدي",
+      "سينين",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari",
     "title": "انمي Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari مترجم اون لاين",
     "poster": "data/posters/tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari.webp",
