@@ -2656,6 +2656,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "destiny-child",
+    "title": "انمي Destiny Child مترجم اون لاين",
+    "poster": "data/posters/destiny-child.webp",
+    "genres": [
+      "أكشن",
+      "سحر",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "ربيع 2018"
+  },
+  {
     "id": "dead-mount-death-play",
     "title": "انمي Dead Mount Death Play مترجم اون لاين",
     "poster": "data/posters/dead-mount-death-play.webp",
