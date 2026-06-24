@@ -44,19 +44,6 @@
     "score": 26
   },
   {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021",
-    "score": 25
-  },
-  {
     "id": "hajime-no-ippo",
     "title": "انمي Hajime no Ippo مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo.webp",
@@ -69,7 +56,20 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 24
+    "score": 25
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2021",
+    "score": 25
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
@@ -174,6 +174,23 @@
     "score": 17
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 16
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-5",
     "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -205,23 +222,6 @@
     "score": 15
   },
   {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 15
-  },
-  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
@@ -234,6 +234,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 15
+  },
+  {
+    "id": "dead-mount-death-play",
+    "title": "انمي Dead Mount Death Play مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023",
     "score": 15
   },
   {
@@ -263,21 +278,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 14
-  },
-  {
-    "id": "dead-mount-death-play",
-    "title": "انمي Dead Mount Death Play مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023",
     "score": 14
   },
   {
