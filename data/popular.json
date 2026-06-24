@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 337
+    "score": 339
   },
   {
     "id": "naruto",
@@ -236,6 +236,23 @@
     "score": 32
   },
   {
+    "id": "beyblade-burst",
+    "title": "انمي Beyblade Burst مترجم اون لاين",
+    "poster": "data/posters/beyblade-burst.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2016",
+    "score": 31
+  },
+  {
     "id": "toaru-majutsu-no-index-iii",
     "title": "انمي Toaru Majutsu no Index III مترجم اون لاين",
     "poster": "data/posters/toaru-majutsu-no-index-iii.webp",
@@ -300,23 +317,6 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "خريف 2015",
-    "score": 30
-  },
-  {
-    "id": "beyblade-burst",
-    "title": "انمي Beyblade Burst مترجم اون لاين",
-    "poster": "data/posters/beyblade-burst.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "ربيع 2016",
     "score": 30
   },
   {
