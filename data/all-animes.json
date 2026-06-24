@@ -59,6 +59,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "starmyu-3rd-season",
+    "title": "انمي Starmyu 3rd Season مترجم اون لاين",
+    "poster": "data/posters/starmyu-3rd-season.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "hajime-no-ippo-new-challenger",
     "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
