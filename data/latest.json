@@ -216,14 +216,6 @@
     "date_sort": "2026-05-02"
   },
   {
-    "anime_id": "si-vis-the-sound-of-heroes",
-    "anime_title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "anime_poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "episode": "24",
-    "date": "29 مارس, 2026",
-    "date_sort": "2026-03-29"
-  },
-  {
     "anime_id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "anime_title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
     "anime_poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
@@ -286,6 +278,14 @@
     "episode": "8",
     "date": "23 نوفمبر, 2025",
     "date_sort": "2025-11-23"
+  },
+  {
+    "anime_id": "si-vis-the-sound-of-heroes",
+    "anime_title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "anime_poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "episode": "7",
+    "date": "16 نوفمبر, 2025",
+    "date_sort": "2025-11-16"
   },
   {
     "anime_id": "tu-bian-yingxiong-x",

@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 128
+    "score": 129
   },
   {
     "id": "cowboy-bebop",
@@ -75,7 +75,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 22
+    "score": 23
   },
   {
     "id": "dragon-raja-long-zu",
@@ -90,6 +90,20 @@
     "episodes_count": "16",
     "season": "ربيع 2024",
     "score": 19
+  },
+  {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 18
   },
   {
     "id": "sword-art-online-alicization-war-of-underworld",
@@ -123,20 +137,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 17
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
     "score": 17
   },
   {
