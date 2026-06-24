@@ -6456,6 +6456,18 @@
     "season": "خريف 2025"
   },
   {
+    "id": "ame-to-kimi-to",
+    "title": "انمي Ame to Kimi to مترجم اون لاين",
+    "poster": "data/posters/ame-to-kimi-to.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
