@@ -2106,6 +2106,21 @@
     "season": "شتاء 2018"
   },
   {
+    "id": "-hack-g-u-trilogy",
+    "title": "انمي .hack//G.U. Trilogy مترجم اون لاين",
+    "poster": "data/posters/-hack-g-u-trilogy.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "العاب",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2008"
+  },
+  {
     "id": "fangkai-nage-nuwu",
     "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
     "poster": "data/posters/fangkai-nage-nuwu.webp",

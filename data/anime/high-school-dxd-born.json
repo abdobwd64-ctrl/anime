@@ -941,7 +941,283 @@
           "url": "https://www.4shared.com/video/GWgILroAiq/Anime4upcom_HSDB_EP_06_FHD.html"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5High School DxD BorN",
+      "date": "07 سبتمبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/391635143174"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1J5DSf1GxWhXYr9OmdxjoWYJmEVVL-kH3/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!OShBCZQR!31X82D9nsd5aplJN85mrJ72roZOKCxm8GRjOivHhC5s"
+        },
+        {
+          "name": "vidoza | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidoza.net/embed-6m93uxb8d10y.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1227856808549"
+        },
+        {
+          "name": "sblanh | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblanh.com/e/xq52izf3n5xy"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/bhqvai7aea/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3732783172314"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/t5xg8fyya2jz"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-i6v9w1imnjbg.html"
+        },
+        {
+          "name": "solidfiles | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/5MP8yR5WxL2Zx"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-pbgizku1l8w3.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0OVERJpK!B0YLrc9xQCSHkceHqDi70nISMqoGTCk-l07wyV2XGTo"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/gbpbx9linp86"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1J5DSf1GxWhXYr9OmdxjoWYJmEVVL-kH3&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/OShBCZQR#31X82D9nsd5aplJN85mrJ72roZOKCxm8GRjOivHhC5s"
+        },
+        {
+          "server": "vidoza",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://vidoza.net/6m93uxb8d10y.html"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!OShBCZQR!31X82D9nsd5aplJN85mrJ72roZOKCxm8GRjOivHhC5s"
+        },
+        {
+          "server": "sblanh",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblanh.com/xq52izf3n5xy.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/97tno50uwulz"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0OVERJpK!B0YLrc9xQCSHkceHqDi70nISMqoGTCk-l07wyV2XGTo"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/Ae6eof97ya"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/d8jqttq7eyxz"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/5MP8yR5WxL2Zx"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/gbpbx9linp86"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/t5xg8fyya2jz"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/bhqvai7aea/Anime4upcom_HSDB_EP_05_FHD.html"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4High School DxD BorN",
+      "date": "07 سبتمبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1227856546405"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1jrnB3UNrJylgT6oV8ku4-PDNiSG5yD7s/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!6PpHnaKY!SE1wS1U9P2DT7-Ro7AjE_XHp3E5WdJnCCNMJcZmcVhc"
+        },
+        {
+          "name": "vidoza | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidoza.net/embed-fhxg7537cevp.html"
+        },
+        {
+          "name": "sblanh | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblanh.com/e/e4wjtjxbigpf"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/2Mmqn3j0ea/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3732780681946"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/ih797ohmq898"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-xtf4rnw9s01d.html"
+        },
+        {
+          "name": "solidfiles | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/dMZK2pewMxNNj"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-eckpuxixatba.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/BT8QCSZK!U2d3YgktmfZbNDPjwkwMpIWXa5MvNtOGX2A4r0OMWh4"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/7siqylxnd3vs"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1jrnB3UNrJylgT6oV8ku4-PDNiSG5yD7s&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!6PpHnaKY!SE1wS1U9P2DT7-Ro7AjE_XHp3E5WdJnCCNMJcZmcVhc"
+        },
+        {
+          "server": "vidoza",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://vidoza.net/fhxg7537cevp.html"
+        },
+        {
+          "server": "sblanh",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblanh.com/e4wjtjxbigpf.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/7uhk0sd6uc56"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!BT8QCSZK!U2d3YgktmfZbNDPjwkwMpIWXa5MvNtOGX2A4r0OMWh4"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/s860o49dy1"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/ltk3zwmrkk76"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/dMZK2pewMxNNj"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/7siqylxnd3vs"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/ih797ohmq898"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/2Mmqn3j0ea/Anime4upcom_HSDB_EP_04_FHD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:12:53.407662"
+  "last_updated": "2026-06-24T21:13:05.911211"
 }
