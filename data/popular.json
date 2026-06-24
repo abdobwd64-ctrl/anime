@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 1998",
-    "score": 25
+    "score": 26
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -57,7 +57,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2026",
-    "score": 9
+    "score": 10
+  },
+  {
+    "id": "yi-ren-zhi-xia-6",
+    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
+    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "26",
+    "season": "شتاء 2026",
+    "score": 7
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -74,20 +88,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "yi-ren-zhi-xia-6",
-    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2026",
     "score": 6
   },
   {
