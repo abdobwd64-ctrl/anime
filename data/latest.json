@@ -32,6 +32,14 @@
     "date_sort": "2026-06-04"
   },
   {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
+    "episode": "9",
+    "date": "04 يونيو, 2026",
+    "date_sort": "2026-06-04"
+  },
+  {
     "anime_id": "diamond-no-ace-act-ii-second-season",
     "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
     "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
@@ -198,6 +206,14 @@
     "episode": "15",
     "date": "22 يونيو, 2024",
     "date_sort": "2024-06-22"
+  },
+  {
+    "anime_id": "dragon-raja-long-zu",
+    "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-raja-long-zu.webp",
+    "episode": "14",
+    "date": "15 يونيو, 2024",
+    "date_sort": "2024-06-15"
   },
   {
     "anime_id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",

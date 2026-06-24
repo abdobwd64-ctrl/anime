@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 23
+    "score": 24
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -140,6 +140,20 @@
     "score": 5
   },
   {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -153,6 +167,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1994",
+    "score": 5
+  },
+  {
+    "id": "marriagetoxin",
+    "title": "انمي Marriagetoxin مترجم اون لاين",
+    "poster": "data/posters/marriagetoxin.webp",
+    "genres": [
+      "أكشن",
+      "شونين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 5
   },
   {
@@ -170,34 +198,6 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
-  },
-  {
-    "id": "dragon-raja-long-zu",
-    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "poster": "data/posters/dragon-raja-long-zu.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2024",
-    "score": 4
-  },
-  {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
-    "genres": [
-      "أكشن",
-      "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
