@@ -5407,6 +5407,22 @@
     "season": "خريف 2024"
   },
   {
+    "id": "kill-la-kill",
+    "title": "انمي Kill la Kill مترجم اون لاين",
+    "poster": "data/posters/kill-la-kill.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013"
+  },
+  {
     "id": "majutsushi-orphen-hagure-tabi",
     "title": "انمي Majutsushi Orphen Hagure Tabi مترجم اون لاين",
     "poster": "data/posters/majutsushi-orphen-hagure-tabi.webp",

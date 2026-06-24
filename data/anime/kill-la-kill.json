@@ -1,0 +1,77 @@
+{
+  "id": "kill-la-kill",
+  "title": "انمي Kill la Kill مترجم اون لاين",
+  "url": "https://animelek.top/anime/kill-la-kill/",
+  "poster": "data/posters/kill-la-kill.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "24",
+  "start_date": "2013",
+  "season": "خريف 2013",
+  "genres": [
+    "أكشن",
+    "خارق للعادة",
+    "كوميدي",
+    "مدرسي",
+    "إيتشي"
+  ],
+  "story": "بطلة هذا الأنمي هي ساتسوكي كيورين وهي رئيسة مجلس الطلبة وتفرض سيطرتها بالقوة إلا أن قدوم ريوكو ماتوي سيقلب موازين القوى.",
+  "episodes": [
+    {
+      "number": "24",
+      "title": "الحلقة 24Kill la Kill",
+      "date": "14 يوليو, 2020",
+      "servers": [
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/Na36XVZ2P7z6N"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/_yakw3wcee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!MeQXESjQ!x35mBkFM6yDup9S8JyRoG96MerIqVTLQAyfMo6MW_qE"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/gyj4sl1cse1b"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!MeQXESjQ!x35mBkFM6yDup9S8JyRoG96MerIqVTLQAyfMo6MW_qE"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vbgbph1rj6q2"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/QPV13QrC2NU/%5BAnime4up.com%5D_KLK_EP_24_END_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/gyj4sl1cse1b"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/Na36XVZ2P7z6N"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-24T23:13:01.441617"
+}
