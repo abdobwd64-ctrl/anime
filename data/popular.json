@@ -215,6 +215,22 @@
     "score": 14
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 14
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -273,22 +289,6 @@
     "score": 13
   },
   {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "season": "صيف 2023",
-    "score": 13
-  },
-  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -318,19 +318,6 @@
     "score": 10
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
     "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
     "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
     "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
@@ -342,6 +329,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 10
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
     "score": 9
   },
   {
@@ -374,7 +374,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018",
-    "score": 7
+    "score": 8
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
