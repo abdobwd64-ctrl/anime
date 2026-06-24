@@ -412,7 +412,76 @@
         }
       ],
       "downloads": []
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Beyblade Burst",
+      "date": "06 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "animesilver | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.animesilver.com/watch/embed/Bup/?e=QVRYa3JITnhJNVB4dDJKdWJsNHh0SWZqaTQxL040N3ZGalRacFdUT2krTkYxc1QyL1hBSFlVMkVkaWpqaXhFLzhjWmF2aFlqTWdpTGVmZjdKVUhnU2pKQ3ZIS1E4RzlhM0ViV2VyOWpPRFJyOTFNTVlIQ1drTXdvemZtZ1BxMExWNXNmcVFxWWNqM1B4c3ZrZEhEZ29uVWlOc085RXJudHludXAwZlBKdTNTUGkrL2lrbm9kZXZiekxJcHFvL3BET3hsSDNzNFRjYkFsZmhBeUVyOEFYUDI0Y3Rlb0hoR0Q0UHBYci9FN0hlaUZId1hRVXhkaVZWeG1BUjM1MllLUVcwY2VlMmZpdnh1SHJMVXUydWo4RWhjbEo5cFY0SXNqb1Y1U1ZuMjd6Y2lVOEpuemdnV1JJQXhjVnNvNmQ4WUM=&b=2"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-fabgpce4c0fg.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/fabgpce4c0fg"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Beyblade Burst",
+      "date": "06 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1268521896698"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-zrkhcganatwr.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/zrkhcganatwr"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Beyblade Burst",
+      "date": "06 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1268522289914"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vi1p4itix8jg.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vi1p4itix8jg"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T22:12:27.353555"
+  "last_updated": "2026-06-24T22:12:50.198444"
 }
