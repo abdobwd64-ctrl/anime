@@ -29,19 +29,6 @@
     "score": 27
   },
   {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021",
-    "score": 25
-  },
-  {
     "id": "ousama-ranking",
     "title": "انمي Ousama Ranking مترجم اون لاين",
     "poster": "data/posters/ousama-ranking.webp",
@@ -54,7 +41,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 24
+    "score": 25
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2021",
+    "score": 25
   },
   {
     "id": "bakemonogatari",
@@ -153,6 +153,25 @@
     "score": 15
   },
   {
+    "id": "val-x-love",
+    "title": "انمي Val x Love مترجم اون لاين",
+    "poster": "data/posters/val-x-love.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 14
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -226,25 +245,6 @@
     "score": 14
   },
   {
-    "id": "val-x-love",
-    "title": "انمي Val x Love مترجم اون لاين",
-    "poster": "data/posters/val-x-love.webp",
-    "genres": [
-      "شونين",
-      "رومانسي",
-      "كوميدي",
-      "قوى خارقة",
-      "مدرسي",
-      "إيتشي",
-      "حريم"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
-    "score": 13
-  },
-  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -284,7 +284,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
-    "score": 11
+    "score": 12
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
