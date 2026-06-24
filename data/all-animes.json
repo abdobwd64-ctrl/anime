@@ -922,6 +922,18 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "cyberpunk-edgerunners",
+    "title": "انمي Cyberpunk: Edgerunners مترجم اون لاين",
+    "poster": "data/posters/cyberpunk-edgerunners.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "10",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "classic-stars",
     "title": "انمي classic★stars مترجم اون لاين",
     "poster": "data/posters/classic-stars.webp",
