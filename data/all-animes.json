@@ -1046,6 +1046,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "bright-samurai-soul",
+    "title": "انمي Bright: Samurai Soul مترجم اون لاين",
+    "poster": "data/posters/bright-samurai-soul.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "خريف 2021"
+  },
+  {
     "id": "mao",
     "title": "انمي Mao مترجم اون لاين",
     "poster": "data/posters/mao.webp",
