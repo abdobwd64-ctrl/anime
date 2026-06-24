@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 424
+    "score": 425
   },
   {
     "id": "naruto",
@@ -381,6 +381,23 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024",
+    "score": 29
+  },
+  {
+    "id": "boku-no-hero-academia-2nd-season",
+    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2017",
     "score": 29
   },
   {
