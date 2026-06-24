@@ -1,0 +1,97 @@
+{
+  "id": "nana",
+  "title": "انمي Nana مترجم اون لاين",
+  "url": "https://animelek.top/anime/nana/",
+  "poster": "data/posters/nana.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "47",
+  "start_date": "2006",
+  "season": "ربيع 2006",
+  "genres": [
+    "دراما",
+    "رومانسي",
+    "موسيقي"
+  ],
+  "story": "قصة انمي Nana حول انطلاق فتاتان شابتان من مسقط رأسيهما، تحملان الاسم نفسه، وتجمعهما الرغبة في بدء حياة جديدة. كانت طوكيو وجهتهما المشتركة؛ فنانا كوماتسو تحلم بحب سعيد يملأ حياتها، بينما تسعى نانا أوساكي إلى شق طريقها في عالم الموسيقى وتحقيق النجاح كفنانة. تتميّز نانا كوماتسو بطبيعتها المرحة والودودة، لكن سذاجتها كثيرًا ما قادتها إلى اختيارات عاطفية خاطئة، إلى أن تلتقي بحبيبها المتزن شووجي إندو. ورغم قرار شووجي الانتقال إلى طوكيو للدراسة، لا تستسلم نانا للحزن، بل تعمل بجد لتجمع المال الكافي وتلحق به هناك. أما نانا الأخرى، فهي مغنية بانك وحيدة ذات شخصية قوية، تعيش قصة حب عاصفة مع عازف الباس في فرقتها، رين هونجو، قبل أن تنتهي علاقتهما بشكل مفاجئ. وعلى الرغم من انكسار قلبها، تختار نانا أن تمضي قدمًا بشجاعة، متجهة إلى العاصمة وهي تحمل حلمها بأن تصبح فنانة معروفة. وبعد وصولهما إلى طوكيو بوقت قصير، تجمع الصدفة بين الفتاتين من جديد، لتقودهما الظروف إلى العيش تحت سقف واحد. ومع مرور الوقت، تنشأ بينهما علاقة عميقة، حيث تحاول كل واحدة منهما دعم الأخرى في مواجهة صعوبات الحياة، بينما تسعيان معًا لصناعة مستقبل يليق بأحلامهما.",
+  "episodes": [
+    {
+      "number": "47",
+      "title": "الحلقة 47Nana",
+      "date": "23 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/28wOAtzd3OdBM"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-nnt7on2xe2g3.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/71ahn2csrfuv"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/4t18b48v7d75"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-7yzxyx6rsok1.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/28wOAtzd3OdBM"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/28wOAtzd3OdBM"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/7yzxyx6rsok1"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/71ahn2csrfuv"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/i70cznbsofnu"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/VmXvEO"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/4t18b48v7d75"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/nnt7on2xe2g3"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-24T03:06:09.632739"
+}

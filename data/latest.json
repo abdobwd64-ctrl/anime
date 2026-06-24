@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "nana",
+    "anime_title": "انمي Nana مترجم اون لاين",
+    "anime_poster": "data/posters/nana.webp",
+    "episode": "47",
+    "date": "23 يونيو, 2026",
+    "date_sort": "2026-06-23"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -390,13 +398,5 @@
     "episode": "2",
     "date": "26 يناير, 2026",
     "date_sort": "2026-01-26"
-  },
-  {
-    "anime_id": "xian-wang-de-richang-shenghuo-5",
-    "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
-    "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
-    "episode": "8",
-    "date": "25 يناير, 2026",
-    "date_sort": "2026-01-25"
   }
 ]
