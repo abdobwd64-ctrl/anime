@@ -2548,6 +2548,20 @@
     "season": "شتاء 2016"
   },
   {
+    "id": "violet-evergarden",
+    "title": "انمي Violet Evergarden مترجم اون لاين",
+    "poster": "data/posters/violet-evergarden.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2018"
+  },
+  {
     "id": "super-no-ura-de-yani-suu-futari",
     "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
     "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
