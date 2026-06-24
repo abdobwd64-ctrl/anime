@@ -354,6 +354,22 @@
     "score": 15
   },
   {
+    "id": "kingdom-6th-season",
+    "title": "انمي Kingdom 6th Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-6th-season.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2025",
+    "score": 14
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -378,6 +394,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
+    "score": 14
+  },
+  {
+    "id": "hataraku-saibou-black-tv",
+    "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
+    "poster": "data/posters/hataraku-saibou-black-tv.webp",
+    "genres": [
+      "أكشن",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021",
     "score": 14
   },
   {
@@ -421,36 +451,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 13
-  },
-  {
-    "id": "kingdom-6th-season",
-    "title": "انمي Kingdom 6th Season مترجم اون لاين",
-    "poster": "data/posters/kingdom-6th-season.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "سينين",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "خريف 2025",
-    "score": 13
-  },
-  {
-    "id": "kill-ao",
-    "title": "انمي Kill Ao مترجم اون لاين",
-    "poster": "data/posters/kill-ao.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 13
   }
 ]
