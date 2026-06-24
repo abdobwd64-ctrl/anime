@@ -133,6 +133,22 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",

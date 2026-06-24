@@ -425,6 +425,23 @@
     "score": 8
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 7
+  },
+  {
     "id": "dead-mount-death-play",
     "title": "انمي Dead Mount Death Play مترجم اون لاين",
     "poster": "data/posters/dead-mount-death-play.webp",
@@ -437,21 +454,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 6
-  },
-  {
-    "id": "tensei-shitara-dragon-no-tamago-datta",
-    "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
-    "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 6
   }
 ]
