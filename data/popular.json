@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 132
+    "score": 133
   },
   {
     "id": "cowboy-bebop",
@@ -47,20 +47,6 @@
     "score": 27
   },
   {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 26
-  },
-  {
     "id": "black-clover",
     "title": "انمي Black Clover مترجم اون لاين",
     "poster": "data/posters/black-clover.webp",
@@ -75,7 +61,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 25
+    "score": 26
+  },
+  {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 26
   },
   {
     "id": "si-vis-the-sound-of-heroes",
@@ -89,7 +89,7 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2025",
-    "score": 22
+    "score": 23
   },
   {
     "id": "dragon-raja-long-zu",
