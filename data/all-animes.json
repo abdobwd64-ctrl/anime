@@ -55,6 +55,22 @@
     "season": "صيف 2019"
   },
   {
+    "id": "mars-red",
+    "title": "انمي Mars Red مترجم اون لاين",
+    "poster": "data/posters/mars-red.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",

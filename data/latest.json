@@ -344,6 +344,14 @@
     "date_sort": "2022-03-24"
   },
   {
+    "anime_id": "ousama-ranking",
+    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
+    "anime_poster": "data/posters/ousama-ranking.webp",
+    "episode": "22",
+    "date": "17 مارس, 2022",
+    "date_sort": "2022-03-17"
+  },
+  {
     "anime_id": "shiroi-suna-no-aquatope",
     "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
     "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
@@ -368,6 +376,14 @@
     "date_sort": "2021-08-19"
   },
   {
+    "anime_id": "mars-red",
+    "anime_title": "انمي Mars Red مترجم اون لاين",
+    "anime_poster": "data/posters/mars-red.webp",
+    "episode": "13",
+    "date": "28 يونيو, 2021",
+    "date_sort": "2021-06-28"
+  },
+  {
     "anime_id": "golden-time",
     "anime_title": "انمي Golden Time مترجم اون لاين",
     "anime_poster": "data/posters/golden-time.webp",
@@ -382,21 +398,5 @@
     "episode": "8",
     "date": "31 مارس, 2021",
     "date_sort": "2021-03-31"
-  },
-  {
-    "anime_id": "golden-time",
-    "anime_title": "انمي Golden Time مترجم اون لاين",
-    "anime_poster": "data/posters/golden-time.webp",
-    "episode": "7",
-    "date": "31 مارس, 2021",
-    "date_sort": "2021-03-31"
-  },
-  {
-    "anime_id": "sd-gundam-world-sangoku-souketsuden",
-    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
-    "episode": "7",
-    "date": "11 يوليو, 2020",
-    "date_sort": "2020-07-11"
   }
 ]

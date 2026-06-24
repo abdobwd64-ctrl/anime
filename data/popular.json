@@ -75,6 +75,22 @@
     "score": 17
   },
   {
+    "id": "xian-wang-de-richang-shenghuo-5",
+    "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
+    "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2025",
+    "score": 16
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -102,22 +118,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "xian-wang-de-richang-shenghuo-5",
-    "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
-    "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "خريف 2025",
     "score": 15
   },
   {
@@ -236,6 +236,23 @@
     "score": 9
   },
   {
+    "id": "mars-red",
+    "title": "انمي Mars Red مترجم اون لاين",
+    "poster": "data/posters/mars-red.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021",
+    "score": 6
+  },
+  {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
     "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
@@ -264,7 +281,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 4
+    "score": 5
   },
   {
     "id": "let-s-all-love-lain",
