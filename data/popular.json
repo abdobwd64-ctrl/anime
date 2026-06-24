@@ -11,7 +11,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 27
+    "score": 28
   },
   {
     "id": "golden-time",
@@ -59,6 +59,22 @@
     "score": 17
   },
   {
+    "id": "bakemonogatari",
+    "title": "انمي Bakemonogatari مترجم اون لاين",
+    "poster": "data/posters/bakemonogatari.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "15",
+    "season": "صيف 2009",
+    "score": 16
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -86,22 +102,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "bakemonogatari",
-    "title": "انمي Bakemonogatari مترجم اون لاين",
-    "poster": "data/posters/bakemonogatari.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "قوى خارقة",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "15",
-    "season": "صيف 2009",
     "score": 15
   },
   {
@@ -179,6 +179,19 @@
     "score": 10
   },
   {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 6
+  },
+  {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
     "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
@@ -193,19 +206,6 @@
     "episodes_count": "1",
     "season": "ربيع 2025",
     "score": 5
-  },
-  {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 4
   },
   {
     "id": "let-s-all-love-lain",
