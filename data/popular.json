@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 118
+    "score": 119
   },
   {
     "id": "cowboy-bebop",
@@ -263,6 +263,23 @@
     "score": 14
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017",
+    "score": 14
+  },
+  {
     "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
     "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
@@ -304,23 +321,6 @@
     "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
-  },
-  {
-    "id": "black-clover",
-    "title": "انمي Black Clover مترجم اون لاين",
-    "poster": "data/posters/black-clover.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2017",
-    "score": 13
   },
   {
     "id": "snowball-earth",
@@ -379,7 +379,7 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2025",
-    "score": 7
+    "score": 9
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
