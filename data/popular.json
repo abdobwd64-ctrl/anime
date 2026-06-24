@@ -55,7 +55,7 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
-    "score": 18
+    "score": 19
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -208,6 +208,22 @@
     "score": 5
   },
   {
+    "id": "xian-wang-de-richang-shenghuo-5",
+    "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
+    "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2025",
+    "score": 5
+  },
+  {
     "id": "kami-no-niwatsuki-kusunoki-tei",
     "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
     "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
@@ -219,7 +235,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 3
+    "score": 4
   },
   {
     "id": "let-s-all-love-lain",
