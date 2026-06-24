@@ -56,6 +56,14 @@
     "date_sort": "2026-06-21"
   },
   {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "episode": "10",
+    "date": "16 يونيو, 2026",
+    "date_sort": "2026-06-16"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "20 فبراير, 2026",
     "date_sort": "2026-02-20"
-  },
-  {
-    "anime_id": "mf-ghost-3rd-season",
-    "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
-    "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
-    "episode": "8",
-    "date": "19 فبراير, 2026",
-    "date_sort": "2026-02-19"
   }
 ]
