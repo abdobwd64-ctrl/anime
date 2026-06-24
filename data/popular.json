@@ -321,6 +321,22 @@
     "score": 14
   },
   {
+    "id": "champignon-no-majo",
+    "title": "انمي Champignon no Majo مترجم اون لاين",
+    "poster": "data/posters/champignon-no-majo.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 14
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -406,22 +422,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 13
-  },
-  {
-    "id": "champignon-no-majo",
-    "title": "انمي Champignon no Majo مترجم اون لاين",
-    "poster": "data/posters/champignon-no-majo.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا",
-      "مغامرات",
-      "رومانسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 13
   },
   {
