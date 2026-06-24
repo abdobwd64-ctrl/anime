@@ -731,6 +731,21 @@
     "season": "خريف 2021"
   },
   {
+    "id": "triage-x",
+    "title": "انمي Triage X مترجم اون لاين",
+    "poster": "data/posters/triage-x.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -1025,6 +1040,19 @@
       "كوميدي",
       "قوى خارقة",
       "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2023"
+  },
+  {
+    "id": "lv1-maou-to-one-room-yuusha",
+    "title": "انمي Lv1 Maou to One Room Yuusha مترجم اون لاين",
+    "poster": "data/posters/lv1-maou-to-one-room-yuusha.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
