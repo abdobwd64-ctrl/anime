@@ -3491,6 +3491,19 @@
     "season": "شتاء 2018"
   },
   {
+    "id": "towa-no-yuugure",
+    "title": "انمي Towa no Yuugure مترجم اون لاين",
+    "poster": "data/posters/towa-no-yuugure.webp",
+    "genres": [
+      "رومانسي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
