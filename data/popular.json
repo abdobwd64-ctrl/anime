@@ -405,6 +405,20 @@
     "score": 27
   },
   {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 26
+  },
+  {
     "id": "blue-lock",
     "title": "انمي Blue Lock مترجم اون لاين",
     "poster": "data/posters/blue-lock.webp",
@@ -458,20 +472,6 @@
     ],
     "status": "مكتمل",
     "type": "أونا",
-    "episodes_count": "24",
-    "season": "صيف 2025",
-    "score": 26
-  },
-  {
-    "id": "futari-solo-camp",
-    "title": "انمي Futari Solo Camp مترجم اون لاين",
-    "poster": "data/posters/futari-solo-camp.webp",
-    "genres": [
-      "سينين",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2025",
     "score": 26
