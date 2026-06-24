@@ -69,7 +69,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 21
+    "score": 22
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
@@ -337,6 +337,23 @@
     "score": 13
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 13
+  },
+  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -362,23 +379,6 @@
     "episodes_count": "12",
     "season": "صيف 2018",
     "score": 13
-  },
-  {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 12
   },
   {
     "id": "isekai-suicide-squad",
@@ -407,7 +407,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 11
+    "score": 12
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
