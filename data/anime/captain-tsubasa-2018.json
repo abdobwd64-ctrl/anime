@@ -2724,7 +2724,66 @@
           "url": "https://mega.nz/#!CXRjGYSY!z08CaJ00ErNoNCiCC_t-yrsOUIARX_ydbpNj_0M8jjw"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Captain Tsubasa (2018)",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/655936654008"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1L1ca75sGGEJqC4gpDYvDSblNSxUYFUIj/preview"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/fzul34kvtu16"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-d8dms2vwbbnf.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!uHQxmABY!SgrRoXn8yprX044EHOzfGktT-UcK6369xONn4Oc623M"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/VGJaJhVgXW0/%5BCimaClub.Com%5D-Captain_Tsubasa%282018%29_-_02_%5B720p%5D.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1L1ca75sGGEJqC4gpDYvDSblNSxUYFUIj&export=download"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/feng2nbpit7y.html"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/fzul34kvtu16"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!uHQxmABY!SgrRoXn8yprX044EHOzfGktT-UcK6369xONn4Oc623MHG9I7jGl-DnliNc"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:05:48.180176"
+  "last_updated": "2026-06-24T21:05:57.314695"
 }
