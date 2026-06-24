@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "episode": "11",
+    "date": "23 يونيو, 2026",
+    "date_sort": "2026-06-23"
+  },
+  {
     "anime_id": "date-a-live-movie-mayuri-judgment",
     "anime_title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "anime_poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -390,13 +398,5 @@
     "episode": "8",
     "date": "24 مايو, 2025",
     "date_sort": "2025-05-24"
-  },
-  {
-    "anime_id": "tu-bian-yingxiong-x",
-    "anime_title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "anime_poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "episode": "7",
-    "date": "18 مايو, 2025",
-    "date_sort": "2025-05-18"
   }
 ]
