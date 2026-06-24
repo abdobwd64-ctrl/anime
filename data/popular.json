@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 130
+    "score": 131
   },
   {
     "id": "cowboy-bebop",
@@ -78,20 +78,6 @@
     "score": 24
   },
   {
-    "id": "dragon-raja-long-zu",
-    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "poster": "data/posters/dragon-raja-long-zu.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2024",
-    "score": 19
-  },
-  {
     "id": "si-vis-the-sound-of-heroes",
     "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
     "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
@@ -103,6 +89,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2025",
+    "score": 20
+  },
+  {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024",
     "score": 19
   },
   {
