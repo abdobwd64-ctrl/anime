@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 52
+    "score": 54
   },
   {
     "id": "cowboy-bebop",
@@ -61,6 +61,20 @@
     "score": 19
   },
   {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 17
+  },
+  {
     "id": "world-trigger-3rd-season",
     "title": "انمي World Trigger 3rd Season مترجم اون لاين",
     "poster": "data/posters/world-trigger-3rd-season.webp",
@@ -74,20 +88,6 @@
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
     "score": 17
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 15
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -298,6 +298,20 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "ربيع 2026",
+    "score": 3
+  },
+  {
+    "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
+    "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
+    "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
+    "genres": [
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2015",
     "score": 3
   },
   {
