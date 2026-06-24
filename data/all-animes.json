@@ -60,18 +60,6 @@
     "season": "شتاء 2009"
   },
   {
-    "id": "hello-world",
-    "title": "انمي Hello World مترجم اون لاين",
-    "poster": "data/posters/hello-world.webp",
-    "genres": [
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "صيف 2019"
-  },
-  {
     "id": "spy-x-family-movie-code-white",
     "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
     "poster": "data/posters/spy-x-family-movie-code-white.webp",
@@ -83,20 +71,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2023"
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen-2nd-season",
-    "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
-    "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026"
   },
   {
     "id": "prism-rondo",
@@ -127,36 +101,6 @@
     "season": "صيف 2020"
   },
   {
-    "id": "sd-gundam-world-sangoku-souketsuden",
-    "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
-    "genres": [
-      "أكشن",
-      "ميكا",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2019"
-  },
-  {
-    "id": "mars-red",
-    "title": "انمي Mars Red مترجم اون لاين",
-    "poster": "data/posters/mars-red.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "قوى خارقة",
-      "تاريخي",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2021"
-  },
-  {
     "id": "ao-no-exorcist-yosuga-hen",
     "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
@@ -171,20 +115,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
-  },
-  {
-    "id": "haibara-kun-no-tsuyokute-seishun-new-game",
-    "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
-    "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026"
   },
   {
     "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
@@ -241,20 +171,6 @@
     "season": "صيف 2021"
   },
   {
-    "id": "dead-mount-death-play",
-    "title": "انمي Dead Mount Death Play مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023"
-  },
-  {
     "id": "replica-datte-koi-wo-suru",
     "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
     "poster": "data/posters/replica-datte-koi-wo-suru.webp",
@@ -293,21 +209,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2024"
-  },
-  {
-    "id": "meitantei-conan-movie-28-sekigan-no-flashback",
-    "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
-    "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
-    "genres": [
-      "أكشن",
-      "غموض",
-      "شونين",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "ربيع 2025"
   },
   {
     "id": "mf-ghost-3rd-season",
@@ -364,16 +265,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
-  },
-  {
-    "id": "let-s-all-love-lain",
-    "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
-    "poster": "data/posters/let-s-all-love-lain.webp",
-    "genres": [],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "خريف 2021"
   },
   {
     "id": "biao-ren-er",
@@ -451,22 +342,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
-  },
-  {
-    "id": "sentai-red-isekai-de-boukensha-ni-naru",
-    "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
-    "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025"
   },
   {
     "id": "ouran-koukou-host-club",
@@ -571,19 +446,6 @@
     "season": "ربيع 2026"
   },
   {
-    "id": "kami-no-niwatsuki-kusunoki-tei",
-    "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
-    "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
-    "genres": [
-      "فنتازيا",
-      "شريحة من الحياة"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026"
-  },
-  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
@@ -597,20 +459,6 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009"
-  },
-  {
-    "id": "dr-stone-new-world",
-    "title": "انمي Dr. Stone: New World مترجم اون لاين",
-    "poster": "data/posters/dr-stone-new-world.webp",
-    "genres": [
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023"
   },
   {
     "id": "nana",
@@ -627,18 +475,6 @@
     "season": "ربيع 2006"
   },
   {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021"
-  },
-  {
     "id": "tensei-shitara-dragon-no-tamago-datta",
     "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
@@ -651,30 +487,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
-  },
-  {
-    "id": "one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu",
-    "title": "انمي One Piece Dokuta Choppa No Boken Karute Tensai Ga Nokoshita Rasuto Rekozu مترجم اون لاين",
-    "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu.webp",
-    "genres": [],
-    "status": "يعرض الان",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "شتاء 2025"
-  },
-  {
-    "id": "golden-time",
-    "title": "انمي Golden Time مترجم اون لاين",
-    "poster": "data/posters/golden-time.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2013"
   },
   {
     "id": "grand-blue",

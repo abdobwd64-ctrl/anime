@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 63
+    "score": 58
   },
   {
     "id": "nana",
@@ -62,21 +62,6 @@
     "score": 28
   },
   {
-    "id": "golden-time",
-    "title": "انمي Golden Time مترجم اون لاين",
-    "poster": "data/posters/golden-time.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2013",
-    "score": 27
-  },
-  {
     "id": "ousama-ranking",
     "title": "انمي Ousama Ranking مترجم اون لاين",
     "poster": "data/posters/ousama-ranking.webp",
@@ -90,19 +75,6 @@
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
     "score": 26
-  },
-  {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021",
-    "score": 25
   },
   {
     "id": "prism-rondo",
@@ -132,38 +104,6 @@
     "score": 20
   },
   {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "season": "صيف 2023",
-    "score": 19
-  },
-  {
-    "id": "bakemonogatari",
-    "title": "انمي Bakemonogatari مترجم اون لاين",
-    "poster": "data/posters/bakemonogatari.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "قوى خارقة",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "15",
-    "season": "صيف 2009",
-    "score": 19
-  },
-  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -180,23 +120,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 18
-  },
-  {
-    "id": "mars-red",
-    "title": "انمي Mars Red مترجم اون لاين",
-    "poster": "data/posters/mars-red.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "قوى خارقة",
-      "تاريخي",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2021",
     "score": 18
   },
   {
@@ -247,23 +170,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2026",
-    "score": 17
-  },
-  {
-    "id": "sentai-red-isekai-de-boukensha-ni-naru",
-    "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
-    "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
     "score": 17
   },
   {
@@ -329,51 +235,6 @@
     "score": 16
   },
   {
-    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
-    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
-    "genres": [
-      "فنتازيا",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "haibara-kun-no-tsuyokute-seishun-new-game",
-    "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
-    "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "dead-mount-death-play",
-    "title": "انمي Dead Mount Death Play مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023",
-    "score": 15
-  },
-  {
     "id": "aishiteru-game-wo-owarasetai",
     "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -403,35 +264,6 @@
     "score": 15
   },
   {
-    "id": "yozakura-san-chi-no-daisakusen-2nd-season",
-    "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
-    "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "meikyuu-black-company",
-    "title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "poster": "data/posters/meikyuu-black-company.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2021",
-    "score": 14
-  },
-  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -457,5 +289,171 @@
     "episodes_count": "13",
     "season": "شتاء 2026",
     "score": 14
+  },
+  {
+    "id": "ji-yao-lu-qicheng-pian",
+    "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
+    "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2024",
+    "score": 13
+  },
+  {
+    "id": "grand-blue",
+    "title": "انمي Grand Blue مترجم اون لاين",
+    "poster": "data/posters/grand-blue.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018",
+    "score": 13
+  },
+  {
+    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
+    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 12
+  },
+  {
+    "id": "isekai-suicide-squad",
+    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "poster": "data/posters/isekai-suicide-squad.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2024",
+    "score": 12
+  },
+  {
+    "id": "bakemonogatari",
+    "title": "انمي Bakemonogatari مترجم اون لاين",
+    "poster": "data/posters/bakemonogatari.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "15",
+    "season": "صيف 2009",
+    "score": 12
+  },
+  {
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 11
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 9
+  },
+  {
+    "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
+    "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
+    "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2024",
+    "score": 8
+  },
+  {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 7
+  },
+  {
+    "id": "meikyuu-black-company",
+    "title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "poster": "data/posters/meikyuu-black-company.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021",
+    "score": 6
+  },
+  {
+    "id": "tensei-shitara-dragon-no-tamago-datta",
+    "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
+    "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 6
   }
 ]
