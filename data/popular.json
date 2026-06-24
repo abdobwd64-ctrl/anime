@@ -350,6 +350,21 @@
     "score": 13
   },
   {
+    "id": "kanojo-okarishimasu-5th-season",
+    "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 13
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
     "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
@@ -419,21 +434,6 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
-    "score": 12
-  },
-  {
-    "id": "kanojo-okarishimasu-5th-season",
-    "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
-    "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
-    "genres": [
-      "شونين",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 12
   },
   {
