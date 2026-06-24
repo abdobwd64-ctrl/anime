@@ -8,6 +8,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "koori-no-jouheki",
+    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
+    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "episode": "12",
+    "date": "18 يونيو, 2026",
+    "date_sort": "2026-06-18"
+  },
+  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -195,14 +203,6 @@
     "anime_id": "dragon-raja-long-zu",
     "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
     "anime_poster": "data/posters/dragon-raja-long-zu.webp",
-    "episode": "16",
-    "date": "29 يونيو, 2024",
-    "date_sort": "2024-06-29"
-  },
-  {
-    "anime_id": "dragon-raja-long-zu",
-    "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "anime_poster": "data/posters/dragon-raja-long-zu.webp",
     "episode": "9",
     "date": "11 مايو, 2024",
     "date_sort": "2024-05-11"
@@ -212,6 +212,14 @@
     "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
     "anime_poster": "data/posters/dragon-raja-long-zu.webp",
     "episode": "8",
+    "date": "04 مايو, 2024",
+    "date_sort": "2024-05-04"
+  },
+  {
+    "anime_id": "dragon-raja-long-zu",
+    "anime_title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-raja-long-zu.webp",
+    "episode": "7",
     "date": "04 مايو, 2024",
     "date_sort": "2024-05-04"
   },

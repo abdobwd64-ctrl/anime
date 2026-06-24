@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 31
+    "score": 32
   },
   {
     "id": "cowboy-bebop",
@@ -132,7 +132,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2024",
-    "score": 11
+    "score": 12
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -228,6 +228,20 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
+  },
+  {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 3
   },
   {
     "id": "spy-x-family-movie-code-white",

@@ -83,6 +83,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "spy-x-family-movie-code-white",
     "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
     "poster": "data/posters/spy-x-family-movie-code-white.webp",
