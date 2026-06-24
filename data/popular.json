@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 336
+    "score": 337
   },
   {
     "id": "naruto",
@@ -303,6 +303,23 @@
     "score": 30
   },
   {
+    "id": "beyblade-burst",
+    "title": "انمي Beyblade Burst مترجم اون لاين",
+    "poster": "data/posters/beyblade-burst.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2016",
+    "score": 30
+  },
+  {
     "id": "higurashi-no-naku-koro-ni-2020",
     "title": "انمي Higurashi no Naku Koro ni (2020) مترجم اون لاين",
     "poster": "data/posters/higurashi-no-naku-koro-ni-2020.webp",
@@ -429,23 +446,6 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "خريف 2005",
-    "score": 28
-  },
-  {
-    "id": "beyblade-burst",
-    "title": "انمي Beyblade Burst مترجم اون لاين",
-    "poster": "data/posters/beyblade-burst.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "ربيع 2016",
     "score": 28
   },
   {
