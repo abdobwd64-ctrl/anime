@@ -1636,6 +1636,20 @@
     "season": "خريف 2016"
   },
   {
+    "id": "toaru-kagaku-no-railgun-t",
+    "title": "انمي Toaru Kagaku no Railgun T مترجم اون لاين",
+    "poster": "data/posters/toaru-kagaku-no-railgun-t.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
     "title": "انمي Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai مترجم اون لاين",
     "poster": "data/posters/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai.webp",
