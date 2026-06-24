@@ -1063,6 +1063,20 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "overlord-movie-2-shikkoku-no-eiyuu",
+    "title": "انمي Overlord Movie 2: Shikkoku no Eiyuu مترجم اون لاين",
+    "poster": "data/posters/overlord-movie-2-shikkoku-no-eiyuu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi",
     "title": "انمي Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi مترجم اون لاين",
     "poster": "data/posters/watashi-no-shiawase-na-kekkon-watashi-no-shiawase-na-katachi.webp",
@@ -5415,6 +5429,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi",
+    "title": "انمي Gintama: Nanigoto mo Saisho ga Kanjin nanode Tashou Senobisuru Kurai ga Choudoyoi مترجم اون لاين",
+    "poster": "data/posters/gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2005"
   },
   {
     "id": "beastars-2nd-season",
