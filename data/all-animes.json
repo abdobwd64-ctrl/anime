@@ -2602,6 +2602,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "stand-my-heroes-piece-of-truth",
+    "title": "انمي Stand My Heroes: Piece of Truth مترجم اون لاين",
+    "poster": "data/posters/stand-my-heroes-piece-of-truth.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "جوسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "bleach-sennen-kessen-hen",
     "title": "انمي Bleach: Sennen Kessen-hen مترجم اون لاين",
     "poster": "data/posters/bleach-sennen-kessen-hen.webp",
