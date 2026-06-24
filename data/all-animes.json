@@ -271,6 +271,18 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "mf-ghost-3rd-season",
+    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mf-ghost-3rd-season.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
