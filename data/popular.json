@@ -189,6 +189,22 @@
     "score": 17
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 16
+  },
+  {
     "id": "champignon-no-majo",
     "title": "انمي Champignon no Majo مترجم اون لاين",
     "poster": "data/posters/champignon-no-majo.webp",
@@ -292,22 +308,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "15",
-    "season": "صيف 2023",
     "score": 15
   },
   {
@@ -437,17 +437,17 @@
     "score": 13
   },
   {
-    "id": "isekai-suicide-squad",
-    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
-    "poster": "data/posters/isekai-suicide-squad.webp",
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
     "genres": [
       "أكشن",
-      "فنتازيا"
+      "كوميدي"
     ],
-    "status": "مكتمل",
+    "status": "يعرض الان",
     "type": "تلفزيون",
-    "episodes_count": "10",
-    "season": "صيف 2024",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 12
   }
 ]
