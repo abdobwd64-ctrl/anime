@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 45
+    "score": 46
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -265,6 +265,22 @@
     "score": 15
   },
   {
+    "id": "champignon-no-majo",
+    "title": "انمي Champignon no Majo مترجم اون لاين",
+    "poster": "data/posters/champignon-no-majo.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 15
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -317,22 +333,6 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "13",
-    "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "champignon-no-majo",
-    "title": "انمي Champignon no Majo مترجم اون لاين",
-    "poster": "data/posters/champignon-no-majo.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا",
-      "مغامرات",
-      "رومانسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
     "season": "شتاء 2026",
     "score": 14
   },
@@ -438,17 +438,21 @@
     "score": 13
   },
   {
-    "id": "isekai-suicide-squad",
-    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
-    "poster": "data/posters/isekai-suicide-squad.webp",
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
     "genres": [
-      "أكشن",
-      "فنتازيا"
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "10",
-    "season": "صيف 2024",
-    "score": 12
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 13
   }
 ]
