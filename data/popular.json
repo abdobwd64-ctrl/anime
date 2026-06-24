@@ -438,6 +438,22 @@
     "score": 15
   },
   {
+    "id": "beastars-2nd-season",
+    "title": "انمي Beastars 2nd Season مترجم اون لاين",
+    "poster": "data/posters/beastars-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021",
+    "score": 15
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru.webp",
@@ -452,20 +468,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2013",
-    "score": 15
-  },
-  {
-    "id": "classic-stars",
-    "title": "انمي classic★stars مترجم اون لاين",
-    "poster": "data/posters/classic-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2025",
     "score": 15
   }
 ]
