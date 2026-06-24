@@ -1121,6 +1121,18 @@
     "season": "شتاء 2009"
   },
   {
+    "id": "horimiya-piece",
+    "title": "انمي Horimiya: Piece مترجم اون لاين",
+    "poster": "data/posters/horimiya-piece.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2023"
+  },
+  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
