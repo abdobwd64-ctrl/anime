@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 34
+    "score": 36
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -267,6 +267,19 @@
     "score": 14
   },
   {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 14
+  },
+  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -383,6 +396,19 @@
     "score": 13
   },
   {
+    "id": "mf-ghost-3rd-season",
+    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mf-ghost-3rd-season.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2026",
+    "score": 13
+  },
+  {
     "id": "grand-blue",
     "title": "انمي Grand Blue مترجم اون لاين",
     "poster": "data/posters/grand-blue.webp",
@@ -396,19 +422,6 @@
     "score": 13
   },
   {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 12
-  },
-  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -420,19 +433,6 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "صيف 2024",
-    "score": 12
-  },
-  {
-    "id": "mf-ghost-3rd-season",
-    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
-    "poster": "data/posters/mf-ghost-3rd-season.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "شتاء 2026",
     "score": 12
   },
   {
