@@ -312,6 +312,14 @@
     "date_sort": "2026-01-18"
   },
   {
+    "anime_id": "prism-rondo",
+    "anime_title": "انمي Prism Rondo مترجم اون لاين",
+    "anime_poster": "data/posters/prism-rondo.webp",
+    "episode": "20",
+    "date": "16 يناير, 2026",
+    "date_sort": "2026-01-16"
+  },
+  {
     "anime_id": "tensei-shitara-dragon-no-tamago-datta",
     "anime_title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
     "anime_poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
@@ -390,13 +398,5 @@
     "episode": "9",
     "date": "01 مارس, 2025",
     "date_sort": "2025-03-01"
-  },
-  {
-    "anime_id": "boku-no-hero-academia-the-movie-4-you-re-next",
-    "anime_title": "انمي Boku no Hero Academia the Movie 4: You're Next مترجم اون لاين",
-    "anime_poster": "data/posters/boku-no-hero-academia-the-movie-4-you-re-next.webp",
-    "episode": "1",
-    "date": "25 فبراير, 2025",
-    "date_sort": "2025-02-25"
   }
 ]
