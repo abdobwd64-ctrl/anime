@@ -297,6 +297,22 @@
     "score": 15
   },
   {
+    "id": "kingdom-6th-season",
+    "title": "انمي Kingdom 6th Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-6th-season.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2025",
+    "score": 15
+  },
+  {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -323,6 +339,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 15
+  },
+  {
+    "id": "hataraku-saibou-black-tv",
+    "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
+    "poster": "data/posters/hataraku-saibou-black-tv.webp",
+    "genres": [
+      "أكشن",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021",
     "score": 15
   },
   {
@@ -354,22 +384,6 @@
     "score": 15
   },
   {
-    "id": "kingdom-6th-season",
-    "title": "انمي Kingdom 6th Season مترجم اون لاين",
-    "poster": "data/posters/kingdom-6th-season.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "سينين",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "خريف 2025",
-    "score": 14
-  },
-  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -394,20 +408,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "hataraku-saibou-black-tv",
-    "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
-    "poster": "data/posters/hataraku-saibou-black-tv.webp",
-    "genres": [
-      "أكشن",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2021",
     "score": 14
   },
   {
