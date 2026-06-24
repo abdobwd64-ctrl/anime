@@ -810,7 +810,136 @@
           "url": "https://www.4shared.com/video/BMsAx8Jliq/Anime4upcom_NA_EP_216_HD.html"
         }
       ]
+    },
+    {
+      "number": "215",
+      "title": "الحلقة 215Naruto",
+      "date": "27 مايو, 2022",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/5OnWGn8ua3dsg"
+        },
+        {
+          "name": "sbfull | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbfull.com/e/t8u1eqi7q6bh"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/bbN9IXCEiq/"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3385218435802"
+        },
+        {
+          "name": "dood pm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/b9xjjo2n0783"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-h0iiqn5zw193.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/LgeAAdagdRDkG"
+        },
+        {
+          "name": "vidbam org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbam.org/embed-lfzf6bt0x6nd.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-8w4x9e1zb0vw.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/dXlBkIgK!Y9znkInCtRIkbqm-Q9kdUVPk5Rmwvhxhffu8lfxzozI"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/76a3qf3b9kjt"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/5OnWGn8ua3dsg"
+        },
+        {
+          "name": "d000d | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://d000d.com/e/b9xjjo2n0783"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-h0iiqn5zw193.html"
+        },
+        {
+          "name": "vadbam | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-lfzf6bt0x6nd.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sbfull",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://sbfull.com/t8u1eqi7q6bh.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/6aio8aytqbqx"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!dXlBkIgK!Y9znkInCtRIkbqm-Q9kdUVPk5Rmwvhxhffu8lfxzozI"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/F7F5wfkcy7"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8w4x9e1zb0vw"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/LgeAAdagdRDkG"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/76a3qf3b9kjt"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/b9xjjo2n0783"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/bbN9IXCEiq/Anime4upcom_NA_EP_215_HD.html"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/5OnWGn8ua3dsg"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:13:53.042502"
+  "last_updated": "2026-06-24T20:13:59.461111"
 }
