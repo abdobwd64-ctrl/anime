@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 62
+    "score": 63
   },
   {
     "id": "mushishi",
@@ -254,6 +254,21 @@
     "score": 16
   },
   {
+    "id": "enen-no-shouboutai-san-no-shou-part-2",
+    "title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
+    "poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 16
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -410,21 +425,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 14
-  },
-  {
-    "id": "enen-no-shouboutai-san-no-shou-part-2",
-    "title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
-    "poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 14
   },
   {
