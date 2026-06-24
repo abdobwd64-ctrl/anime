@@ -105,7 +105,100 @@
           "url": "https://www.4shared.com/video/sRxvB6ILjq/Anime4uptv_GB_EP_12_END_BD-FHD.html"
         }
       ]
+    },
+    {
+      "number": "11",
+      "title": "الحلقة 11Grand Blue",
+      "date": "27 نوفمبر, 2022",
+      "servers": [
+        {
+          "name": "play cdngo | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://play.cdngo.me/hd.php?code=ta0air4u7ksd"
+        },
+        {
+          "name": "sblongvu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblongvu.com/e/gcwu80orwqqa"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/jm6ChZKWjq/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4040919616218"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/x401q3ntnakr"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-qeqijypbifz8.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-uzhje7umfqe1.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/4TNn0bSD!dhLj_8J0byUlYqqecyKWW5cr8GWqW5OWcxHIH3vcodI"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/4foehyd45fzb"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sblongvu",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblongvu.com/gcwu80orwqqa.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/6ljg5bz4lno6"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4TNn0bSD!dhLj_8J0byUlYqqecyKWW5cr8GWqW5OWcxHIH3vcodI"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/4aH1K6J1y7"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/w8mm89sj8tb2"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/4foehyd45fzb"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/x401q3ntnakr"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/jm6ChZKWjq/Anime4uptv_GB_EP_11_BD-FHD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T02:59:03.471683"
+  "last_updated": "2026-06-24T02:59:08.655804"
 }
