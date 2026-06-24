@@ -90,20 +90,6 @@
     "score": 21
   },
   {
-    "id": "ouran-koukou-host-club",
-    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
-    "poster": "data/posters/ouran-koukou-host-club.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 2006",
-    "score": 20
-  },
-  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
@@ -119,7 +105,21 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 19
+    "score": 20
+  },
+  {
+    "id": "ouran-koukou-host-club",
+    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "poster": "data/posters/ouran-koukou-host-club.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2006",
+    "score": 20
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
