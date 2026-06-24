@@ -382,6 +382,20 @@
     "season": "خريف 2020"
   },
   {
+    "id": "muv-luv-alternative-2nd-season",
+    "title": "انمي Muv-Luv Alternative 2nd Season مترجم اون لاين",
+    "poster": "data/posters/muv-luv-alternative-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "mononogatari-2nd-season",
     "title": "انمي Mononogatari 2nd Season مترجم اون لاين",
     "poster": "data/posters/mononogatari-2nd-season.webp",
