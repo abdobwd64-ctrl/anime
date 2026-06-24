@@ -132,6 +132,20 @@
     "season": "خريف 2023"
   },
   {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
+    "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "شتاء 2016"
+  },
+  {
     "id": "prism-rondo",
     "title": "انمي Prism Rondo مترجم اون لاين",
     "poster": "data/posters/prism-rondo.webp",

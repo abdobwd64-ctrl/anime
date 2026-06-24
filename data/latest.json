@@ -304,6 +304,14 @@
     "date_sort": "2026-06-16"
   },
   {
+    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
+    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
+    "episode": "10",
+    "date": "14 يونيو, 2026",
+    "date_sort": "2026-06-14"
+  },
+  {
     "anime_id": "kuroneko-to-majo-no-kyoushitsu",
     "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Hajime no Ippo مترجم اون لاين",
     "anime_poster": "data/posters/hajime-no-ippo.webp",
     "episode": "74",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
-    "anime_id": "hajime-no-ippo",
-    "anime_title": "انمي Hajime no Ippo مترجم اون لاين",
-    "anime_poster": "data/posters/hajime-no-ippo.webp",
-    "episode": "73",
     "date": "11 يونيو, 2026",
     "date_sort": "2026-06-11"
   }
