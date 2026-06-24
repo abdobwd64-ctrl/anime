@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 72
+    "score": 73
   },
   {
     "id": "cowboy-bebop",
@@ -194,6 +194,20 @@
     "score": 14
   },
   {
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 13
+  },
+  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -206,20 +220,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 13
-  },
-  {
-    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
-    "score": 12
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -240,23 +240,6 @@
     "score": 7
   },
   {
-    "id": "date-a-live-movie-mayuri-judgment",
-    "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
-    "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "رومانسي",
-      "خيال علمي",
-      "حريم"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "صيف 2015",
-    "score": 6
-  },
-  {
     "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
     "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
@@ -271,6 +254,23 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "صيف 2020",
+    "score": 7
+  },
+  {
+    "id": "date-a-live-movie-mayuri-judgment",
+    "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
+    "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "خيال علمي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2015",
     "score": 6
   },
   {
