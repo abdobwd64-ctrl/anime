@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 82
+    "score": 83
   },
   {
     "id": "hajime-no-ippo",
@@ -95,6 +95,22 @@
     "score": 26
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 22
+  },
+  {
     "id": "prism-rondo",
     "title": "انمي Prism Rondo مترجم اون لاين",
     "poster": "data/posters/prism-rondo.webp",
@@ -119,22 +135,6 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 2006",
-    "score": 20
-  },
-  {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
     "score": 20
   },
   {
