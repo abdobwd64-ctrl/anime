@@ -543,7 +543,144 @@
           "url": "https://updown.cam/6r9eump6cxls"
         }
       ]
+    },
+    {
+      "number": "16",
+      "title": "الحلقة 16Karasu wa Aruji wo Erabanai",
+      "date": "24 أغسطس, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/iFYsbO2UQiZqq"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/iFYsbO2UQiZqq"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-v2capbqqq7mz.html"
+        },
+        {
+          "name": "uqload ws | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.ws/embed-l3k1vlbyudo0.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7220127533786"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-qaia6h7yvcuw.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/u6Y2mC4I!zsdy5CIBrYZbwz8qi92ZkdgzBWhXwDEPmcTAXJ4bMTc"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/1jfl27om"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7220116196058"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-r3zsrz2dxej9.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/fqhUULwI!eWyiwq900VlII_X3SMIFUf3pjz0leihPoMZlbKqPl5I"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7220133759706"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-j5clcorg7o20.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ruAghKhL!CHFQUNL9hf1ir638pCLci0abplfFE6UMVC0GsKAzL5Q"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/j5clcorg7o20"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/bcp17u1azxbv"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ruAghKhL!CHFQUNL9hf1ir638pCLci0abplfFE6UMVC0GsKAzL5Q"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/jo4sq5ncvi8e"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/29lzgbatnfmi"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qaia6h7yvcuw"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!u6Y2mC4I!zsdy5CIBrYZbwz8qi92ZkdgzBWhXwDEPmcTAXJ4bMTc"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/3md59ayo8yxk"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/pxb89othaarv"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/r3zsrz2dxej9"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!fqhUULwI!eWyiwq900VlII_X3SMIFUf3pjz0leihPoMZlbKqPl5I"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/o2ic1gwe4qfg"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:06:25.854634"
+  "last_updated": "2026-06-24T21:06:33.773685"
 }
