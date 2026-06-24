@@ -81,21 +81,6 @@
     "score": 51
   },
   {
-    "id": "great-teacher-onizuka",
-    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
-    "poster": "data/posters/great-teacher-onizuka.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "صيف 1999",
-    "score": 46
-  },
-  {
     "id": "fullmetal-alchemist-brotherhood",
     "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
     "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
@@ -113,6 +98,21 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
+    "score": 47
+  },
+  {
+    "id": "great-teacher-onizuka",
+    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
+    "poster": "data/posters/great-teacher-onizuka.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "صيف 1999",
     "score": 46
   },
   {
