@@ -276,7 +276,72 @@
           "url": "https://www.file-up.org/tiu0k45hpn19"
         }
       ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Piano no Mori (TV) 2nd Season",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1067847650010"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/18ya3veJF2k0LXRwGCPY0BC3TZN-zmmLV/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/G0JgrLAGee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!7LxQHSja!Tmh94lOxeyXO8DD5gancSU5jwNAN2dx_S7twE_BTb4g"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/5yn79cunrckj"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=18ya3veJF2k0LXRwGCPY0BC3TZN-zmmLV&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!7LxQHSja!Tmh94lOxeyXO8DD5gancSU5jwNAN2dx_S7twE_BTb4g"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ekuiuljhmab7"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/JwCfUi1Ky-o/%5BAnime4up.com%5D_PNMT2S_EP_08_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/5yn79cunrckj"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/emksdlz4clzf"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:25:28.490695"
+  "last_updated": "2026-06-24T23:25:35.908539"
 }
