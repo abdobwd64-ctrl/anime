@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 98
+    "score": 99
   },
   {
     "id": "cowboy-bebop",
@@ -107,6 +107,23 @@
     "score": 17
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 16
+  },
+  {
     "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
     "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
@@ -151,23 +168,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
     "score": 15
   },
   {
@@ -318,7 +318,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020",
-    "score": 8
+    "score": 9
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
