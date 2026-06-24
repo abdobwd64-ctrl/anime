@@ -237,6 +237,20 @@
     "score": 17
   },
   {
+    "id": "ouran-koukou-host-club",
+    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "poster": "data/posters/ouran-koukou-host-club.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2006",
+    "score": 17
+  },
+  {
     "id": "champignon-no-majo",
     "title": "انمي Champignon no Majo مترجم اون لاين",
     "poster": "data/posters/champignon-no-majo.webp",
@@ -266,20 +280,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025",
-    "score": 16
-  },
-  {
-    "id": "ouran-koukou-host-club",
-    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
-    "poster": "data/posters/ouran-koukou-host-club.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 2006",
     "score": 16
   },
   {
