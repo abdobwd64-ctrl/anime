@@ -860,7 +860,84 @@
           "url": "http://vidmoly.me/w/j69sbws5re59"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Ouran Koukou Host Club",
+      "date": "23 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/SFJX6wsi9RANE"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-jm7mpcb59spk.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/27adz5ivshyi"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/axkc6zie44k8"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-kui9946m29e5.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/SFJX6wsi9RANE"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/SFJX6wsi9RANE"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/kui9946m29e5"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/27adz5ivshyi"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/27h9gzdr7jxl"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/0ysjc0"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/axkc6zie44k8"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/jm7mpcb59spk"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T03:10:53.121272"
+  "last_updated": "2026-06-24T03:10:59.222910"
 }
