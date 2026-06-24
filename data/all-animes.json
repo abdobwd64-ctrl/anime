@@ -2593,6 +2593,20 @@
     "season": "ربيع 2016"
   },
   {
+    "id": "gokushufudou-part-2",
+    "title": "انمي Gokushufudou Part 2 مترجم اون لاين",
+    "poster": "data/posters/gokushufudou-part-2.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "5",
+    "season": "خريف 2021"
+  },
+  {
     "id": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
     "title": "انمي Otome Game Sekai wa Mob ni Kibishii Sekai desu مترجم اون لاين",
     "poster": "data/posters/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.webp",
