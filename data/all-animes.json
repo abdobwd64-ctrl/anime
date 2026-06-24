@@ -132,6 +132,19 @@
     "season": "خريف 2023"
   },
   {
+    "id": "jashin-chan-dropkick",
+    "title": "انمي Jashin-chan Dropkick' مترجم اون لاين",
+    "poster": "data/posters/jashin-chan-dropkick.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "11",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo",
     "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
     "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
@@ -739,6 +752,16 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000"
+  },
+  {
+    "id": "uniteup",
+    "title": "انمي UniteUp! مترجم اون لاين",
+    "poster": "data/posters/uniteup.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
