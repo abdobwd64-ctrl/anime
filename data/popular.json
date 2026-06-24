@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 22
+    "score": 23
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -200,6 +200,20 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
+  },
+  {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024",
+    "score": 3
   },
   {
     "id": "spy-x-family-movie-code-white",

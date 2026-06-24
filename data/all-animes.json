@@ -44,6 +44,19 @@
     "season": "شتاء 1991"
   },
   {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "free-movie-1-timeless-medley-kizuna",
     "title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
     "poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
