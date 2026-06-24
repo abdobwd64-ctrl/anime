@@ -305,6 +305,22 @@
     "score": 14
   },
   {
+    "id": "mao",
+    "title": "انمي Mao مترجم اون لاين",
+    "poster": "data/posters/mao.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
     "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
     "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
@@ -331,22 +347,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 13
-  },
-  {
-    "id": "mao",
-    "title": "انمي Mao مترجم اون لاين",
-    "poster": "data/posters/mao.webp",
-    "genres": [
-      "غموض",
-      "شونين",
-      "قوى خارقة",
-      "تاريخي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 13
   },
   {
