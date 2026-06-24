@@ -4095,6 +4095,22 @@
     "season": "صيف 2020"
   },
   {
+    "id": "boku-no-hero-academia-2nd-season",
+    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2017"
+  },
+  {
     "id": "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
     "title": "انمي Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi مترجم اون لاين",
     "poster": "data/posters/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi.webp",
