@@ -45,6 +45,20 @@
     "score": 15
   },
   {
+    "id": "yi-ren-zhi-xia-6",
+    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
+    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "26",
+    "season": "شتاء 2026",
+    "score": 14
+  },
+  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -58,20 +72,6 @@
     "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
-  },
-  {
-    "id": "yi-ren-zhi-xia-6",
-    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2026",
-    "score": 13
   },
   {
     "id": "naruto-shippuuden",
@@ -89,7 +89,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 9
+    "score": 10
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -139,6 +139,21 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
+  },
+  {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",

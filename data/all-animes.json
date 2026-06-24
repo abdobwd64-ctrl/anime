@@ -87,6 +87,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
