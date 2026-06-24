@@ -1,5 +1,18 @@
 [
   {
+    "id": "ao-no-exorcist-shimane-illuminati-hen",
+    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "shoujo-kageki-revue-starlight",
     "title": "انمي Shoujo☆Kageki Revue Starlight مترجم اون لاين",
     "poster": "data/posters/shoujo-kageki-revue-starlight.webp",
