@@ -323,6 +323,21 @@
     "score": 15
   },
   {
+    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
+    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -393,6 +408,22 @@
     "score": 13
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 13
+  },
+  {
     "id": "grand-blue",
     "title": "انمي Grand Blue مترجم اون لاين",
     "poster": "data/posters/grand-blue.webp",
@@ -406,21 +437,6 @@
     "score": 13
   },
   {
-    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
-    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
-    "genres": [
-      "فنتازيا",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 12
-  },
-  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -432,22 +448,6 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "صيف 2024",
-    "score": 12
-  },
-  {
-    "id": "bakemonogatari",
-    "title": "انمي Bakemonogatari مترجم اون لاين",
-    "poster": "data/posters/bakemonogatari.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "قوى خارقة",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "15",
-    "season": "صيف 2009",
     "score": 12
   }
 ]
