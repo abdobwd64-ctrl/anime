@@ -1435,6 +1435,20 @@
     "season": "ربيع 2014"
   },
   {
+    "id": "puniru-wa-kawaii-slime",
+    "title": "انمي Puniru wa Kawaii Slime مترجم اون لاين",
+    "poster": "data/posters/puniru-wa-kawaii-slime.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "shachiku-san-wa-youjo-yuurei-ni-iyasaretai",
     "title": "انمي Shachiku-san wa Youjo Yuurei ni Iyasaretai. مترجم اون لاين",
     "poster": "data/posters/shachiku-san-wa-youjo-yuurei-ni-iyasaretai.webp",
