@@ -8,14 +8,6 @@
     "date_sort": "2026-06-22"
   },
   {
-    "anime_id": "yi-ren-zhi-xia-6",
-    "anime_title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "anime_poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "episode": "25",
-    "date": "19 يونيو, 2026",
-    "date_sort": "2026-06-19"
-  },
-  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -134,6 +126,14 @@
     "episode": "8",
     "date": "20 فبراير, 2026",
     "date_sort": "2026-02-20"
+  },
+  {
+    "anime_id": "yi-ren-zhi-xia-6",
+    "anime_title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
+    "anime_poster": "data/posters/yi-ren-zhi-xia-6.webp",
+    "episode": "7",
+    "date": "13 فبراير, 2026",
+    "date_sort": "2026-02-13"
   },
   {
     "anime_id": "sousei-no-aquarion-myth-of-emotions",
