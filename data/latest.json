@@ -336,6 +336,14 @@
     "date_sort": "2026-06-14"
   },
   {
+    "anime_id": "kono-subarashii-sekai-ni-shukufuku-wo",
+    "anime_title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
+    "anime_poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
+    "episode": "6",
+    "date": "14 يونيو, 2026",
+    "date_sort": "2026-06-14"
+  },
+  {
     "anime_id": "kuroneko-to-majo-no-kyoushitsu",
     "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -390,13 +398,5 @@
     "episode": "25",
     "date": "12 يونيو, 2026",
     "date_sort": "2026-06-12"
-  },
-  {
-    "anime_id": "dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu",
-    "anime_title": "انمي Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu مترجم اون لاين",
-    "anime_poster": "data/posters/dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu.webp",
-    "episode": "1",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
   }
 ]
