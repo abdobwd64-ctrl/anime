@@ -56,14 +56,6 @@
     "date_sort": "2026-06-21"
   },
   {
-    "anime_id": "replica-datte-koi-wo-suru",
-    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
-    "episode": "11",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -214,6 +206,14 @@
     "episode": "9",
     "date": "28 مايو, 2026",
     "date_sort": "2026-05-28"
+  },
+  {
+    "anime_id": "replica-datte-koi-wo-suru",
+    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "episode": "8",
+    "date": "26 مايو, 2026",
+    "date_sort": "2026-05-26"
   },
   {
     "anime_id": "aishiteru-game-wo-owarasetai",
