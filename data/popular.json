@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 55
+    "score": 56
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -59,19 +59,6 @@
     "score": 26
   },
   {
-    "id": "shiroi-suna-no-aquatope",
-    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "genres": [
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "صيف 2021",
-    "score": 25
-  },
-  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -87,6 +74,19 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005",
+    "score": 26
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2021",
     "score": 25
   },
   {
