@@ -363,6 +363,23 @@
     "score": 16
   },
   {
+    "id": "sword-art-online-alicization",
+    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2018",
+    "score": 15
+  },
+  {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -451,23 +468,6 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "خريف 2025",
-    "score": 15
-  },
-  {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2013",
     "score": 15
   }
 ]
