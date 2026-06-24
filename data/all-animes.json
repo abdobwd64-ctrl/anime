@@ -3083,6 +3083,18 @@
     "season": "صيف 2013"
   },
   {
+    "id": "obsolete",
+    "title": "انمي Obsolete مترجم اون لاين",
+    "poster": "data/posters/obsolete.webp",
+    "genres": [
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "bungou-stray-dogs",
     "title": "انمي Bungou Stray Dogs مترجم اون لاين",
     "poster": "data/posters/bungou-stray-dogs.webp",
