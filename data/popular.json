@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 34
+    "score": 35
   },
   {
     "id": "cowboy-bebop",
@@ -45,6 +45,20 @@
     "episodes_count": "26",
     "season": "شتاء 2026",
     "score": 27
+  },
+  {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024",
+    "score": 15
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -107,20 +121,6 @@
     "score": 14
   },
   {
-    "id": "dragon-raja-long-zu",
-    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "poster": "data/posters/dragon-raja-long-zu.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2024",
-    "score": 13
-  },
-  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -152,6 +152,20 @@
     "score": 6
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 6
+  },
+  {
     "id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
     "title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
@@ -165,20 +179,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1991",
-    "score": 5
-  },
-  {
-    "id": "koori-no-jouheki",
-    "title": "انمي Koori no Jouheki مترجم اون لاين",
-    "poster": "data/posters/koori-no-jouheki.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 5
   },
   {
