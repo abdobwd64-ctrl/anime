@@ -966,7 +966,115 @@
           "url": "https://openload.co/f/c0AS6kdPrx4/[Animetak.com]_SAOA_EP_11_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-n0cq5dlx4a6f.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/09u7l06u18u6"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!OeAwVCYQ!EZzi51mTieEogI0-7rFK_J8ETgAeOA5Lw7z0A-TjmG8"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/8046749b3e84587d"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/kzap4ob1uom0"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/6guAN4wl4Jw/[Animetak.com]_SAOA_EP_10_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/09u7l06u18u6"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ekaZqZBZowSs73_SHsyqEtquDk5YmUF6/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!evgEGK6C!xNfLWYY_EnZA-z_uOS3ed4Y_NTURkfW0uweiS3x9KKM"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-n8wl5nc1tq1q.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/bsa07xi6a478"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1ekaZqZBZowSs73_SHsyqEtquDk5YmUF6&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!evgEGK6C!xNfLWYY_EnZA-z_uOS3ed4Y_NTURkfW0uweiS3x9KKM"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/569be2e15da8c4eb"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/7v90tuifiosg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/-UHdIeoc-C8/[Animetak.com]_SAOA_EP_09_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/bsa07xi6a478"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:30:54.284437"
+  "last_updated": "2026-06-24T20:31:02.646303"
 }

@@ -125,6 +125,23 @@
     "score": 26
   },
   {
+    "id": "sword-art-online-alicization",
+    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2018",
+    "score": 21
+  },
+  {
     "id": "prism-rondo",
     "title": "انمي Prism Rondo مترجم اون لاين",
     "poster": "data/posters/prism-rondo.webp",
@@ -150,23 +167,6 @@
     "episodes_count": "26",
     "season": "ربيع 2006",
     "score": 20
-  },
-  {
-    "id": "sword-art-online-alicization",
-    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
-    "score": 19
   },
   {
     "id": "val-x-love",
@@ -299,6 +299,22 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025",
+    "score": 16
+  },
+  {
+    "id": "noblesse",
+    "title": "انمي Noblesse مترجم اون لاين",
+    "poster": "data/posters/noblesse.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "مدرسي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020",
     "score": 16
   },
   {
@@ -438,36 +454,17 @@
     "score": 15
   },
   {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "id": "yichang-shengwu-jianwenlu",
+    "title": "انمي Yichang Shengwu Jianwenlu مترجم اون لاين",
+    "poster": "data/posters/yichang-shengwu-jianwenlu.webp",
     "genres": [
-      "رومانسي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "fujimoto-tatsuki-17-26",
-    "title": "انمي Fujimoto Tatsuki 17-26 مترجم اون لاين",
-    "poster": "data/posters/fujimoto-tatsuki-17-26.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "شونين",
-      "رومانسي",
-      "كوميدي",
-      "خيال علمي",
-      "مدرسي"
+      "قوى خارقة",
+      "مصاصي دماء"
     ],
     "status": "مكتمل",
     "type": "أونا",
-    "episodes_count": "8",
-    "season": "خريف 2025",
+    "episodes_count": "13",
+    "season": "ربيع 2019",
     "score": 15
   }
 ]
