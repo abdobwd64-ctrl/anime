@@ -3378,6 +3378,18 @@
     "season": "صيف 2022"
   },
   {
+    "id": "overtake",
+    "title": "انمي Overtake! مترجم اون لاين",
+    "poster": "data/posters/overtake.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki",
     "title": "انمي Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki مترجم اون لاين",
     "poster": "data/posters/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki.webp",
