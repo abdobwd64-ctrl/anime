@@ -2762,6 +2762,22 @@
     "season": "خريف 2024"
   },
   {
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2015"
+  },
+  {
     "id": "shingeki-no-kyojin-season-3",
     "title": "انمي Shingeki no Kyojin Season 3 مترجم اون لاين",
     "poster": "data/posters/shingeki-no-kyojin-season-3.webp",
@@ -3614,6 +3630,22 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988"
+  },
+  {
+    "id": "yakusoku-no-neverland-2nd-season",
+    "title": "انمي Yakusoku no Neverland 2nd Season مترجم اون لاين",
+    "poster": "data/posters/yakusoku-no-neverland-2nd-season.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "خيال علمي",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "tensei-shitara-dragon-no-tamago-datta",
