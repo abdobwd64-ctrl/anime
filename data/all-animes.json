@@ -341,6 +341,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "jujutsu-kaisen-3rd-season",
+    "title": "انمي Jujutsu Kaisen 3rd Season مترجم اون لاين",
+    "poster": "data/posters/jujutsu-kaisen-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "tokyo-ghoul-re-2nd-season",
     "title": "انمي Tokyo Ghoul:re 2nd Season مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-re-2nd-season.webp",
@@ -3776,6 +3789,19 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988"
+  },
+  {
+    "id": "meitantei-conan-movie-20-junkoku-no-nightmare",
+    "title": "انمي Meitantei Conan Movie 20: Junkoku no Nightmare مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-20-junkoku-no-nightmare.webp",
+    "genres": [
+      "أكشن",
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2016"
   },
   {
     "id": "yakusoku-no-neverland-2nd-season",
