@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 51
+    "score": 52
   },
   {
     "id": "cowboy-bebop",
@@ -73,7 +73,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 16
+    "score": 17
+  },
+  {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 15
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -119,20 +133,6 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 15
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 14
   },
   {
     "id": "koori-no-jouheki",
