@@ -16,6 +16,14 @@
     "date_sort": "2026-06-21"
   },
   {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
+    "episode": "11",
+    "date": "14 يونيو, 2026",
+    "date_sort": "2026-06-14"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "15 فبراير, 2025",
     "date_sort": "2025-02-15"
-  },
-  {
-    "anime_id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
-    "anime_title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
-    "anime_poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
-    "episode": "1",
-    "date": "23 نوفمبر, 2024",
-    "date_sort": "2024-11-23"
   }
 ]

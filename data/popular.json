@@ -18,21 +18,6 @@
     "score": 134
   },
   {
-    "id": "cowboy-bebop",
-    "title": "انمي Cowboy Bebop مترجم اون لاين",
-    "poster": "data/posters/cowboy-bebop.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 1998",
-    "score": 28
-  },
-  {
     "id": "black-clover",
     "title": "انمي Black Clover مترجم اون لاين",
     "poster": "data/posters/black-clover.webp",
@@ -47,7 +32,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 27
+    "score": 28
+  },
+  {
+    "id": "cowboy-bebop",
+    "title": "انمي Cowboy Bebop مترجم اون لاين",
+    "poster": "data/posters/cowboy-bebop.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 1998",
+    "score": 28
   },
   {
     "id": "yi-ren-zhi-xia-6",
