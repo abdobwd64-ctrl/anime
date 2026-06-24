@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 111
+    "score": 113
   },
   {
     "id": "cowboy-bebop",
@@ -365,7 +365,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 8
+    "score": 9
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -420,6 +420,23 @@
     "score": 6
   },
   {
+    "id": "dragon-ball-z-movie-03-chikyuu-marugoto-choukessen",
+    "title": "انمي Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-03-chikyuu-marugoto-choukessen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1990",
+    "score": 6
+  },
+  {
     "id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
     "title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
@@ -449,22 +466,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1994",
-    "score": 5
-  },
-  {
-    "id": "boku-no-hero-academia-more",
-    "title": "انمي Boku no Hero Academia: More مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-more.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "ربيع 2026",
     "score": 5
   }
 ]

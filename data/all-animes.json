@@ -249,6 +249,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025"
+  },
+  {
     "id": "naruto-shippuuden",
     "title": "انمي Naruto: Shippuuden مترجم اون لاين",
     "poster": "data/posters/naruto-shippuuden.webp",
@@ -292,6 +305,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021"
+  },
+  {
+    "id": "dragon-ball-z-movie-03-chikyuu-marugoto-choukessen",
+    "title": "انمي Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-03-chikyuu-marugoto-choukessen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1990"
   },
   {
     "id": "sousei-no-aquarion-myth-of-emotions",
