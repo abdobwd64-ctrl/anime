@@ -1,5 +1,23 @@
 [
   {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "season": "شتاء 2007",
+    "score": 28
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
@@ -26,24 +44,6 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2026",
-    "score": 27
-  },
-  {
-    "id": "naruto-shippuuden",
-    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
-    "poster": "data/posters/naruto-shippuuden.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "500",
-    "season": "شتاء 2007",
     "score": 27
   },
   {
@@ -118,7 +118,7 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2024",
-    "score": 7
+    "score": 8
   },
   {
     "id": "marriagetoxin",
@@ -132,7 +132,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 7
+    "score": 8
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
