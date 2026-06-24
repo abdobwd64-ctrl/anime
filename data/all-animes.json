@@ -514,6 +514,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "mao",
+    "title": "انمي Mao مترجم اون لاين",
+    "poster": "data/posters/mao.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
     "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",

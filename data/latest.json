@@ -96,6 +96,14 @@
     "date_sort": "2026-06-24"
   },
   {
+    "anime_id": "mao",
+    "anime_title": "انمي Mao مترجم اون لاين",
+    "anime_poster": "data/posters/mao.webp",
+    "episode": "12",
+    "date": "24 يونيو, 2026",
+    "date_sort": "2026-06-24"
+  },
+  {
     "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
     "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
     "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
     "episode": "9",
-    "date": "09 يونيو, 2026",
-    "date_sort": "2026-06-09"
-  },
-  {
-    "anime_id": "tadaima-ojamasaremasu",
-    "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
-    "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
-    "episode": "10",
     "date": "09 يونيو, 2026",
     "date_sort": "2026-06-09"
   }
