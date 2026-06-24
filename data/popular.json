@@ -26,22 +26,7 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2026",
-    "score": 21
-  },
-  {
-    "id": "diamond-no-ace-act-ii-second-season",
-    "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
-    "genres": [
-      "شونين",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
+    "score": 22
   },
   {
     "id": "naruto-shippuuden",
@@ -59,6 +44,21 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
+    "score": 16
+  },
+  {
+    "id": "diamond-no-ace-act-ii-second-season",
+    "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
+    "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 15
   },
   {
@@ -104,7 +104,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 10
+    "score": 11
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
