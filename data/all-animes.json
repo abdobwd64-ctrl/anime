@@ -3387,6 +3387,19 @@
     "season": "خريف 2021"
   },
   {
+    "id": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita",
+    "title": "انمي Rikei ga Koi ni Ochita no de Shoumei shitemita. مترجم اون لاين",
+    "poster": "data/posters/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "replica-datte-koi-wo-suru",
     "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
     "poster": "data/posters/replica-datte-koi-wo-suru.webp",
@@ -6091,6 +6104,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2019"
+  },
+  {
+    "id": "i-chu-halfway-through-the-idol",
+    "title": "انمي I★Chu: Halfway Through the Idol مترجم اون لاين",
+    "poster": "data/posters/i-chu-halfway-through-the-idol.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "nekopara",
