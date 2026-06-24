@@ -1,0 +1,26 @@
+[
+  {
+    "anime_id": "diamond-no-ace-act-ii-second-season",
+    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
+    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
+    "anime_id": "cowboy-bebop",
+    "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
+    "anime_poster": "data/posters/cowboy-bebop.webp",
+    "episode": "26",
+    "date": "16 مايو, 2026",
+    "date_sort": "2026-05-16"
+  },
+  {
+    "anime_id": "boku-no-hero-academia-more",
+    "anime_title": "انمي Boku no Hero Academia: More مترجم اون لاين",
+    "anime_poster": "data/posters/boku-no-hero-academia-more.webp",
+    "episode": "1",
+    "date": "02 مايو, 2026",
+    "date_sort": "2026-05-02"
+  }
+]

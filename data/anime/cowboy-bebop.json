@@ -1,0 +1,101 @@
+{
+  "id": "cowboy-bebop",
+  "title": "انمي Cowboy Bebop مترجم اون لاين",
+  "url": "https://animelek.top/anime/cowboy-bebop/",
+  "poster": "data/posters/cowboy-bebop.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "26",
+  "start_date": "1998",
+  "season": "ربيع 1998",
+  "genres": [
+    "أكشن",
+    "خيال علمي",
+    "فضائي"
+  ],
+  "story": "قصة انمي Cowboy Bebop تدور في عام 2071، حيث تمكن البشر من الانتشار في أرجاء المجرة وإنشاء مستعمرات على كواكب عديدة تشبه الحياة على الأرض. لكن رغم هذا التقدم، ما زالت الجريمة منتشرة؛ من القتل وتهريب المخدرات إلى السرقة، مما أدى إلى ظهور فئة من صائدي الجوائز الذين يطاردون المجرمين عبر الفضاء مقابل المال. يتابع العمل مغامرات سبايك سبيغل وجيت بلاك، وهما صائدا جوائز يسافران عبر الفضاء على متن سفينتهما بيبّوب بحثًا عن المجرمين لكسب لقمة العيش. ورغم شخصية سبايك المرحة واللامبالية، إلا أنه يخفي ماضيًا مظلمًا يطارده باستمرار، بينما يحمل جيت هو الآخر ذكريات مؤلمة من حياته السابقة. مع مرور الوقت ينضم إلى طاقم السفينة أشخاص جدد: المحتالة الجميلة فاي فالنتاين، والطفل العبقري غريب الأطوار إدوارد، إضافة إلى الكلب الذكي إين. وبينما تتطور العلاقات بينهم أثناء مطاردتهم لمجرمين متنوعين في أنحاء الفضاء، يعود شبح من ماضي سبايك ليهدد حياتهم جميعًا. وعندها يجد سبايك نفسه أمام خيار صعب: التمسك بحياته الجديدة مع رفاقه، أم مواجهة ماضيه والسعي للانتقام.",
+  "episodes": [
+    {
+      "number": "26",
+      "title": "الحلقة 26Cowboy Bebop",
+      "date": "16 مايو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/QPIaK88AbDV6A"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-gtyqqki132z5.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/jdieo5nsb9rr"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/ui70rpph9i38"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-z32jxvx1v9d5.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-856ech40jqe5.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/QPIaK88AbDV6A"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/QPIaK88AbDV6A"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/1kzhdoqktu1f"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/jdieo5nsb9rr"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/wEYBJT"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/856ech40jqe5"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/ui70rpph9i38"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/gtyqqki132z5"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-24T02:17:10.138694"
+}
