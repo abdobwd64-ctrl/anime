@@ -304,6 +304,14 @@
     "date_sort": "2026-04-03"
   },
   {
+    "anime_id": "enen-no-shouboutai-san-no-shou-part-2",
+    "anime_title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
+    "anime_poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
+    "episode": "12",
+    "date": "27 مارس, 2026",
+    "date_sort": "2026-03-27"
+  },
+  {
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "18 يناير, 2026",
     "date_sort": "2026-01-18"
-  },
-  {
-    "anime_id": "prism-rondo",
-    "anime_title": "انمي Prism Rondo مترجم اون لاين",
-    "anime_poster": "data/posters/prism-rondo.webp",
-    "episode": "9",
-    "date": "16 يناير, 2026",
-    "date_sort": "2026-01-16"
   }
 ]

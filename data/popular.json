@@ -72,19 +72,6 @@
     "score": 25
   },
   {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 21
-  },
-  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -100,6 +87,19 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005",
+    "score": 22
+  },
+  {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
     "score": 21
   },
   {
