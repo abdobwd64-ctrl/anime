@@ -515,6 +515,20 @@
     "season": "صيف 2025"
   },
   {
+    "id": "isekai-quartet-2",
+    "title": "انمي Isekai Quartet 2 مترجم اون لاين",
+    "poster": "data/posters/isekai-quartet-2.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
     "title": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II مترجم اون لاين",
     "poster": "data/posters/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii.webp",
