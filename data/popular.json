@@ -90,19 +90,6 @@
     "score": 25
   },
   {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 21
-  },
-  {
     "id": "nana",
     "title": "انمي Nana مترجم اون لاين",
     "poster": "data/posters/nana.webp",
@@ -115,6 +102,19 @@
     "type": "تلفزيون",
     "episodes_count": "47",
     "season": "ربيع 2006",
+    "score": 22
+  },
+  {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
     "score": 21
   },
   {
