@@ -163,6 +163,23 @@
     "score": 30
   },
   {
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2015",
+    "score": 30
+  },
+  {
     "id": "higurashi-no-naku-koro-ni-2020",
     "title": "انمي Higurashi no Naku Koro ni (2020) مترجم اون لاين",
     "poster": "data/posters/higurashi-no-naku-koro-ni-2020.webp",
@@ -211,23 +228,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024",
-    "score": 29
-  },
-  {
-    "id": "haikyuu-second-season",
-    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
-    "poster": "data/posters/haikyuu-second-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2015",
     "score": 29
   },
   {

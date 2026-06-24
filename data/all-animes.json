@@ -3283,6 +3283,25 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
+    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "ربيع 2009"
+  },
+  {
     "id": "naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo",
     "title": "انمي Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! مترجم اون لاين",
     "poster": "data/posters/naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo.webp",
