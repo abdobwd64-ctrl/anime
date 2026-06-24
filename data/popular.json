@@ -335,6 +335,23 @@
     "score": 16
   },
   {
+    "id": "megami-no-caf-terrace-2nd-season",
+    "title": "انمي Megami no Café Terrace 2nd Season مترجم اون لاين",
+    "poster": "data/posters/megami-no-caf-terrace-2nd-season.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024",
+    "score": 16
+  },
+  {
     "id": "liar-game",
     "title": "انمي Liar Game مترجم اون لاين",
     "poster": "data/posters/liar-game.webp",
@@ -455,21 +472,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 15
-  },
-  {
-    "id": "aishiteru-game-wo-owarasetai",
-    "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 15
   }
 ]
