@@ -152,6 +152,23 @@
     "score": 20
   },
   {
+    "id": "sword-art-online-alicization",
+    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2018",
+    "score": 19
+  },
+  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -169,23 +186,6 @@
     "episodes_count": "12",
     "season": "خريف 2019",
     "score": 18
-  },
-  {
-    "id": "sword-art-online-alicization",
-    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
-    "score": 17
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",

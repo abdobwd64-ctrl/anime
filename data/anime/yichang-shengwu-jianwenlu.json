@@ -1696,7 +1696,160 @@
           "url": "https://www.4shared.com/video/C48vJ5Qgiq/Anime4upcom_YSJ_EP_03_HD.html"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الأونا 2Yichang Shengwu Jianwenlu",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1447895042778"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Tvgy&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1OtE2m14UcqygXrwOru0P2gXBCiRt5HH6/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/X8xkeRAYKBByN"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/TuCuywZtea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/u75UlKBB#oEh_E1jDMG4SzHAIG77waN0n8I2aYEcnFUKWp8AseSU"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/d4sofp6dyoel"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-5r5cydvjz7rq.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-r09g1ox7ju3j.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-59z06xhn4p9s.html"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1447900220122"
+        },
+        {
+          "name": "letsupload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Tvh3&w=640&h=320"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1PgTD3QCdOSBwVF61IslnnRcUN5wXeGTI/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/SqA3SCDZ#JkX5K5kmTEC8oO-ry1pqMucCaIwwbSRXVYJLtJzFLb8"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-e9evo6lo3ay7.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/7kv6f3oubucz"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1PgTD3QCdOSBwVF61IslnnRcUN5wXeGTI&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/SqA3SCDZ#JkX5K5kmTEC8oO-ry1pqMucCaIwwbSRXVYJLtJzFLb8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/e9evo6lo3ay7"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/bk8m4ybdtz2k"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2Tvh3/[Anime4up.com]_YSJ_EP_02_SD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/59z06xhn4p9s"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1OtE2m14UcqygXrwOru0P2gXBCiRt5HH6&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/u75UlKBB#oEh_E1jDMG4SzHAIG77waN0n8I2aYEcnFUKWp8AseSU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/r09g1ox7ju3j"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/d4sofp6dyoel"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/X8xkeRAYKBByN"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2Tvgy/[Anime4up.com]_YSJ_EP_02_HD.mp4"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/TuCuywZtea/Anime4upcom_YSJ_EP_02_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:30:46.496162"
+  "last_updated": "2026-06-24T20:30:53.875934"
 }

@@ -886,7 +886,87 @@
           "url": "https://openload.co/f/v6hJU7Pnleo/[Animetak.com]_SAOA_EP_13_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "12",
+      "title": "الحلقة 12Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "openload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://openload.co/embed/3nFeV-Fzkkc/"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-cr357w0xxrzl.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/chlguurodxvr"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/f632e98138e4c622"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/286zicjuj9vb"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/3nFeV-Fzkkc/[Animetak.com]_SAOA_EP_12_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/chlguurodxvr"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "title": "الحلقة 11Sword Art Online: Alicization",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-zql6ron0tiug.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/5g5rftaz32nw"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/dc520a6505703335"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/z65elmrab52r"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/c0AS6kdPrx4/[Animetak.com]_SAOA_EP_11_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:30:46.512752"
+  "last_updated": "2026-06-24T20:30:54.284437"
 }
