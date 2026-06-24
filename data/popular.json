@@ -455,18 +455,20 @@
     "score": 26
   },
   {
-    "id": "shin-samurai-den-yaiba",
-    "title": "انمي Shin Samurai-den Yaiba مترجم اون لاين",
-    "poster": "data/posters/shin-samurai-den-yaiba.webp",
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
     "genres": [
+      "دراما",
       "شونين",
-      "مغامرات",
-      "ساموراي"
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
+    "episodes_count": "25",
+    "season": "خريف 2015",
     "score": 26
   }
 ]
