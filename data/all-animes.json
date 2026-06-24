@@ -4538,6 +4538,22 @@
     "season": "خريف 2005"
   },
   {
+    "id": "beyblade-burst",
+    "title": "انمي Beyblade Burst مترجم اون لاين",
+    "poster": "data/posters/beyblade-burst.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2016"
+  },
+  {
     "id": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
     "title": "انمي Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru مترجم اون لاين",
     "poster": "data/posters/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru.webp",
