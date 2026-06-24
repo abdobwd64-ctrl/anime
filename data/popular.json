@@ -181,6 +181,23 @@
     "score": 29
   },
   {
+    "id": "digimon-adventure",
+    "title": "انمي Digimon Adventure: مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
+    "score": 29
+  },
+  {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
     "title": "انمي Tsuki ga Michibiku Isekai Douchuu 2nd Season مترجم اون لاين",
     "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu-2nd-season.webp",
@@ -240,23 +257,6 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 28
-  },
-  {
-    "id": "digimon-adventure",
-    "title": "انمي Digimon Adventure: مترجم اون لاين",
-    "poster": "data/posters/digimon-adventure.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
     "score": 28
   },
   {
