@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 50
+    "score": 51
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -117,6 +117,24 @@
     "score": 19
   },
   {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 19
+  },
+  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -201,24 +219,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 17
-  },
-  {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
     "score": 17
   },
   {
