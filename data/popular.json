@@ -69,7 +69,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 23
+    "score": 24
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
@@ -205,6 +205,23 @@
     "score": 15
   },
   {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 15
+  },
+  {
     "id": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
     "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
@@ -235,23 +252,6 @@
     "score": 14
   },
   {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 14
-  },
-  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -263,6 +263,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
+    "score": 14
+  },
+  {
+    "id": "dead-mount-death-play",
+    "title": "انمي Dead Mount Death Play مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023",
     "score": 14
   },
   {
@@ -365,21 +380,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 13
-  },
-  {
-    "id": "dead-mount-death-play",
-    "title": "انمي Dead Mount Death Play مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2023",
     "score": 13
   },
   {
