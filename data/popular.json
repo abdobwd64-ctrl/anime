@@ -424,6 +424,22 @@
     "score": 13
   },
   {
+    "id": "kingdom-6th-season",
+    "title": "انمي Kingdom 6th Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-6th-season.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2025",
+    "score": 13
+  },
+  {
     "id": "kill-ao",
     "title": "انمي Kill Ao مترجم اون لاين",
     "poster": "data/posters/kill-ao.webp",
@@ -435,19 +451,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 13
-  },
-  {
-    "id": "grand-blue",
-    "title": "انمي Grand Blue مترجم اون لاين",
-    "poster": "data/posters/grand-blue.webp",
-    "genres": [
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2018",
     "score": 13
   }
 ]
