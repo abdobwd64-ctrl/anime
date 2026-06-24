@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 144
+    "score": 145
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 36
+    "score": 37
   },
   {
     "id": "cowboy-bebop",
@@ -280,6 +280,21 @@
     "score": 15
   },
   {
+    "id": "needy-girl-overdose",
+    "title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "poster": "data/posters/needy-girl-overdose.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "ao-no-exorcist-shimane-illuminati-hen",
     "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
@@ -333,21 +348,6 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "12",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "needy-girl-overdose",
-    "title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "poster": "data/posters/needy-girl-overdose.webp",
-    "genres": [
-      "دراما",
-      "مغامرات",
-      "شريحة من الحياة"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 14
   },

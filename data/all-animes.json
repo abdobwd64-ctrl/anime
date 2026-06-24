@@ -337,6 +337,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "garouden-the-way-of-the-lone-wolf",
+    "title": "انمي Garouden: The Way of the Lone Wolf مترجم اون لاين",
+    "poster": "data/posters/garouden-the-way-of-the-lone-wolf.webp",
+    "genres": [
+      "أكشن",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
