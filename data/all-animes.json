@@ -1016,6 +1016,22 @@
     "season": "ربيع 2013"
   },
   {
+    "id": "vanitas-no-carte",
+    "title": "انمي Vanitas no Carte مترجم اون لاين",
+    "poster": "data/posters/vanitas-no-carte.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "kanojo-okarishimasu-5th-season",
     "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
