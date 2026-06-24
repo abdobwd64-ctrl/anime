@@ -336,6 +336,14 @@
     "date_sort": "2023-05-12"
   },
   {
+    "anime_id": "ousama-ranking",
+    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
+    "anime_poster": "data/posters/ousama-ranking.webp",
+    "episode": "23",
+    "date": "24 مارس, 2022",
+    "date_sort": "2022-03-24"
+  },
+  {
     "anime_id": "shiroi-suna-no-aquatope",
     "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
     "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
     "episode": "7",
-    "date": "11 يوليو, 2020",
-    "date_sort": "2020-07-11"
-  },
-  {
-    "anime_id": "sd-gundam-world-sangoku-souketsuden",
-    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
-    "episode": "6",
     "date": "11 يوليو, 2020",
     "date_sort": "2020-07-11"
   }
