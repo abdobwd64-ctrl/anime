@@ -453,18 +453,20 @@
     "score": 25
   },
   {
-    "id": "ao-no-orchestra-season-2",
-    "title": "انمي Ao no Orchestra Season 2 مترجم اون لاين",
-    "poster": "data/posters/ao-no-orchestra-season-2.webp",
+    "id": "digimon-adventure",
+    "title": "انمي Digimon Adventure: مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure.webp",
     "genres": [
-      "دراما",
-      "مدرسي",
-      "موسيقي"
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "21",
-    "season": "خريف 2025",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
     "score": 22
   }
 ]
