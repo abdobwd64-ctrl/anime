@@ -13,6 +13,22 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017"
+  },
+  {
     "id": "shoujo-kageki-revue-starlight",
     "title": "انمي Shoujo☆Kageki Revue Starlight مترجم اون لاين",
     "poster": "data/posters/shoujo-kageki-revue-starlight.webp",
