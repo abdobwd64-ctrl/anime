@@ -111,6 +111,23 @@
     "score": 37
   },
   {
+    "id": "digimon-adventure",
+    "title": "انمي Digimon Adventure: مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
+    "score": 33
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -127,23 +144,6 @@
     "episodes_count": "26",
     "season": "خريف 2005",
     "score": 32
-  },
-  {
-    "id": "digimon-adventure",
-    "title": "انمي Digimon Adventure: مترجم اون لاين",
-    "poster": "data/posters/digimon-adventure.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
-    "score": 31
   },
   {
     "id": "haikyuu",
