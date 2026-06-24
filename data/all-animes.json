@@ -1257,6 +1257,18 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "mahoutsukai-no-yakusoku",
+    "title": "انمي Mahoutsukai no Yakusoku مترجم اون لاين",
+    "poster": "data/posters/mahoutsukai-no-yakusoku.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "sora-no-aosa-wo-shiru-hito-yo",
     "title": "انمي Sora no Aosa wo Shiru Hito yo مترجم اون لاين",
     "poster": "data/posters/sora-no-aosa-wo-shiru-hito-yo.webp",
