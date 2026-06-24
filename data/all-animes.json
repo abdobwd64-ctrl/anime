@@ -358,6 +358,22 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "mashiro-no-oto",
+    "title": "انمي Mashiro no Oto مترجم اون لاين",
+    "poster": "data/posters/mashiro-no-oto.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "jujutsu-kaisen-3rd-season",
     "title": "انمي Jujutsu Kaisen 3rd Season مترجم اون لاين",
     "poster": "data/posters/jujutsu-kaisen-3rd-season.webp",
