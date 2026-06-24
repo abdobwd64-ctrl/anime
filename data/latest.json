@@ -280,6 +280,22 @@
     "date_sort": "2026-03-26"
   },
   {
+    "anime_id": "mf-ghost-3rd-season",
+    "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
+    "episode": "12",
+    "date": "19 مارس, 2026",
+    "date_sort": "2026-03-19"
+  },
+  {
+    "anime_id": "mf-ghost-3rd-season",
+    "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
+    "episode": "11",
+    "date": "12 مارس, 2026",
+    "date_sort": "2026-03-12"
+  },
+  {
     "anime_id": "xian-wang-de-richang-shenghuo-5",
     "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -382,21 +398,5 @@
     "episode": "9",
     "date": "22 يونيو, 2025",
     "date_sort": "2025-06-22"
-  },
-  {
-    "anime_id": "kun-tun-tianxia-zhi-zhang-men-guilai",
-    "anime_title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
-    "anime_poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
-    "episode": "8",
-    "date": "15 يونيو, 2025",
-    "date_sort": "2025-06-15"
-  },
-  {
-    "anime_id": "kun-tun-tianxia-zhi-zhang-men-guilai",
-    "anime_title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
-    "anime_poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
-    "episode": "7",
-    "date": "08 يونيو, 2025",
-    "date_sort": "2025-06-08"
   }
 ]
