@@ -3664,6 +3664,24 @@
     "season": "ربيع 2013"
   },
   {
+    "id": "high-school-dxd-born",
+    "title": "انمي High School DxD BorN مترجم اون لاين",
+    "poster": "data/posters/high-school-dxd-born.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شياطين",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "vanitas-no-carte",
     "title": "انمي Vanitas no Carte مترجم اون لاين",
     "poster": "data/posters/vanitas-no-carte.webp",
