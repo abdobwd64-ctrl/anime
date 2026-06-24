@@ -248,6 +248,14 @@
     "date_sort": "2026-05-14"
   },
   {
+    "anime_id": "kirio-fanclub",
+    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
+    "anime_poster": "data/posters/kirio-fanclub.webp",
+    "episode": "6",
+    "date": "13 مايو, 2026",
+    "date_sort": "2026-05-13"
+  },
+  {
     "anime_id": "boku-no-hero-academia-more",
     "anime_title": "انمي Boku no Hero Academia: More مترجم اون لاين",
     "anime_poster": "data/posters/boku-no-hero-academia-more.webp",
@@ -390,13 +398,5 @@
     "episode": "9",
     "date": "01 مارس, 2025",
     "date_sort": "2025-03-01"
-  },
-  {
-    "anime_id": "sousei-no-aquarion-myth-of-emotions",
-    "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "episode": "8",
-    "date": "27 فبراير, 2025",
-    "date_sort": "2025-02-27"
   }
 ]
