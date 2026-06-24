@@ -41,7 +41,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 25
+    "score": 26
   },
   {
     "id": "shiroi-suna-no-aquatope",
@@ -107,6 +107,25 @@
     "score": 17
   },
   {
+    "id": "val-x-love",
+    "title": "انمي Val x Love مترجم اون لاين",
+    "poster": "data/posters/val-x-love.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 16
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-5",
     "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -151,25 +170,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 15
-  },
-  {
-    "id": "val-x-love",
-    "title": "انمي Val x Love مترجم اون لاين",
-    "poster": "data/posters/val-x-love.webp",
-    "genres": [
-      "شونين",
-      "رومانسي",
-      "كوميدي",
-      "قوى خارقة",
-      "مدرسي",
-      "إيتشي",
-      "حريم"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
-    "score": 14
   },
   {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
@@ -259,20 +259,6 @@
     "score": 13
   },
   {
-    "id": "isekai-suicide-squad",
-    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
-    "poster": "data/posters/isekai-suicide-squad.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "10",
-    "season": "صيف 2024",
-    "score": 12
-  },
-  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -284,6 +270,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2021",
+    "score": 13
+  },
+  {
+    "id": "isekai-suicide-squad",
+    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "poster": "data/posters/isekai-suicide-squad.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2024",
     "score": 12
   },
   {
