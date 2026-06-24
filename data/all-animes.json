@@ -60,6 +60,19 @@
     "season": "شتاء 2009"
   },
   {
+    "id": "spy-x-family-movie-code-white",
+    "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
+    "poster": "data/posters/spy-x-family-movie-code-white.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",

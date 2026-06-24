@@ -358,6 +358,22 @@
     "score": 9
   },
   {
+    "id": "ji-yao-lu-qicheng-pian",
+    "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
+    "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2024",
+    "score": 8
+  },
+  {
     "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
     "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
     "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
@@ -375,22 +391,6 @@
     "episodes_count": "1",
     "season": "خريف 2024",
     "score": 8
-  },
-  {
-    "id": "ji-yao-lu-qicheng-pian",
-    "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
-    "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "خريف 2024",
-    "score": 6
   },
   {
     "id": "tensei-shitara-dragon-no-tamago-datta",

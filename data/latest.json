@@ -16,6 +16,14 @@
     "date_sort": "2026-06-11"
   },
   {
+    "anime_id": "hajime-no-ippo",
+    "anime_title": "انمي Hajime no Ippo مترجم اون لاين",
+    "anime_poster": "data/posters/hajime-no-ippo.webp",
+    "episode": "74",
+    "date": "11 يونيو, 2026",
+    "date_sort": "2026-06-11"
+  },
+  {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -390,13 +398,5 @@
     "episode": "11",
     "date": "14 نوفمبر, 2024",
     "date_sort": "2024-11-14"
-  },
-  {
-    "anime_id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
-    "anime_title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
-    "anime_poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
-    "episode": "1",
-    "date": "30 سبتمبر, 2024",
-    "date_sort": "2024-09-30"
   }
 ]
