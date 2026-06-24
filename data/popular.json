@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 41
+    "score": 42
   },
   {
     "id": "cowboy-bebop",
@@ -106,6 +106,20 @@
     "score": 15
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -133,20 +147,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 13
-  },
-  {
-    "id": "koori-no-jouheki",
-    "title": "انمي Koori no Jouheki مترجم اون لاين",
-    "poster": "data/posters/koori-no-jouheki.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 12
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -242,6 +242,20 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
+  },
+  {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 3
   },
   {
     "id": "spy-x-family-movie-code-white",
