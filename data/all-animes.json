@@ -311,6 +311,20 @@
     "season": "ربيع 2014"
   },
   {
+    "id": "fuufu-ijou-koibito-miman",
+    "title": "انمي Fuufu Ijou, Koibito Miman. مترجم اون لاين",
+    "poster": "data/posters/fuufu-ijou-koibito-miman.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2022"
+  },
+  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv.webp",
