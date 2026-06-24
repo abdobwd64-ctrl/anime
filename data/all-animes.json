@@ -5248,6 +5248,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "umayon",
+    "title": "انمي Umayon مترجم اون لاين",
+    "poster": "data/posters/umayon.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
+  },
+  {
     "id": "tsukiuta-the-animation-2",
     "title": "انمي Tsukiuta. The Animation 2 مترجم اون لاين",
     "poster": "data/posters/tsukiuta-the-animation-2.webp",
