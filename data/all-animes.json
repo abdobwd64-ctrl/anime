@@ -4077,6 +4077,21 @@
     "season": "صيف 2018"
   },
   {
+    "id": "digimon-adventure-last-evolution-kizuna",
+    "title": "انمي Digimon Adventure: Last Evolution Kizuna مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure-last-evolution-kizuna.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "dr-stone-science-future-part-2",
     "title": "انمي Dr. Stone: Science Future Part 2 مترجم اون لاين",
     "poster": "data/posters/dr-stone-science-future-part-2.webp",
@@ -6320,6 +6335,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi",
+    "title": "انمي Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi مترجم اون لاين",
+    "poster": "data/posters/mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2019"
   },
   {
     "id": "touken-ranbu-kai-kyoden-moyuru-honnouji",
