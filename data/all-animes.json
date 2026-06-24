@@ -302,6 +302,23 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "yakusoku-no-neverland",
+    "title": "انمي Yakusoku no Neverland مترجم اون لاين",
+    "poster": "data/posters/yakusoku-no-neverland.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "خيال علمي",
+      "رعب",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "tu-bian-yingxiong-x",
     "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
     "poster": "data/posters/tu-bian-yingxiong-x.webp",
@@ -3690,6 +3707,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "mahouka-koukou-no-yuutousei",
+    "title": "انمي Mahouka Koukou no Yuutousei مترجم اون لاين",
+    "poster": "data/posters/mahouka-koukou-no-yuutousei.webp",
+    "genres": [
+      "فنتازيا",
+      "سحر",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
   },
   {
     "id": "enen-no-shouboutai",
