@@ -812,7 +812,120 @@
           "url": "https://mega.nz/#!4a8DEDhQ!7XgislilWJvnJA7xHclX0XSARLDkEHu9-2c6Cf6j49w"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san",
+      "date": "07 أغسطس, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/OErjq6FDh4zt3"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/OErjq6FDh4zt3"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/OErjq6FDh4zt3"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-gkng81mpfqm9.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7172898949850"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-5nu2di1riqrt.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/iUZ3ESyI!o3r5z0ITw5zi2yM7sN1qyut7_xiePUdTh9j1phhLh6c"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/o3md9fy8"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7172887612122"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-pmfpsx1oac3g.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/GYIyWZQC!scQlq16oH2tSsT6j8tuoZJFyZF9Z9DmM1pJqdpWqX4o"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/5nu2di1riqrt"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/yn78rvz3m2lz"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!iUZ3ESyI!o3r5z0ITw5zi2yM7sN1qyut7_xiePUdTh9j1phhLh6c"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/lb6br78mkv8l"
+        },
+        {
+          "server": "updown",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://updown.cam/yuo6nfquhfoc"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/pqicqzxk9wm2"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/pmfpsx1oac3g"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!GYIyWZQC!scQlq16oH2tSsT6j8tuoZJFyZF9Z9DmM1pJqdpWqX4o"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/5n6zwuxcguyl"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/meyqi3d90606"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:30:29.024732"
+  "last_updated": "2026-06-24T23:30:35.995101"
 }
