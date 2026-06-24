@@ -1621,6 +1621,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "kakkou-no-iinazuke-season-2",
+    "title": "انمي Kakkou no Iinazuke Season 2 مترجم اون لاين",
+    "poster": "data/posters/kakkou-no-iinazuke-season-2.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "ao-no-exorcist-yosuga-hen",
     "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
