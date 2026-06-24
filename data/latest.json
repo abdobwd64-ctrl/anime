@@ -296,6 +296,14 @@
     "date_sort": "2026-06-17"
   },
   {
+    "anime_id": "kujima-utaeba-ie-hororo",
+    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
+    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
+    "episode": "11",
+    "date": "17 يونيو, 2026",
+    "date_sort": "2026-06-17"
+  },
+  {
     "anime_id": "marriagetoxin",
     "anime_title": "انمي Marriagetoxin مترجم اون لاين",
     "anime_poster": "data/posters/marriagetoxin.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Digimon Beatbreak مترجم اون لاين",
     "anime_poster": "data/posters/digimon-beatbreak.webp",
     "episode": "35",
-    "date": "15 يونيو, 2026",
-    "date_sort": "2026-06-15"
-  },
-  {
-    "anime_id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-    "anime_title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
-    "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
-    "episode": "11",
     "date": "15 يونيو, 2026",
     "date_sort": "2026-06-15"
   }
