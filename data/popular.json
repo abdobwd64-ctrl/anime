@@ -1,20 +1,5 @@
 [
   {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 58
-  },
-  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
@@ -30,7 +15,22 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 57
+    "score": 58
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
+    "score": 58
   },
   {
     "id": "nana",
