@@ -30,7 +30,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 51
+    "score": 52
   },
   {
     "id": "nana",
@@ -418,6 +418,23 @@
     "score": 15
   },
   {
+    "id": "liar-game",
+    "title": "انمي Liar Game مترجم اون لاين",
+    "poster": "data/posters/liar-game.webp",
+    "genres": [
+      "دراما",
+      "العاب",
+      "نفسي",
+      "سينين",
+      "اثارة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "otaku-ni-yasashii-gal-wa-inai",
     "title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
     "poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
@@ -445,20 +462,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "classic-stars",
-    "title": "انمي classic★stars مترجم اون لاين",
-    "poster": "data/posters/classic-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2025",
     "score": 15
   }
 ]
