@@ -16,14 +16,6 @@
     "date_sort": "2026-06-17"
   },
   {
-    "anime_id": "marriagetoxin",
-    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
-    "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "10",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -51,6 +43,14 @@
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
+    "episode": "8",
+    "date": "28 مايو, 2026",
+    "date_sort": "2026-05-28"
+  },
+  {
+    "anime_id": "marriagetoxin",
+    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
+    "anime_poster": "data/posters/marriagetoxin.webp",
     "episode": "8",
     "date": "28 مايو, 2026",
     "date_sort": "2026-05-28"
