@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 871
+    "score": 872
   },
   {
     "id": "yu-gi-oh-duel-monsters-gx",
@@ -469,6 +469,23 @@
     "score": 29
   },
   {
+    "id": "kill-la-kill",
+    "title": "انمي Kill la Kill مترجم اون لاين",
+    "poster": "data/posters/kill-la-kill.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013",
+    "score": 29
+  },
+  {
     "id": "tokyo-revengers",
     "title": "انمي Tokyo Revengers مترجم اون لاين",
     "poster": "data/posters/tokyo-revengers.webp",
@@ -482,22 +499,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021",
-    "score": 29
-  },
-  {
-    "id": "tate-no-yuusha-no-nariagari",
-    "title": "انمي Tate no Yuusha no Nariagari مترجم اون لاين",
-    "poster": "data/posters/tate-no-yuusha-no-nariagari.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2019",
     "score": 29
   }
 ]
