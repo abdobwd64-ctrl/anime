@@ -536,7 +536,94 @@
           "url": "http://vidmoly.me/w/gsonpewlpqd3"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Kono Subarashii Sekai ni Shukufuku wo!",
+      "date": "14 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/3K84ySw6oXYjC"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-njt44nz7rhky.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/z2vp9ocpgmbw"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/y7k3fkxia4gt"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-zaw5rpo7sau5.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-1k4lrwbmxtxj.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/3K84ySw6oXYjC"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/3K84ySw6oXYjC"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/1k4lrwbmxtxj"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/z2vp9ocpgmbw"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/63p2ildcsk6i"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/MTwl4s"
+        },
+        {
+          "server": "uqload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uqload.is/zaw5rpo7sau5.html"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/y7k3fkxia4gt"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/njt44nz7rhky"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:16:57.402679"
+  "last_updated": "2026-06-24T20:17:03.675002"
 }
