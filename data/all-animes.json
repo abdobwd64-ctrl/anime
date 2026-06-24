@@ -5498,6 +5498,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "metallic-rouge",
+    "title": "انمي Metallic Rouge مترجم اون لاين",
+    "poster": "data/posters/metallic-rouge.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "haikyuu-second-season",
     "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
     "poster": "data/posters/haikyuu-second-season.webp",
