@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 89
+    "score": 90
   },
   {
     "id": "hajime-no-ippo",
@@ -79,7 +79,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 30
+    "score": 31
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -124,6 +124,20 @@
     "score": 21
   },
   {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2022",
+    "score": 21
+  },
+  {
     "id": "ouran-koukou-host-club",
     "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "poster": "data/posters/ouran-koukou-host-club.webp",
@@ -136,20 +150,6 @@
     "episodes_count": "26",
     "season": "ربيع 2006",
     "score": 20
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2022",
-    "score": 19
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
