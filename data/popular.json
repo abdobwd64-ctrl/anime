@@ -39,7 +39,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 22
+    "score": 23
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -118,6 +118,21 @@
     "score": 14
   },
   {
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
     "id": "dr-stone-new-world",
     "title": "انمي Dr. Stone: New World مترجم اون لاين",
     "poster": "data/posters/dr-stone-new-world.webp",
@@ -133,21 +148,6 @@
     "score": 14
   },
   {
-    "id": "kuroneko-to-majo-no-kyoushitsu",
-    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
-    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
@@ -161,7 +161,7 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
-    "score": 11
+    "score": 12
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
