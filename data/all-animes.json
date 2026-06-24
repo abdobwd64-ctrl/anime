@@ -154,6 +154,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "biao-ren-er",
+    "title": "انمي Biao Ren Er مترجم اون لاين",
+    "poster": "data/posters/biao-ren-er.webp",
+    "genres": [
+      "أكشن",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
