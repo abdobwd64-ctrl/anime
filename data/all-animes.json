@@ -570,6 +570,18 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "blue-thermal",
+    "title": "انمي Blue Thermal مترجم اون لاين",
+    "poster": "data/posters/blue-thermal.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da",
     "title": "انمي Dragon Ball Z Movie 11: Super Senshi Gekiha!! Katsu no wa Ore da مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da.webp",
