@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 101
+    "score": 102
   },
   {
     "id": "cowboy-bebop",
@@ -259,6 +259,23 @@
     "score": 14
   },
   {
+    "id": "koi-to-producer-evol-love",
+    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
+    "poster": "data/posters/koi-to-producer-evol-love.webp",
+    "genres": [
+      "خارق للعادة",
+      "رومانسي",
+      "شريحة من الحياة",
+      "شوجو",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 14
+  },
+  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -301,23 +318,6 @@
     "type": "أونا",
     "episodes_count": "9",
     "season": "صيف 2021",
-    "score": 12
-  },
-  {
-    "id": "koi-to-producer-evol-love",
-    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
-    "poster": "data/posters/koi-to-producer-evol-love.webp",
-    "genres": [
-      "خارق للعادة",
-      "رومانسي",
-      "شريحة من الحياة",
-      "شوجو",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
     "score": 12
   },
   {
