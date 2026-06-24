@@ -390,5 +390,21 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "sword-art-online-alicization-war-of-underworld",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   }
 ]

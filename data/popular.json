@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 75
+    "score": 76
   },
   {
     "id": "cowboy-bebop",
@@ -271,6 +271,23 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
+    "score": 6
+  },
+  {
+    "id": "sword-art-online-alicization-war-of-underworld",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
     "score": 6
   },
   {
