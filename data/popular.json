@@ -243,6 +243,23 @@
     "score": 28
   },
   {
+    "id": "digimon-adventure",
+    "title": "انمي Digimon Adventure: مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
+    "score": 28
+  },
+  {
     "id": "black-cat",
     "title": "انمي Black Cat مترجم اون لاين",
     "poster": "data/posters/black-cat.webp",
@@ -319,23 +336,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2018",
-    "score": 27
-  },
-  {
-    "id": "digimon-adventure",
-    "title": "انمي Digimon Adventure: مترجم اون لاين",
-    "poster": "data/posters/digimon-adventure.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
     "score": 27
   },
   {
