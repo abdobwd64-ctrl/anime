@@ -845,6 +845,21 @@
     "season": "ربيع 2006"
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988"
+  },
+  {
     "id": "tensei-shitara-dragon-no-tamago-datta",
     "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
