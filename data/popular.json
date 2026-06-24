@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 91
+    "score": 92
   },
   {
     "id": "hajime-no-ippo",
@@ -48,6 +48,22 @@
     "score": 37
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 32
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -64,22 +80,6 @@
     "episodes_count": "26",
     "season": "خريف 2005",
     "score": 32
-  },
-  {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
-    "score": 31
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -122,7 +122,7 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2022",
-    "score": 22
+    "score": 23
   },
   {
     "id": "prism-rondo",
