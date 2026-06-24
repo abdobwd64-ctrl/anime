@@ -439,20 +439,6 @@
     "score": 26
   },
   {
-    "id": "ansatsu-kyoushitsu",
-    "title": "انمي Ansatsu Kyoushitsu مترجم اون لاين",
-    "poster": "data/posters/ansatsu-kyoushitsu.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "22",
-    "season": "شتاء 2015",
-    "score": 25
-  },
-  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -467,6 +453,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2020",
-    "score": 24
+    "score": 25
+  },
+  {
+    "id": "ansatsu-kyoushitsu",
+    "title": "انمي Ansatsu Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/ansatsu-kyoushitsu.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "22",
+    "season": "شتاء 2015",
+    "score": 25
   }
 ]

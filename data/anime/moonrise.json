@@ -1322,7 +1322,86 @@
           "url": "http://vidmoly.me/w/gfhub62vdojh"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الأونا 3Moonrise",
+      "date": "10 أبريل, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/kcxmsB1vRs4dY"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/kcxmsB1vRs4dY"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-ueqmclhpi3m9.html"
+        },
+        {
+          "name": "vidmoly to | FHD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-5qvq8vus7hc5.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/bzhnqukjwqsg"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/W5wjjTJS!ut_-C3CytDry8uu7QkK1Cp8GsuBUCb1bg9PZNRajhlc"
+        },
+        {
+          "name": "do7go | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/gwu24dybp5ku"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/kcxmsB1vRs4dY"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/bzhnqukjwqsg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/iz8zgmsmjulg"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!W5wjjTJS!ut_-C3CytDry8uu7QkK1Cp8GsuBUCb1bg9PZNRajhlc"
+        },
+        {
+          "server": "do7go",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/gwu24dybp5ku"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/4anib37chssa"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/5qvq8vus7hc5"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:07:18.828713"
+  "last_updated": "2026-06-24T21:07:25.762645"
 }
