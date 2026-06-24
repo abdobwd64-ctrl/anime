@@ -35,21 +35,6 @@
     "score": 72
   },
   {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 58
-  },
-  {
     "id": "fullmetal-alchemist-brotherhood",
     "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
     "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
@@ -67,6 +52,21 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
+    "score": 59
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
     "score": 58
   },
   {
