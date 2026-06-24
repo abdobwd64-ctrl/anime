@@ -173,6 +173,22 @@
     "score": 17
   },
   {
+    "id": "kingdom-6th-season",
+    "title": "انمي Kingdom 6th Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-6th-season.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2025",
+    "score": 17
+  },
+  {
     "id": "replica-datte-koi-wo-suru",
     "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
     "poster": "data/posters/replica-datte-koi-wo-suru.webp",
@@ -203,22 +219,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 17
-  },
-  {
-    "id": "kingdom-6th-season",
-    "title": "انمي Kingdom 6th Season مترجم اون لاين",
-    "poster": "data/posters/kingdom-6th-season.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "سينين",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "خريف 2025",
-    "score": 16
   },
   {
     "id": "champignon-no-majo",
@@ -384,6 +384,20 @@
     "score": 15
   },
   {
+    "id": "classic-stars",
+    "title": "انمي classic★stars مترجم اون لاين",
+    "poster": "data/posters/classic-stars.webp",
+    "genres": [
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2025",
+    "score": 15
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -408,20 +422,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "classic-stars",
-    "title": "انمي classic★stars مترجم اون لاين",
-    "poster": "data/posters/classic-stars.webp",
-    "genres": [
-      "مدرسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2025",
     "score": 14
   },
   {
