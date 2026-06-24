@@ -182,6 +182,23 @@
     "score": 15
   },
   {
+    "id": "sword-art-online-alicization-war-of-underworld",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019",
+    "score": 15
+  },
+  {
     "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
     "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
@@ -222,23 +239,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "sword-art-online-alicization-war-of-underworld",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
     "score": 14
   },
   {
@@ -323,6 +323,21 @@
     "score": 5
   },
   {
+    "id": "star-wars-visions",
+    "title": "انمي Star Wars: Visions مترجم اون لاين",
+    "poster": "data/posters/star-wars-visions.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "9",
+    "season": "صيف 2021",
+    "score": 5
+  },
+  {
     "id": "boku-no-hero-academia-more",
     "title": "انمي Boku no Hero Academia: More مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-more.webp",
@@ -337,21 +352,6 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
-  },
-  {
-    "id": "star-wars-visions",
-    "title": "انمي Star Wars: Visions مترجم اون لاين",
-    "poster": "data/posters/star-wars-visions.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "9",
-    "season": "صيف 2021",
-    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
