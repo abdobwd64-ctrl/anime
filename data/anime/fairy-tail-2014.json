@@ -10309,7 +10309,116 @@
           "url": "https://www.4shared.com/video/8sbdebuxea/Anime4upcom_FT2014_EP_03_HD.html"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Fairy Tail (2014)",
+      "date": "20 مايو, 2022",
+      "servers": [
+        {
+          "name": "sbfull | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbfull.com/e/t7sgp2uejmj0"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/UtkwAZ48iq/"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3367646661338"
+        },
+        {
+          "name": "dood pm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/mg402yfd32nw"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-0w0zwhlmtirc.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/78xwNrYg7yAwM"
+        },
+        {
+          "name": "vidbam org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbam.org/embed-c0fij7eay60i.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-giyfei1p827p.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/EOkRQDTD!BBhyVaWAA3Iktc32CRuYU1jLuP1XYcEuBYZsmPae0h4"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/78i23s5ft75a"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sbfull",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://sbfull.com/t7sgp2uejmj0.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/k2dyvrt8kpzl"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!EOkRQDTD!BBhyVaWAA3Iktc32CRuYU1jLuP1XYcEuBYZsmPae0h4"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/F7pcccicy9"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3cLdz/[Anime4up.com]_FT2014_EP_02_HD.mp4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/giyfei1p827p"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/78xwNrYg7yAwM"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/78i23s5ft75a"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/mg402yfd32nw"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/UtkwAZ48iq/Anime4upcom_FT2014_EP_02_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T22:07:30.535538"
+  "last_updated": "2026-06-24T22:07:38.175723"
 }
