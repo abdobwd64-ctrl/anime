@@ -1379,7 +1379,72 @@
           "url": "https://www.mp4upload.com/pg9syzicswvb"
         }
       ]
+    },
+    {
+      "number": "16",
+      "title": "الحلقة 16Haikyuu!! Second Season",
+      "date": "03 أكتوبر, 2020",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/cKdflaj8iq.html"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/185CCmvb6Ru48Pv8aEcl5Lw3d2S8qeghH/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed-miuxblxz5krc.html"
+        },
+        {
+          "name": "jawcloud | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://jawcloud.co/embed-au8h338ttq0n.html"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2Oq8i"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2013130132144"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-ykwbfy2sewl2.html"
+        },
+        {
+          "name": "vidfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidfast.co/embed-pm46n7kljhz0.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/cKdflaj8iq/XSAnimecom_HSS_EP16_BD-FHD.html"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/9mx1rvozvpu4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/file/d/185CCmvb6Ru48Pv8aEcl5Lw3d2S8qeghH/view?usp=sharing"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2Oq8i/[XSAnime.com]_HSS_EP16_[BD-FHD].mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:14:27.834458"
+  "last_updated": "2026-06-24T21:14:34.310833"
 }
