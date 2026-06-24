@@ -344,6 +344,14 @@
     "date_sort": "2026-06-12"
   },
   {
+    "anime_id": "dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu",
+    "anime_title": "انمي Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu.webp",
+    "episode": "1",
+    "date": "11 يونيو, 2026",
+    "date_sort": "2026-06-11"
+  },
+  {
     "anime_id": "marriagetoxin",
     "anime_title": "انمي Marriagetoxin مترجم اون لاين",
     "anime_poster": "data/posters/marriagetoxin.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Hajime no Ippo مترجم اون لاين",
     "anime_poster": "data/posters/hajime-no-ippo.webp",
     "episode": "71",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
-    "anime_id": "mushishi",
-    "anime_title": "انمي Mushishi مترجم اون لاين",
-    "anime_poster": "data/posters/mushishi.webp",
-    "episode": "24",
     "date": "11 يونيو, 2026",
     "date_sort": "2026-06-11"
   }

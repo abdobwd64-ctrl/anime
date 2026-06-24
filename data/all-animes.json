@@ -72,6 +72,23 @@
     "season": "شتاء 2009"
   },
   {
+    "id": "naruto",
+    "title": "انمي Naruto مترجم اون لاين",
+    "poster": "data/posters/naruto.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "220",
+    "season": "خريف 2002"
+  },
+  {
     "id": "spy-x-family-movie-code-white",
     "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
     "poster": "data/posters/spy-x-family-movie-code-white.webp",
@@ -463,6 +480,23 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2024"
+  },
+  {
+    "id": "dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu",
+    "title": "انمي Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 1997"
   },
   {
     "id": "ousama-ranking",
