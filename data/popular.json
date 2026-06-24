@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 56
+    "score": 58
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -44,21 +44,6 @@
     "score": 27
   },
   {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 26
-  },
-  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -74,6 +59,21 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005",
+    "score": 27
+  },
+  {
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
     "score": 26
   },
   {
