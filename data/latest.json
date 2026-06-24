@@ -264,6 +264,14 @@
     "date_sort": "2026-06-19"
   },
   {
+    "anime_id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "anime_title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "anime_poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
+    "episode": "12",
+    "date": "18 يونيو, 2026",
+    "date_sort": "2026-06-18"
+  },
+  {
     "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -390,13 +398,5 @@
     "episode": "11",
     "date": "15 يونيو, 2026",
     "date_sort": "2026-06-15"
-  },
-  {
-    "anime_id": "maid-san-wa-taberu-dake",
-    "anime_title": "انمي Maid-san wa Taberu dake مترجم اون لاين",
-    "anime_poster": "data/posters/maid-san-wa-taberu-dake.webp",
-    "episode": "12",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
   }
 ]

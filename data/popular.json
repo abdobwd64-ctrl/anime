@@ -16,7 +16,24 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 480
+    "score": 808
+  },
+  {
+    "id": "yu-gi-oh-duel-monsters-gx",
+    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "180",
+    "season": "خريف 2004",
+    "score": 181
   },
   {
     "id": "naruto",
@@ -282,6 +299,23 @@
     "score": 30
   },
   {
+    "id": "boku-no-hero-academia-4th-season",
+    "title": "انمي Boku no Hero Academia 4th Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-4th-season.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2019",
+    "score": 30
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "title": "انمي Tensei shitara Slime Datta Ken 3rd Season مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-slime-datta-ken-3rd-season.webp",
@@ -313,6 +347,23 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "ربيع 2014",
+    "score": 30
+  },
+  {
+    "id": "code-geass-hangyaku-no-lelouch",
+    "title": "انمي Code Geass: Hangyaku no Lelouch مترجم اون لاين",
+    "poster": "data/posters/code-geass-hangyaku-no-lelouch.webp",
+    "genres": [
+      "حربي",
+      "خارق للعادة",
+      "دراما",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2006",
     "score": 30
   },
   {
@@ -385,6 +436,23 @@
     "score": 29
   },
   {
+    "id": "bastard-ankoku-no-hakaishin-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "شتاء 2021",
+    "score": 29
+  },
+  {
     "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
     "title": "انمي Tsuki ga Michibiku Isekai Douchuu 2nd Season مترجم اون لاين",
     "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu-2nd-season.webp",
@@ -431,67 +499,5 @@
     "episodes_count": "25",
     "season": "خريف 2019",
     "score": 29
-  },
-  {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
-  },
-  {
-    "id": "cowboy-bebop",
-    "title": "انمي Cowboy Bebop مترجم اون لاين",
-    "poster": "data/posters/cowboy-bebop.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 1998",
-    "score": 28
-  },
-  {
-    "id": "black-cat",
-    "title": "انمي Black Cat مترجم اون لاين",
-    "poster": "data/posters/black-cat.webp",
-    "genres": [
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "23",
-    "season": "خريف 2005",
-    "score": 28
-  },
-  {
-    "id": "amagami-san-chi-no-enmusubi",
-    "title": "انمي Amagami-san Chi no Enmusubi مترجم اون لاين",
-    "poster": "data/posters/amagami-san-chi-no-enmusubi.webp",
-    "genres": [
-      "شونين",
-      "رومانسي",
-      "كوميدي",
-      "حريم"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2024",
-    "score": 28
   }
 ]
