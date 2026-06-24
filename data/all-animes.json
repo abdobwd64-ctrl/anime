@@ -1,5 +1,19 @@
 [
   {
+    "id": "kikaijikake-no-marie",
+    "title": "انمي Kikaijikake no Marie مترجم اون لاين",
+    "poster": "data/posters/kikaijikake-no-marie.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "boku-no-hero-academia-ua-heroes-battle",
     "title": "انمي Boku no Hero Academia: UA Heroes Battle مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-ua-heroes-battle.webp",
