@@ -247,6 +247,26 @@
     "score": 29
   },
   {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
+    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "ربيع 2009",
+    "score": 29
+  },
+  {
     "id": "tate-no-yuusha-no-nariagari",
     "title": "انمي Tate no Yuusha no Nariagari مترجم اون لاين",
     "poster": "data/posters/tate-no-yuusha-no-nariagari.webp",
@@ -291,26 +311,6 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "خريف 2005",
-    "score": 28
-  },
-  {
-    "id": "fullmetal-alchemist-brotherhood",
-    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
-    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "دراما",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "64",
-    "season": "ربيع 2009",
     "score": 28
   },
   {
