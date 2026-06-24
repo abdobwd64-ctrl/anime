@@ -16,6 +16,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "episode": "10",
+    "date": "16 يونيو, 2026",
+    "date_sort": "2026-06-16"
+  },
+  {
     "anime_id": "kirio-fanclub",
     "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
     "anime_poster": "data/posters/kirio-fanclub.webp",
@@ -390,13 +398,5 @@
     "episode": "8",
     "date": "25 مايو, 2025",
     "date_sort": "2025-05-25"
-  },
-  {
-    "anime_id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "anime_title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "anime_poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "episode": "8",
-    "date": "24 مايو, 2025",
-    "date_sort": "2025-05-24"
   }
 ]
