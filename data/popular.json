@@ -294,6 +294,26 @@
     "score": 28
   },
   {
+    "id": "fullmetal-alchemist-brotherhood",
+    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
+    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "ربيع 2009",
+    "score": 28
+  },
+  {
     "id": "amagami-san-chi-no-enmusubi",
     "title": "انمي Amagami-san Chi no Enmusubi مترجم اون لاين",
     "poster": "data/posters/amagami-san-chi-no-enmusubi.webp",
@@ -367,26 +387,6 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "شتاء 2016",
-    "score": 27
-  },
-  {
-    "id": "fullmetal-alchemist-brotherhood",
-    "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
-    "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "دراما",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "64",
-    "season": "ربيع 2009",
     "score": 27
   },
   {
