@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 102
+    "score": 103
   },
   {
     "id": "cowboy-bebop",
@@ -216,6 +216,23 @@
     "score": 15
   },
   {
+    "id": "koi-to-producer-evol-love",
+    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
+    "poster": "data/posters/koi-to-producer-evol-love.webp",
+    "genres": [
+      "خارق للعادة",
+      "رومانسي",
+      "شريحة من الحياة",
+      "شوجو",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 15
+  },
+  {
     "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
     "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
     "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
@@ -256,23 +273,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "koi-to-producer-evol-love",
-    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
-    "poster": "data/posters/koi-to-producer-evol-love.webp",
-    "genres": [
-      "خارق للعادة",
-      "رومانسي",
-      "شريحة من الحياة",
-      "شوجو",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
     "score": 14
   },
   {
@@ -337,6 +337,20 @@
     "episodes_count": "1",
     "season": "ربيع 2019",
     "score": 7
+  },
+  {
+    "id": "ao-no-exorcist-shimane-illuminati-hen",
+    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024",
+    "score": 6
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -419,20 +433,6 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
-  },
-  {
-    "id": "ao-no-exorcist-shimane-illuminati-hen",
-    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2024",
-    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
