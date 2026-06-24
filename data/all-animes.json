@@ -3548,6 +3548,20 @@
     "season": "ربيع 2014"
   },
   {
+    "id": "kakuriyo-no-yadomeshi-ni",
+    "title": "انمي Kakuriyo no Yadomeshi Ni مترجم اون لاين",
+    "poster": "data/posters/kakuriyo-no-yadomeshi-ni.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "ginga-eiyuu-densetsu",
     "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu.webp",
