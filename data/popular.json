@@ -30,6 +30,24 @@
     "score": 37
   },
   {
+    "id": "naruto",
+    "title": "انمي Naruto مترجم اون لاين",
+    "poster": "data/posters/naruto.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "220",
+    "season": "خريف 2002",
+    "score": 33
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -46,24 +64,6 @@
     "episodes_count": "26",
     "season": "خريف 2005",
     "score": 32
-  },
-  {
-    "id": "naruto",
-    "title": "انمي Naruto مترجم اون لاين",
-    "poster": "data/posters/naruto.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "220",
-    "season": "خريف 2002",
-    "score": 31
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -331,6 +331,21 @@
     "score": 15
   },
   {
+    "id": "starmyu-3rd-season",
+    "title": "انمي Starmyu 3rd Season مترجم اون لاين",
+    "poster": "data/posters/starmyu-3rd-season.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019",
+    "score": 15
+  },
+  {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -445,20 +460,5 @@
     "episodes_count": "13",
     "season": "ربيع 2025",
     "score": 15
-  },
-  {
-    "id": "starmyu-3rd-season",
-    "title": "انمي Starmyu 3rd Season مترجم اون لاين",
-    "poster": "data/posters/starmyu-3rd-season.webp",
-    "genres": [
-      "مدرسي",
-      "شريحة من الحياة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2019",
-    "score": 14
   }
 ]

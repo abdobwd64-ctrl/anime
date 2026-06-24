@@ -45,6 +45,22 @@
     "season": "خريف 2024"
   },
   {
+    "id": "date-a-live-movie-mayuri-judgment",
+    "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
+    "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "خيال علمي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2015"
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
