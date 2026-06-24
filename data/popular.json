@@ -302,6 +302,22 @@
     "score": 16
   },
   {
+    "id": "beastars-2nd-season",
+    "title": "انمي Beastars 2nd Season مترجم اون لاين",
+    "poster": "data/posters/beastars-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021",
+    "score": 16
+  },
+  {
     "id": "kanojo-okarishimasu-5th-season",
     "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
@@ -435,22 +451,6 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "خريف 2025",
-    "score": 15
-  },
-  {
-    "id": "beastars-2nd-season",
-    "title": "انمي Beastars 2nd Season مترجم اون لاين",
-    "poster": "data/posters/beastars-2nd-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "نفسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2021",
     "score": 15
   },
   {
