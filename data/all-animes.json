@@ -60,6 +60,18 @@
     "season": "شتاء 2009"
   },
   {
+    "id": "hello-world",
+    "title": "انمي Hello World مترجم اون لاين",
+    "poster": "data/posters/hello-world.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2019"
+  },
+  {
     "id": "spy-x-family-movie-code-white",
     "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
     "poster": "data/posters/spy-x-family-movie-code-white.webp",
