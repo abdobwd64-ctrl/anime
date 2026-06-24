@@ -30,6 +30,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "spy-x-family-movie-code-white",
+    "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
+    "poster": "data/posters/spy-x-family-movie-code-white.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",

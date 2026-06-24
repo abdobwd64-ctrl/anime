@@ -24,6 +24,14 @@
     "date_sort": "2026-06-14"
   },
   {
+    "anime_id": "diamond-no-ace-act-ii-second-season",
+    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
+    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "episode": "10",
+    "date": "07 يونيو, 2026",
+    "date_sort": "2026-06-07"
+  },
+  {
     "anime_id": "cowboy-bebop",
     "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
     "anime_poster": "data/posters/cowboy-bebop.webp",
@@ -40,12 +48,28 @@
     "date_sort": "2026-05-16"
   },
   {
+    "anime_id": "cowboy-bebop",
+    "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
+    "anime_poster": "data/posters/cowboy-bebop.webp",
+    "episode": "24",
+    "date": "16 مايو, 2026",
+    "date_sort": "2026-05-16"
+  },
+  {
     "anime_id": "boku-no-hero-academia-more",
     "anime_title": "انمي Boku no Hero Academia: More مترجم اون لاين",
     "anime_poster": "data/posters/boku-no-hero-academia-more.webp",
     "episode": "1",
     "date": "02 مايو, 2026",
     "date_sort": "2026-05-02"
+  },
+  {
+    "anime_id": "spy-x-family-movie-code-white",
+    "anime_title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
+    "anime_poster": "data/posters/spy-x-family-movie-code-white.webp",
+    "episode": "1",
+    "date": "05 أغسطس, 2024",
+    "date_sort": "2024-08-05"
   },
   {
     "anime_id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",

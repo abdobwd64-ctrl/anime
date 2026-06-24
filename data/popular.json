@@ -29,7 +29,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 5
+    "score": 6
   },
   {
     "id": "cowboy-bebop",
@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 1998",
-    "score": 5
+    "score": 6
   },
   {
     "id": "boku-no-hero-academia-more",
@@ -76,5 +76,19 @@
     "episodes_count": "1",
     "season": "صيف 2013",
     "score": 4
+  },
+  {
+    "id": "spy-x-family-movie-code-white",
+    "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
+    "poster": "data/posters/spy-x-family-movie-code-white.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023",
+    "score": 3
   }
 ]
