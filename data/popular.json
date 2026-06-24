@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 88
+    "score": 89
   },
   {
     "id": "cowboy-bebop",
@@ -268,7 +268,7 @@
     "type": "أونا",
     "episodes_count": "9",
     "season": "صيف 2021",
-    "score": 11
+    "score": 12
   },
   {
     "id": "snowball-earth",
@@ -284,7 +284,7 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2026",
-    "score": 9
+    "score": 11
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -319,6 +319,23 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
+    "score": 6
+  },
+  {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
     "score": 6
   },
   {
@@ -440,18 +457,5 @@
     "episodes_count": "1",
     "season": "خريف 2015",
     "score": 3
-  },
-  {
-    "id": "free-movie-1-timeless-medley-kizuna",
-    "title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
-    "poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
-    "genres": [
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "ربيع 2017",
-    "score": 2
   }
 ]

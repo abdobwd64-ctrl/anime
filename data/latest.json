@@ -288,6 +288,14 @@
     "date_sort": "2025-05-17"
   },
   {
+    "anime_id": "ao-no-exorcist-yosuga-hen",
+    "anime_title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "anime_poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "episode": "12",
+    "date": "22 مارس, 2025",
+    "date_sort": "2025-03-22"
+  },
+  {
     "anime_id": "sousei-no-aquarion-myth-of-emotions",
     "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "20 نوفمبر, 2023",
     "date_sort": "2023-11-20"
-  },
-  {
-    "anime_id": "black-clover-mahou-tei-no-ken",
-    "anime_title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
-    "anime_poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
-    "episode": "1",
-    "date": "23 يونيو, 2023",
-    "date_sort": "2023-06-23"
   }
 ]
