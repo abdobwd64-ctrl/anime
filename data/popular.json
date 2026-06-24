@@ -350,19 +350,6 @@
     "score": 14
   },
   {
-    "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-    "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
-    "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "ji-yao-lu-qicheng-pian",
     "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
     "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
@@ -449,5 +436,20 @@
     "episodes_count": "15",
     "season": "صيف 2009",
     "score": 12
+  },
+  {
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 11
   }
 ]
