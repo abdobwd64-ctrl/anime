@@ -7684,6 +7684,20 @@
     "season": "خريف 2024"
   },
   {
+    "id": "wandance",
+    "title": "انمي Wandance مترجم اون لاين",
+    "poster": "data/posters/wandance.webp",
+    "genres": [
+      "سينين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "tadaima-ojamasaremasu",
     "title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
     "poster": "data/posters/tadaima-ojamasaremasu.webp",
