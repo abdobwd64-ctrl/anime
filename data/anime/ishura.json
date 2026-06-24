@@ -944,7 +944,118 @@
           "url": "https://mega.nz/#!8TkRxQrJ!v51BC6ap3brdnkWyxq6501MLGJ7aBgH1sLjQGS6jAIQ"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Ishura",
+      "date": "24 يناير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ahV2LrJ6A9Hys"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ahV2LrJ6A9Hys"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/ahV2LrJ6A9Hys"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-m1ch7hyppt35.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ojslgQzS!xTo4SmMwejYhGFbEa8l9TfGNKrYYk2dugND9RnlVDHs"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-tpktuzpwbp2p.html"
+        },
+        {
+          "name": "uqload io | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-r5q4apuzvreh.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-cdsdktxzeicx.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/duFRwLAb!B1CkYDa6HzvfPVvNh0gU0XRWgIwnHo8PDnPmsf_o8QY"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-yld9g8thobrf.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/hutzkaQB!yhek2n8Q5FOWX-j3aO95J2RpH4HcEL1j76ULwbkc3OE"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-r5q4apuzvreh.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/yld9g8thobrf"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/fc6jce02trp4"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!hutzkaQB!yhek2n8Q5FOWX-j3aO95J2RpH4HcEL1j76ULwbkc3OE"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/igw68o7m6f4a"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/cdsdktxzeicx"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!duFRwLAb!B1CkYDa6HzvfPVvNh0gU0XRWgIwnHo8PDnPmsf_o8QY"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m1ch7hyppt35"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/q9xd69k58w6u"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ojslgQzS!xTo4SmMwejYhGFbEa8l9TfGNKrYYk2dugND9RnlVDHs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:07:22.383236"
+  "last_updated": "2026-06-24T23:07:29.853251"
 }
