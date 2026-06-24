@@ -621,6 +621,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "spy-kyoushitsu",
+    "title": "انمي Spy Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/spy-kyoushitsu.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "one-piece-movie-14-stampede",
     "title": "انمي One Piece Movie 14: Stampede مترجم اون لاين",
     "poster": "data/posters/one-piece-movie-14-stampede.webp",
