@@ -122,7 +122,7 @@
     "type": "أونا",
     "episodes_count": "15",
     "season": "صيف 2023",
-    "score": 17
+    "score": 18
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -289,6 +289,20 @@
     "score": 13
   },
   {
+    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 13
+  },
+  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -303,18 +317,17 @@
     "score": 12
   },
   {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "id": "grand-blue",
+    "title": "انمي Grand Blue مترجم اون لاين",
+    "poster": "data/posters/grand-blue.webp",
     "genres": [
-      "رومانسي",
-      "مدرسي"
+      "كوميدي"
     ],
-    "status": "يعرض الان",
+    "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 12
+    "episodes_count": "12",
+    "season": "صيف 2018",
+    "score": 11
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
@@ -329,19 +342,6 @@
     "type": "أونا",
     "episodes_count": "غير معروف",
     "season": "صيف 2019",
-    "score": 10
-  },
-  {
-    "id": "grand-blue",
-    "title": "انمي Grand Blue مترجم اون لاين",
-    "poster": "data/posters/grand-blue.webp",
-    "genres": [
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2018",
     "score": 10
   },
   {
