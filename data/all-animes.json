@@ -420,6 +420,22 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "koi-to-producer-evol-love",
+    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
+    "poster": "data/posters/koi-to-producer-evol-love.webp",
+    "genres": [
+      "خارق للعادة",
+      "رومانسي",
+      "شريحة من الحياة",
+      "شوجو",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
