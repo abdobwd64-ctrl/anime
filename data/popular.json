@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 46
+    "score": 47
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -204,6 +204,22 @@
     "score": 17
   },
   {
+    "id": "champignon-no-majo",
+    "title": "انمي Champignon no Majo مترجم اون لاين",
+    "poster": "data/posters/champignon-no-majo.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 16
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-5",
     "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -262,22 +278,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 15
-  },
-  {
-    "id": "champignon-no-majo",
-    "title": "انمي Champignon no Majo مترجم اون لاين",
-    "poster": "data/posters/champignon-no-majo.webp",
-    "genres": [
-      "دراما",
-      "فنتازيا",
-      "مغامرات",
-      "رومانسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 15
   },
   {
@@ -395,6 +395,24 @@
     "score": 14
   },
   {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 14
+  },
+  {
     "id": "ji-yao-lu-qicheng-pian",
     "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
     "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
@@ -435,24 +453,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018",
-    "score": 13
-  },
-  {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
     "score": 13
   }
 ]
