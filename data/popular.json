@@ -82,20 +82,6 @@
     "score": 32
   },
   {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
-  },
-  {
     "id": "sword-art-online-alicization",
     "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization.webp",
@@ -110,7 +96,21 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2018",
-    "score": 26
+    "score": 28
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
+    "score": 28
   },
   {
     "id": "blue-lock",
