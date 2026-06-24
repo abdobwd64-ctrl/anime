@@ -390,7 +390,22 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 5
+    "score": 6
+  },
+  {
+    "id": "tensei-shitara-dragon-no-tamago-datta",
+    "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
+    "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026",
+    "score": 6
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
@@ -438,21 +453,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 1994",
-    "score": 5
-  },
-  {
-    "id": "tensei-shitara-dragon-no-tamago-datta",
-    "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
-    "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026",
     "score": 5
   }
 ]
