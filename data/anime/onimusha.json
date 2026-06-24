@@ -1,0 +1,126 @@
+{
+  "id": "onimusha",
+  "title": "انمي Onimusha مترجم اون لاين",
+  "url": "https://animelek.top/anime/onimusha/",
+  "poster": "data/posters/onimusha.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "8",
+  "start_date": "2023",
+  "season": "خريف 2023",
+  "genres": [
+    "أكشن"
+  ],
+  "story": "هذه السلسلة الطموحة ستركز على مياموتو موساشي، الذي تم اقتباس شخصيته من توشيرو ميفوني، نجم السينما الياباني المعروف حول العالم. إنها بداية سلسلة مكثفة مليئة بالأكشن الواقعي حيث يقوم نَصْل موساشي بقطع الشر، كما يعبر أرض تعاني من الفقر.",
+  "episodes": [
+    {
+      "number": "8",
+      "title": "الأونا 8Onimusha",
+      "date": "02 نوفمبر, 2023",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/234KiYfC4gx1s"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/234KiYfC4gx1s"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/234KiYfC4gx1s"
+        },
+        {
+          "name": "vidblue online | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-dhrk54wkv5ns.html"
+        },
+        {
+          "name": "uqload io | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-r43n09yo4ka8.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ikm1.vadbam.net/embed-bcqxs9np7jo1.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/JtIjEaiS!t-UlqLBaAKqgbp-qiMvdt81b_g5M20wK2dJEiTTMtf8"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/rtdv0alewbj8"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!JtIjEaiS!t-UlqLBaAKqgbp-qiMvdt81b_g5M20wK2dJEiTTMtf8"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "الأونا 7Onimusha",
+      "date": "02 نوفمبر, 2023",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/5YdhPxfGDOlkh"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/5YdhPxfGDOlkh"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/5YdhPxfGDOlkh"
+        },
+        {
+          "name": "vidblue online | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-kut1mfw3yidc.html"
+        },
+        {
+          "name": "uqload io | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-15b9vg0eos17.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-mjsccap8gt2a.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ikm1.vadbam.net/embed-2vza793gagu2.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/h5hgBLAI!sn-YKur0CGSebutGB5mUnN1M9zgt3WwFa0UhWfdx8hQ"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/pqk1xc6q0jc8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/mjsccap8gt2a"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!h5hgBLAI!sn-YKur0CGSebutGB5mUnN1M9zgt3WwFa0UhWfdx8hQ"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-24T23:18:14.207268"
+}
