@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 89
+    "score": 90
   },
   {
     "id": "cowboy-bebop",
@@ -256,21 +256,6 @@
     "score": 13
   },
   {
-    "id": "star-wars-visions",
-    "title": "انمي Star Wars: Visions مترجم اون لاين",
-    "poster": "data/posters/star-wars-visions.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "9",
-    "season": "صيف 2021",
-    "score": 12
-  },
-  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -284,7 +269,22 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2026",
-    "score": 11
+    "score": 12
+  },
+  {
+    "id": "star-wars-visions",
+    "title": "انمي Star Wars: Visions مترجم اون لاين",
+    "poster": "data/posters/star-wars-visions.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "9",
+    "season": "صيف 2021",
+    "score": 12
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
