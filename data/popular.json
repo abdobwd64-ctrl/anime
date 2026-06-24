@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 116
+    "score": 117
   },
   {
     "id": "cowboy-bebop",
@@ -336,6 +336,23 @@
     "score": 13
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017",
+    "score": 12
+  },
+  {
     "id": "star-wars-visions",
     "title": "انمي Star Wars: Visions مترجم اون لاين",
     "poster": "data/posters/star-wars-visions.webp",
@@ -351,21 +368,18 @@
     "score": 12
   },
   {
-    "id": "black-clover",
-    "title": "انمي Black Clover مترجم اون لاين",
-    "poster": "data/posters/black-clover.webp",
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
     "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "سحر"
+      "خارق للعادة",
+      "موسيقي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2017",
-    "score": 11
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 7
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -417,20 +431,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1992",
-    "score": 6
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
     "score": 6
   },
   {
