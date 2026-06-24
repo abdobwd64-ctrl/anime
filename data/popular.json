@@ -208,7 +208,7 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2021",
-    "score": 12
+    "score": 13
   },
   {
     "id": "isekai-suicide-squad",
@@ -237,7 +237,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 11
+    "score": 12
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
@@ -255,19 +255,6 @@
     "score": 10
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -279,7 +266,20 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 8
+    "score": 9
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 9
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
