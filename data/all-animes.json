@@ -6837,6 +6837,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "steins-gate-oukoubakko-no-poriomania",
+    "title": "انمي Steins;Gate: Oukoubakko no Poriomania مترجم اون لاين",
+    "poster": "data/posters/steins-gate-oukoubakko-no-poriomania.webp",
+    "genres": [
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2012"
+  },
+  {
     "id": "quanzhi-fashi-vii",
     "title": "انمي Quanzhi Fashi VII مترجم اون لاين",
     "poster": "data/posters/quanzhi-fashi-vii.webp",
