@@ -142,6 +142,23 @@
     "score": 17
   },
   {
+    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
+    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 16
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-5",
     "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -203,23 +220,6 @@
     "score": 14
   },
   {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
-    "score": 14
-  },
-  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -260,6 +260,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 14
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
     "score": 14
   },
   {
@@ -333,21 +348,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 13
-  },
-  {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
     "score": 13
   },
   {
