@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 38
+    "score": 39
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -140,6 +140,19 @@
     "score": 18
   },
   {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 17
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
@@ -189,19 +202,6 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 17
-  },
-  {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 16
   },
   {
     "id": "xian-wang-de-richang-shenghuo-5",

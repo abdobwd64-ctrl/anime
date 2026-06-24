@@ -280,6 +280,14 @@
     "date_sort": "2026-03-19"
   },
   {
+    "anime_id": "champignon-no-majo",
+    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
+    "anime_poster": "data/posters/champignon-no-majo.webp",
+    "episode": "11",
+    "date": "12 مارس, 2026",
+    "date_sort": "2026-03-12"
+  },
+  {
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "23 نوفمبر, 2025",
     "date_sort": "2025-11-23"
-  },
-  {
-    "anime_id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
-    "anime_title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
-    "anime_poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
-    "episode": "1",
-    "date": "15 نوفمبر, 2025",
-    "date_sort": "2025-11-15"
   }
 ]
