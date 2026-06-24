@@ -248,6 +248,14 @@
     "date_sort": "2026-02-13"
   },
   {
+    "anime_id": "tensei-shitara-dragon-no-tamago-datta",
+    "anime_title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
+    "anime_poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
+    "episode": "3",
+    "date": "28 يناير, 2026",
+    "date_sort": "2026-01-28"
+  },
+  {
     "anime_id": "xian-wang-de-richang-shenghuo-5",
     "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
     "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
@@ -336,6 +344,14 @@
     "date_sort": "2025-02-23"
   },
   {
+    "anime_id": "ji-yao-lu-qicheng-pian",
+    "anime_title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
+    "anime_poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
+    "episode": "12",
+    "date": "14 نوفمبر, 2024",
+    "date_sort": "2024-11-14"
+  },
+  {
     "anime_id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
     "anime_title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
     "anime_poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
@@ -382,21 +398,5 @@
     "episode": "8",
     "date": "01 أغسطس, 2023",
     "date_sort": "2023-08-01"
-  },
-  {
-    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
-    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
-    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
-    "episode": "7",
-    "date": "01 أغسطس, 2023",
-    "date_sort": "2023-08-01"
-  },
-  {
-    "anime_id": "dr-stone-new-world",
-    "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
-    "anime_poster": "data/posters/dr-stone-new-world.webp",
-    "episode": "9",
-    "date": "01 يونيو, 2023",
-    "date_sort": "2023-06-01"
   }
 ]
