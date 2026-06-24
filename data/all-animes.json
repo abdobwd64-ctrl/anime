@@ -1,5 +1,22 @@
 [
   {
+    "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
+    "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
+    "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2008"
+  },
+  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
