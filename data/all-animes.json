@@ -85,6 +85,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
+    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
+    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -191,6 +204,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "boku-no-hero-academia-the-movie-4-you-re-next",
+    "title": "انمي Boku no Hero Academia the Movie 4: You're Next مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-the-movie-4-you-re-next.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2024"
   },
   {
     "id": "ousama-ranking",

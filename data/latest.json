@@ -256,6 +256,14 @@
     "date_sort": "2025-11-23"
   },
   {
+    "anime_id": "kun-tun-tianxia-zhi-zhang-men-guilai",
+    "anime_title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
+    "anime_poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
+    "episode": "12",
+    "date": "12 يوليو, 2025",
+    "date_sort": "2025-07-12"
+  },
+  {
     "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
     "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -270,6 +278,14 @@
     "episode": "8",
     "date": "02 مارس, 2025",
     "date_sort": "2025-03-02"
+  },
+  {
+    "anime_id": "boku-no-hero-academia-the-movie-4-you-re-next",
+    "anime_title": "انمي Boku no Hero Academia the Movie 4: You're Next مترجم اون لاين",
+    "anime_poster": "data/posters/boku-no-hero-academia-the-movie-4-you-re-next.webp",
+    "episode": "1",
+    "date": "25 فبراير, 2025",
+    "date_sort": "2025-02-25"
   },
   {
     "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -382,21 +398,5 @@
     "episode": "13",
     "date": "28 يونيو, 2021",
     "date_sort": "2021-06-28"
-  },
-  {
-    "anime_id": "golden-time",
-    "anime_title": "انمي Golden Time مترجم اون لاين",
-    "anime_poster": "data/posters/golden-time.webp",
-    "episode": "9",
-    "date": "31 مارس, 2021",
-    "date_sort": "2021-03-31"
-  },
-  {
-    "anime_id": "golden-time",
-    "anime_title": "انمي Golden Time مترجم اون لاين",
-    "anime_poster": "data/posters/golden-time.webp",
-    "episode": "8",
-    "date": "31 مارس, 2021",
-    "date_sort": "2021-03-31"
   }
 ]
