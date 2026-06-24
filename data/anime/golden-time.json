@@ -779,7 +779,58 @@
           "url": "https://www.mediafire.com/file/pvu00j1m57njpts/%5BWitanime.com%5D_GT_EP_10_BD-FHD.mp4/file"
         }
       ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Golden Time",
+      "date": "31 مارس, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2443962813003"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1aoZaOCBRYCDNcXsRvBpQcjo-O_bEildX/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/dsd5NFQrea"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/iahhv5zjl4e0"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/ig4R1S4a#SzD3c62Yg9F8LWI0qsiRidsWBGaQ-jCft-BCGIsgQ9w"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1aoZaOCBRYCDNcXsRvBpQcjo-O_bEildX&export=download"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/s/fdsd5NFQrea"
+        },
+        {
+          "server": "mediafire",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mediafire.com/file/uden5ganug6pfxk/%5BWitanime.com%5D_GT_EP_09_BD-FHD.mp4/file"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:24:46.316066"
+  "last_updated": "2026-06-24T21:24:52.981476"
 }
