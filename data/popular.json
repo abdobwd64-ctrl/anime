@@ -314,6 +314,21 @@
     "score": 15
   },
   {
+    "id": "nana",
+    "title": "انمي Nana مترجم اون لاين",
+    "poster": "data/posters/nana.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "ربيع 2006",
+    "score": 15
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -425,21 +440,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023",
-    "score": 14
-  },
-  {
-    "id": "nana",
-    "title": "انمي Nana مترجم اون لاين",
-    "poster": "data/posters/nana.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "ربيع 2006",
     "score": 14
   },
   {
