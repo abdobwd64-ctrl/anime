@@ -1,5 +1,23 @@
 [
   {
+    "id": "val-x-love",
+    "title": "انمي Val x Love مترجم اون لاين",
+    "poster": "data/posters/val-x-love.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
