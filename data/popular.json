@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 334
+    "score": 335
   },
   {
     "id": "naruto",
@@ -432,6 +432,23 @@
     "score": 28
   },
   {
+    "id": "beyblade-burst",
+    "title": "انمي Beyblade Burst مترجم اون لاين",
+    "poster": "data/posters/beyblade-burst.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2016",
+    "score": 28
+  },
+  {
     "id": "amagami-san-chi-no-enmusubi",
     "title": "انمي Amagami-san Chi no Enmusubi مترجم اون لاين",
     "poster": "data/posters/amagami-san-chi-no-enmusubi.webp",
@@ -476,21 +493,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2025",
-    "score": 27
-  },
-  {
-    "id": "hinomaruzumou",
-    "title": "انمي Hinomaruzumou مترجم اون لاين",
-    "poster": "data/posters/hinomaruzumou.webp",
-    "genres": [
-      "شونين",
-      "فنون قتالية",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
     "score": 27
   }
 ]
