@@ -1,0 +1,96 @@
+{
+  "id": "ouran-koukou-host-club",
+  "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+  "url": "https://animelek.top/anime/ouran-koukou-host-club/",
+  "poster": "data/posters/ouran-koukou-host-club.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "26",
+  "start_date": "2006",
+  "season": "ربيع 2006",
+  "genres": [
+    "رومانسي",
+    "كوميدي"
+  ],
+  "story": "قصة انمي Ouran Koukou Host Club حول هاروهي فوجيوكا فتاة مجتهدة التحقت حديثًا بأكاديمية أوران المرموقة. وبينما تبحث عن مكان هادئ للدراسة، تدخل بالصدفة غرفة موسيقى مهجورة، لتجد نفسها أمام نادي الضيافة الشهير، حيث يقوم مجموعة من الفتيان الوسيمين بالترفيه عن طالبات المدرسة. لكن الأمور تنقلب حين يتسبب تاماكي سوؤو، رئيس النادي ومؤسسه، في إخافتها دون قصد، فتُسقط مزهرية ثمينة وتكسرها. وبما أن تعويض ثمنها ليس أمرًا سهلًا، يقترح أعضاء النادي حلًا غريبًا: أن تعمل هاروهي معهم لتسديد دينها. وبسبب مظهرها، يظن الجميع أنها فتى، فتجد نفسها مضطرة للقيام بدور مضيف داخل النادي، والتعامل مع الطالبات، بينما تحاول التكيف مع شخصيات أعضاء النادي الغريبة والمبالغ فيها.",
+  "episodes": [
+    {
+      "number": "17",
+      "title": "الحلقة 17Ouran Koukou Host Club",
+      "date": "24 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/sXYPcTwkWUXAT"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-tx3n8xg2fpgi.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/jdcyxrvsdoyl"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/2opti8vddxjj"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-i5g2ttnk4r68.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/sXYPcTwkWUXAT"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/sXYPcTwkWUXAT"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/i5g2ttnk4r68"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/jdcyxrvsdoyl"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/6sm0e3kebtar"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/OgOWzs"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/2opti8vddxjj"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/tx3n8xg2fpgi"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-24T03:09:49.094139"
+}

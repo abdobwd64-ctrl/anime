@@ -440,6 +440,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "ouran-koukou-host-club",
+    "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "poster": "data/posters/ouran-koukou-host-club.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2006"
+  },
+  {
     "id": "boku-no-hero-academia-the-movie-4-you-re-next",
     "title": "انمي Boku no Hero Academia the Movie 4: You're Next مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-the-movie-4-you-re-next.webp",

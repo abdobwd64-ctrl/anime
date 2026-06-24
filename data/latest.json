@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "ouran-koukou-host-club",
+    "anime_title": "انمي Ouran Koukou Host Club مترجم اون لاين",
+    "anime_poster": "data/posters/ouran-koukou-host-club.webp",
+    "episode": "17",
+    "date": "24 يونيو, 2026",
+    "date_sort": "2026-06-24"
+  },
+  {
     "anime_id": "nana",
     "anime_title": "انمي Nana مترجم اون لاين",
     "anime_poster": "data/posters/nana.webp",
@@ -387,14 +395,6 @@
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
-    "episode": "7",
-    "date": "12 فبراير, 2026",
-    "date_sort": "2026-02-12"
-  },
-  {
-    "anime_id": "champignon-no-majo",
-    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
-    "anime_poster": "data/posters/champignon-no-majo.webp",
     "episode": "7",
     "date": "12 فبراير, 2026",
     "date_sort": "2026-02-12"
