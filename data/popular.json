@@ -422,21 +422,6 @@
     "score": 12
   },
   {
-    "id": "kuroneko-to-majo-no-kyoushitsu",
-    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
-    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 11
-  },
-  {
     "id": "kanojo-okarishimasu-5th-season",
     "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
@@ -444,6 +429,21 @@
       "شونين",
       "رومانسي",
       "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 12
+  },
+  {
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
