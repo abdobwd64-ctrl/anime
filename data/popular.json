@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 92
+    "score": 93
   },
   {
     "id": "cowboy-bebop",
@@ -301,7 +301,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 9
+    "score": 10
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -336,6 +336,23 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
+    "score": 6
+  },
+  {
+    "id": "dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi",
+    "title": "انمي Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 1992",
     "score": 6
   },
   {
@@ -442,20 +459,6 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "ربيع 2026",
-    "score": 3
-  },
-  {
-    "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
-    "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
-    "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
-    "genres": [
-      "خيال علمي",
-      "اثارة"
-    ],
-    "status": "مكتمل",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "خريف 2015",
     "score": 3
   }
 ]
