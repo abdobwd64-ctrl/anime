@@ -192,6 +192,22 @@
     "score": 9
   },
   {
+    "id": "xian-wang-de-richang-shenghuo-5",
+    "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
+    "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2025",
+    "score": 6
+  },
+  {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
     "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
@@ -208,22 +224,6 @@
     "score": 5
   },
   {
-    "id": "xian-wang-de-richang-shenghuo-5",
-    "title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
-    "poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "خريف 2025",
-    "score": 5
-  },
-  {
     "id": "kami-no-niwatsuki-kusunoki-tei",
     "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
     "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
@@ -236,6 +236,20 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 4
+  },
+  {
+    "id": "isekai-suicide-squad",
+    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "poster": "data/posters/isekai-suicide-squad.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2024",
+    "score": 3
   },
   {
     "id": "let-s-all-love-lain",

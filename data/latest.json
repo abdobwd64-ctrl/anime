@@ -216,6 +216,14 @@
     "date_sort": "2026-02-24"
   },
   {
+    "anime_id": "xian-wang-de-richang-shenghuo-5",
+    "anime_title": "انمي Xian Wang de Richang Shenghuo 5 مترجم اون لاين",
+    "anime_poster": "data/posters/xian-wang-de-richang-shenghuo-5.webp",
+    "episode": "11",
+    "date": "15 فبراير, 2026",
+    "date_sort": "2026-02-15"
+  },
+  {
     "anime_id": "meitantei-conan-movie-28-sekigan-no-flashback",
     "anime_title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
     "anime_poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
@@ -254,6 +262,14 @@
     "episode": "7",
     "date": "23 فبراير, 2025",
     "date_sort": "2025-02-23"
+  },
+  {
+    "anime_id": "isekai-suicide-squad",
+    "anime_title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "anime_poster": "data/posters/isekai-suicide-squad.webp",
+    "episode": "10",
+    "date": "15 أغسطس, 2024",
+    "date_sort": "2024-08-15"
   },
   {
     "anime_id": "dr-stone-new-world",

@@ -69,6 +69,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "isekai-suicide-squad",
+    "title": "انمي Isekai Suicide Squad مترجم اون لاين",
+    "poster": "data/posters/isekai-suicide-squad.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2024"
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
