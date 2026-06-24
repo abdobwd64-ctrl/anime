@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 20
+    "score": 22
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -124,6 +124,22 @@
     "score": 6
   },
   {
+    "id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
+    "title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 1991",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -198,5 +214,18 @@
     "episodes_count": "1",
     "season": "خريف 2023",
     "score": 3
+  },
+  {
+    "id": "free-movie-1-timeless-medley-kizuna",
+    "title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
+    "poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2017",
+    "score": 2
   }
 ]

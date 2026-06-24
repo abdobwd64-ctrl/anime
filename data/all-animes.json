@@ -29,6 +29,33 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
+    "title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 1991"
+  },
+  {
+    "id": "free-movie-1-timeless-medley-kizuna",
+    "title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
+    "poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2017"
+  },
+  {
     "id": "diamond-no-ace-act-ii-second-season",
     "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
     "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",

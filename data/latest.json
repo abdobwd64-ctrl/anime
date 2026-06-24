@@ -168,6 +168,14 @@
     "date_sort": "2024-08-05"
   },
   {
+    "anime_id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
+    "anime_title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
+    "anime_poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
+    "episode": "1",
+    "date": "09 أبريل, 2024",
+    "date_sort": "2024-04-09"
+  },
+  {
     "anime_id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "anime_title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "anime_poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -182,6 +190,14 @@
     "episode": "1",
     "date": "23 يونيو, 2023",
     "date_sort": "2023-06-23"
+  },
+  {
+    "anime_id": "free-movie-1-timeless-medley-kizuna",
+    "anime_title": "انمي Free! Movie 1: Timeless Medley - Kizuna مترجم اون لاين",
+    "anime_poster": "data/posters/free-movie-1-timeless-medley-kizuna.webp",
+    "episode": "1",
+    "date": "04 يناير, 2023",
+    "date_sort": "2023-01-04"
   },
   {
     "anime_id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
