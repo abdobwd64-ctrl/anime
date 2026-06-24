@@ -2354,6 +2354,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "high-card-season-2",
+    "title": "انمي High Card Season 2 مترجم اون لاين",
+    "poster": "data/posters/high-card-season-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "ouran-koukou-host-club",
     "title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "poster": "data/posters/ouran-koukou-host-club.webp",
