@@ -1281,6 +1281,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "takopii-no-genzai",
+    "title": "انمي Takopii no Genzai مترجم اون لاين",
+    "poster": "data/posters/takopii-no-genzai.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "نفسي"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "صيف 2025"
+  },
+  {
     "id": "one-punch-man-road-to-hero",
     "title": "انمي One Punch Man: Road to Hero مترجم اون لاين",
     "poster": "data/posters/one-punch-man-road-to-hero.webp",
