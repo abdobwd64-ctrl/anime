@@ -99,7 +99,7 @@
     "anime_id": "hajime-no-ippo-new-challenger",
     "anime_title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "anime_poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "episode": "26",
+    "episode": "7",
     "date": "23 مايو, 2026",
     "date_sort": "2026-05-23"
   },
@@ -147,6 +147,14 @@
     "anime_id": "bakemonogatari",
     "anime_title": "انمي Bakemonogatari مترجم اون لاين",
     "anime_poster": "data/posters/bakemonogatari.webp",
+    "episode": "9",
+    "date": "23 أبريل, 2026",
+    "date_sort": "2026-04-23"
+  },
+  {
+    "anime_id": "bakemonogatari",
+    "anime_title": "انمي Bakemonogatari مترجم اون لاين",
+    "anime_poster": "data/posters/bakemonogatari.webp",
     "episode": "15",
     "date": "23 أبريل, 2026",
     "date_sort": "2026-04-23"
@@ -156,14 +164,6 @@
     "anime_title": "انمي Bakemonogatari مترجم اون لاين",
     "anime_poster": "data/posters/bakemonogatari.webp",
     "episode": "14",
-    "date": "23 أبريل, 2026",
-    "date_sort": "2026-04-23"
-  },
-  {
-    "anime_id": "bakemonogatari",
-    "anime_title": "انمي Bakemonogatari مترجم اون لاين",
-    "anime_poster": "data/posters/bakemonogatari.webp",
-    "episode": "13",
     "date": "23 أبريل, 2026",
     "date_sort": "2026-04-23"
   },

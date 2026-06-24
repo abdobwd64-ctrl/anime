@@ -39,7 +39,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 21
+    "score": 22
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -145,22 +145,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 12
-  },
-  {
-    "id": "sd-gundam-world-sangoku-souketsuden",
-    "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
-    "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
-    "genres": [
-      "أكشن",
-      "ميكا",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2019",
-    "score": 10
+    "score": 13
   },
   {
     "id": "bakemonogatari",
@@ -176,6 +161,21 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
+    "score": 11
+  },
+  {
+    "id": "sd-gundam-world-sangoku-souketsuden",
+    "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
+    "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "genres": [
+      "أكشن",
+      "ميكا",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2019",
     "score": 10
   },
   {
