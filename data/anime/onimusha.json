@@ -120,7 +120,66 @@
           "url": "https://mega.nz/#!h5hgBLAI!sn-YKur0CGSebutGB5mUnN1M9zgt3WwFa0UhWfdx8hQ"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الأونا 6Onimusha",
+      "date": "02 نوفمبر, 2023",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/PZEn4QspEO0dm"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/PZEn4QspEO0dm"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/PZEn4QspEO0dm"
+        },
+        {
+          "name": "vidblue online | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-6qy64lw01ykw.html"
+        },
+        {
+          "name": "uqload io | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-c5853sn46l3x.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vx92r5tohaby.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ikm1.vadbam.net/embed-ebsye1ltvj2d.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/gtZHRYBJ!R79X2OYprBM4lpDMXKNJCBO8pUaBDYVAzN8fCSOOlfA"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/78x9nmvitmka"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vx92r5tohaby"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!gtZHRYBJ!R79X2OYprBM4lpDMXKNJCBO8pUaBDYVAzN8fCSOOlfA"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:18:14.207268"
+  "last_updated": "2026-06-24T23:18:20.996886"
 }
