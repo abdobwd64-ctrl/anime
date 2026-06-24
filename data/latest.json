@@ -16,14 +16,6 @@
     "date_sort": "2026-06-24"
   },
   {
-    "anime_id": "aishiteru-game-wo-owarasetai",
-    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "episode": "11",
-    "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
-  },
-  {
     "anime_id": "ouran-koukou-host-club",
     "anime_title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
@@ -198,6 +190,14 @@
     "episode": "9",
     "date": "28 مايو, 2026",
     "date_sort": "2026-05-28"
+  },
+  {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "episode": "7",
+    "date": "26 مايو, 2026",
+    "date_sort": "2026-05-26"
   },
   {
     "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
