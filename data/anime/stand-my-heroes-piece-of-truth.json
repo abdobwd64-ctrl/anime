@@ -79,7 +79,72 @@
           "url": "https://www.solidfiles.com/v/jXLRaP3ex4q32"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Stand My Heroes: Piece of Truth",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1274949798618"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1j_V0eqrKhaLB2PYdE1OvTofyG8cWF74G/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/d8L2pBDKrYyYy"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!JJBwgQAR!pHGJpUHAr2E9Zy0vKqnJth_hk7HfiAOuQtMMTeAdFyU"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/lisrohthy2i1"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1j_V0eqrKhaLB2PYdE1OvTofyG8cWF74G&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!JJBwgQAR!pHGJpUHAr2E9Zy0vKqnJth_hk7HfiAOuQtMMTeAdFyU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/h0dxrgvc0s5q"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/lisrohthy2i1"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/6uht8ubt8u4w"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/d8L2pBDKrYyYy"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T22:31:26.254079"
+  "last_updated": "2026-06-24T22:31:34.448906"
 }
