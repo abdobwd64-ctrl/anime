@@ -136,6 +136,23 @@
     "score": 14
   },
   {
+    "id": "mars-red",
+    "title": "انمي Mars Red مترجم اون لاين",
+    "poster": "data/posters/mars-red.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021",
+    "score": 14
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -194,20 +211,18 @@
     "score": 14
   },
   {
-    "id": "mars-red",
-    "title": "انمي Mars Red مترجم اون لاين",
-    "poster": "data/posters/mars-red.webp",
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
     "genres": [
-      "أكشن",
-      "حربي",
-      "قوى خارقة",
-      "تاريخي",
-      "مصاصي دماء"
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2021",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
     "score": 13
   },
   {
@@ -222,21 +237,6 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "صيف 2024",
-    "score": 12
-  },
-  {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
     "score": 12
   },
   {
@@ -266,7 +266,7 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 9
+    "score": 10
   },
   {
     "id": "fangkai-nage-nuwu",
