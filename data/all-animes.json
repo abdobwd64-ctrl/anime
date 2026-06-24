@@ -3964,6 +3964,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "dota-dragon-s-blood",
+    "title": "انمي DOTA: Dragon’s Blood مترجم اون لاين",
+    "poster": "data/posters/dota-dragon-s-blood.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "8",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "tesla-note",
     "title": "انمي Tesla Note مترجم اون لاين",
     "poster": "data/posters/tesla-note.webp",
