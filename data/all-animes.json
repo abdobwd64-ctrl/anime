@@ -3647,6 +3647,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "dragon-ie-wo-kau",
+    "title": "انمي Dragon, Ie wo Kau. مترجم اون لاين",
+    "poster": "data/posters/dragon-ie-wo-kau.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "senryuu-shoujo",
     "title": "انمي Senryuu Shoujo مترجم اون لاين",
     "poster": "data/posters/senryuu-shoujo.webp",
