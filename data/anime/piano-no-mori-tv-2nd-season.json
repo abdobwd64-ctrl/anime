@@ -146,7 +146,137 @@
           "url": "https://www.file-up.org/8m1v27ts3uyn"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Piano no Mori (TV) 2nd Season",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1067855186650"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1GOYBQfE61i5fr1zPCawrahRr3IMrE4AC/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/QnwEIEG0fi"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!zXxWGYwB!Z_6TAfa01MF1jRugzl1O_mtwrR4jaWhZ2CDVuohpbqA"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/hgk8xnmch93q"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1GOYBQfE61i5fr1zPCawrahRr3IMrE4AC&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!zXxWGYwB!Z_6TAfa01MF1jRugzl1O_mtwrR4jaWhZ2CDVuohpbqA"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4nl0doi96gq7"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/UVqGleHSawQ/%5BAnime4up.com%5D_PNMT2S_EP_10_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/hgk8xnmch93q"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/sn72npu8ynjn"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Piano no Mori (TV) 2nd Season",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1067851844314"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1qxspxG5fxPF-cc0eK99_qyC1nvPGO5PD/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/EyKP7tZkda"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Gfx0AIyL!axn7BH6Q2OEMtU4YGz-UKPm2M8NOL72VAdVDdg7o_gQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/b12xqo5wmqia"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1qxspxG5fxPF-cc0eK99_qyC1nvPGO5PD&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Gfx0AIyL!axn7BH6Q2OEMtU4YGz-UKPm2M8NOL72VAdVDdg7o_gQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tgxsbstw7gdc"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/TZx9gTeoYmU/%5BAnime4up.com%5D_PNMT2S_EP_09_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/b12xqo5wmqia"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/tiu0k45hpn19"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:25:15.132662"
+  "last_updated": "2026-06-24T23:25:28.490695"
 }
