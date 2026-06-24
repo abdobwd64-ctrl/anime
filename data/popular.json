@@ -264,6 +264,22 @@
     "score": 15
   },
   {
+    "id": "mao",
+    "title": "انمي Mao مترجم اون لاين",
+    "poster": "data/posters/mao.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
@@ -297,22 +313,6 @@
     "genres": [
       "أكشن",
       "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "mao",
-    "title": "انمي Mao مترجم اون لاين",
-    "poster": "data/posters/mao.webp",
-    "genres": [
-      "غموض",
-      "شونين",
-      "قوى خارقة",
-      "تاريخي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
