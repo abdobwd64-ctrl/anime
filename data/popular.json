@@ -376,6 +376,20 @@
     "score": 12
   },
   {
+    "id": "marriagetoxin",
+    "title": "انمي Marriagetoxin مترجم اون لاين",
+    "poster": "data/posters/marriagetoxin.webp",
+    "genres": [
+      "أكشن",
+      "شونين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 12
+  },
+  {
     "id": "bakemonogatari",
     "title": "انمي Bakemonogatari مترجم اون لاين",
     "poster": "data/posters/bakemonogatari.webp",
@@ -399,20 +413,6 @@
       "فنتازيا",
       "كوميدي",
       "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 11
-  },
-  {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
-    "genres": [
-      "أكشن",
-      "شونين"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
