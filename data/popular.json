@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 126
+    "score": 128
   },
   {
     "id": "cowboy-bebop",
@@ -75,7 +75,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 21
+    "score": 22
   },
   {
     "id": "dragon-raja-long-zu",
@@ -126,6 +126,20 @@
     "score": 17
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 17
+  },
+  {
     "id": "world-trigger-3rd-season",
     "title": "انمي World Trigger 3rd Season مترجم اون لاين",
     "poster": "data/posters/world-trigger-3rd-season.webp",
@@ -171,20 +185,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026",
-    "score": 16
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
     "score": 16
   },
   {
