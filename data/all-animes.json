@@ -378,6 +378,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "city-the-animation",
+    "title": "انمي City The Animation مترجم اون لاين",
+    "poster": "data/posters/city-the-animation.webp",
+    "genres": [
+      "كوميدي",
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2025"
+  },
+  {
     "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv",
     "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) مترجم اون لاين",
     "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv.webp",
@@ -4863,6 +4877,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "onimusha",
+    "title": "انمي Onimusha مترجم اون لاين",
+    "poster": "data/posters/onimusha.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "خريف 2023"
   },
   {
     "id": "youjo-senki-sabaku-no-pasta-daisakusen",
