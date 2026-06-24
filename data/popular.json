@@ -26,7 +26,7 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2026",
-    "score": 24
+    "score": 26
   },
   {
     "id": "naruto-shippuuden",
@@ -44,7 +44,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 18
+    "score": 19
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -77,6 +77,21 @@
     "score": 15
   },
   {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 14
+  },
+  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -90,21 +105,6 @@
     "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
-  },
-  {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 13
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
