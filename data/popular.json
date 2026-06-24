@@ -128,24 +128,6 @@
     "score": 37
   },
   {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
-    "score": 32
-  },
-  {
     "id": "fullmetal-alchemist-brotherhood",
     "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
     "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
@@ -163,7 +145,25 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
-    "score": 31
+    "score": 32
+  },
+  {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 32
   },
   {
     "id": "haikyuu",
