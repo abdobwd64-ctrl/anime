@@ -152,6 +152,14 @@
     "date_sort": "2026-06-17"
   },
   {
+    "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+    "anime_title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
+    "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
+    "episode": "11",
+    "date": "16 يونيو, 2026",
+    "date_sort": "2026-06-16"
+  },
+  {
     "anime_id": "replica-datte-koi-wo-suru",
     "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
     "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
@@ -390,13 +398,5 @@
     "episode": "8",
     "date": "31 مايو, 2026",
     "date_sort": "2026-05-31"
-  },
-  {
-    "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-    "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
-    "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
-    "episode": "9",
-    "date": "29 مايو, 2026",
-    "date_sort": "2026-05-29"
   }
 ]
