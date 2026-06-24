@@ -104,6 +104,24 @@
     "score": 20
   },
   {
+    "id": "naruto",
+    "title": "انمي Naruto مترجم اون لاين",
+    "poster": "data/posters/naruto.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "220",
+    "season": "خريف 2002",
+    "score": 19
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
@@ -136,24 +154,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 18
-  },
-  {
-    "id": "naruto",
-    "title": "انمي Naruto مترجم اون لاين",
-    "poster": "data/posters/naruto.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "220",
-    "season": "خريف 2002",
     "score": 18
   },
   {
@@ -388,6 +388,22 @@
     "score": 15
   },
   {
+    "id": "otaku-ni-yasashii-gal-wa-inai",
+    "title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
+    "poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
     "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
     "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
@@ -442,19 +458,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "mf-ghost-3rd-season",
-    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
-    "poster": "data/posters/mf-ghost-3rd-season.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "شتاء 2026",
     "score": 14
   }
 ]
