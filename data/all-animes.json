@@ -1266,6 +1266,23 @@
     "season": "خريف 2022"
   },
   {
+    "id": "one-punch-man-2nd-season-specials",
+    "title": "انمي One Punch Man 2nd Season Specials مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-2nd-season-specials.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "خيال علمي",
+      "محاكاة ساخرة",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "6",
+    "season": "خريف 2019"
+  },
+  {
     "id": "potion-wagami-wo-tasukeru",
     "title": "انمي Potion, Wagami wo Tasukeru مترجم اون لاين",
     "poster": "data/posters/potion-wagami-wo-tasukeru.webp",
