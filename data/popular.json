@@ -48,22 +48,6 @@
     "score": 52
   },
   {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
-    "score": 51
-  },
-  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -78,7 +62,23 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2020",
-    "score": 49
+    "score": 51
+  },
+  {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 51
   },
   {
     "id": "great-teacher-onizuka",
