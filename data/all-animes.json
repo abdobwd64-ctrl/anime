@@ -545,6 +545,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "farmagia",
+    "title": "انمي Farmagia مترجم اون لاين",
+    "poster": "data/posters/farmagia.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
     "title": "انمي Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu. مترجم اون لاين",
     "poster": "data/posters/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu.webp",
