@@ -412,6 +412,19 @@
     "score": 8
   },
   {
+    "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+    "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
+    "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 7
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
@@ -426,19 +439,6 @@
     "episodes_count": "15",
     "season": "صيف 2023",
     "score": 7
-  },
-  {
-    "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-    "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
-    "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 6
   },
   {
     "id": "meikyuu-black-company",
