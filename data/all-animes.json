@@ -119,6 +119,22 @@
     "season": "صيف 2019"
   },
   {
+    "id": "dragon-ball-z-movie-07-kyokugen-battle-sandai-super-saiyajin",
+    "title": "انمي Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-07-kyokugen-battle-sandai-super-saiyajin.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1992"
+  },
+  {
     "id": "hajime-no-ippo-new-challenger",
     "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
