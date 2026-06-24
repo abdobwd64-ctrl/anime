@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 354
+    "score": 355
   },
   {
     "id": "naruto",
@@ -171,21 +171,6 @@
     "score": 51
   },
   {
-    "id": "great-teacher-onizuka",
-    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
-    "poster": "data/posters/great-teacher-onizuka.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "صيف 1999",
-    "score": 46
-  },
-  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -200,6 +185,21 @@
     "type": "تلفزيون",
     "episodes_count": "51",
     "season": "ربيع 2016",
+    "score": 47
+  },
+  {
+    "id": "great-teacher-onizuka",
+    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
+    "poster": "data/posters/great-teacher-onizuka.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "صيف 1999",
     "score": 46
   },
   {

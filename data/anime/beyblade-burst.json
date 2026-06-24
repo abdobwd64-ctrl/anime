@@ -596,7 +596,30 @@
           "url": "https://www.mp4upload.com/v54ilqema4rw"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Beyblade Burst",
+      "date": "06 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1268523797242"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-wvn5zlxe8ttz.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wvn5zlxe8ttz"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T22:13:34.208825"
+  "last_updated": "2026-06-24T22:13:41.158634"
 }
