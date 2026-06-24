@@ -603,7 +603,117 @@
           "url": "https://www.solidfiles.com/v/KpjvK5dZxZR6W"
         }
       ]
+    },
+    {
+      "number": "13",
+      "title": "الحلقة 13Kill la Kill",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/5aL2zxBLZBeNw"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/X8A0438kfi"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!NGxjQKQQ!NWlRcNT-4_XB5pVgDuq30av1ilWqhZJDfzbgxMrt6xk"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/rna0hbbu7sh9"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!NGxjQKQQ!NWlRcNT-4_XB5pVgDuq30av1ilWqhZJDfzbgxMrt6xk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/n8fufzubyyib"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ipA4HSiaSQQ/%5BAnime4up.com%5D_KLK_EP_13_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/rna0hbbu7sh9"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/5aL2zxBLZBeNw"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "title": "الحلقة 12Kill la Kill",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/PAdrzLdkBrBDq"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!xbgwBSiB!BT0ej7m3sQ6fh85g6MEVK5BxbApIOtaiQCWfvU9pj2g"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/PsIVkXBFda"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/q3bxtbyebbjl"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!xbgwBSiB!BT0ej7m3sQ6fh85g6MEVK5BxbApIOtaiQCWfvU9pj2g"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/l6enzizrix8g"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/kw0OpJ3NKC0/%5BAnime4up.com%5D_KLK_EP_12_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/q3bxtbyebbjl"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/PAdrzLdkBrBDq"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:14:09.111510"
+  "last_updated": "2026-06-24T23:14:22.402953"
 }
