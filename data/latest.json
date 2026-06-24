@@ -96,6 +96,14 @@
     "date_sort": "2026-06-11"
   },
   {
+    "anime_id": "replica-datte-koi-wo-suru",
+    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "episode": "10",
+    "date": "09 يونيو, 2026",
+    "date_sort": "2026-06-09"
+  },
+  {
     "anime_id": "aishiteru-game-wo-owarasetai",
     "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -390,13 +398,5 @@
     "episode": "9",
     "date": "06 مارس, 2026",
     "date_sort": "2026-03-06"
-  },
-  {
-    "anime_id": "enen-no-shouboutai-san-no-shou-part-2",
-    "anime_title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
-    "anime_poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
-    "episode": "8",
-    "date": "27 فبراير, 2026",
-    "date_sort": "2026-02-27"
   }
 ]
