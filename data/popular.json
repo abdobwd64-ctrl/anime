@@ -428,6 +428,21 @@
     "score": 14
   },
   {
+    "id": "nana",
+    "title": "انمي Nana مترجم اون لاين",
+    "poster": "data/posters/nana.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "ربيع 2006",
+    "score": 14
+  },
+  {
     "id": "ji-yao-lu-qicheng-pian",
     "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
     "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
@@ -441,20 +456,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 13
-  },
-  {
-    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
-    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
-    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
     "score": 13
   }
 ]
