@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 147
+    "score": 148
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 40
+    "score": 41
   },
   {
     "id": "cowboy-bebop",
@@ -397,6 +397,20 @@
     "score": 12
   },
   {
+    "id": "garouden-the-way-of-the-lone-wolf",
+    "title": "انمي Garouden: The Way of the Lone Wolf مترجم اون لاين",
+    "poster": "data/posters/garouden-the-way-of-the-lone-wolf.webp",
+    "genres": [
+      "أكشن",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "ربيع 2024",
+    "score": 7
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
@@ -446,23 +460,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1992",
-    "score": 6
-  },
-  {
-    "id": "dragon-ball-z-movie-03-chikyuu-marugoto-choukessen",
-    "title": "انمي Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen مترجم اون لاين",
-    "poster": "data/posters/dragon-ball-z-movie-03-chikyuu-marugoto-choukessen.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "صيف 1990",
     "score": 6
   }
 ]
