@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 39
+    "score": 41
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -70,6 +70,19 @@
     "episodes_count": "24",
     "season": "صيف 2021",
     "score": 25
+  },
+  {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 19
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
@@ -138,19 +151,6 @@
     "episodes_count": "13",
     "season": "ربيع 2021",
     "score": 18
-  },
-  {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 17
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",

@@ -296,6 +296,14 @@
     "date_sort": "2026-02-26"
   },
   {
+    "anime_id": "champignon-no-majo",
+    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
+    "anime_poster": "data/posters/champignon-no-majo.webp",
+    "episode": "9",
+    "date": "26 فبراير, 2026",
+    "date_sort": "2026-02-26"
+  },
+  {
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "02 ديسمبر, 2025",
     "date_sort": "2025-12-02"
-  },
-  {
-    "anime_id": "one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu",
-    "anime_title": "انمي One Piece Dokuta Choppa No Boken Karute Tensai Ga Nokoshita Rasuto Rekozu مترجم اون لاين",
-    "anime_poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu.webp",
-    "episode": "1",
-    "date": "23 نوفمبر, 2025",
-    "date_sort": "2025-11-23"
   }
 ]
