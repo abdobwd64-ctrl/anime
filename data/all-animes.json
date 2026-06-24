@@ -144,6 +144,20 @@
     "season": "صيف 2020"
   },
   {
+    "id": "chainsaw-man-movie-reze-hen",
+    "title": "انمي Chainsaw Man Movie: Reze-hen مترجم اون لاين",
+    "poster": "data/posters/chainsaw-man-movie-reze-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2025"
+  },
+  {
     "id": "ao-no-exorcist-yosuga-hen",
     "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
