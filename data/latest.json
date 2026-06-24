@@ -19,14 +19,6 @@
     "anime_id": "kujima-utaeba-ie-hororo",
     "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "episode": "10",
-    "date": "11 يونيو, 2026",
-    "date_sort": "2026-06-11"
-  },
-  {
-    "anime_id": "kujima-utaeba-ie-hororo",
-    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
     "episode": "9",
     "date": "04 يونيو, 2026",
     "date_sort": "2026-06-04"
@@ -38,6 +30,14 @@
     "episode": "9",
     "date": "31 مايو, 2026",
     "date_sort": "2026-05-31"
+  },
+  {
+    "anime_id": "kujima-utaeba-ie-hororo",
+    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
+    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
+    "episode": "8",
+    "date": "28 مايو, 2026",
+    "date_sort": "2026-05-28"
   },
   {
     "anime_id": "diamond-no-ace-act-ii-second-season",
