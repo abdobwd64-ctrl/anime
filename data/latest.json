@@ -312,6 +312,14 @@
     "date_sort": "2025-02-23"
   },
   {
+    "anime_id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
+    "anime_title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
+    "anime_poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
+    "episode": "1",
+    "date": "30 سبتمبر, 2024",
+    "date_sort": "2024-09-30"
+  },
+  {
     "anime_id": "isekai-suicide-squad",
     "anime_title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "anime_poster": "data/posters/isekai-suicide-squad.webp",
@@ -334,6 +342,22 @@
     "episode": "7",
     "date": "25 يوليو, 2024",
     "date_sort": "2024-07-25"
+  },
+  {
+    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "episode": "15",
+    "date": "01 أغسطس, 2023",
+    "date_sort": "2023-08-01"
+  },
+  {
+    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "episode": "14",
+    "date": "01 أغسطس, 2023",
+    "date_sort": "2023-08-01"
   },
   {
     "anime_id": "dr-stone-new-world",
@@ -374,29 +398,5 @@
     "episode": "9",
     "date": "09 ديسمبر, 2021",
     "date_sort": "2021-12-09"
-  },
-  {
-    "anime_id": "ousama-ranking",
-    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
-    "anime_poster": "data/posters/ousama-ranking.webp",
-    "episode": "8",
-    "date": "02 ديسمبر, 2021",
-    "date_sort": "2021-12-02"
-  },
-  {
-    "anime_id": "ousama-ranking",
-    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
-    "anime_poster": "data/posters/ousama-ranking.webp",
-    "episode": "7",
-    "date": "25 نوفمبر, 2021",
-    "date_sort": "2021-11-25"
-  },
-  {
-    "anime_id": "meikyuu-black-company",
-    "anime_title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "anime_poster": "data/posters/meikyuu-black-company.webp",
-    "episode": "9",
-    "date": "04 سبتمبر, 2021",
-    "date_sort": "2021-09-04"
   }
 ]

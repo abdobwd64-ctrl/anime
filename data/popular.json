@@ -90,23 +90,6 @@
     "score": 18
   },
   {
-    "id": "sentai-red-isekai-de-boukensha-ni-naru",
-    "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
-    "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 17
-  },
-  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -123,7 +106,24 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 16
+    "score": 17
+  },
+  {
+    "id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
+    "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 17
   },
   {
     "id": "xian-wang-de-richang-shenghuo-5",
@@ -184,6 +184,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 14
+  },
+  {
+    "id": "meikyuu-black-company",
+    "title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "poster": "data/posters/meikyuu-black-company.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021",
     "score": 14
   },
   {
@@ -259,20 +273,6 @@
     "score": 13
   },
   {
-    "id": "meikyuu-black-company",
-    "title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "poster": "data/posters/meikyuu-black-company.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2021",
-    "score": 13
-  },
-  {
     "id": "isekai-suicide-squad",
     "title": "انمي Isekai Suicide Squad مترجم اون لاين",
     "poster": "data/posters/isekai-suicide-squad.webp",
@@ -313,6 +313,41 @@
     "episodes_count": "8",
     "season": "شتاء 2026",
     "score": 9
+  },
+  {
+    "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
+    "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
+    "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2024",
+    "score": 8
+  },
+  {
+    "id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "15",
+    "season": "صيف 2023",
+    "score": 6
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
