@@ -2535,6 +2535,19 @@
     "season": "شتاء 2016"
   },
   {
+    "id": "super-no-ura-de-yani-suu-futari",
+    "title": "انمي Super no Ura de Yani Suu Futari مترجم اون لاين",
+    "poster": "data/posters/super-no-ura-de-yani-suu-futari.webp",
+    "genres": [
+      "رومانسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2026"
+  },
+  {
     "id": "dragon-s-dogma",
     "title": "انمي Dragon's Dogma مترجم اون لاين",
     "poster": "data/posters/dragon-s-dogma.webp",
