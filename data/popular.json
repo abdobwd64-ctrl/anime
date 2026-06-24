@@ -214,6 +214,23 @@
     "score": 29
   },
   {
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2015",
+    "score": 29
+  },
+  {
     "id": "tokyo-revengers",
     "title": "انمي Tokyo Revengers مترجم اون لاين",
     "poster": "data/posters/tokyo-revengers.webp",
@@ -257,23 +274,6 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 28
-  },
-  {
-    "id": "haikyuu-second-season",
-    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
-    "poster": "data/posters/haikyuu-second-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2015",
     "score": 28
   },
   {

@@ -2800,6 +2800,16 @@
     "season": "خريف 2024"
   },
   {
+    "id": "akiba-maid-sensou",
+    "title": "انمي Akiba Maid Sensou مترجم اون لاين",
+    "poster": "data/posters/akiba-maid-sensou.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "haikyuu-second-season",
     "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
     "poster": "data/posters/haikyuu-second-season.webp",
