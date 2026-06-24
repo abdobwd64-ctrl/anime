@@ -2921,6 +2921,20 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "ssss-dynazenon",
+    "title": "انمي SSSS.Dynazenon مترجم اون لاين",
+    "poster": "data/posters/ssss-dynazenon.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "drifters",
     "title": "انمي Drifters مترجم اون لاين",
     "poster": "data/posters/drifters.webp",
