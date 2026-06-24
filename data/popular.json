@@ -205,7 +205,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023",
-    "score": 9
+    "score": 10
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -259,6 +259,20 @@
     "score": 5
   },
   {
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -289,20 +303,6 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
-  },
-  {
-    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
-    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
