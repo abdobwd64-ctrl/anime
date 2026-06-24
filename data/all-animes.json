@@ -7240,6 +7240,20 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "unnamed-memory",
+    "title": "انمي Unnamed Memory مترجم اون لاين",
+    "poster": "data/posters/unnamed-memory.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita",
     "title": "انمي Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita مترجم اون لاين",
     "poster": "data/posters/isekai-one-turn-kill-neesan-ane-douhan-no-isekai-seikatsu-hajimemashita.webp",
