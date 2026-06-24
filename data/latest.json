@@ -88,6 +88,14 @@
     "date_sort": "2026-05-24"
   },
   {
+    "anime_id": "snowball-earth",
+    "anime_title": "انمي Snowball Earth مترجم اون لاين",
+    "anime_poster": "data/posters/snowball-earth.webp",
+    "episode": "8",
+    "date": "23 مايو, 2026",
+    "date_sort": "2026-05-23"
+  },
+  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "04 يناير, 2023",
     "date_sort": "2023-01-04"
-  },
-  {
-    "anime_id": "blue-thermal",
-    "anime_title": "انمي Blue Thermal مترجم اون لاين",
-    "anime_poster": "data/posters/blue-thermal.webp",
-    "episode": "1",
-    "date": "18 أغسطس, 2022",
-    "date_sort": "2022-08-18"
   }
 ]
