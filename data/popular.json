@@ -269,6 +269,19 @@
     "score": 30
   },
   {
+    "id": "shadowverse-flame",
+    "title": "انمي Shadowverse Flame مترجم اون لاين",
+    "poster": "data/posters/shadowverse-flame.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022",
+    "score": 30
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-3rd-season",
     "title": "انمي Tensei shitara Slime Datta Ken 3rd Season مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-slime-datta-ken-3rd-season.webp",
@@ -352,19 +365,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2018",
-    "score": 29
-  },
-  {
-    "id": "shadowverse-flame",
-    "title": "انمي Shadowverse Flame مترجم اون لاين",
-    "poster": "data/posters/shadowverse-flame.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2022",
     "score": 29
   },
   {
