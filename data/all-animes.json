@@ -87,6 +87,22 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
+    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
