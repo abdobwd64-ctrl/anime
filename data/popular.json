@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 30
+    "score": 32
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -410,6 +410,19 @@
     "score": 12
   },
   {
+    "id": "prism-rondo",
+    "title": "انمي Prism Rondo مترجم اون لاين",
+    "poster": "data/posters/prism-rondo.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "20",
+    "season": "شتاء 2026",
+    "score": 10
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
@@ -425,28 +438,15 @@
     "score": 10
   },
   {
-    "id": "prism-rondo",
-    "title": "انمي Prism Rondo مترجم اون لاين",
-    "poster": "data/posters/prism-rondo.webp",
+    "id": "mf-ghost-3rd-season",
+    "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mf-ghost-3rd-season.webp",
     "genres": [
       "دراما"
     ],
     "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "20",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
+    "type": "تلفزيون",
+    "episodes_count": "13",
     "season": "شتاء 2026",
     "score": 9
   }

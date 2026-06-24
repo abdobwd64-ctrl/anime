@@ -275,14 +275,6 @@
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
-    "episode": "13",
-    "date": "26 مارس, 2026",
-    "date_sort": "2026-03-26"
-  },
-  {
-    "anime_id": "mf-ghost-3rd-season",
-    "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
-    "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
     "episode": "9",
     "date": "26 فبراير, 2026",
     "date_sort": "2026-02-26"
@@ -302,6 +294,14 @@
     "episode": "9",
     "date": "13 فبراير, 2026",
     "date_sort": "2026-02-13"
+  },
+  {
+    "anime_id": "mf-ghost-3rd-season",
+    "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
+    "episode": "7",
+    "date": "12 فبراير, 2026",
+    "date_sort": "2026-02-12"
   },
   {
     "anime_id": "tensei-shitara-dragon-no-tamago-datta",
