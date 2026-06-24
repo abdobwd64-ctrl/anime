@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 109
+    "score": 110
   },
   {
     "id": "hajime-no-ippo",
@@ -46,7 +46,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 49
+    "score": 51
   },
   {
     "id": "nana",
@@ -318,6 +318,23 @@
     "score": 16
   },
   {
+    "id": "boruto-naruto-next-generations",
+    "title": "انمي Boruto: Naruto Next Generations مترجم اون لاين",
+    "poster": "data/posters/boruto-naruto-next-generations.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2017",
+    "score": 16
+  },
+  {
     "id": "liar-game",
     "title": "انمي Liar Game مترجم اون لاين",
     "poster": "data/posters/liar-game.webp",
@@ -451,20 +468,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "hataraku-saibou-black-tv",
-    "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
-    "poster": "data/posters/hataraku-saibou-black-tv.webp",
-    "genres": [
-      "أكشن",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2021",
     "score": 15
   }
 ]
