@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 123
+    "score": 124
   },
   {
     "id": "cowboy-bebop",
@@ -61,20 +61,6 @@
     "score": 26
   },
   {
-    "id": "dragon-raja-long-zu",
-    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "poster": "data/posters/dragon-raja-long-zu.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2024",
-    "score": 19
-  },
-  {
     "id": "black-clover",
     "title": "انمي Black Clover مترجم اون لاين",
     "poster": "data/posters/black-clover.webp",
@@ -89,7 +75,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 18
+    "score": 19
+  },
+  {
+    "id": "dragon-raja-long-zu",
+    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
+    "poster": "data/posters/dragon-raja-long-zu.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "ربيع 2024",
+    "score": 19
   },
   {
     "id": "sword-art-online-alicization-war-of-underworld",
@@ -308,6 +308,20 @@
     "score": 14
   },
   {
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
+    "genres": [
+      "خارق للعادة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
+    "score": 14
+  },
+  {
     "id": "kujima-utaeba-ie-hororo",
     "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
     "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
@@ -321,20 +335,6 @@
     "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2025",
-    "score": 13
   },
   {
     "id": "snowball-earth",
