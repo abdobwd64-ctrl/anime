@@ -648,5 +648,19 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005"
+  },
+  {
+    "id": "enen-no-shouboutai-san-no-shou-part-2",
+    "title": "انمي Enen no Shouboutai: San no Shou Part 2 مترجم اون لاين",
+    "poster": "data/posters/enen-no-shouboutai-san-no-shou-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   }
 ]

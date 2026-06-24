@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 51
+    "score": 53
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -85,6 +85,24 @@
     "score": 21
   },
   {
+    "id": "mushishi",
+    "title": "انمي Mushishi مترجم اون لاين",
+    "poster": "data/posters/mushishi.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2005",
+    "score": 21
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
@@ -114,24 +132,6 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009",
-    "score": 19
-  },
-  {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
     "score": 19
   },
   {
