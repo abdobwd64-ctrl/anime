@@ -96,23 +96,6 @@
     "score": 46
   },
   {
-    "id": "digimon-beatbreak",
-    "title": "انمي Digimon Beatbreak مترجم اون لاين",
-    "poster": "data/posters/digimon-beatbreak.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2025",
-    "score": 39
-  },
-  {
     "id": "fullmetal-alchemist-brotherhood",
     "title": "انمي Fullmetal Alchemist: Brotherhood مترجم اون لاين",
     "poster": "data/posters/fullmetal-alchemist-brotherhood.webp",
@@ -130,7 +113,24 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
-    "score": 38
+    "score": 39
+  },
+  {
+    "id": "digimon-beatbreak",
+    "title": "انمي Digimon Beatbreak مترجم اون لاين",
+    "poster": "data/posters/digimon-beatbreak.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2025",
+    "score": 39
   },
   {
     "id": "nana",
