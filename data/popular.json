@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 110
+    "score": 111
   },
   {
     "id": "cowboy-bebop",
@@ -188,6 +188,22 @@
     "score": 15
   },
   {
+    "id": "ghost-concert-missing-songs",
+    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "poster": "data/posters/ghost-concert-missing-songs.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة",
+      "موسيقي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
     "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
     "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
@@ -290,22 +306,6 @@
     "score": 14
   },
   {
-    "id": "ghost-concert-missing-songs",
-    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "poster": "data/posters/ghost-concert-missing-songs.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة",
-      "موسيقي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -351,6 +351,23 @@
     "score": 12
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017",
+    "score": 7
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
@@ -367,23 +384,6 @@
     "episodes_count": "1",
     "season": "ربيع 2019",
     "score": 7
-  },
-  {
-    "id": "black-clover",
-    "title": "انمي Black Clover مترجم اون لاين",
-    "poster": "data/posters/black-clover.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2017",
-    "score": 6
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
