@@ -106,7 +106,100 @@
           "url": "https://www.4shared.com/video/wlWF79dDku/Anime4uptv_FELEIT_EP_03_END_BD.html"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Fate/Extra: Last Encore - Illustrias Tendousetsu",
+      "date": "10 ديسمبر, 2022",
+      "servers": [
+        {
+          "name": "play cdngo | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://play.cdngo.me/hd.php?code=8mmh3ojflb5w"
+        },
+        {
+          "name": "sblongvu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblongvu.com/e/d1z4e09acwkk"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/3C-nMD_xfa/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4085315472090"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/pfhm5665fcw9"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-cigiirymwa1a.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-lvv3c3y7xmwk.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/2BdgiLJb!OzYXrH5-9uKjnP_Z17pq21-ozpybJ_8LqMqzwIIyYcg"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0ld7pvfne98e"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sblongvu",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblongvu.com/d1z4e09acwkk.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/3e3pu5pzsbak"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!2BdgiLJb!OzYXrH5-9uKjnP_Z17pq21-ozpybJ_8LqMqzwIIyYcg"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/29j0LcLfy9"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/1qkl75wf222r"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0ld7pvfne98e"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/pfhm5665fcw9"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/3C-nMD_xfa/Anime4uptv_FELEIT_EP_02_BD-FHD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:18:48.259877"
+  "last_updated": "2026-06-24T21:18:54.538933"
 }
