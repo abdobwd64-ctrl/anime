@@ -239,7 +239,120 @@
           "url": "https://doodstream.com/d/ima72qd52zfj"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Tesla Note",
+      "date": "19 أبريل, 2023",
+      "servers": [
+        {
+          "name": "anime7u | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://anime7u.com/e/kls6b4wd2abo"
+        },
+        {
+          "name": "lvturbo | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://lvturbo.com/e/csrfyz0j3xwh"
+        },
+        {
+          "name": "segavid | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://segavid.com/embed-vwu2c40g7yam.html"
+        },
+        {
+          "name": "dood yt | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.yt/e/pin7puxjp6zv"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4745631828698"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/adarsq8m64bk"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-c1lxtujeflpo.html"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.co/embed-cznmr7i1v945.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.net/embed-ctxlnzdxjf5t.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/WvQGlI5I!DoKoB2dmlMXh1dygm93b_e9h1V2iArViC5kdtzvvoKc"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ro9l1einv3t7"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "guccihide",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://guccihide.com/w/kls6b4wd2abo"
+        },
+        {
+          "server": "lvturbo",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://lvturbo.com/csrfyz0j3xwh.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/r4k1xgug56a0"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/adarsq8m64bk"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!WvQGlI5I!DoKoB2dmlMXh1dygm93b_e9h1V2iArViC5kdtzvvoKc"
+        },
+        {
+          "server": "upbaam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://upbaam.com/o6brcyjpc932"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/z7b3v5m0z0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/c1lxtujeflpo"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/ro9l1einv3t7"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/pin7puxjp6zv"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:27:23.699425"
+  "last_updated": "2026-06-24T20:27:30.648855"
 }
