@@ -16,6 +16,14 @@
     "date_sort": "2026-06-24"
   },
   {
+    "anime_id": "aishiteru-game-wo-owarasetai",
+    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "episode": "11",
+    "date": "23 يونيو, 2026",
+    "date_sort": "2026-06-23"
+  },
+  {
     "anime_id": "ouran-koukou-host-club",
     "anime_title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
@@ -387,14 +395,6 @@
     "anime_id": "mf-ghost-3rd-season",
     "anime_title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/mf-ghost-3rd-season.webp",
-    "episode": "8",
-    "date": "19 فبراير, 2026",
-    "date_sort": "2026-02-19"
-  },
-  {
-    "anime_id": "champignon-no-majo",
-    "anime_title": "انمي Champignon no Majo مترجم اون لاين",
-    "anime_poster": "data/posters/champignon-no-majo.webp",
     "episode": "8",
     "date": "19 فبراير, 2026",
     "date_sort": "2026-02-19"
