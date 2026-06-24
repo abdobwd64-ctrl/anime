@@ -457,6 +457,19 @@
     "season": "صيف 1992"
   },
   {
+    "id": "fate-extra-last-encore-illustrias-tendousetsu",
+    "title": "انمي Fate/Extra: Last Encore - Illustrias Tendousetsu مترجم اون لاين",
+    "poster": "data/posters/fate-extra-last-encore-illustrias-tendousetsu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "3",
+    "season": "صيف 2018"
+  },
+  {
     "id": "hajime-no-ippo-new-challenger",
     "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
