@@ -1181,5 +1181,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "subarashiki-kono-sekai-the-animation",
+    "title": "انمي Subarashiki Kono Sekai The Animation مترجم اون لاين",
+    "poster": "data/posters/subarashiki-kono-sekai-the-animation.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   }
 ]
