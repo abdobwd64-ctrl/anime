@@ -56,6 +56,14 @@
     "date_sort": "2026-06-21"
   },
   {
+    "anime_id": "tadaima-ojamasaremasu",
+    "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
+    "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
+    "episode": "11",
+    "date": "16 يونيو, 2026",
+    "date_sort": "2026-06-16"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -390,13 +398,5 @@
     "episode": "7",
     "date": "14 أبريل, 2026",
     "date_sort": "2026-04-14"
-  },
-  {
-    "anime_id": "fangkai-nage-nuwu",
-    "anime_title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "anime_poster": "data/posters/fangkai-nage-nuwu.webp",
-    "episode": "6",
-    "date": "07 أبريل, 2026",
-    "date_sort": "2026-04-07"
   }
 ]
