@@ -6361,6 +6361,19 @@
     "season": "صيف 2022"
   },
   {
+    "id": "niwatori-fighter",
+    "title": "انمي Niwatori Fighter مترجم اون لاين",
+    "poster": "data/posters/niwatori-fighter.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu",
     "title": "انمي One Piece: Yuruganu Seigi! Kaigun no Hokori Takaki Rogu مترجم اون لاين",
     "poster": "data/posters/one-piece-yuruganu-seigi-kaigun-no-hokori-takaki-rogu.webp",
