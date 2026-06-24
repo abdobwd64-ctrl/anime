@@ -2995,6 +2995,21 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "beastars",
+    "title": "انمي Beastars مترجم اون لاين",
+    "poster": "data/posters/beastars.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "tonikaku-kawaii",
     "title": "انمي Tonikaku Kawaii مترجم اون لاين",
     "poster": "data/posters/tonikaku-kawaii.webp",
