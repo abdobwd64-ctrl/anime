@@ -54,7 +54,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021",
-    "score": 23
+    "score": 24
   },
   {
     "id": "bakemonogatari",
@@ -226,20 +226,6 @@
     "score": 14
   },
   {
-    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
-    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
-    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
-    "score": 13
-  },
-  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -256,7 +242,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 12
+    "score": 13
+  },
+  {
+    "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
+    "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
+    "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 13
   },
   {
     "id": "isekai-suicide-squad",
@@ -273,6 +273,20 @@
     "score": 12
   },
   {
+    "id": "meikyuu-black-company",
+    "title": "انمي Meikyuu Black Company مترجم اون لاين",
+    "poster": "data/posters/meikyuu-black-company.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021",
+    "score": 11
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
@@ -285,20 +299,6 @@
     "type": "أونا",
     "episodes_count": "غير معروف",
     "season": "صيف 2019",
-    "score": 10
-  },
-  {
-    "id": "meikyuu-black-company",
-    "title": "انمي Meikyuu Black Company مترجم اون لاين",
-    "poster": "data/posters/meikyuu-black-company.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "صيف 2021",
     "score": 10
   },
   {
