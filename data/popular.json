@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 33
+    "score": 34
   },
   {
     "id": "cowboy-bebop",
@@ -168,6 +168,20 @@
     "score": 5
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -198,20 +212,6 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
-  },
-  {
-    "id": "koori-no-jouheki",
-    "title": "انمي Koori no Jouheki مترجم اون لاين",
-    "poster": "data/posters/koori-no-jouheki.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
