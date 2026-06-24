@@ -173,6 +173,22 @@
     "score": 17
   },
   {
+    "id": "mao",
+    "title": "انمي Mao مترجم اون لاين",
+    "poster": "data/posters/mao.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 17
+  },
+  {
     "id": "champignon-no-majo",
     "title": "انمي Champignon no Majo مترجم اون لاين",
     "poster": "data/posters/champignon-no-majo.webp",
@@ -205,14 +221,13 @@
     "score": 16
   },
   {
-    "id": "mao",
-    "title": "انمي Mao مترجم اون لاين",
-    "poster": "data/posters/mao.webp",
+    "id": "kanojo-okarishimasu-5th-season",
+    "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
     "genres": [
-      "غموض",
       "شونين",
-      "قوى خارقة",
-      "تاريخي"
+      "رومانسي",
+      "كوميدي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
@@ -266,12 +281,12 @@
     "score": 15
   },
   {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "id": "marriagetoxin",
+    "title": "انمي Marriagetoxin مترجم اون لاين",
+    "poster": "data/posters/marriagetoxin.webp",
     "genres": [
-      "رومانسي",
-      "مدرسي"
+      "أكشن",
+      "شونين"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
@@ -280,13 +295,12 @@
     "score": 15
   },
   {
-    "id": "kanojo-okarishimasu-5th-season",
-    "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
-    "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
+    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
     "genres": [
-      "شونين",
       "رومانسي",
-      "كوميدي"
+      "مدرسي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
@@ -336,16 +350,16 @@
     "score": 14
   },
   {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
+    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+    "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
+    "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
     "genres": [
-      "أكشن",
-      "شونين"
+      "فنتازيا",
+      "جوسي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
+    "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 14
   },
@@ -376,20 +390,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024",
-    "score": 13
-  },
-  {
-    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "genres": [
-      "فنتازيا",
-      "جوسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
     "score": 13
   },
   {
