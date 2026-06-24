@@ -407,19 +407,6 @@
     "score": 11
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
-  },
-  {
     "id": "marriagetoxin",
     "title": "انمي Marriagetoxin مترجم اون لاين",
     "poster": "data/posters/marriagetoxin.webp",
@@ -431,6 +418,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 10
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
     "score": 9
   },
   {
