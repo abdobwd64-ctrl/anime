@@ -368,14 +368,6 @@
     "date_sort": "2025-06-08"
   },
   {
-    "anime_id": "ao-no-exorcist-yosuga-hen",
-    "anime_title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "anime_poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "episode": "12",
-    "date": "22 مارس, 2025",
-    "date_sort": "2025-03-22"
-  },
-  {
     "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
     "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -398,5 +390,13 @@
     "episode": "9",
     "date": "01 مارس, 2025",
     "date_sort": "2025-03-01"
+  },
+  {
+    "anime_id": "boku-no-hero-academia-the-movie-4-you-re-next",
+    "anime_title": "انمي Boku no Hero Academia the Movie 4: You're Next مترجم اون لاين",
+    "anime_poster": "data/posters/boku-no-hero-academia-the-movie-4-you-re-next.webp",
+    "episode": "1",
+    "date": "25 فبراير, 2025",
+    "date_sort": "2025-02-25"
   }
 ]
