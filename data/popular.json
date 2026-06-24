@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 69
+    "score": 70
   },
   {
     "id": "hajime-no-ippo",
@@ -154,6 +154,23 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
+    "score": 18
+  },
+  {
+    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
+    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. مترجم اون لاين",
+    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2013",
     "score": 18
   },
   {
@@ -442,20 +459,6 @@
       "رومانسي",
       "كوميدي",
       "سينين",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
-    "genres": [
-      "رومانسي",
       "مدرسي"
     ],
     "status": "يعرض الان",
