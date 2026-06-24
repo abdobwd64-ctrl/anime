@@ -288,6 +288,19 @@
     "season": "خريف 2022"
   },
   {
+    "id": "karasu-wa-aruji-wo-erabanai",
+    "title": "انمي Karasu wa Aruji wo Erabanai مترجم اون لاين",
+    "poster": "data/posters/karasu-wa-aruji-wo-erabanai.webp",
+    "genres": [
+      "فنتازيا",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "20",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "tokyo-ghoul-re-2nd-season",
     "title": "انمي Tokyo Ghoul:re 2nd Season مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-re-2nd-season.webp",
