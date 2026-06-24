@@ -29,21 +29,6 @@
     "score": 28
   },
   {
-    "id": "golden-time",
-    "title": "انمي Golden Time مترجم اون لاين",
-    "poster": "data/posters/golden-time.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2013",
-    "score": 27
-  },
-  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -59,6 +44,21 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005",
+    "score": 28
+  },
+  {
+    "id": "golden-time",
+    "title": "انمي Golden Time مترجم اون لاين",
+    "poster": "data/posters/golden-time.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013",
     "score": 27
   },
   {
