@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 77
+    "score": 79
   },
   {
     "id": "cowboy-bebop",
@@ -208,20 +208,6 @@
     "score": 14
   },
   {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
-    "genres": [
-      "أكشن",
-      "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
     "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
@@ -236,7 +222,21 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "صيف 2020",
-    "score": 12
+    "score": 13
+  },
+  {
+    "id": "marriagetoxin",
+    "title": "انمي Marriagetoxin مترجم اون لاين",
+    "poster": "data/posters/marriagetoxin.webp",
+    "genres": [
+      "أكشن",
+      "شونين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 13
   },
   {
     "id": "sword-art-online-alicization-war-of-underworld",
