@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 50
+    "score": 51
   },
   {
     "id": "cowboy-bebop",
@@ -91,6 +91,21 @@
     "score": 15
   },
   {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 15
+  },
+  {
     "id": "sousei-no-aquarion-myth-of-emotions",
     "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -135,18 +150,17 @@
     "score": 14
   },
   {
-    "id": "world-trigger-3rd-season",
-    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
     "genres": [
       "أكشن",
-      "خيال علمي",
-      "قوى خارقة"
+      "خارق للعادة"
     ],
     "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
     "score": 13
   },
   {
@@ -162,20 +176,6 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
     "score": 13
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 11
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
