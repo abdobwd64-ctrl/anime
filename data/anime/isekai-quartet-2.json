@@ -984,7 +984,94 @@
           "url": "https://www.4shared.com/video/vEEULpzVea/Anime4upcom_IQ2S_EP_03_HD.html"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Isekai Quartet 2",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1341806545626"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1L5dYRBVVZUVe_RGJwU22WdIB5f0vOz4i/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=29uez&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/vz8ykjG6pjpq6"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!FNwzhSSL!yX5Fkol6N5K9vXyZHsEtYueHBD3jMV80oCgbZdcDnHM"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/va57thwz38xw"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-6svk6945lkue.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-15c59pz8do90.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-5okb4er58o1y.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1L5dYRBVVZUVe_RGJwU22WdIB5f0vOz4i&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!FNwzhSSL!yX5Fkol6N5K9vXyZHsEtYueHBD3jMV80oCgbZdcDnHM"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/15c59pz8do90"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/va57thwz38xw"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/5okb4er58o1y"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/vz8ykjG6pjpq6"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/29uez/[Anime4up.com]_IQ2S_EP_02_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:20:10.028182"
+  "last_updated": "2026-06-24T21:20:16.178950"
 }
