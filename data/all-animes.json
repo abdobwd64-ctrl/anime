@@ -299,6 +299,19 @@
     "season": "خريف 2024"
   },
   {
+    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "kami-no-niwatsuki-kusunoki-tei",
     "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
     "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
@@ -375,5 +388,17 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2013"
+  },
+  {
+    "id": "grand-blue",
+    "title": "انمي Grand Blue مترجم اون لاين",
+    "poster": "data/posters/grand-blue.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
   }
 ]

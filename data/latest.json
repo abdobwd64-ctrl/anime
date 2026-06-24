@@ -1,5 +1,21 @@
 [
   {
+    "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "anime_title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "anime_poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "episode": "12",
+    "date": "23 يونيو, 2026",
+    "date_sort": "2026-06-23"
+  },
+  {
+    "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "anime_title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "anime_poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "episode": "11",
+    "date": "16 يونيو, 2026",
+    "date_sort": "2026-06-16"
+  },
+  {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
     "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
@@ -382,21 +398,5 @@
     "episode": "8",
     "date": "25 مايو, 2023",
     "date_sort": "2023-05-25"
-  },
-  {
-    "anime_id": "dr-stone-new-world",
-    "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
-    "anime_poster": "data/posters/dr-stone-new-world.webp",
-    "episode": "7",
-    "date": "18 مايو, 2023",
-    "date_sort": "2023-05-18"
-  },
-  {
-    "anime_id": "let-s-all-love-lain",
-    "anime_title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
-    "anime_poster": "data/posters/let-s-all-love-lain.webp",
-    "episode": "1",
-    "date": "12 مايو, 2023",
-    "date_sort": "2023-05-12"
   }
 ]
