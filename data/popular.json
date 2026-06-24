@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 88
+    "score": 89
   },
   {
     "id": "hajime-no-ippo",
@@ -79,7 +79,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 29
+    "score": 30
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -138,6 +138,20 @@
     "score": 20
   },
   {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2022",
+    "score": 19
+  },
+  {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
     "title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
     "poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
@@ -170,20 +184,6 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
-    "score": 18
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2022",
     "score": 18
   },
   {

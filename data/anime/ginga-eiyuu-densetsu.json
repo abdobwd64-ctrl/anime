@@ -1870,7 +1870,78 @@
           "url": "http://vidmoly.me/w/6lm15pq823sv"
         }
       ]
+    },
+    {
+      "number": "85",
+      "title": "الأوفا 85Ginga Eiyuu Densetsu",
+      "date": "16 مايو, 2026",
+      "servers": [
+        {
+          "name": "share4max | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/pvyB84WuDm0qF"
+        },
+        {
+          "name": "vidmoly | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-6d7u5v3ajqrp.html"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/cofccrcxhg5u"
+        },
+        {
+          "name": "dsvplay | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/sun9985gq85c"
+        },
+        {
+          "name": "uqload is | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-jqcsenefq37k.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/pvyB84WuDm0qF"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/pvyB84WuDm0qF"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/q0kbn8xvsnb5"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/cofccrcxhg5u"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/hYQG1F"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/sun9985gq85c"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/6d7u5v3ajqrp"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:22:26.750628"
+  "last_updated": "2026-06-24T20:22:32.941687"
 }
