@@ -556,6 +556,18 @@
     "season": "خريف 2022"
   },
   {
+    "id": "detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train",
+    "title": "انمي Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train مترجم اون لاين",
+    "poster": "data/posters/detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train.webp",
+    "genres": [
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "bullbuster",
     "title": "انمي Bullbuster مترجم اون لاين",
     "poster": "data/posters/bullbuster.webp",
