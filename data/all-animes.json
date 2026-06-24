@@ -137,6 +137,21 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "bakemonogatari",
+    "title": "انمي Bakemonogatari مترجم اون لاين",
+    "poster": "data/posters/bakemonogatari.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "15",
+    "season": "صيف 2009"
+  },
+  {
     "id": "dr-stone-new-world",
     "title": "انمي Dr. Stone: New World مترجم اون لاين",
     "poster": "data/posters/dr-stone-new-world.webp",
