@@ -26,7 +26,7 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2026",
-    "score": 16
+    "score": 17
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -92,6 +92,21 @@
     "score": 11
   },
   {
+    "id": "sousei-no-aquarion-myth-of-emotions",
+    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
+    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 7
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -107,21 +122,6 @@
     "episodes_count": "1",
     "season": "صيف 2015",
     "score": 6
-  },
-  {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 5
   },
   {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
