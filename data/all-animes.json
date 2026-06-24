@@ -2748,6 +2748,18 @@
     "season": "خريف 2025"
   },
   {
+    "id": "blue-thermal",
+    "title": "انمي Blue Thermal مترجم اون لاين",
+    "poster": "data/posters/blue-thermal.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
     "title": "انمي Boku no Hero Academia the Movie 1: Futari no Hero مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-the-movie-1-futari-no-hero.webp",
