@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 90
+    "score": 91
   },
   {
     "id": "cowboy-bebop",
@@ -242,20 +242,6 @@
     "score": 14
   },
   {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
-    "genres": [
-      "أكشن",
-      "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
     "id": "snowball-earth",
     "title": "انمي Snowball Earth مترجم اون لاين",
     "poster": "data/posters/snowball-earth.webp",
@@ -269,7 +255,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2026",
-    "score": 12
+    "score": 13
+  },
+  {
+    "id": "marriagetoxin",
+    "title": "انمي Marriagetoxin مترجم اون لاين",
+    "poster": "data/posters/marriagetoxin.webp",
+    "genres": [
+      "أكشن",
+      "شونين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 13
   },
   {
     "id": "star-wars-visions",
@@ -285,6 +285,23 @@
     "episodes_count": "9",
     "season": "صيف 2021",
     "score": 12
+  },
+  {
+    "id": "ao-no-exorcist-yosuga-hen",
+    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
+    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025",
+    "score": 7
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -319,23 +336,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
     "score": 6
   },
   {
