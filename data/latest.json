@@ -1,99 +1,51 @@
 [
   {
-    "anime_id": "aishiteru-game-wo-owarasetai",
-    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
+    "anime_id": "kuroneko-to-majo-no-kyoushitsu",
+    "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
     "episode": "11",
-    "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
   },
   {
-    "anime_id": "date-a-live-movie-mayuri-judgment",
-    "anime_title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
-    "anime_poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
-    "episode": "1",
-    "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "episode": "9",
+    "date": "07 يونيو, 2026",
+    "date_sort": "2026-06-07"
   },
   {
-    "anime_id": "aishiteru-game-wo-owarasetai",
-    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "episode": "10",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
+    "anime_id": "kuroneko-to-majo-no-kyoushitsu",
+    "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "episode": "9",
+    "date": "07 يونيو, 2026",
+    "date_sort": "2026-06-07"
   },
   {
-    "anime_id": "kirio-fanclub",
-    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
-    "anime_poster": "data/posters/kirio-fanclub.webp",
+    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
     "episode": "8",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
+    "date": "02 يونيو, 2026",
+    "date_sort": "2026-06-02"
   },
   {
-    "anime_id": "biao-ren-er",
-    "anime_title": "انمي Biao Ren Er مترجم اون لاين",
-    "anime_poster": "data/posters/biao-ren-er.webp",
-    "episode": "1",
-    "date": "12 يونيو, 2026",
-    "date_sort": "2026-06-12"
-  },
-  {
-    "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "episode": "9",
-    "date": "09 يونيو, 2026",
-    "date_sort": "2026-06-09"
-  },
-  {
-    "anime_id": "kujima-utaeba-ie-hororo",
-    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "episode": "9",
-    "date": "04 يونيو, 2026",
-    "date_sort": "2026-06-04"
-  },
-  {
-    "anime_id": "marriagetoxin",
-    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
-    "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "9",
-    "date": "04 يونيو, 2026",
-    "date_sort": "2026-06-04"
-  },
-  {
-    "anime_id": "diamond-no-ace-act-ii-second-season",
-    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "anime_id": "nippon-sangoku",
+    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
+    "anime_poster": "data/posters/nippon-sangoku.webp",
     "episode": "9",
     "date": "31 مايو, 2026",
     "date_sort": "2026-05-31"
   },
   {
-    "anime_id": "ghost-concert-missing-songs",
-    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
-    "episode": "9",
+    "anime_id": "kuroneko-to-majo-no-kyoushitsu",
+    "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "episode": "8",
     "date": "31 مايو, 2026",
     "date_sort": "2026-05-31"
-  },
-  {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "9",
-    "date": "31 مايو, 2026",
-    "date_sort": "2026-05-31"
-  },
-  {
-    "anime_id": "snowball-earth",
-    "anime_title": "انمي Snowball Earth مترجم اون لاين",
-    "anime_poster": "data/posters/snowball-earth.webp",
-    "episode": "9",
-    "date": "30 مايو, 2026",
-    "date_sort": "2026-05-30"
   },
   {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
@@ -104,66 +56,50 @@
     "date_sort": "2026-05-29"
   },
   {
-    "anime_id": "koori-no-jouheki",
-    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
-    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "anime_id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "anime_title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "anime_poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
     "episode": "9",
-    "date": "29 مايو, 2026",
-    "date_sort": "2026-05-29"
-  },
-  {
-    "anime_id": "kujima-utaeba-ie-hororo",
-    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "episode": "8",
     "date": "28 مايو, 2026",
     "date_sort": "2026-05-28"
   },
   {
-    "anime_id": "marriagetoxin",
-    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
-    "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "8",
-    "date": "28 مايو, 2026",
-    "date_sort": "2026-05-28"
-  },
-  {
-    "anime_id": "diamond-no-ace-act-ii-second-season",
-    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
-    "episode": "8",
-    "date": "24 مايو, 2026",
-    "date_sort": "2026-05-24"
-  },
-  {
-    "anime_id": "ghost-concert-missing-songs",
-    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
-    "episode": "8",
-    "date": "24 مايو, 2026",
-    "date_sort": "2026-05-24"
-  },
-  {
-    "anime_id": "kirio-fanclub",
-    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
-    "anime_poster": "data/posters/kirio-fanclub.webp",
+    "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "anime_title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
     "episode": "7",
     "date": "24 مايو, 2026",
     "date_sort": "2026-05-24"
   },
   {
-    "anime_id": "snowball-earth",
-    "anime_title": "انمي Snowball Earth مترجم اون لاين",
-    "anime_poster": "data/posters/snowball-earth.webp",
+    "anime_id": "nippon-sangoku",
+    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
+    "anime_poster": "data/posters/nippon-sangoku.webp",
     "episode": "8",
+    "date": "24 مايو, 2026",
+    "date_sort": "2026-05-24"
+  },
+  {
+    "anime_id": "hajime-no-ippo-new-challenger",
+    "anime_title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "anime_poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "episode": "26",
     "date": "23 مايو, 2026",
     "date_sort": "2026-05-23"
   },
   {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "8",
+    "anime_id": "hajime-no-ippo-new-challenger",
+    "anime_title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "anime_poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "episode": "25",
+    "date": "23 مايو, 2026",
+    "date_sort": "2026-05-23"
+  },
+  {
+    "anime_id": "hajime-no-ippo-new-challenger",
+    "anime_title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "anime_poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "episode": "24",
     "date": "23 مايو, 2026",
     "date_sort": "2026-05-23"
   },
@@ -176,92 +112,20 @@
     "date_sort": "2026-05-22"
   },
   {
-    "anime_id": "koori-no-jouheki",
-    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
-    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "anime_id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "anime_title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "anime_poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
     "episode": "8",
     "date": "21 مايو, 2026",
     "date_sort": "2026-05-21"
   },
   {
-    "anime_id": "kujima-utaeba-ie-hororo",
-    "anime_title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "anime_poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "episode": "7",
-    "date": "21 مايو, 2026",
-    "date_sort": "2026-05-21"
-  },
-  {
-    "anime_id": "marriagetoxin",
-    "anime_title": "انمي Marriagetoxin مترجم اون لاين",
-    "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "7",
-    "date": "20 مايو, 2026",
-    "date_sort": "2026-05-20"
-  },
-  {
-    "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "episode": "7",
-    "date": "20 مايو, 2026",
-    "date_sort": "2026-05-20"
-  },
-  {
-    "anime_id": "diamond-no-ace-act-ii-second-season",
-    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "anime_id": "nippon-sangoku",
+    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
+    "anime_poster": "data/posters/nippon-sangoku.webp",
     "episode": "7",
     "date": "17 مايو, 2026",
     "date_sort": "2026-05-17"
-  },
-  {
-    "anime_id": "ghost-concert-missing-songs",
-    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
-    "episode": "7",
-    "date": "17 مايو, 2026",
-    "date_sort": "2026-05-17"
-  },
-  {
-    "anime_id": "cowboy-bebop",
-    "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
-    "anime_poster": "data/posters/cowboy-bebop.webp",
-    "episode": "9",
-    "date": "16 مايو, 2026",
-    "date_sort": "2026-05-16"
-  },
-  {
-    "anime_id": "cowboy-bebop",
-    "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
-    "anime_poster": "data/posters/cowboy-bebop.webp",
-    "episode": "8",
-    "date": "16 مايو, 2026",
-    "date_sort": "2026-05-16"
-  },
-  {
-    "anime_id": "cowboy-bebop",
-    "anime_title": "انمي Cowboy Bebop مترجم اون لاين",
-    "anime_poster": "data/posters/cowboy-bebop.webp",
-    "episode": "7",
-    "date": "16 مايو, 2026",
-    "date_sort": "2026-05-16"
-  },
-  {
-    "anime_id": "snowball-earth",
-    "anime_title": "انمي Snowball Earth مترجم اون لاين",
-    "anime_poster": "data/posters/snowball-earth.webp",
-    "episode": "7",
-    "date": "16 مايو, 2026",
-    "date_sort": "2026-05-16"
-  },
-  {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "7",
-    "date": "16 مايو, 2026",
-    "date_sort": "2026-05-16"
   },
   {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
@@ -272,131 +136,155 @@
     "date_sort": "2026-05-15"
   },
   {
-    "anime_id": "koori-no-jouheki",
-    "anime_title": "انمي Koori no Jouheki مترجم اون لاين",
-    "anime_poster": "data/posters/koori-no-jouheki.webp",
+    "anime_id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "anime_title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "anime_poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
     "episode": "7",
     "date": "14 مايو, 2026",
     "date_sort": "2026-05-14"
   },
   {
-    "anime_id": "kirio-fanclub",
-    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
-    "anime_poster": "data/posters/kirio-fanclub.webp",
-    "episode": "6",
-    "date": "13 مايو, 2026",
-    "date_sort": "2026-05-13"
-  },
-  {
-    "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "episode": "6",
-    "date": "12 مايو, 2026",
-    "date_sort": "2026-05-12"
-  },
-  {
-    "anime_id": "boku-no-hero-academia-more",
-    "anime_title": "انمي Boku no Hero Academia: More مترجم اون لاين",
-    "anime_poster": "data/posters/boku-no-hero-academia-more.webp",
+    "anime_id": "meitantei-conan-movie-28-sekigan-no-flashback",
+    "anime_title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
+    "anime_poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
     "episode": "1",
-    "date": "02 مايو, 2026",
-    "date_sort": "2026-05-02"
+    "date": "02 ديسمبر, 2025",
+    "date_sort": "2025-12-02"
   },
   {
-    "anime_id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-    "anime_title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
-    "anime_poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
-    "episode": "9",
-    "date": "10 مارس, 2026",
-    "date_sort": "2026-03-10"
-  },
-  {
-    "anime_id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-    "anime_title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
-    "anime_poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
-    "episode": "8",
-    "date": "04 مارس, 2026",
-    "date_sort": "2026-03-04"
-  },
-  {
-    "anime_id": "yi-ren-zhi-xia-6",
-    "anime_title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "anime_poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "episode": "9",
-    "date": "27 فبراير, 2026",
-    "date_sort": "2026-02-27"
-  },
-  {
-    "anime_id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-    "anime_title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
-    "anime_poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
-    "episode": "7",
-    "date": "24 فبراير, 2026",
-    "date_sort": "2026-02-24"
-  },
-  {
-    "anime_id": "yi-ren-zhi-xia-6",
-    "anime_title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "anime_poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "episode": "8",
-    "date": "20 فبراير, 2026",
-    "date_sort": "2026-02-20"
-  },
-  {
-    "anime_id": "yi-ren-zhi-xia-6",
-    "anime_title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "anime_poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "episode": "7",
-    "date": "13 فبراير, 2026",
-    "date_sort": "2026-02-13"
-  },
-  {
-    "anime_id": "si-vis-the-sound-of-heroes",
-    "anime_title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "anime_poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "episode": "9",
-    "date": "30 نوفمبر, 2025",
-    "date_sort": "2025-11-30"
-  },
-  {
-    "anime_id": "si-vis-the-sound-of-heroes",
-    "anime_title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "anime_poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "episode": "8",
+    "anime_id": "one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu",
+    "anime_title": "انمي One Piece Dokuta Choppa No Boken Karute Tensai Ga Nokoshita Rasuto Rekozu مترجم اون لاين",
+    "anime_poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu.webp",
+    "episode": "1",
     "date": "23 نوفمبر, 2025",
     "date_sort": "2025-11-23"
   },
   {
-    "anime_id": "si-vis-the-sound-of-heroes",
-    "anime_title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "anime_poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "episode": "7",
-    "date": "16 نوفمبر, 2025",
-    "date_sort": "2025-11-16"
-  },
-  {
-    "anime_id": "tu-bian-yingxiong-x",
-    "anime_title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "anime_poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
+    "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
     "episode": "9",
-    "date": "01 يونيو, 2025",
-    "date_sort": "2025-06-01"
+    "date": "09 مارس, 2025",
+    "date_sort": "2025-03-09"
   },
   {
-    "anime_id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "anime_title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "anime_poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "episode": "9",
-    "date": "31 مايو, 2025",
-    "date_sort": "2025-05-31"
-  },
-  {
-    "anime_id": "tu-bian-yingxiong-x",
-    "anime_title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "anime_poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
+    "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
     "episode": "8",
-    "date": "25 مايو, 2025",
-    "date_sort": "2025-05-25"
+    "date": "02 مارس, 2025",
+    "date_sort": "2025-03-02"
+  },
+  {
+    "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
+    "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
+    "episode": "7",
+    "date": "23 فبراير, 2025",
+    "date_sort": "2025-02-23"
+  },
+  {
+    "anime_id": "dr-stone-new-world",
+    "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
+    "anime_poster": "data/posters/dr-stone-new-world.webp",
+    "episode": "9",
+    "date": "01 يونيو, 2023",
+    "date_sort": "2023-06-01"
+  },
+  {
+    "anime_id": "dr-stone-new-world",
+    "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
+    "anime_poster": "data/posters/dr-stone-new-world.webp",
+    "episode": "8",
+    "date": "25 مايو, 2023",
+    "date_sort": "2023-05-25"
+  },
+  {
+    "anime_id": "dr-stone-new-world",
+    "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
+    "anime_poster": "data/posters/dr-stone-new-world.webp",
+    "episode": "7",
+    "date": "18 مايو, 2023",
+    "date_sort": "2023-05-18"
+  },
+  {
+    "anime_id": "let-s-all-love-lain",
+    "anime_title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
+    "anime_poster": "data/posters/let-s-all-love-lain.webp",
+    "episode": "1",
+    "date": "12 مايو, 2023",
+    "date_sort": "2023-05-12"
+  },
+  {
+    "anime_id": "shiroi-suna-no-aquatope",
+    "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "episode": "9",
+    "date": "02 سبتمبر, 2021",
+    "date_sort": "2021-09-02"
+  },
+  {
+    "anime_id": "shiroi-suna-no-aquatope",
+    "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "episode": "8",
+    "date": "26 أغسطس, 2021",
+    "date_sort": "2021-08-26"
+  },
+  {
+    "anime_id": "shiroi-suna-no-aquatope",
+    "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "episode": "7",
+    "date": "19 أغسطس, 2021",
+    "date_sort": "2021-08-19"
+  },
+  {
+    "anime_id": "golden-time",
+    "anime_title": "انمي Golden Time مترجم اون لاين",
+    "anime_poster": "data/posters/golden-time.webp",
+    "episode": "9",
+    "date": "31 مارس, 2021",
+    "date_sort": "2021-03-31"
+  },
+  {
+    "anime_id": "golden-time",
+    "anime_title": "انمي Golden Time مترجم اون لاين",
+    "anime_poster": "data/posters/golden-time.webp",
+    "episode": "8",
+    "date": "31 مارس, 2021",
+    "date_sort": "2021-03-31"
+  },
+  {
+    "anime_id": "golden-time",
+    "anime_title": "انمي Golden Time مترجم اون لاين",
+    "anime_poster": "data/posters/golden-time.webp",
+    "episode": "7",
+    "date": "31 مارس, 2021",
+    "date_sort": "2021-03-31"
+  },
+  {
+    "anime_id": "sd-gundam-world-sangoku-souketsuden",
+    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
+    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "episode": "7",
+    "date": "11 يوليو, 2020",
+    "date_sort": "2020-07-11"
+  },
+  {
+    "anime_id": "sd-gundam-world-sangoku-souketsuden",
+    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
+    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "episode": "6",
+    "date": "11 يوليو, 2020",
+    "date_sort": "2020-07-11"
+  },
+  {
+    "anime_id": "sd-gundam-world-sangoku-souketsuden",
+    "anime_title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
+    "anime_poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "episode": "5",
+    "date": "11 يوليو, 2020",
+    "date_sort": "2020-07-11"
   }
 ]

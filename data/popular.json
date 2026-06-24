@@ -1,208 +1,48 @@
 [
   {
-    "id": "naruto-shippuuden",
-    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
-    "poster": "data/posters/naruto-shippuuden.webp",
+    "id": "golden-time",
+    "title": "انمي Golden Time مترجم اون لاين",
+    "poster": "data/posters/golden-time.webp",
     "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "فنون قتالية"
+      "دراما",
+      "رومانسي",
+      "كوميدي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "500",
-    "season": "شتاء 2007",
-    "score": 171
-  },
-  {
-    "id": "black-clover",
-    "title": "انمي Black Clover مترجم اون لاين",
-    "poster": "data/posters/black-clover.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2017",
-    "score": 65
-  },
-  {
-    "id": "cowboy-bebop",
-    "title": "انمي Cowboy Bebop مترجم اون لاين",
-    "poster": "data/posters/cowboy-bebop.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "ربيع 1998",
-    "score": 28
-  },
-  {
-    "id": "yi-ren-zhi-xia-6",
-    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2026",
+    "episodes_count": "24",
+    "season": "خريف 2013",
     "score": 27
   },
   {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
     "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 26
-  },
-  {
-    "id": "si-vis-the-sound-of-heroes",
-    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
-    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
-    "genres": [
-      "خارق للعادة",
-      "موسيقي"
+      "شريحة من الحياة"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "season": "خريف 2025",
-    "score": 24
+    "season": "صيف 2021",
+    "score": 25
   },
   {
-    "id": "dragon-raja-long-zu",
-    "title": "انمي Dragon Raja (Long Zu) مترجم اون لاين",
-    "poster": "data/posters/dragon-raja-long-zu.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "16",
-    "season": "ربيع 2024",
-    "score": 19
-  },
-  {
-    "id": "sword-art-online-alicization-war-of-underworld",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
+    "id": "sentai-red-isekai-de-boukensha-ni-naru",
+    "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
+    "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
     "genres": [
       "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "خريف 2019",
-    "score": 18
-  },
-  {
-    "id": "ao-no-exorcist-yosuga-hen",
-    "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
       "فنتازيا",
       "شونين",
-      "قوى خارقة"
+      "مغامرات",
+      "كوميدي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 17
-  },
-  {
-    "id": "world-trigger-3rd-season",
-    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "poster": "data/posters/world-trigger-3rd-season.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 17
-  },
-  {
-    "id": "koi-to-producer-evol-love",
-    "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
-    "poster": "data/posters/koi-to-producer-evol-love.webp",
-    "genres": [
-      "خارق للعادة",
-      "رومانسي",
-      "شريحة من الحياة",
-      "شوجو",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
-    "score": 17
-  },
-  {
-    "id": "ghost-concert-missing-songs",
-    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "poster": "data/posters/ghost-concert-missing-songs.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة",
-      "موسيقي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
-    "score": 16
-  },
-  {
-    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "11",
-    "season": "صيف 2020",
-    "score": 16
   },
   {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
@@ -220,215 +60,11 @@
     "score": 15
   },
   {
-    "id": "diamond-no-ace-act-ii-second-season",
-    "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
-    "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
-    "genres": [
-      "شونين",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru",
-    "title": "انمي Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru مترجم اون لاين",
-    "poster": "data/posters/hell-mode-yarikomizuki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2026",
-    "score": 15
-  },
-  {
-    "id": "sousei-no-aquarion-myth-of-emotions",
-    "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "شتاء 2025",
-    "score": 15
-  },
-  {
-    "id": "dead-mount-death-play-part-2",
-    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play-part-2.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2023",
-    "score": 15
-  },
-  {
-    "id": "needy-girl-overdose",
-    "title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "poster": "data/posters/needy-girl-overdose.webp",
-    "genres": [
-      "دراما",
-      "مغامرات",
-      "شريحة من الحياة"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "ao-no-exorcist-shimane-illuminati-hen",
-    "title": "انمي Ao no Exorcist: Shimane Illuminati-hen مترجم اون لاين",
-    "poster": "data/posters/ao-no-exorcist-shimane-illuminati-hen.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2024",
-    "score": 14
-  },
-  {
-    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
-    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
-    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
-    "genres": [
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2025",
-    "score": 14
-  },
-  {
-    "id": "koori-no-jouheki",
-    "title": "انمي Koori no Jouheki مترجم اون لاين",
-    "poster": "data/posters/koori-no-jouheki.webp",
+    "id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
     "genres": [
       "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "kujima-utaeba-ie-hororo",
-    "title": "انمي Kujima Utaeba Ie Hororo مترجم اون لاين",
-    "poster": "data/posters/kujima-utaeba-ie-hororo.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "snowball-earth",
-    "title": "انمي Snowball Earth مترجم اون لاين",
-    "poster": "data/posters/snowball-earth.webp",
-    "genres": [
-      "مغامرات",
-      "خيال علمي",
-      "سينين",
-      "ميكا"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
-    "id": "marriagetoxin",
-    "title": "انمي Marriagetoxin مترجم اون لاين",
-    "poster": "data/posters/marriagetoxin.webp",
-    "genres": [
-      "أكشن",
-      "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 13
-  },
-  {
-    "id": "star-wars-visions",
-    "title": "انمي Star Wars: Visions مترجم اون لاين",
-    "poster": "data/posters/star-wars-visions.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "9",
-    "season": "صيف 2021",
-    "score": 12
-  },
-  {
-    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "genres": [
-      "فنتازيا",
-      "جوسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
-    "season": "ربيع 2026",
-    "score": 12
-  },
-  {
-    "id": "garouden-the-way-of-the-lone-wolf",
-    "title": "انمي Garouden: The Way of the Lone Wolf مترجم اون لاين",
-    "poster": "data/posters/garouden-the-way-of-the-lone-wolf.webp",
-    "genres": [
-      "أكشن",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "ربيع 2024",
-    "score": 10
-  },
-  {
-    "id": "kirio-fanclub",
-    "title": "انمي Kirio Fanclub مترجم اون لاين",
-    "poster": "data/posters/kirio-fanclub.webp",
-    "genres": [
       "كوميدي",
       "مدرسي"
     ],
@@ -436,24 +72,132 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 15
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
+    "score": 14
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 14
+  },
+  {
+    "id": "dr-stone-new-world",
+    "title": "انمي Dr. Stone: New World مترجم اون لاين",
+    "poster": "data/posters/dr-stone-new-world.webp",
+    "genres": [
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023",
+    "score": 14
+  },
+  {
+    "id": "nippon-sangoku",
+    "title": "انمي Nippon Sangoku مترجم اون لاين",
+    "poster": "data/posters/nippon-sangoku.webp",
+    "genres": [
+      "حربي",
+      "دراما"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 13
+  },
+  {
+    "id": "sd-gundam-world-sangoku-souketsuden",
+    "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
+    "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
+    "genres": [
+      "أكشن",
+      "ميكا",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2019",
     "score": 10
   },
   {
-    "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
-    "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
-    "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
+    "id": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
+    "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 7
+  },
+  {
+    "id": "meitantei-conan-movie-28-sekigan-no-flashback",
+    "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
     "genres": [
       "أكشن",
       "غموض",
-      "دراما",
       "شونين",
-      "كوميدي",
-      "بوليسي"
+      "مغامرات"
     ],
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
-    "season": "ربيع 2019",
-    "score": 7
+    "season": "ربيع 2025",
+    "score": 5
+  },
+  {
+    "id": "let-s-all-love-lain",
+    "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
+    "poster": "data/posters/let-s-all-love-lain.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2021",
+    "score": 1
+  },
+  {
+    "id": "one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu",
+    "title": "انمي One Piece Dokuta Choppa No Boken Karute Tensai Ga Nokoshita Rasuto Rekozu مترجم اون لاين",
+    "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-tensai-ga-nokoshita-rasuto-rekozu.webp",
+    "genres": [],
+    "status": "يعرض الان",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2025",
+    "score": 1
   }
 ]
