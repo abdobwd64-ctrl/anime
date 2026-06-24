@@ -33,20 +33,6 @@
     "score": 32
   },
   {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
-  },
-  {
     "id": "nana",
     "title": "انمي Nana مترجم اون لاين",
     "poster": "data/posters/nana.webp",
@@ -59,6 +45,20 @@
     "type": "تلفزيون",
     "episodes_count": "47",
     "season": "ربيع 2006",
+    "score": 29
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
     "score": 28
   },
   {
