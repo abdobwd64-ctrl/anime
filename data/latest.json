@@ -56,14 +56,6 @@
     "date_sort": "2026-06-21"
   },
   {
-    "anime_id": "tadaima-ojamasaremasu",
-    "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
-    "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
-    "episode": "11",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -243,6 +235,14 @@
     "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
     "anime_title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
     "anime_poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "episode": "8",
+    "date": "26 مايو, 2026",
+    "date_sort": "2026-05-26"
+  },
+  {
+    "anime_id": "tadaima-ojamasaremasu",
+    "anime_title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
+    "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
     "episode": "8",
     "date": "26 مايو, 2026",
     "date_sort": "2026-05-26"
