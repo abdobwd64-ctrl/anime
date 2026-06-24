@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 63
+    "score": 64
   },
   {
     "id": "cowboy-bebop",
@@ -193,6 +193,24 @@
     "score": 12
   },
   {
+    "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
+    "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
+    "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019",
+    "score": 7
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -256,6 +274,21 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
+  },
+  {
+    "id": "dead-mount-death-play-part-2",
+    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023",
+    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
