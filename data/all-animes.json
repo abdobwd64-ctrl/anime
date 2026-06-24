@@ -6457,6 +6457,20 @@
     "season": "صيف 2021"
   },
   {
+    "id": "ishura",
+    "title": "انمي Ishura مترجم اون لاين",
+    "poster": "data/posters/ishura.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "tate-no-yuusha-no-nariagari",
     "title": "انمي Tate no Yuusha no Nariagari مترجم اون لاين",
     "poster": "data/posters/tate-no-yuusha-no-nariagari.webp",
