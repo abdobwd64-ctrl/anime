@@ -680,7 +680,66 @@
           "url": "http://uupbom.com/o2ic1gwe4qfg"
         }
       ]
+    },
+    {
+      "number": "15",
+      "title": "الحلقة 15Karasu wa Aruji wo Erabanai",
+      "date": "17 أغسطس, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/9Gok1dOib4Nvl"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/9Gok1dOib4Nvl"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7200002083546"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vnj0j0dzoryi.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/pmlHiQiR!poGtyCR6tKEtCTXgG0P4Fr6Z0UYRk7bEJ_7jPBxBAxk"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/sujzzfw6gv8n"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vnj0j0dzoryi"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!pmlHiQiR!poGtyCR6tKEtCTXgG0P4Fr6Z0UYRk7bEJ_7jPBxBAxk"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/izutpywy6wm1"
+        },
+        {
+          "server": "updown",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://updown.cam/kjlxdsljjwch"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:06:33.773685"
+  "last_updated": "2026-06-24T21:06:40.148633"
 }
