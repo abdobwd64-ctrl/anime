@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 114
+    "score": 115
   },
   {
     "id": "cowboy-bebop",
@@ -365,7 +365,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 9
+    "score": 10
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -453,19 +453,17 @@
     "score": 5
   },
   {
-    "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
-    "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
-    "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
+    "id": "si-vis-the-sound-of-heroes",
+    "title": "انمي SI-VIS: The Sound of Heroes مترجم اون لاين",
+    "poster": "data/posters/si-vis-the-sound-of-heroes.webp",
     "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
+      "خارق للعادة",
+      "موسيقي"
     ],
     "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "شتاء 1994",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2025",
     "score": 5
   }
 ]
