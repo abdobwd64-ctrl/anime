@@ -236,6 +236,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2022"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-4th-season",
     "title": "انمي Tensei shitara Slime Datta Ken 4th Season مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-slime-datta-ken-4th-season.webp",
