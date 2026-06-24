@@ -8,22 +8,6 @@
     "date_sort": "2026-06-22"
   },
   {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "12",
-    "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
-  },
-  {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "11",
-    "date": "14 يونيو, 2026",
-    "date_sort": "2026-06-14"
-  },
-  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -136,6 +120,14 @@
     "date_sort": "2026-05-23"
   },
   {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
+    "episode": "8",
+    "date": "23 مايو, 2026",
+    "date_sort": "2026-05-23"
+  },
+  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -211,6 +203,14 @@
     "anime_id": "snowball-earth",
     "anime_title": "انمي Snowball Earth مترجم اون لاين",
     "anime_poster": "data/posters/snowball-earth.webp",
+    "episode": "7",
+    "date": "16 مايو, 2026",
+    "date_sort": "2026-05-16"
+  },
+  {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
     "episode": "7",
     "date": "16 مايو, 2026",
     "date_sort": "2026-05-16"

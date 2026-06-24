@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 137
+    "score": 138
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 31
+    "score": 32
   },
   {
     "id": "cowboy-bebop",
@@ -382,6 +382,21 @@
     "score": 12
   },
   {
+    "id": "needy-girl-overdose",
+    "title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "poster": "data/posters/needy-girl-overdose.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 9
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
@@ -397,21 +412,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2019",
-    "score": 7
-  },
-  {
-    "id": "needy-girl-overdose",
-    "title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "poster": "data/posters/needy-girl-overdose.webp",
-    "genres": [
-      "دراما",
-      "مغامرات",
-      "شريحة من الحياة"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 7
   },
   {
