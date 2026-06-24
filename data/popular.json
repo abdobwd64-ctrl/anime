@@ -250,6 +250,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2021",
+    "score": 8
+  },
+  {
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
     "score": 7
   },
   {
@@ -285,21 +300,6 @@
     "score": 5
   },
   {
-    "id": "ousama-ranking",
-    "title": "انمي Ousama Ranking مترجم اون لاين",
-    "poster": "data/posters/ousama-ranking.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 5
-  },
-  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -311,7 +311,7 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 3
+    "score": 4
   },
   {
     "id": "let-s-all-love-lain",

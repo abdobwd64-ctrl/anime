@@ -264,6 +264,14 @@
     "date_sort": "2025-07-12"
   },
   {
+    "anime_id": "kun-tun-tianxia-zhi-zhang-men-guilai",
+    "anime_title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
+    "anime_poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
+    "episode": "11",
+    "date": "06 يوليو, 2025",
+    "date_sort": "2025-07-06"
+  },
+  {
     "anime_id": "sentai-red-isekai-de-boukensha-ni-naru",
     "anime_title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "anime_poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -368,6 +376,14 @@
     "date_sort": "2022-03-17"
   },
   {
+    "anime_id": "ousama-ranking",
+    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
+    "anime_poster": "data/posters/ousama-ranking.webp",
+    "episode": "21",
+    "date": "10 مارس, 2022",
+    "date_sort": "2022-03-10"
+  },
+  {
     "anime_id": "shiroi-suna-no-aquatope",
     "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
     "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
@@ -382,21 +398,5 @@
     "episode": "8",
     "date": "26 أغسطس, 2021",
     "date_sort": "2021-08-26"
-  },
-  {
-    "anime_id": "shiroi-suna-no-aquatope",
-    "anime_title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
-    "anime_poster": "data/posters/shiroi-suna-no-aquatope.webp",
-    "episode": "7",
-    "date": "19 أغسطس, 2021",
-    "date_sort": "2021-08-19"
-  },
-  {
-    "anime_id": "mars-red",
-    "anime_title": "انمي Mars Red مترجم اون لاين",
-    "anime_poster": "data/posters/mars-red.webp",
-    "episode": "13",
-    "date": "28 يونيو, 2021",
-    "date_sort": "2021-06-28"
   }
 ]
