@@ -184,6 +184,14 @@
     "date_sort": "2026-06-19"
   },
   {
+    "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
+    "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
+    "episode": "11",
+    "date": "17 يونيو, 2026",
+    "date_sort": "2026-06-17"
+  },
+  {
     "anime_id": "nippon-sangoku",
     "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
     "anime_poster": "data/posters/nippon-sangoku.webp",
@@ -390,13 +398,5 @@
     "episode": "10",
     "date": "10 يونيو, 2026",
     "date_sort": "2026-06-10"
-  },
-  {
-    "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-    "anime_title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
-    "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
-    "episode": "10",
-    "date": "09 يونيو, 2026",
-    "date_sort": "2026-06-09"
   }
 ]
