@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "75",
     "season": "خريف 2000",
-    "score": 32
+    "score": 33
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -420,7 +420,7 @@
     "type": "أونا",
     "episodes_count": "20",
     "season": "شتاء 2026",
-    "score": 10
+    "score": 11
   },
   {
     "id": "sd-gundam-world-sangoku-souketsuden",
@@ -448,6 +448,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 9
+    "score": 10
   }
 ]
