@@ -12,7 +12,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 1998",
-    "score": 22
+    "score": 23
   },
   {
     "id": "diamond-no-ace-act-ii-second-season",
@@ -57,7 +57,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2026",
-    "score": 7
+    "score": 8
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -75,6 +75,20 @@
     "episodes_count": "1",
     "season": "صيف 2015",
     "score": 6
+  },
+  {
+    "id": "yi-ren-zhi-xia-6",
+    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
+    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "26",
+    "season": "شتاء 2026",
+    "score": 5
   },
   {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
@@ -137,20 +151,6 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
-  },
-  {
-    "id": "yi-ren-zhi-xia-6",
-    "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
-    "poster": "data/posters/yi-ren-zhi-xia-6.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة"
-    ],
-    "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2026",
-    "score": 3
   },
   {
     "id": "spy-x-family-movie-code-white",
