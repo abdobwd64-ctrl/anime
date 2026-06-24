@@ -257,6 +257,19 @@
     filterAllAnime('genre', 'all');
   };
 
+  window.loadMovies = async function() {
+    var data = await fetchJSON(DATA_BASE + '/all-animes.json');
+    if (!data) return;
+    var movies = data.filter(function(a) { return a.type === 'فيلم'; });
+    var grid = document.getElementById('moviesGrid');
+    if (!grid) return;
+    var title = document.getElementById('moviesTitle');
+    if (title) title.textContent = '🎬 أفلام الأنمي (' + movies.length + ')';
+    movies.forEach(function(item) {
+      grid.appendChild(renderCard(item, 'anime.html?id=' + item.id));
+    });
+  };
+
   /* ─── All Latest Episodes page ─── */
   var _ALL_LATEST_PAGE = 1;
   var _ALL_LATEST_PER = 30;
