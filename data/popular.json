@@ -141,6 +141,22 @@
     "score": 17
   },
   {
+    "id": "ghost-concert-missing-songs",
+    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "poster": "data/posters/ghost-concert-missing-songs.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة",
+      "موسيقي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026",
+    "score": 16
+  },
+  {
     "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
     "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
@@ -184,22 +200,6 @@
     "status": "يعرض الان",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "ghost-concert-missing-songs",
-    "title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
-    "poster": "data/posters/ghost-concert-missing-songs.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة",
-      "موسيقي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "12",
     "season": "ربيع 2026",
     "score": 15
   },
@@ -365,7 +365,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 7
+    "score": 8
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
