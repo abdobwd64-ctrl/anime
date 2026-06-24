@@ -5562,6 +5562,19 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "shine-post",
+    "title": "انمي Shine Post مترجم اون لاين",
+    "poster": "data/posters/shine-post.webp",
+    "genres": [
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou",
     "title": "انمي Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou مترجم اون لاين",
     "poster": "data/posters/yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou.webp",
