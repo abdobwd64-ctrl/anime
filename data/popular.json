@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 65
+    "score": 66
   },
   {
     "id": "cowboy-bebop",
@@ -90,6 +90,21 @@
     "score": 17
   },
   {
+    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
+    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
+    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 15
+  },
+  {
     "id": "diamond-no-ace-act-ii-second-season",
     "title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
     "poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
@@ -135,21 +150,6 @@
     "score": 15
   },
   {
-    "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-    "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
-    "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
-    "genres": [
-      "فنتازيا",
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 14
-  },
-  {
     "id": "koori-no-jouheki",
     "title": "انمي Koori no Jouheki مترجم اون لاين",
     "poster": "data/posters/koori-no-jouheki.webp",
@@ -193,6 +193,21 @@
     "score": 13
   },
   {
+    "id": "dead-mount-death-play-part-2",
+    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play-part-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023",
+    "score": 9
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
@@ -225,21 +240,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "dead-mount-death-play-part-2",
-    "title": "انمي Dead Mount Death Play Part 2 مترجم اون لاين",
-    "poster": "data/posters/dead-mount-death-play-part-2.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2023",
     "score": 6
   },
   {
@@ -289,6 +289,20 @@
     "episodes_count": "1",
     "season": "ربيع 2026",
     "score": 5
+  },
+  {
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025",
+    "score": 4
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
