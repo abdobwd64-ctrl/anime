@@ -125,6 +125,23 @@
     "score": 18
   },
   {
+    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
+    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 17
+  },
+  {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
     "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -140,23 +157,6 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 17
-  },
-  {
-    "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
-    "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
-    "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "مدرسي",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "صيف 2020",
-    "score": 16
   },
   {
     "id": "xian-wang-de-richang-shenghuo-5",
@@ -202,6 +202,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
+    "score": 15
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
     "score": 15
   },
   {
@@ -260,21 +275,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026",
-    "score": 14
-  },
-  {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
     "score": 14
   },
   {
@@ -425,6 +425,21 @@
     "score": 8
   },
   {
+    "id": "dead-mount-death-play",
+    "title": "انمي Dead Mount Death Play مترجم اون لاين",
+    "poster": "data/posters/dead-mount-death-play.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023",
+    "score": 6
+  },
+  {
     "id": "tensei-shitara-dragon-no-tamago-datta",
     "title": "انمي Tensei shitara Dragon no Tamago datta مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-dragon-no-tamago-datta.webp",
@@ -438,21 +453,5 @@
     "episodes_count": "غير معروف",
     "season": "شتاء 2026",
     "score": 6
-  },
-  {
-    "id": "fuuto-tantei-movie-kamen-rider-skull-no-shouzou",
-    "title": "انمي Fuuto Tantei Movie: Kamen Rider Skull no Shouzou مترجم اون لاين",
-    "poster": "data/posters/fuuto-tantei-movie-kamen-rider-skull-no-shouzou.webp",
-    "genres": [
-      "أكشن",
-      "غموض",
-      "خارق للعادة",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "خريف 2024",
-    "score": 5
   }
 ]
