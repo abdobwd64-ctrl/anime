@@ -712,7 +712,64 @@
           "url": "https://www.file-upload.org/tv91nnrhbwsv"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Ao no Exorcist: Shimane Illuminati-hen",
+      "date": "03 فبراير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/cRWttYEnBunSh"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/cRWttYEnBunSh"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/cRWttYEnBunSh"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-viczt5dqh333.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/UOVmHKCR!SMlKKZDD0Jew37inIfZ1xsybKhg1XAVeSKTNQ7CECUE"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ECUVCRyS!j__bkkHMjW21dth-YIxEpykqwX3-jheqCo7-26YGuls"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/sof7bi2m0j1q"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!UOVmHKCR!SMlKKZDD0Jew37inIfZ1xsybKhg1XAVeSKTNQ7CECUE"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/zq1ishr4zyj0"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ECUVCRyS!j__bkkHMjW21dth-YIxEpykqwX3-jheqCo7-26YGuls"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T02:29:16.847170"
+  "last_updated": "2026-06-24T02:29:24.062053"
 }

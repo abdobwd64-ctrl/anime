@@ -16,12 +16,28 @@
     "date_sort": "2026-06-21"
   },
   {
+    "anime_id": "ghost-concert-missing-songs",
+    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
+    "episode": "11",
+    "date": "14 يونيو, 2026",
+    "date_sort": "2026-06-14"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
     "episode": "1",
     "date": "12 يونيو, 2026",
     "date_sort": "2026-06-12"
+  },
+  {
+    "anime_id": "ghost-concert-missing-songs",
+    "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
+    "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
+    "episode": "10",
+    "date": "07 يونيو, 2026",
+    "date_sort": "2026-06-07"
   },
   {
     "anime_id": "kujima-utaeba-ie-hororo",
@@ -382,21 +398,5 @@
     "episode": "7",
     "date": "04 مايو, 2024",
     "date_sort": "2024-05-04"
-  },
-  {
-    "anime_id": "dragon-ball-z-movie-14-kami-to-kami",
-    "anime_title": "انمي Dragon Ball Z Movie 14: Kami to Kami مترجم اون لاين",
-    "anime_poster": "data/posters/dragon-ball-z-movie-14-kami-to-kami.webp",
-    "episode": "1",
-    "date": "10 أبريل, 2024",
-    "date_sort": "2024-04-10"
-  },
-  {
-    "anime_id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
-    "anime_title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
-    "anime_poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
-    "episode": "1",
-    "date": "09 أبريل, 2024",
-    "date_sort": "2024-04-09"
   }
 ]
