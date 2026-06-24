@@ -42,6 +42,22 @@
     "score": 25
   },
   {
+    "id": "bakemonogatari",
+    "title": "انمي Bakemonogatari مترجم اون لاين",
+    "poster": "data/posters/bakemonogatari.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "15",
+    "season": "صيف 2009",
+    "score": 18
+  },
+  {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
     "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -57,22 +73,6 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 17
-  },
-  {
-    "id": "bakemonogatari",
-    "title": "انمي Bakemonogatari مترجم اون لاين",
-    "poster": "data/posters/bakemonogatari.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "قوى خارقة",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "15",
-    "season": "صيف 2009",
-    "score": 16
   },
   {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
@@ -189,7 +189,7 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "شتاء 2026",
-    "score": 6
+    "score": 9
   },
   {
     "id": "meitantei-conan-movie-28-sekigan-no-flashback",
@@ -206,6 +206,20 @@
     "episodes_count": "1",
     "season": "ربيع 2025",
     "score": 5
+  },
+  {
+    "id": "kami-no-niwatsuki-kusunoki-tei",
+    "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
+    "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 3
   },
   {
     "id": "let-s-all-love-lain",
