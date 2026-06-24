@@ -2141,6 +2141,19 @@
     "season": "صيف 2022"
   },
   {
+    "id": "ame-iro-cocoa-side-g",
+    "title": "انمي Ame-iro Cocoa: Side G مترجم اون لاين",
+    "poster": "data/posters/ame-iro-cocoa-side-g.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "ousama-ranking-yuuki-no-takarabako",
     "title": "انمي Ousama Ranking: Yuuki no Takarabako مترجم اون لاين",
     "poster": "data/posters/ousama-ranking-yuuki-no-takarabako.webp",
