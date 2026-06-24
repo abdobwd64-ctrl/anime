@@ -153,6 +153,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "sousei-no-aquarion-myth-of-emotions",
     "title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",

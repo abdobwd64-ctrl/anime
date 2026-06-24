@@ -200,6 +200,14 @@
     "date_sort": "2025-09-14"
   },
   {
+    "anime_id": "tu-bian-yingxiong-x",
+    "anime_title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "anime_poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "episode": "23",
+    "date": "07 سبتمبر, 2025",
+    "date_sort": "2025-09-07"
+  },
+  {
     "anime_id": "sousei-no-aquarion-myth-of-emotions",
     "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
     "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
@@ -286,6 +294,22 @@
     "episode": "1",
     "date": "04 يناير, 2023",
     "date_sort": "2023-01-04"
+  },
+  {
+    "anime_id": "world-trigger-3rd-season",
+    "anime_title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/world-trigger-3rd-season.webp",
+    "episode": "14",
+    "date": "22 يناير, 2022",
+    "date_sort": "2022-01-22"
+  },
+  {
+    "anime_id": "world-trigger-3rd-season",
+    "anime_title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "anime_poster": "data/posters/world-trigger-3rd-season.webp",
+    "episode": "13",
+    "date": "08 يناير, 2022",
+    "date_sort": "2022-01-08"
   },
   {
     "anime_id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",

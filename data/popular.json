@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 42
+    "score": 43
   },
   {
     "id": "cowboy-bebop",
@@ -182,6 +182,21 @@
     "score": 5
   },
   {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 5
+  },
+  {
     "id": "dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai",
     "title": "انمي Dragon Ball Z Movie 10: Kiken na Futari! Super Senshi wa Nemurenai مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-10-kiken-na-futari-super-senshi-wa-nemurenai.webp",
@@ -214,6 +229,20 @@
     "score": 5
   },
   {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 4
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
@@ -242,20 +271,6 @@
     "episodes_count": "1",
     "season": "ربيع 2023",
     "score": 4
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 3
   },
   {
     "id": "spy-x-family-movie-code-white",
