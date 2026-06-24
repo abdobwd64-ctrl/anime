@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 157
+    "score": 158
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 49
+    "score": 50
   },
   {
     "id": "cowboy-bebop",
@@ -411,6 +411,20 @@
     "score": 10
   },
   {
+    "id": "kirio-fanclub",
+    "title": "انمي Kirio Fanclub مترجم اون لاين",
+    "poster": "data/posters/kirio-fanclub.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 9
+  },
+  {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
     "title": "انمي Detective Conan Movie 23: The Fist of Blue Sapphire مترجم اون لاين",
     "poster": "data/posters/detective-conan-movie-23-the-fist-of-blue-sapphire.webp",
@@ -426,20 +440,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2019",
-    "score": 7
-  },
-  {
-    "id": "kirio-fanclub",
-    "title": "انمي Kirio Fanclub مترجم اون لاين",
-    "poster": "data/posters/kirio-fanclub.webp",
-    "genres": [
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 7
   },
   {
