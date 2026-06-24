@@ -3,14 +3,6 @@
     "anime_id": "nana",
     "anime_title": "انمي Nana مترجم اون لاين",
     "anime_poster": "data/posters/nana.webp",
-    "episode": "47",
-    "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
-  },
-  {
-    "anime_id": "nana",
-    "anime_title": "انمي Nana مترجم اون لاين",
-    "anime_poster": "data/posters/nana.webp",
     "episode": "9",
     "date": "21 يونيو, 2026",
     "date_sort": "2026-06-21"
@@ -20,6 +12,14 @@
     "anime_title": "انمي Nana مترجم اون لاين",
     "anime_poster": "data/posters/nana.webp",
     "episode": "8",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
+    "anime_id": "nana",
+    "anime_title": "انمي Nana مترجم اون لاين",
+    "anime_poster": "data/posters/nana.webp",
+    "episode": "7",
     "date": "21 يونيو, 2026",
     "date_sort": "2026-06-21"
   },
