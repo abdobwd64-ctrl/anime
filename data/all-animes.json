@@ -311,6 +311,21 @@
     "season": "صيف 2020"
   },
   {
+    "id": "snowball-earth",
+    "title": "انمي Snowball Earth مترجم اون لاين",
+    "poster": "data/posters/snowball-earth.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي",
+      "سينين",
+      "ميكا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
     "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
     "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",

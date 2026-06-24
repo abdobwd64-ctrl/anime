@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 83
+    "score": 84
   },
   {
     "id": "cowboy-bebop",
@@ -75,21 +75,6 @@
     "score": 19
   },
   {
-    "id": "world-trigger-3rd-season",
-    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "poster": "data/posters/world-trigger-3rd-season.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 17
-  },
-  {
     "id": "sword-art-online-alicization-war-of-underworld",
     "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
@@ -104,6 +89,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019",
+    "score": 18
+  },
+  {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
     "score": 17
   },
   {
@@ -274,6 +274,21 @@
     "score": 7
   },
   {
+    "id": "star-wars-visions",
+    "title": "انمي Star Wars: Visions مترجم اون لاين",
+    "poster": "data/posters/star-wars-visions.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "9",
+    "season": "صيف 2021",
+    "score": 7
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -288,21 +303,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "star-wars-visions",
-    "title": "انمي Star Wars: Visions مترجم اون لاين",
-    "poster": "data/posters/star-wars-visions.webp",
-    "genres": [
-      "أكشن",
-      "مغامرات",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "9",
-    "season": "صيف 2021",
     "score": 6
   },
   {
@@ -335,6 +335,22 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1994",
+    "score": 5
+  },
+  {
+    "id": "snowball-earth",
+    "title": "انمي Snowball Earth مترجم اون لاين",
+    "poster": "data/posters/snowball-earth.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي",
+      "سينين",
+      "ميكا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026",
     "score": 5
   },
   {
@@ -436,19 +452,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2017",
-    "score": 2
-  },
-  {
-    "id": "blue-thermal",
-    "title": "انمي Blue Thermal مترجم اون لاين",
-    "poster": "data/posters/blue-thermal.webp",
-    "genres": [
-      "دراما"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "شتاء 2021",
     "score": 2
   }
 ]
