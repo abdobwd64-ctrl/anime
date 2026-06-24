@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 134
+    "score": 135
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 28
+    "score": 29
   },
   {
     "id": "cowboy-bebop",
@@ -451,19 +451,18 @@
     "score": 6
   },
   {
-    "id": "dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu",
-    "title": "انمي Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu مترجم اون لاين",
-    "poster": "data/posters/dragon-ball-z-movie-04-super-saiyajin-da-son-gokuu.webp",
+    "id": "needy-girl-overdose",
+    "title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "poster": "data/posters/needy-girl-overdose.webp",
     "genres": [
-      "أكشن",
-      "فنتازيا",
+      "دراما",
       "مغامرات",
-      "خيال علمي"
+      "شريحة من الحياة"
     ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "شتاء 1991",
-    "score": 5
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 6
   }
 ]
