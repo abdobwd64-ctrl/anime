@@ -384,19 +384,19 @@
     "date_sort": "2023-01-04"
   },
   {
+    "anime_id": "blue-thermal",
+    "anime_title": "انمي Blue Thermal مترجم اون لاين",
+    "anime_poster": "data/posters/blue-thermal.webp",
+    "episode": "1",
+    "date": "18 أغسطس, 2022",
+    "date_sort": "2022-08-18"
+  },
+  {
     "anime_id": "world-trigger-3rd-season",
     "anime_title": "انمي World Trigger 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/world-trigger-3rd-season.webp",
     "episode": "9",
     "date": "04 ديسمبر, 2021",
     "date_sort": "2021-12-04"
-  },
-  {
-    "anime_id": "world-trigger-3rd-season",
-    "anime_title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "anime_poster": "data/posters/world-trigger-3rd-season.webp",
-    "episode": "8",
-    "date": "27 نوفمبر, 2021",
-    "date_sort": "2021-11-27"
   }
 ]

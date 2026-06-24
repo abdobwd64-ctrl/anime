@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 70
+    "score": 71
   },
   {
     "id": "cowboy-bebop",
@@ -219,7 +219,7 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025",
-    "score": 9
+    "score": 11
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -254,6 +254,23 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
+    "score": 6
+  },
+  {
+    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2020",
     "score": 6
   },
   {
@@ -387,6 +404,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2017",
+    "score": 2
+  },
+  {
+    "id": "blue-thermal",
+    "title": "انمي Blue Thermal مترجم اون لاين",
+    "poster": "data/posters/blue-thermal.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021",
     "score": 2
   }
 ]

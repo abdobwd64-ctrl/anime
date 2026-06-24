@@ -295,6 +295,22 @@
     "season": "خريف 2023"
   },
   {
+    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2020"
+  },
+  {
     "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
     "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
     "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
@@ -319,6 +335,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "blue-thermal",
+    "title": "انمي Blue Thermal مترجم اون لاين",
+    "poster": "data/posters/blue-thermal.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
