@@ -437,16 +437,18 @@
     "score": 11
   },
   {
-    "id": "fangkai-nage-nuwu",
-    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
-    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "id": "kanojo-okarishimasu-5th-season",
+    "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
     "genres": [
-      "فنتازيا"
+      "شونين",
+      "رومانسي",
+      "كوميدي"
     ],
     "status": "يعرض الان",
-    "type": "أونا",
-    "episodes_count": "8",
-    "season": "شتاء 2026",
-    "score": 9
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 10
   }
 ]
