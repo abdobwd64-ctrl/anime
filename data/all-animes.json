@@ -144,6 +144,19 @@
     "season": "خريف 2024"
   },
   {
+    "id": "kill-ao",
+    "title": "انمي Kill Ao مترجم اون لاين",
+    "poster": "data/posters/kill-ao.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -246,6 +259,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "one-punch-man-specials",
+    "title": "انمي One Punch Man Specials مترجم اون لاين",
+    "poster": "data/posters/one-punch-man-specials.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "6",
+    "season": "خريف 2015"
   },
   {
     "id": "bastard-ankoku-no-hakaishin-season-2-ona",
