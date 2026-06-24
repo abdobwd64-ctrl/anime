@@ -768,6 +768,18 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "wonder-egg-priority",
+    "title": "انمي Wonder Egg Priority مترجم اون لاين",
+    "poster": "data/posters/wonder-egg-priority.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan.webp",
