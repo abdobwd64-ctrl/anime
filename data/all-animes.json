@@ -3002,6 +3002,19 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "back-street-girls-gokudolls",
+    "title": "انمي Back Street Girls: Gokudolls مترجم اون لاين",
+    "poster": "data/posters/back-street-girls-gokudolls.webp",
+    "genres": [
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2018"
+  },
+  {
     "id": "misaki-no-mayoiga",
     "title": "انمي Misaki no Mayoiga مترجم اون لاين",
     "poster": "data/posters/misaki-no-mayoiga.webp",
