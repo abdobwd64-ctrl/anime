@@ -255,6 +255,21 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "replica-datte-koi-wo-suru",
+    "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "nippon-sangoku",
     "title": "انمي Nippon Sangoku مترجم اون لاين",
     "poster": "data/posters/nippon-sangoku.webp",
