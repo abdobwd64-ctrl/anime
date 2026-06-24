@@ -620,5 +620,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "kirio-fanclub",
+    "title": "انمي Kirio Fanclub مترجم اون لاين",
+    "poster": "data/posters/kirio-fanclub.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   }
 ]

@@ -8,6 +8,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "kirio-fanclub",
+    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
+    "anime_poster": "data/posters/kirio-fanclub.webp",
+    "episode": "8",
+    "date": "14 يونيو, 2026",
+    "date_sort": "2026-06-14"
+  },
+  {
     "anime_id": "biao-ren-er",
     "anime_title": "انمي Biao Ren Er مترجم اون لاين",
     "anime_poster": "data/posters/biao-ren-er.webp",
@@ -108,6 +116,14 @@
     "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
     "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
     "episode": "8",
+    "date": "24 مايو, 2026",
+    "date_sort": "2026-05-24"
+  },
+  {
+    "anime_id": "kirio-fanclub",
+    "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
+    "anime_poster": "data/posters/kirio-fanclub.webp",
+    "episode": "7",
     "date": "24 مايو, 2026",
     "date_sort": "2026-05-24"
   },
@@ -382,21 +398,5 @@
     "episode": "8",
     "date": "27 فبراير, 2025",
     "date_sort": "2025-02-27"
-  },
-  {
-    "anime_id": "ao-no-exorcist-yosuga-hen",
-    "anime_title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
-    "anime_poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
-    "episode": "8",
-    "date": "22 فبراير, 2025",
-    "date_sort": "2025-02-22"
-  },
-  {
-    "anime_id": "sousei-no-aquarion-myth-of-emotions",
-    "anime_title": "انمي Sousei no Aquarion: Myth of Emotions مترجم اون لاين",
-    "anime_poster": "data/posters/sousei-no-aquarion-myth-of-emotions.webp",
-    "episode": "7",
-    "date": "20 فبراير, 2025",
-    "date_sort": "2025-02-20"
   }
 ]
