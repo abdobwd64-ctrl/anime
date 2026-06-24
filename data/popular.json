@@ -260,6 +260,23 @@
     "score": 28
   },
   {
+    "id": "haikyuu-second-season",
+    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
+    "poster": "data/posters/haikyuu-second-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2015",
+    "score": 28
+  },
+  {
     "id": "black-cat",
     "title": "انمي Black Cat مترجم اون لاين",
     "poster": "data/posters/black-cat.webp",
@@ -350,23 +367,6 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "شتاء 2016",
-    "score": 27
-  },
-  {
-    "id": "haikyuu-second-season",
-    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
-    "poster": "data/posters/haikyuu-second-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2015",
     "score": 27
   },
   {
