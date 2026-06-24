@@ -968,6 +968,19 @@
     "season": "خريف 2007"
   },
   {
+    "id": "mizu-zokusei-no-mahoutsukai",
+    "title": "انمي Mizu Zokusei no Mahoutsukai مترجم اون لاين",
+    "poster": "data/posters/mizu-zokusei-no-mahoutsukai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "starmyu-3rd-season",
     "title": "انمي Starmyu 3rd Season مترجم اون لاين",
     "poster": "data/posters/starmyu-3rd-season.webp",
