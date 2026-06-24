@@ -422,7 +422,58 @@
           "url": "https://www.mediafire.com/file/2we8abfwxtvk2iw/%5BWitanime.com%5D_GT_EP_17_BD-FHD.mp4/file"
         }
       ]
+    },
+    {
+      "number": "16",
+      "title": "الحلقة 16Golden Time",
+      "date": "31 مارس, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2444086151755"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1hUL6Td1CkgCea3kCIc69BJqegPNkRvfc/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/yGJPiy2ziq"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/w8f4og0kzts6"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/D95wXLBJ#aaZCR71E7g1743vfs4ptbWsLpQIKN8NCEE4Wq1TVaf8"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1hUL6Td1CkgCea3kCIc69BJqegPNkRvfc&export=download"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/s/fyGJPiy2ziq"
+        },
+        {
+          "server": "mediafire",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mediafire.com/file/d2wryo9nhla6040/%5BWitanime.com%5D_GT_EP_16_BD-FHD.mp4/file"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:23:58.807202"
+  "last_updated": "2026-06-24T21:24:05.245746"
 }
