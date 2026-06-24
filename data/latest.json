@@ -16,14 +16,6 @@
     "date_sort": "2026-06-24"
   },
   {
-    "anime_id": "replica-datte-koi-wo-suru",
-    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
-    "episode": "12",
-    "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
-  },
-  {
     "anime_id": "ouran-koukou-host-club",
     "anime_title": "انمي Ouran Koukou Host Club مترجم اون لاين",
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
@@ -302,6 +294,14 @@
     "episode": "8",
     "date": "21 مايو, 2026",
     "date_sort": "2026-05-21"
+  },
+  {
+    "anime_id": "replica-datte-koi-wo-suru",
+    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "episode": "7",
+    "date": "19 مايو, 2026",
+    "date_sort": "2026-05-19"
   },
   {
     "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
