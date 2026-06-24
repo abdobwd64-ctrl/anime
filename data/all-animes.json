@@ -1,22 +1,5 @@
 [
   {
-    "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
-    "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
-    "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "خريف 2008"
-  },
-  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -483,19 +466,6 @@
     "season": "شتاء 2026"
   },
   {
-    "id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
-    "title": "انمي Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu مترجم اون لاين",
-    "poster": "data/posters/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu.webp",
-    "genres": [
-      "قوى خارقة",
-      "شريحة من الحياة"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "ربيع 2025"
-  },
-  {
     "id": "hataraku-saibou-black-tv",
     "title": "انمي Hataraku Saibou Black (TV) مترجم اون لاين",
     "poster": "data/posters/hataraku-saibou-black-tv.webp",
@@ -509,17 +479,17 @@
     "season": "شتاء 2021"
   },
   {
-    "id": "osananajimi-to-wa-love-comedy-ni-naranai",
-    "title": "انمي Osananajimi to wa Love Comedy ni Naranai مترجم اون لاين",
-    "poster": "data/posters/osananajimi-to-wa-love-comedy-ni-naranai.webp",
+    "id": "tesla-note",
+    "title": "انمي Tesla Note مترجم اون لاين",
+    "poster": "data/posters/tesla-note.webp",
     "genres": [
-      "رومانسي",
-      "كوميدي"
+      "أكشن",
+      "اثارة"
     ],
-    "status": "يعرض الان",
+    "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2026"
+    "episodes_count": "13",
+    "season": "خريف 2021"
   },
   {
     "id": "biao-ren-er",
@@ -643,23 +613,6 @@
     "season": "صيف 2024"
   },
   {
-    "id": "dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu",
-    "title": "انمي Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu مترجم اون لاين",
-    "poster": "data/posters/dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "حلقة خاصة",
-    "episodes_count": "1",
-    "season": "شتاء 1997"
-  },
-  {
     "id": "ousama-ranking",
     "title": "انمي Ousama Ranking مترجم اون لاين",
     "poster": "data/posters/ousama-ranking.webp",
@@ -730,31 +683,20 @@
     "season": "ربيع 2026"
   },
   {
-    "id": "otaku-ni-yasashii-gal-wa-inai",
-    "title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
-    "poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
+    "id": "the-witcher-sirens-of-the-deep",
+    "title": "انمي The Witcher: Sirens of the Deep مترجم اون لاين",
+    "poster": "data/posters/the-witcher-sirens-of-the-deep.webp",
     "genres": [
-      "رومانسي",
-      "كوميدي",
-      "سينين",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026"
-  },
-  {
-    "id": "blue-thermal",
-    "title": "انمي Blue Thermal مترجم اون لاين",
-    "poster": "data/posters/blue-thermal.webp",
-    "genres": [
-      "دراما"
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "اثارة"
     ],
     "status": "مكتمل",
     "type": "فيلم",
     "episodes_count": "1",
-    "season": "شتاء 2021"
+    "season": "شتاء 2025"
   },
   {
     "id": "dragon-ball-z-movie-11-super-senshi-gekiha-katsu-no-wa-ore-da",
@@ -889,6 +831,21 @@
     "type": "تلفزيون",
     "episodes_count": "47",
     "season": "ربيع 2006"
+  },
+  {
+    "id": "beastars-2nd-season",
+    "title": "انمي Beastars 2nd Season مترجم اون لاين",
+    "poster": "data/posters/beastars-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "نفسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "ginga-eiyuu-densetsu",

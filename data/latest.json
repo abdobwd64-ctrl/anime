@@ -200,14 +200,6 @@
     "date_sort": "2026-06-20"
   },
   {
-    "anime_id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
-    "anime_title": "انمي Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu مترجم اون لاين",
-    "anime_poster": "data/posters/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu.webp",
-    "episode": "1",
-    "date": "20 يونيو, 2026",
-    "date_sort": "2026-06-20"
-  },
-  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -243,14 +235,6 @@
     "anime_id": "marriagetoxin",
     "anime_title": "انمي Marriagetoxin مترجم اون لاين",
     "anime_poster": "data/posters/marriagetoxin.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026",
-    "date_sort": "2026-06-17"
-  },
-  {
-    "anime_id": "otaku-ni-yasashii-gal-wa-inai",
-    "anime_title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
-    "anime_poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
     "episode": "11",
     "date": "17 يونيو, 2026",
     "date_sort": "2026-06-17"
@@ -396,6 +380,22 @@
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
     "episode": "11",
+    "date": "12 يونيو, 2026",
+    "date_sort": "2026-06-12"
+  },
+  {
+    "anime_id": "tensei-shitara-slime-datta-ken-4th-season",
+    "anime_title": "انمي Tensei shitara Slime Datta Ken 4th Season مترجم اون لاين",
+    "anime_poster": "data/posters/tensei-shitara-slime-datta-ken-4th-season.webp",
+    "episode": "10",
+    "date": "12 يونيو, 2026",
+    "date_sort": "2026-06-12"
+  },
+  {
+    "anime_id": "biao-ren-er",
+    "anime_title": "انمي Biao Ren Er مترجم اون لاين",
+    "anime_poster": "data/posters/biao-ren-er.webp",
+    "episode": "1",
     "date": "12 يونيو, 2026",
     "date_sort": "2026-06-12"
   }
