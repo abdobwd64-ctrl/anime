@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 164
+    "score": 165
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 57
+    "score": 58
   },
   {
     "id": "cowboy-bebop",
@@ -443,20 +443,17 @@
     "score": 7
   },
   {
-    "id": "date-a-live-movie-mayuri-judgment",
-    "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
-    "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
+    "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+    "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
+    "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
     "genres": [
-      "أكشن",
       "فنتازيا",
-      "رومانسي",
-      "خيال علمي",
-      "حريم"
+      "جوسي"
     ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "صيف 2015",
-    "score": 6
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026",
+    "score": 7
   }
 ]

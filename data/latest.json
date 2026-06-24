@@ -8,14 +8,6 @@
     "date_sort": "2026-06-22"
   },
   {
-    "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
-    "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
-    "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026",
-    "date_sort": "2026-06-17"
-  },
-  {
     "anime_id": "kirio-fanclub",
     "anime_title": "انمي Kirio Fanclub مترجم اون لاين",
     "anime_poster": "data/posters/kirio-fanclub.webp",
@@ -278,6 +270,14 @@
     "episode": "6",
     "date": "13 مايو, 2026",
     "date_sort": "2026-05-13"
+  },
+  {
+    "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
+    "anime_title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
+    "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
+    "episode": "6",
+    "date": "12 مايو, 2026",
+    "date_sort": "2026-05-12"
   },
   {
     "anime_id": "boku-no-hero-academia-more",
