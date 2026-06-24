@@ -139,7 +139,7 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2018",
-    "score": 21
+    "score": 22
   },
   {
     "id": "prism-rondo",
@@ -254,6 +254,22 @@
     "score": 17
   },
   {
+    "id": "noblesse",
+    "title": "انمي Noblesse مترجم اون لاين",
+    "poster": "data/posters/noblesse.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "مدرسي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020",
+    "score": 17
+  },
+  {
     "id": "mao",
     "title": "انمي Mao مترجم اون لاين",
     "poster": "data/posters/mao.webp",
@@ -299,22 +315,6 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025",
-    "score": 16
-  },
-  {
-    "id": "noblesse",
-    "title": "انمي Noblesse مترجم اون لاين",
-    "poster": "data/posters/noblesse.webp",
-    "genres": [
-      "أكشن",
-      "قوى خارقة",
-      "مدرسي",
-      "مصاصي دماء"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2020",
     "score": 16
   },
   {
