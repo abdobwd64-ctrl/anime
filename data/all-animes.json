@@ -556,6 +556,19 @@
     "season": "خريف 2022"
   },
   {
+    "id": "bullbuster",
+    "title": "انمي Bullbuster مترجم اون لاين",
+    "poster": "data/posters/bullbuster.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "boruto-naruto-the-movie",
     "title": "انمي Boruto: Naruto the Movie مترجم اون لاين",
     "poster": "data/posters/boruto-naruto-the-movie.webp",
