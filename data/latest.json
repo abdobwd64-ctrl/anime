@@ -360,6 +360,14 @@
     "date_sort": "2023-08-01"
   },
   {
+    "anime_id": "bastard-ankoku-no-hakaishin-season-2-ona",
+    "anime_title": "انمي Bastard!! Ankoku no Hakaishin Season 2 (ONA) مترجم اون لاين",
+    "anime_poster": "data/posters/bastard-ankoku-no-hakaishin-season-2-ona.webp",
+    "episode": "13",
+    "date": "01 أغسطس, 2023",
+    "date_sort": "2023-08-01"
+  },
+  {
     "anime_id": "dr-stone-new-world",
     "anime_title": "انمي Dr. Stone: New World مترجم اون لاين",
     "anime_poster": "data/posters/dr-stone-new-world.webp",
@@ -390,13 +398,5 @@
     "episode": "1",
     "date": "12 مايو, 2023",
     "date_sort": "2023-05-12"
-  },
-  {
-    "anime_id": "ousama-ranking",
-    "anime_title": "انمي Ousama Ranking مترجم اون لاين",
-    "anime_poster": "data/posters/ousama-ranking.webp",
-    "episode": "9",
-    "date": "09 ديسمبر, 2021",
-    "date_sort": "2021-12-09"
   }
 ]
