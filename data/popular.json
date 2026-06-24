@@ -39,7 +39,7 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "شتاء 2009",
-    "score": 23
+    "score": 24
   },
   {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
@@ -193,6 +193,19 @@
     "episodes_count": "1",
     "season": "ربيع 2025",
     "score": 5
+  },
+  {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026",
+    "score": 2
   },
   {
     "id": "let-s-all-love-lain",

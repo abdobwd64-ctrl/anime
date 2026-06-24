@@ -107,6 +107,18 @@
     "season": "خريف 2021"
   },
   {
+    "id": "fangkai-nage-nuwu",
+    "title": "انمي Fangkai Nage Nuwu مترجم اون لاين",
+    "poster": "data/posters/fangkai-nage-nuwu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
