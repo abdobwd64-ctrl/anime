@@ -432,7 +432,216 @@
           "url": "https://uptobox.com/w7akvhm6nfw5"
         }
       ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Love Live! Nijigasaki Gakuen School Idol Doukoukai",
+      "date": "20 ديسمبر, 2020",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/Xdq19hEDea"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1885104114394"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1oR3SHcTWNhG9cpmbylxNXyRQMkEhONv7/preview"
+        },
+        {
+          "name": "dood to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/cbuomnjn5c166al18q0u9st8wsza7vg3"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-81dvqn6s18k4.html"
+        },
+        {
+          "name": "segavid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://segavid.com/embed-sfkvw321tlq9.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-bd2edf5p8wdk.html"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-fpkmzlhlwk0q.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/oJAgnTRQ#_43V28IxQtvYkfoXtFHbOajlQTr4rawzNpEGmsZmhhw"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/dm7harrck520"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1885105228506"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ZPZCSW5NLnihQwQuRMCkZbQ98DvMaI5Q/preview"
+        },
+        {
+          "name": "dood to | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/gndvjpkfeibv9gb6pkfjw9f0tbupgbyk"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-qrl1i6lpc36k.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9BZXACBb#LWZWC18tOwaffpG87Lf6VzdHHLHWS7_qAyIX1KY1Upw"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1885105687258"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1L5TUS3QxJ-VXxTlg0VIBGS-n06ofQPYR/preview"
+        },
+        {
+          "name": "dood to | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/c4g7j9xtiatos8ww0u75xo5qq2cqbjj4"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-uzra0q1izrp5.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/MBRgkTJD#kr1lDHaRWy8oMP1OUQyS1ZDl2Knh2SCFXoS86ynMQnw"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/yzogcq2hw631"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1L5TUS3QxJ-VXxTlg0VIBGS-n06ofQPYR&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/MBRgkTJD#kr1lDHaRWy8oMP1OUQyS1ZDl2Knh2SCFXoS86ynMQnw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/uzra0q1izrp5"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/271fC"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/fs9o17cwa3n1"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/mno580q8phm0"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1oR3SHcTWNhG9cpmbylxNXyRQMkEhONv7&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/oJAgnTRQ#_43V28IxQtvYkfoXtFHbOajlQTr4rawzNpEGmsZmhhw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/bd2edf5p8wdk"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/271fA"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/4yPvX8VjM7jgW"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/dm7harrck520"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/s/fXdq19hEDea"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/ecbkl8g1986z"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1ZPZCSW5NLnihQwQuRMCkZbQ98DvMaI5Q&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/9BZXACBb#LWZWC18tOwaffpG87Lf6VzdHHLHWS7_qAyIX1KY1Upw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qrl1i6lpc36k"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/271fB"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0rtncft9gpr3"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:18:28.777002"
+  "last_updated": "2026-06-24T20:18:34.747515"
 }

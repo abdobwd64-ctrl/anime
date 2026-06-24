@@ -30,7 +30,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 52
+    "score": 53
   },
   {
     "id": "nana",
@@ -271,6 +271,23 @@
     "score": 16
   },
   {
+    "id": "liar-game",
+    "title": "انمي Liar Game مترجم اون لاين",
+    "poster": "data/posters/liar-game.webp",
+    "genres": [
+      "دراما",
+      "العاب",
+      "نفسي",
+      "سينين",
+      "اثارة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 16
+  },
+  {
     "id": "kanojo-okarishimasu-5th-season",
     "title": "انمي Kanojo, Okarishimasu 5th Season مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
@@ -410,23 +427,6 @@
     "genres": [
       "أكشن",
       "شونين"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
-    "score": 15
-  },
-  {
-    "id": "liar-game",
-    "title": "انمي Liar Game مترجم اون لاين",
-    "poster": "data/posters/liar-game.webp",
-    "genres": [
-      "دراما",
-      "العاب",
-      "نفسي",
-      "سينين",
-      "اثارة"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
