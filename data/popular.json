@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 99
+    "score": 100
   },
   {
     "id": "cowboy-bebop",
@@ -92,21 +92,6 @@
     "score": 18
   },
   {
-    "id": "world-trigger-3rd-season",
-    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
-    "poster": "data/posters/world-trigger-3rd-season.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2021",
-    "score": 17
-  },
-  {
     "id": "ao-no-exorcist-yosuga-hen",
     "title": "انمي Ao no Exorcist: Yosuga-hen مترجم اون لاين",
     "poster": "data/posters/ao-no-exorcist-yosuga-hen.webp",
@@ -121,7 +106,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025",
-    "score": 16
+    "score": 17
+  },
+  {
+    "id": "world-trigger-3rd-season",
+    "title": "انمي World Trigger 3rd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 17
   },
   {
     "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
@@ -318,7 +318,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020",
-    "score": 9
+    "score": 11
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
