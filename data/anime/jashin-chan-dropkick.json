@@ -1163,7 +1163,152 @@
           "url": "https://www.4shared.com/video/W1vF-Tboiq/Anime4upcom_JCDS2_EP_04_HD.html"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الأونا 3Jashin-chan Dropkick'",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1kSY2a2ghfUxpAiXUqEIVWvZ6Nh_g6DzF/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2dbo3&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/MDK4dxzvQ2x33"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/_FxfZqB7ea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9nwzwDQL#47osKfME2fO_LW-JB1bwexA-3r8yG0Izedj4zVyuKKw"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/06bapx62vc7c"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-cw0x30y9rbll.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-qiuhrebc4b11.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-lonb9uolqwmg.html"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1tp4mzS8v_Zb5GLiyi2sZA7iq-Q17JKFH/preview"
+        },
+        {
+          "name": "letsupload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1xe0M&w=640&h=320"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/QrpxlbKI#IdFU_XVN3vAyrzefagU7xaFXceNAS7mX0WBg8Ly40qI"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-2jirj8ar6wzf.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/88q7p83s9snn"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1tp4mzS8v_Zb5GLiyi2sZA7iq-Q17JKFH&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/QrpxlbKI#IdFU_XVN3vAyrzefagU7xaFXceNAS7mX0WBg8Ly40qI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2jirj8ar6wzf"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/1838c9nlfcd6"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/1xe0M/[Anime4up.com]_JCDS2_EP_03_SD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/lonb9uolqwmg"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1kSY2a2ghfUxpAiXUqEIVWvZ6Nh_g6DzF&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/9nwzwDQL#47osKfME2fO_LW-JB1bwexA-3r8yG0Izedj4zVyuKKw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qiuhrebc4b11"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/06bapx62vc7c"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/MDK4dxzvQ2x33"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2dbo3/[Anime4up.com]_JCDS2_EP_03_HD.mp4"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/_FxfZqB7ea/Anime4upcom_JCDS2_EP_03_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:29:16.922507"
+  "last_updated": "2026-06-24T20:29:24.419161"
 }
