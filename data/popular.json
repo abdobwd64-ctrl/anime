@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 425
+    "score": 426
   },
   {
     "id": "naruto",
@@ -316,6 +316,23 @@
     "score": 30
   },
   {
+    "id": "boku-no-hero-academia-2nd-season",
+    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2017",
+    "score": 30
+  },
+  {
     "id": "haikyuu-second-season",
     "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
     "poster": "data/posters/haikyuu-second-season.webp",
@@ -381,23 +398,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024",
-    "score": 29
-  },
-  {
-    "id": "boku-no-hero-academia-2nd-season",
-    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2017",
     "score": 29
   },
   {
@@ -492,22 +492,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2024",
-    "score": 28
-  },
-  {
-    "id": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
-    "title": "انمي JoJo no Kimyou na Bouken Part 3: Stardust Crusaders مترجم اون لاين",
-    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "ربيع 2014",
     "score": 28
   }
 ]
