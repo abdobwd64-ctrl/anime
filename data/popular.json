@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 155
+    "score": 156
   },
   {
     "id": "black-clover",
@@ -32,7 +32,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2017",
-    "score": 47
+    "score": 48
   },
   {
     "id": "cowboy-bebop",
@@ -429,6 +429,20 @@
     "score": 7
   },
   {
+    "id": "kirio-fanclub",
+    "title": "انمي Kirio Fanclub مترجم اون لاين",
+    "poster": "data/posters/kirio-fanclub.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
+    "score": 7
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -443,23 +457,6 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2015",
-    "score": 6
-  },
-  {
-    "id": "dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi",
-    "title": "انمي Dragon Ball Z Movie 06: Gekitotsu!! 100-oku Power no Senshi-tachi مترجم اون لاين",
-    "poster": "data/posters/dragon-ball-z-movie-06-gekitotsu-100-oku-power-no-senshi-tachi.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "شتاء 1992",
     "score": 6
   }
 ]
