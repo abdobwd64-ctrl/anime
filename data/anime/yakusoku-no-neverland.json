@@ -682,7 +682,97 @@
           "url": "https://openload.co/f/u4sDW3jgLDI/[Animetak.com]_YNN_EP_04.mp4"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Yakusoku no Neverland",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1WAKN9-433epNdh9ICRq4PQmQhkwqGTbh/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!er4WlK4Z!UkWUdDdxVfwoPosSzTJNyBjxAKQ4C3vb5NuAGPJ8f30"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-e31boebsh03k.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1WAKN9-433epNdh9ICRq4PQmQhkwqGTbh&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!er4WlK4Z!UkWUdDdxVfwoPosSzTJNyBjxAKQ4C3vb5NuAGPJ8f30"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/ad3c15a7f5c51542"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0defwe00m5jg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/FMh5r9SjnjU/[Animetak.com]_YNN_EP_03.mp4"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Yakusoku no Neverland",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-2airkl879inm.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!3yB3XQoQ!IuZAPk1jgyK4QacpP9XKHIe-DRrsK4uyNuVhHcKPfUc"
+        },
+        {
+          "name": "3rbup | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://3rbup.com/plugins/mediaplayer/site/_embed.php?u=6d57e90d6a5d8157&w=640&h=320"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/6d57e90d6a5d8157"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/6ez8xqh7875r"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/98-KhCn2FgY/[Animetak.com]_YNN_EP_02.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:22:54.367254"
+  "last_updated": "2026-06-24T21:23:02.807970"
 }
