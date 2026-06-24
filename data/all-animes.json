@@ -55,6 +55,18 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "deaimon",
+    "title": "انمي Deaimon مترجم اون لاين",
+    "poster": "data/posters/deaimon.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "nomad-megalo-box-2",
     "title": "انمي Nomad: Megalo Box 2 مترجم اون لاين",
     "poster": "data/posters/nomad-megalo-box-2.webp",
