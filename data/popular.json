@@ -405,6 +405,21 @@
     "score": 27
   },
   {
+    "id": "golden-time",
+    "title": "انمي Golden Time مترجم اون لاين",
+    "poster": "data/posters/golden-time.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013",
+    "score": 27
+  },
+  {
     "id": "tu-bian-yingxiong-x",
     "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
     "poster": "data/posters/tu-bian-yingxiong-x.webp",
@@ -460,20 +475,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2025",
-    "score": 26
-  },
-  {
-    "id": "long-zu-ii-daowangzhe-zhi-tong",
-    "title": "انمي Long Zu II: Daowangzhe Zhi Tong مترجم اون لاين",
-    "poster": "data/posters/long-zu-ii-daowangzhe-zhi-tong.webp",
-    "genres": [
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "صيف 2025",
     "score": 26
   }
 ]
