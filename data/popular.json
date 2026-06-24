@@ -15,7 +15,7 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007",
-    "score": 103
+    "score": 104
   },
   {
     "id": "cowboy-bebop",
@@ -124,23 +124,6 @@
     "score": 17
   },
   {
-    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
-    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "11",
-    "season": "صيف 2020",
-    "score": 16
-  },
-  {
     "id": "koi-to-producer-evol-love",
     "title": "انمي Koi to Producer: EVOL×LOVE مترجم اون لاين",
     "poster": "data/posters/koi-to-producer-evol-love.webp",
@@ -154,6 +137,23 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
+    "season": "صيف 2020",
+    "score": 17
+  },
+  {
+    "id": "sword-art-online-alicization-war-of-underworld-2nd-season",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld 2nd Season مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
     "season": "صيف 2020",
     "score": 16
   },
@@ -332,7 +332,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024",
-    "score": 7
+    "score": 8
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -435,6 +435,21 @@
     "score": 5
   },
   {
+    "id": "dragon-ball-z-movie-14-kami-to-kami",
+    "title": "انمي Dragon Ball Z Movie 14: Kami to Kami مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-14-kami-to-kami.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2013",
+    "score": 4
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-ova.webp",
@@ -447,21 +462,6 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2013",
-    "score": 4
-  },
-  {
-    "id": "black-clover-mahou-tei-no-ken",
-    "title": "انمي Black Clover: Mahou Tei no Ken مترجم اون لاين",
-    "poster": "data/posters/black-clover-mahou-tei-no-ken.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "فيلم",
-    "episodes_count": "1",
-    "season": "ربيع 2023",
     "score": 4
   }
 ]

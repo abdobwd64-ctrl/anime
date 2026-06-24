@@ -66,6 +66,20 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "dragon-ball-z-movie-14-kami-to-kami",
+    "title": "انمي Dragon Ball Z Movie 14: Kami to Kami مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-14-kami-to-kami.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2013"
+  },
+  {
     "id": "yi-ren-zhi-xia-6",
     "title": "انمي Yi Ren Zhi Xia 6 مترجم اون لاين",
     "poster": "data/posters/yi-ren-zhi-xia-6.webp",
