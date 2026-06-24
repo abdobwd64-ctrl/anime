@@ -1549,7 +1549,164 @@
           "url": "https://www.4shared.com/video/6tbPPOhqiq/Anime4upcom_NA_EP_211_HD.html"
         }
       ]
+    },
+    {
+      "number": "210",
+      "title": "الحلقة 210Naruto",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/vW93hSolQrZca"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/860715682522"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1TicmfZx8Y93yA2QfdAhDaDTW5mCEeGka/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/SBRgmSqZ#ECr2reVwUb_WZqzEX1yu-7EcrUYL9kU-rjnVdYcis_4"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/oa0mr6n52kko"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-x6pvv9psrep1.html"
+        },
+        {
+          "name": "vidfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidfast.co/embed-x9geib1mj5or.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ico23u8r1rsv.html"
+        },
+        {
+          "name": "file-upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-upload.com/embed-6rttjg0nw9qo.html"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/vW93hSolQrZca"
+        },
+        {
+          "name": "d000d | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://d000d.com/e/qunzpih7v9bd"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-nhsc8ebpo16t.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/Xwe44MrxBkWZK"
+        },
+        {
+          "name": "vadbam | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-9w25cr4ob0uo.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3385210702554"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/XNjTZQOYiq/"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-wl99f1rq8g3g.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/wbEHBLDQ!UHismP2RkMlneX8SD05FlKHbz4Wz56ATx2JnhgqwGhg"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/4bzy1jmg82sg"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/6rttjg0nw9qo"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1TicmfZx8Y93yA2QfdAhDaDTW5mCEeGka&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/SBRgmSqZ#ECr2reVwUb_WZqzEX1yu-7EcrUYL9kU-rjnVdYcis_4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ico23u8r1rsv"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/oa0mr6n52kko"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/1vbqhpcxl1ja"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wl99f1rq8g3g"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/vW93hSolQrZca"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!wbEHBLDQ!UHismP2RkMlneX8SD05FlKHbz4Wz56ATx2JnhgqwGhg"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/Xwe44MrxBkWZK"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/qunzpih7v9bd"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/XNjTZQOYiq/Anime4upcom_NA_EP_210_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:14:26.938373"
+  "last_updated": "2026-06-24T20:14:35.598313"
 }
