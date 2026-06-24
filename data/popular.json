@@ -234,6 +234,22 @@
     "score": 17
   },
   {
+    "id": "replica-datte-koi-wo-suru",
+    "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
+    "poster": "data/posters/replica-datte-koi-wo-suru.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2026",
+    "score": 17
+  },
+  {
     "id": "sentai-red-isekai-de-boukensha-ni-naru",
     "title": "انمي Sentai Red Isekai de Boukensha ni Naru مترجم اون لاين",
     "poster": "data/posters/sentai-red-isekai-de-boukensha-ni-naru.webp",
@@ -249,22 +265,6 @@
     "episodes_count": "12",
     "season": "شتاء 2025",
     "score": 17
-  },
-  {
-    "id": "replica-datte-koi-wo-suru",
-    "title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "poster": "data/posters/replica-datte-koi-wo-suru.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "قوى خارقة",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "13",
-    "season": "ربيع 2026",
-    "score": 16
   },
   {
     "id": "champignon-no-majo",
@@ -296,6 +296,21 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025",
+    "score": 16
+  },
+  {
+    "id": "tadaima-ojamasaremasu",
+    "title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
+    "poster": "data/posters/tadaima-ojamasaremasu.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شوجو"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026",
     "score": 16
   },
   {
@@ -359,11 +374,12 @@
     "score": 15
   },
   {
-    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
-    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
+    "id": "aishiteru-game-wo-owarasetai",
+    "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
+    "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
     "genres": [
       "رومانسي",
+      "كوميدي",
       "مدرسي"
     ],
     "status": "يعرض الان",
@@ -373,13 +389,12 @@
     "score": 15
   },
   {
-    "id": "tadaima-ojamasaremasu",
-    "title": "انمي Tadaima, Ojamasaremasu! مترجم اون لاين",
-    "poster": "data/posters/tadaima-ojamasaremasu.webp",
+    "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
+    "title": "انمي Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta مترجم اون لاين",
+    "poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
     "genres": [
       "رومانسي",
-      "كوميدي",
-      "شوجو"
+      "مدرسي"
     ],
     "status": "يعرض الان",
     "type": "تلفزيون",
@@ -441,21 +456,6 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026",
-    "score": 14
-  },
-  {
-    "id": "aishiteru-game-wo-owarasetai",
-    "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2026",
     "score": 14
   }
 ]
