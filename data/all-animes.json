@@ -592,6 +592,19 @@
     "season": "خريف 2018"
   },
   {
+    "id": "shiunji-ke-no-kodomotachi",
+    "title": "انمي Shiunji-ke no Kodomotachi مترجم اون لاين",
+    "poster": "data/posters/shiunji-ke-no-kodomotachi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "kin-no-kuni-mizu-no-kuni",
     "title": "انمي Kin no Kuni Mizu no Kuni مترجم اون لاين",
     "poster": "data/posters/kin-no-kuni-mizu-no-kuni.webp",
