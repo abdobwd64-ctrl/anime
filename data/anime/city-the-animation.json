@@ -1735,7 +1735,114 @@
           "url": "http://uupbom.com/uoxzjyjf3wnf"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1City The Animation",
+      "date": "09 يوليو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/d381maHMeiIsk"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/d381maHMeiIsk"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/qZFwgAyY!u5FgRBHmIVomb-xKE_uZpLBsX-FeiU2CGe07sTIfDSs"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/wtcqv6z67bd0"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-75rb5n0oefrb.html"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=1GPrPr5lkYcT2G2i"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239360&hd=2&hash=d99d81faefd4b3af&autoplay=1"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0car4kkqppl9.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ybm9lb54opfk.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/XFUSEBpa!x1D1xg-bQDAOi83CCj_RjSpqbumq3a2UmSDeVaB6upI"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-jh8mdvzxf0a0.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!XFUSEBpa!x1D1xg-bQDAOi83CCj_RjSpqbumq3a2UmSDeVaB6upI"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/rzpdw85gf1ic"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/jh8mdvzxf0a0"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!qZFwgAyY!u5FgRBHmIVomb-xKE_uZpLBsX-FeiU2CGe07sTIfDSs"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/wtcqv6z67bd0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0car4kkqppl9"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/75rb5n0oefrb"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/d381maHMeiIsk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ybm9lb54opfk"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T23:19:09.518572"
+  "last_updated": "2026-06-24T23:19:16.884756"
 }
