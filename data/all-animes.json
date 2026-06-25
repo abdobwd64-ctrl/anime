@@ -1731,6 +1731,19 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "jigokuraku",
+    "title": "انمي Jigokuraku مترجم اون لاين",
+    "poster": "data/posters/jigokuraku.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "bukiyou-na-senpai",
     "title": "انمي Bukiyou na Senpai. مترجم اون لاين",
     "poster": "data/posters/bukiyou-na-senpai.webp",
@@ -2271,6 +2284,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "deatte-5-byou-de-battle",
+    "title": "انمي Deatte 5-byou de Battle مترجم اون لاين",
+    "poster": "data/posters/deatte-5-byou-de-battle.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
   },
   {
     "id": "mf-ghost-3rd-season",
@@ -5027,6 +5054,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2014"
+  },
+  {
+    "id": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu",
+    "title": "انمي Boku no Tonari ni Ankoku Hakaishin ga Imasu. مترجم اون لاين",
+    "poster": "data/posters/boku-no-tonari-ni-ankoku-hakaishin-ga-imasu.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة",
+      "جوسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "tongari-boushi-no-atelier",
