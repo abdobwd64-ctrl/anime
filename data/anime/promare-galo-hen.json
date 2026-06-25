@@ -1,0 +1,92 @@
+{
+  "id": "promare-galo-hen",
+  "title": "انمي Promare: Galo-hen مترجم اون لاين",
+  "url": "https://animelek.top/anime/promare-galo-hen/",
+  "poster": "data/posters/promare-galo-hen.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "ربيع 2019",
+  "genres": [
+    "أكشن",
+    "خارق للعادة",
+    "خيال علمي",
+    "ميكا"
+  ],
+  "story": "PROMARE（プロメア）ガロ編",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأونا 1Promare: Galo-hen",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1232813230810"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/10NqkPPI33gpvLkYxnLNcZy55LX2pQLAs/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/vD7GpKVkaPL86"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!U6IATapb!iGfOhG9cNdV9enRvCEhKncp7ZTTZPQ1B7milW47M61c"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/9l1dd4e9o6f2"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=10NqkPPI33gpvLkYxnLNcZy55LX2pQLAs&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!U6IATapb!iGfOhG9cNdV9enRvCEhKncp7ZTTZPQ1B7milW47M61c"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m172ys3xhgot"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/6rKCMHCp4oU/%5BAnime4up.com%5D_PGH_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/9l1dd4e9o6f2"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/r5pow2uaxjtr"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/vD7GpKVkaPL86"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:58:41.457622"
+}

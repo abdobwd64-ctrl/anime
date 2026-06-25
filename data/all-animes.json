@@ -1383,6 +1383,20 @@
     "season": "خريف 2024"
   },
   {
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e",
+    "title": "انمي Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e مترجم اون لاين",
+    "poster": "data/posters/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e.webp",
+    "genres": [
+      "فنتازيا",
+      "سحر",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2020"
+  },
+  {
     "id": "owari-no-seraph-kyuuketsuki-shahar",
     "title": "انمي Owari no Seraph: Kyuuketsuki Shahar مترجم اون لاين",
     "poster": "data/posters/owari-no-seraph-kyuuketsuki-shahar.webp",
@@ -3279,6 +3293,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "aiyou-de-mishi",
+    "title": "انمي Aiyou de Mishi مترجم اون لاين",
+    "poster": "data/posters/aiyou-de-mishi.webp",
+    "genres": [
+      "غموض",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "season": "ربيع 2023"
   },
   {
     "id": "shingeki-no-kyojin",
@@ -6928,6 +6955,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
+    "title": "انمي Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. مترجم اون لاين",
+    "poster": "data/posters/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku",
@@ -13387,6 +13430,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2021"
+  },
+  {
+    "id": "steins-gate-soumei-eichi-no-cognitive-computing",
+    "title": "انمي Steins;Gate: Soumei Eichi no Cognitive Computing مترجم اون لاين",
+    "poster": "data/posters/steins-gate-soumei-eichi-no-cognitive-computing.webp",
+    "genres": [
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "4",
+    "season": "خريف 2014"
   },
   {
     "id": "babylon",
@@ -20783,6 +20839,19 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "kanojo-ga-koushaku-tei-ni-itta-riyuu",
+    "title": "انمي Kanojo ga Koushaku-tei ni Itta Riyuu مترجم اون لاين",
+    "poster": "data/posters/kanojo-ga-koushaku-tei-ni-itta-riyuu.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-shin-shou-meikyuu-hen.webp",
@@ -26472,6 +26541,21 @@
     "season": "خريف 2016"
   },
   {
+    "id": "tate-no-yuusha-no-nariagari-season-3",
+    "title": "انمي Tate no Yuusha no Nariagari Season 3 مترجم اون لاين",
+    "poster": "data/posters/tate-no-yuusha-no-nariagari-season-3.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
+  },
+  {
     "id": "re-zero-kara-hajimeru-isekai-seikatsu-memory-snow",
     "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow مترجم اون لاين",
     "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-memory-snow.webp",
@@ -28537,6 +28621,21 @@
     "season": "صيف 2022"
   },
   {
+    "id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
+    "poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "subarashiki-kono-sekai-the-animation",
     "title": "انمي Subarashiki Kono Sekai The Animation مترجم اون لاين",
     "poster": "data/posters/subarashiki-kono-sekai-the-animation.webp",
@@ -28577,6 +28676,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "promare-galo-hen",
+    "title": "انمي Promare: Galo-hen مترجم اون لاين",
+    "poster": "data/posters/promare-galo-hen.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
   },
   {
     "id": "izure-saikyou-no-renkinjutsushi",
