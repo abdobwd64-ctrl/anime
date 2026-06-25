@@ -1962,6 +1962,21 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "hatena-illusion",
+    "title": "انمي Hatena☆Illusion مترجم اون لاين",
+    "poster": "data/posters/hatena-illusion.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "yakunara-mug-cup-mo-niban-gama",
     "title": "انمي Yakunara Mug Cup mo: Niban Gama مترجم اون لاين",
     "poster": "data/posters/yakunara-mug-cup-mo-niban-gama.webp",
@@ -5481,6 +5496,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "dragon-ball",
+    "title": "انمي Dragon Ball مترجم اون لاين",
+    "poster": "data/posters/dragon-ball.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "153",
+    "season": "شتاء 1986"
+  },
+  {
     "id": "megaton-kyuu-musashi",
     "title": "انمي Megaton-kyuu Musashi مترجم اون لاين",
     "poster": "data/posters/megaton-kyuu-musashi.webp",
@@ -5838,6 +5867,25 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2025"
+  },
+  {
+    "id": "mugen-no-juunin-immortal",
+    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
+    "poster": "data/posters/mugen-no-juunin-immortal.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "قوى خارقة",
+      "سينين",
+      "فنون قتالية",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "خريف 2019"
   },
   {
     "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
@@ -6430,6 +6478,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2023"
+  },
+  {
+    "id": "ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai",
+    "title": "انمي Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai مترجم اون لاين",
+    "poster": "data/posters/ore-wa-subete-wo-parry-suru-gyaku-kanchigai-no-sekai-saikyou-wa-boukensha-ni-naritai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "yuusha-party-wo-tsuihou-sareta-shiromadoushi-s-rank-boukensha-ni-hirowareru-kono-shiromadoushi-ga-kikakugai-sugiru",
@@ -7274,6 +7336,19 @@
     "season": "خريف 2015"
   },
   {
+    "id": "mononogatari",
+    "title": "انمي Mononogatari مترجم اون لاين",
+    "poster": "data/posters/mononogatari.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "null-peta",
     "title": "انمي Null Peta مترجم اون لاين",
     "poster": "data/posters/null-peta.webp",
@@ -7604,6 +7679,19 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "fate-grand-order-zettai-majuu-sensen-babylonia",
     "title": "انمي Fate/Grand Order: Zettai Majuu Sensen Babylonia مترجم اون لاين",
     "poster": "data/posters/fate-grand-order-zettai-majuu-sensen-babylonia.webp",
@@ -7660,6 +7748,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "seven-knights-revolution-eiyuu-no-keishousha",
+    "title": "انمي Seven Knights Revolution: Eiyuu no Keishousha مترجم اون لاين",
+    "poster": "data/posters/seven-knights-revolution-eiyuu-no-keishousha.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "shine-post",
@@ -8507,6 +8610,21 @@
     "season": "صيف 2021"
   },
   {
+    "id": "radiant",
+    "title": "انمي Radiant مترجم اون لاين",
+    "poster": "data/posters/radiant.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "21",
+    "season": "خريف 2018"
+  },
+  {
     "id": "your-forma",
     "title": "انمي Your Forma مترجم اون لاين",
     "poster": "data/posters/your-forma.webp",
@@ -9275,6 +9393,20 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "dr-stone-new-world",
+    "title": "انمي Dr. Stone: New World مترجم اون لاين",
+    "poster": "data/posters/dr-stone-new-world.webp",
+    "genres": [
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "shakunetsu-kabaddi",
     "title": "انمي Shakunetsu Kabaddi مترجم اون لاين",
     "poster": "data/posters/shakunetsu-kabaddi.webp",
@@ -9731,6 +9863,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2019"
+  },
+  {
+    "id": "do-it-yourself",
+    "title": "انمي Do It Yourself!! مترجم اون لاين",
+    "poster": "data/posters/do-it-yourself.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "shinigami-bocchan-to-kuro-maid",
@@ -11184,6 +11329,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "solo-leveling-season-2-arise-from-the-shadow-ore-dake-level-up-na-ken-season-2",
+    "title": "انمي Solo Leveling Season 2: Arise from the Shadow (Ore dake Level Up na Ken Season 2) مترجم اون لاين",
+    "poster": "data/posters/solo-leveling-season-2-arise-from-the-shadow-ore-dake-level-up-na-ken-season-2.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2025"
   },
   {
     "id": "runway-de-waratte",

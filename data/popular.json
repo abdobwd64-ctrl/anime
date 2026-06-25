@@ -171,6 +171,21 @@
     "score": 101
   },
   {
+    "id": "dragon-ball",
+    "title": "انمي Dragon Ball مترجم اون لاين",
+    "poster": "data/posters/dragon-ball.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "153",
+    "season": "شتاء 1986",
+    "score": 100
+  },
+  {
     "id": "world-trigger",
     "title": "انمي World Trigger مترجم اون لاين",
     "poster": "data/posters/world-trigger.webp",
@@ -437,6 +452,26 @@
     "score": 32
   },
   {
+    "id": "mugen-no-juunin-immortal",
+    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
+    "poster": "data/posters/mugen-no-juunin-immortal.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "قوى خارقة",
+      "سينين",
+      "فنون قتالية",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "خريف 2019",
+    "score": 32
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -466,37 +501,5 @@
     "episodes_count": "غير معروف",
     "season": "ربيع 2022",
     "score": 31
-  },
-  {
-    "id": "shingeki-no-kyojin",
-    "title": "انمي Shingeki no Kyojin مترجم اون لاين",
-    "poster": "data/posters/shingeki-no-kyojin.webp",
-    "genres": [
-      "أكشن",
-      "حربي",
-      "غموض",
-      "خارق للعادة",
-      "دراما",
-      "فنتازيا",
-      "شونين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2013",
-    "score": 31
-  },
-  {
-    "id": "captain-tsubasa-season-2-junior-youth-hen",
-    "title": "انمي Captain Tsubasa Season 2: Junior Youth-hen مترجم اون لاين",
-    "poster": "data/posters/captain-tsubasa-season-2-junior-youth-hen.webp",
-    "genres": [
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "39",
-    "season": "خريف 2023",
-    "score": 30
   }
 ]
