@@ -394,6 +394,20 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei",
+    "title": "انمي Yowai 5000-nen no Soushoku Dragon, Iwarenaki Jaryuu Nintei مترجم اون لاين",
+    "poster": "data/posters/yowai-5000-nen-no-soushoku-dragon-iwarenaki-jaryuu-nintei.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "kengan-ashura-season-2-part-2",
     "title": "انمي Kengan Ashura Season 2 Part 2 مترجم اون لاين",
     "poster": "data/posters/kengan-ashura-season-2-part-2.webp",
@@ -789,6 +803,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "kin-no-kuni-mizu-no-kuni",
+    "title": "انمي Kin no Kuni Mizu no Kuni مترجم اون لاين",
+    "poster": "data/posters/kin-no-kuni-mizu-no-kuni.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
   },
   {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
@@ -1931,6 +1958,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "hello-world",
+    "title": "انمي Hello World مترجم اون لاين",
+    "poster": "data/posters/hello-world.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2019"
   },
   {
     "id": "dr-stone-science-future",
@@ -3592,6 +3631,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "shunkashuutou-daikousha-haru-no-mai",
+    "title": "انمي Shunkashuutou Daikousha: Haru no Mai مترجم اون لاين",
+    "poster": "data/posters/shunkashuutou-daikousha-haru-no-mai.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "-oshi-no-ko",
     "title": "انمي \"Oshi no Ko\" مترجم اون لاين",
     "poster": "data/posters/-oshi-no-ko.webp",
@@ -4128,6 +4181,23 @@
     "season": "خريف 2019"
   },
   {
+    "id": "edens-zero",
+    "title": "انمي Edens Zero مترجم اون لاين",
+    "poster": "data/posters/edens-zero.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "darwin-jihen",
     "title": "انمي Darwin Jihen مترجم اون لاين",
     "poster": "data/posters/darwin-jihen.webp",
@@ -4648,6 +4718,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "aria-the-benedizione",
+    "title": "انمي Aria the Benedizione مترجم اون لاين",
+    "poster": "data/posters/aria-the-benedizione.webp",
+    "genres": [
+      "فنتازيا",
+      "خيال علمي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "zuoshou-shanglan-2nd-season",
@@ -5720,6 +5804,18 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "aharen-san-wa-hakarenai",
+    "title": "انمي Aharen-san wa Hakarenai مترجم اون لاين",
+    "poster": "data/posters/aharen-san-wa-hakarenai.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "tonikaku-kawaii-joshikou-hen",
     "title": "انمي Tonikaku Kawaii: Joshikou-hen مترجم اون لاين",
     "poster": "data/posters/tonikaku-kawaii-joshikou-hen.webp",
@@ -5760,6 +5856,50 @@
     "type": "تلفزيون",
     "episodes_count": "21",
     "season": "خريف 2022"
+  },
+  {
+    "id": "zuihou-de-zhaohuan-shi",
+    "title": "انمي Zuihou de Zhaohuan Shi مترجم اون لاين",
+    "poster": "data/posters/zuihou-de-zhaohuan-shi.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
+    "id": "urusei-yatsura-2022",
+    "title": "انمي Urusei Yatsura (2022) مترجم اون لاين",
+    "poster": "data/posters/urusei-yatsura-2022.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "خريف 2022"
+  },
+  {
+    "id": "getter-robo-arc",
+    "title": "انمي Getter Robo Arc مترجم اون لاين",
+    "poster": "data/posters/getter-robo-arc.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2021"
   },
   {
     "id": "aishiteru-game-wo-owarasetai",
@@ -6012,6 +6152,23 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2023"
+  },
+  {
+    "id": "dorohedoro",
+    "title": "انمي Dorohedoro مترجم اون لاين",
+    "poster": "data/posters/dorohedoro.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي",
+      "سحر",
+      "رعب",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
@@ -7219,6 +7376,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "houkago-saikoro-club",
+    "title": "انمي Houkago Saikoro Club مترجم اون لاين",
+    "poster": "data/posters/houkago-saikoro-club.webp",
+    "genres": [
+      "شونين",
+      "العاب",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "strike-the-blood-final",
     "title": "انمي Strike the Blood Final مترجم اون لاين",
     "poster": "data/posters/strike-the-blood-final.webp",
@@ -7541,6 +7713,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "omae-umasou-da-na",
+    "title": "انمي Omae Umasou da na مترجم اون لاين",
+    "poster": "data/posters/omae-umasou-da-na.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2010"
   },
   {
     "id": "kowloon-generic-romance",
@@ -8896,6 +9083,16 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "hikuidori-ushuu-boro-tobi-gumi",
+    "title": "انمي Hikuidori: Ushuu Boro Tobi-gumi مترجم اون لاين",
+    "poster": "data/posters/hikuidori-ushuu-boro-tobi-gumi.webp",
+    "genres": [],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   },
   {
     "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet",
@@ -12912,6 +13109,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "pon-no-michi",
+    "title": "انمي Pon no Michi مترجم اون لاين",
+    "poster": "data/posters/pon-no-michi.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "douse-koishite-shimaunda-2nd-season",
     "title": "انمي Douse, Koishite Shimaunda. 2nd Season مترجم اون لاين",
     "poster": "data/posters/douse-koishite-shimaunda-2nd-season.webp",
@@ -13291,6 +13501,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2018"
+  },
+  {
+    "id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-2-paladin-agateram",
+    "title": "انمي Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 2 - Paladin; Agateram مترجم اون لاين",
+    "poster": "data/posters/fate-grand-order-shinsei-entaku-ryouiki-camelot-2-paladin-agateram.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2021"
   },
   {
     "id": "tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-ova",
