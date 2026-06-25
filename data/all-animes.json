@@ -10799,6 +10799,19 @@
     "season": "خريف 2012"
   },
   {
+    "id": "fate-strange-fake",
+    "title": "انمي Fate/strange Fake مترجم اون لاين",
+    "poster": "data/posters/fate-strange-fake.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "youjo-senki",
     "title": "انمي Youjo Senki مترجم اون لاين",
     "poster": "data/posters/youjo-senki.webp",
