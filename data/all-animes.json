@@ -2196,6 +2196,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "quanzhi-gaoshou-2",
+    "title": "انمي Quanzhi Gaoshou 2 مترجم اون لاين",
+    "poster": "data/posters/quanzhi-gaoshou-2.webp",
+    "genres": [
+      "أكشن",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "صيف 2020"
+  },
+  {
     "id": "houkago-teibou-nisshi",
     "title": "انمي Houkago Teibou Nisshi مترجم اون لاين",
     "poster": "data/posters/houkago-teibou-nisshi.webp",
