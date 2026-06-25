@@ -98,7 +98,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 88
+    "score": 89
   },
   {
     "id": "hajime-no-ippo",
@@ -270,21 +270,6 @@
     "score": 39
   },
   {
-    "id": "nana",
-    "title": "انمي Nana مترجم اون لاين",
-    "poster": "data/posters/nana.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "ربيع 2006",
-    "score": 37
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -301,7 +286,22 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
-    "score": 36
+    "score": 37
+  },
+  {
+    "id": "nana",
+    "title": "انمي Nana مترجم اون لاين",
+    "poster": "data/posters/nana.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "ربيع 2006",
+    "score": 37
   },
   {
     "id": "hanyou-no-yashahime-sengoku-otogizoushi",
