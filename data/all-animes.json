@@ -10186,6 +10186,19 @@
     "season": "ربيع 2006"
   },
   {
+    "id": "ninja-to-gokudou",
+    "title": "انمي Ninja to Gokudou مترجم اون لاين",
+    "poster": "data/posters/ninja-to-gokudou.webp",
+    "genres": [
+      "أكشن",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "zashiki-warashi-no-tatami-chan",
     "title": "انمي Zashiki Warashi no Tatami-chan مترجم اون لاين",
     "poster": "data/posters/zashiki-warashi-no-tatami-chan.webp",
