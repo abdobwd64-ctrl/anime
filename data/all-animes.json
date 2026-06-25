@@ -3630,6 +3630,22 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "ranma-2024",
+    "title": "انمي Ranma ½ (2024) مترجم اون لاين",
+    "poster": "data/posters/ranma-2024.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "فنون قتالية",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu",
     "title": "انمي Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu مترجم اون لاين",
     "poster": "data/posters/shirobuta-kizoku-desu-ga-zense-no-kioku-ga-haeta-node-hiyoko-na-otouto-sodatemasu.webp",
