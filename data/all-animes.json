@@ -290,6 +290,19 @@
     "season": "صيف 2007"
   },
   {
+    "id": "high-school-kimengumi-2026",
+    "title": "انمي High School! Kimengumi (2026) مترجم اون لاين",
+    "poster": "data/posters/high-school-kimengumi-2026.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "uruwashi-no-yoi-no-tsuki",
     "title": "انمي Uruwashi no Yoi no Tsuki مترجم اون لاين",
     "poster": "data/posters/uruwashi-no-yoi-no-tsuki.webp",
@@ -830,6 +843,21 @@
     "season": "صيف 2017"
   },
   {
+    "id": "princess-lover",
+    "title": "انمي Princess Lover! مترجم اون لاين",
+    "poster": "data/posters/princess-lover.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2009"
+  },
+  {
     "id": "ji-yao-lu-qicheng-pian",
     "title": "انمي Ji Yao Lu: Qicheng Pian مترجم اون لاين",
     "poster": "data/posters/ji-yao-lu-qicheng-pian.webp",
@@ -1052,6 +1080,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "wixoss-diva-a-live",
+    "title": "انمي WIXOSS Diva(A)Live مترجم اون لاين",
+    "poster": "data/posters/wixoss-diva-a-live.webp",
+    "genres": [
+      "العاب",
+      "نفسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "high-school-dxd-hero",
@@ -3159,6 +3200,20 @@
     "season": "صيف 2021"
   },
   {
+    "id": "gintama-season-4",
+    "title": "انمي Gintama season 4 مترجم اون لاين",
+    "poster": "https://animelek.top/uploads/posters/poster-Gintama--676807b304407.jpg?1.0.38",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "boku-no-hero-academia-the-movie-2-heroes-rising",
     "title": "انمي Boku no Hero Academia the Movie 2: Heroes:Rising مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-the-movie-2-heroes-rising.webp",
@@ -4205,6 +4260,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2019"
+  },
+  {
+    "id": "assault-lily-bouquet",
+    "title": "انمي Assault Lily: Bouquet مترجم اون لاين",
+    "poster": "data/posters/assault-lily-bouquet.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "soba-e",
@@ -8264,6 +8333,21 @@
     "season": "صيف 2025"
   },
   {
+    "id": "tensura-nikki-tensei-shitara-slime-datta-ken",
+    "title": "انمي Tensura Nikki: Tensei shitara Slime Datta Ken مترجم اون لاين",
+    "poster": "data/posters/tensura-nikki-tensei-shitara-slime-datta-ken.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "mahoutsukai-no-yome-season-2-part-2",
     "title": "انمي Mahoutsukai no Yome Season 2 Part 2 مترجم اون لاين",
     "poster": "data/posters/mahoutsukai-no-yome-season-2-part-2.webp",
@@ -9072,6 +9156,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "fuuto-tantei",
+    "title": "انمي Fuuto Tantei مترجم اون لاين",
+    "poster": "data/posters/fuuto-tantei.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2022"
   },
   {
     "id": "biao-ren-er",
@@ -10325,6 +10424,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2025"
+  },
+  {
+    "id": "isekai-shikkaku",
+    "title": "انمي Isekai Shikkaku مترجم اون لاين",
+    "poster": "data/posters/isekai-shikkaku.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "dragon-ball-daima",
@@ -11582,6 +11695,19 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "jaku-chara-tomozaki-kun-2nd-stage",
+    "title": "انمي Jaku-Chara Tomozaki-kun 2nd Stage مترجم اون لاين",
+    "poster": "data/posters/jaku-chara-tomozaki-kun-2nd-stage.webp",
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "natsunagu",
     "title": "انمي Natsunagu! مترجم اون لاين",
     "poster": "data/posters/natsunagu.webp",
@@ -12540,6 +12666,22 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "koutetsujou-no-kabaneri-movie-3-unato-kessen",
+    "title": "انمي Koutetsujou no Kabaneri Movie 3: Unato Kessen مترجم اون لاين",
+    "poster": "data/posters/koutetsujou-no-kabaneri-movie-3-unato-kessen.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "قوى خارقة",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "pet",
     "title": "انمي Pet مترجم اون لاين",
     "poster": "data/posters/pet.webp",
@@ -12553,6 +12695,23 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "steel-ball-run-jojo-no-kimyou-na-bouken",
+    "title": "انمي Steel Ball Run: JoJo no Kimyou na Bouken مترجم اون لاين",
+    "poster": "data/posters/steel-ball-run-jojo-no-kimyou-na-bouken.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   },
   {
     "id": "akiba-maid-sensou",
@@ -13021,6 +13180,19 @@
     "type": "تلفزيون",
     "episodes_count": "73",
     "season": "خريف 2014"
+  },
+  {
+    "id": "meitantei-conan-movie-14-tenkuu-no-lost-ship",
+    "title": "انمي Meitantei Conan Movie 14: Tenkuu no Lost Ship مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-14-tenkuu-no-lost-ship.webp",
+    "genres": [
+      "أكشن",
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2010"
   },
   {
     "id": "inuyasha-kanketsu-hen",
@@ -14375,6 +14547,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "3d-kanojo-real-girl-2nd-season",
+    "title": "انمي 3D Kanojo: Real Girl 2nd Season مترجم اون لاين",
+    "poster": "data/posters/3d-kanojo-real-girl-2nd-season.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "great-pretender",
@@ -16946,6 +17132,19 @@
     "season": "شتاء 1988"
   },
   {
+    "id": "meitantei-conan-movie-20-junkoku-no-nightmare",
+    "title": "انمي Meitantei Conan Movie 20: Junkoku no Nightmare مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-20-junkoku-no-nightmare.webp",
+    "genres": [
+      "أكشن",
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2016"
+  },
+  {
     "id": "tonari-no-kaibutsu-kun",
     "title": "انمي Tonari no Kaibutsu-kun مترجم اون لاين",
     "poster": "data/posters/tonari-no-kaibutsu-kun.webp",
@@ -17988,6 +18187,18 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "genjitsu-no-yohane-sunshine-in-the-mirror",
+    "title": "انمي Genjitsu no Yohane: Sunshine in the Mirror مترجم اون لاين",
+    "poster": "data/posters/genjitsu-no-yohane-sunshine-in-the-mirror.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
     "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 مترجم اون لاين",
     "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
@@ -18039,6 +18250,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "mairimashita-iruma-kun-4th-season",
+    "title": "انمي Mairimashita! Iruma-kun 4th Season مترجم اون لاين",
+    "poster": "data/posters/mairimashita-iruma-kun-4th-season.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2026"
   },
   {
     "id": "boku-no-hero-academia-final-season",
@@ -18742,6 +18968,22 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "cop-craft",
+    "title": "انمي Cop Craft مترجم اون لاين",
+    "poster": "data/posters/cop-craft.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "خيال علمي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "isekai-cheat-magician-yoiboshi-no-matsuri-to-majutsushi",
     "title": "انمي Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi مترجم اون لاين",
     "poster": "data/posters/isekai-cheat-magician-yoiboshi-no-matsuri-to-majutsushi.webp",
@@ -18898,6 +19140,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2018"
+  },
+  {
+    "id": "takt-op-destiny",
+    "title": "انمي Takt Op. Destiny مترجم اون لاين",
+    "poster": "data/posters/takt-op-destiny.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2021"
   },
   {
     "id": "hunter-x-hunter-pilot",

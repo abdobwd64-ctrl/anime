@@ -449,6 +449,21 @@
     "score": 55
   },
   {
+    "id": "gintama-season-4",
+    "title": "انمي Gintama season 4 مترجم اون لاين",
+    "poster": "https://animelek.top/uploads/posters/poster-Gintama--676807b304407.jpg?1.0.38",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2015",
+    "score": 54
+  },
+  {
     "id": "captain-tsubasa-2018",
     "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
     "poster": "data/posters/captain-tsubasa-2018.webp",
@@ -490,21 +505,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2020",
-    "score": 50
-  },
-  {
-    "id": "ashita-no-joe-2",
-    "title": "انمي Ashita no Joe 2 مترجم اون لاين",
-    "poster": "data/posters/ashita-no-joe-2.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "خريف 1980",
     "score": 50
   }
 ]
