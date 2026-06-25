@@ -1,0 +1,81 @@
+{
+  "id": "yu-gi-oh-vrains",
+  "title": "انمي Yu☆Gi☆Oh! VRAINS مترجم اون لاين",
+  "url": "https://animelek.top/anime/yu-gi-oh-vrains/",
+  "poster": "data/posters/yu-gi-oh-vrains.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "120",
+  "start_date": "2017",
+  "season": "ربيع 2017",
+  "genres": [
+    "أكشن",
+    "فنتازيا",
+    "شونين",
+    "العاب",
+    "خيال علمي"
+  ],
+  "story": "تدور احداث قصة انمي Yu☆Gi☆Oh! VRAINS الموسم السادس حول يوساكو الشاب الذي يكره الوقوف خارجا الا انه عكس ذلك في المدرسة, يوساكو يبدأ لقاءاته مع الآخرين من خلال المبارزات، ويبدأ المضي قدما.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة 1Yu☆Gi☆Oh! VRAINS",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Wc-ToHL4USFpMbTbv2AUZDyx2uQpSn7E/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!2vZUyAiJ!RTI4cbw_0a98kfReF_9Tq2zobqnqZRjfUo3Ws64JD80"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/eMMnzXwFda"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-y00e1g55fjhs.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0i4waihvwul5"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!2vZUyAiJ!RTI4cbw_0a98kfReF_9Tq2zobqnqZRjfUo3Ws64JD80"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/40m6010dbzjh"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/iDDWJGBGzS4/Yu-Gi-Oh%21_VRAINS_-_01_%5B720p%5D%5BCimaClub%5D.mkv"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/xfhqghzh5ujq"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1Wc-ToHL4USFpMbTbv2AUZDyx2uQpSn7E&export=download"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:31:45.593405"
+}

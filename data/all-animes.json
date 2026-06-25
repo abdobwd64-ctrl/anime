@@ -113,6 +113,18 @@
     "season": "خريف 2021"
   },
   {
+    "id": "synduality-noir",
+    "title": "انمي Synduality: Noir مترجم اون لاين",
+    "poster": "data/posters/synduality-noir.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2023"
+  },
+  {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
     "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
     "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
@@ -1406,6 +1418,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2023"
+  },
+  {
+    "id": "the-idolm-ster-shiny-colors-2nd-season",
+    "title": "انمي The iDOLM@STER Shiny Colors 2nd Season مترجم اون لاين",
+    "poster": "data/posters/the-idolm-ster-shiny-colors-2nd-season.webp",
+    "genres": [
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "ginga-eiyuu-densetsu-die-neue-these-sakubou",
@@ -3512,6 +3537,18 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "healer-girl",
+    "title": "انمي Healer Girl مترجم اون لاين",
+    "poster": "data/posters/healer-girl.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "goumon-baito-kun-no-nichijou",
     "title": "انمي Goumon Baito-kun no Nichijou مترجم اون لاين",
     "poster": "data/posters/goumon-baito-kun-no-nichijou.webp",
@@ -4228,6 +4265,22 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "clannad-after-story",
+    "title": "انمي Clannad: After Story مترجم اون لاين",
+    "poster": "data/posters/clannad-after-story.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2008"
+  },
+  {
     "id": "yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita",
     "title": "انمي Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita. مترجم اون لاين",
     "poster": "data/posters/yuusha-party-ni-kawaii-ko-ga-ita-node-kokuhaku-shitemita.webp",
@@ -4409,6 +4462,25 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "saijaku-muhai-no-bahamut",
+    "title": "انمي Saijaku Muhai no Bahamut مترجم اون لاين",
+    "poster": "data/posters/saijaku-muhai-no-bahamut.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "قوى خارقة",
+      "مدرسي",
+      "ميكا",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2016"
   },
   {
     "id": "kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai",
@@ -5261,6 +5333,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "turkey",
+    "title": "انمي Turkey! مترجم اون لاين",
+    "poster": "data/posters/turkey.webp",
+    "genres": [
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "tokyo-ghoul-a",
     "title": "انمي Tokyo Ghoul √A مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-a.webp",
@@ -5978,6 +6063,22 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "somali-to-mori-no-kamisama",
+    "title": "انمي Somali to Mori no Kamisama مترجم اون لاين",
+    "poster": "data/posters/somali-to-mori-no-kamisama.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "شياطين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "mononoke-movie-dai-2-shou-hinezumi",
@@ -8853,6 +8954,19 @@
     "season": "صيف 2020"
   },
   {
+    "id": "jashin-chan-dropkick-x",
+    "title": "انمي Jashin-chan Dropkick X مترجم اون لاين",
+    "poster": "data/posters/jashin-chan-dropkick-x.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "shadowverse-flame-recap",
     "title": "انمي Shadowverse Flame Recap مترجم اون لاين",
     "poster": "data/posters/shadowverse-flame-recap.webp",
@@ -9338,6 +9452,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2023"
+  },
+  {
+    "id": "spy-x-family-part-2",
+    "title": "انمي Spy x Family Part 2 مترجم اون لاين",
+    "poster": "data/posters/spy-x-family-part-2.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2022"
   },
   {
     "id": "isekai-ojisan",
@@ -10057,6 +10184,37 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2025"
+  },
+  {
+    "id": "yu-gi-oh-vrains",
+    "title": "انمي Yu☆Gi☆Oh! VRAINS مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-vrains.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "120",
+    "season": "ربيع 2017"
+  },
+  {
+    "id": "double-decker-doug-kirill-extra",
+    "title": "انمي Double Decker! Doug & Kirill: Extra مترجم اون لاين",
+    "poster": "data/posters/double-decker-doug-kirill-extra.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "3",
+    "season": "شتاء 2019"
   },
   {
     "id": "haikyuu-second-season",
@@ -12340,6 +12498,20 @@
     "season": "ربيع 2012"
   },
   {
+    "id": "honey-lemon-soda",
+    "title": "انمي Honey Lemon Soda مترجم اون لاين",
+    "poster": "data/posters/honey-lemon-soda.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "kaizoku-oujo",
     "title": "انمي Kaizoku Oujo مترجم اون لاين",
     "poster": "data/posters/kaizoku-oujo.webp",
@@ -13266,6 +13438,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "jojo-no-kimyou-na-bouken-part-3-stardust-crusaders",
+    "title": "انمي JoJo no Kimyou na Bouken Part 3: Stardust Crusaders مترجم اون لاين",
+    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-3-stardust-crusaders.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2014"
   },
   {
     "id": "chuuzenji-sensei-mononoke-kougiroku-sensei-ga-nazo-wo-hodoite-shimau-kara",
@@ -14635,6 +14822,18 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "build-divide-code-white",
+    "title": "انمي Build Divide: Code White مترجم اون لاين",
+    "poster": "data/posters/build-divide-code-white.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova",
     "title": "انمي Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen OVA مترجم اون لاين",
     "poster": "data/posters/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen-ova.webp",
@@ -14732,6 +14931,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2018"
+  },
+  {
+    "id": "revisions",
+    "title": "انمي Revisions مترجم اون لاين",
+    "poster": "data/posters/revisions.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-2-paladin-agateram",
