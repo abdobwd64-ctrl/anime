@@ -173,21 +173,6 @@
     "score": 57
   },
   {
-    "id": "captain-tsubasa-2018",
-    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
-    "poster": "data/posters/captain-tsubasa-2018.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2018",
-    "score": 52
-  },
-  {
     "id": "ginga-eiyuu-densetsu",
     "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu.webp",
@@ -201,6 +186,21 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
+    "score": 53
+  },
+  {
+    "id": "captain-tsubasa-2018",
+    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
+    "poster": "data/posters/captain-tsubasa-2018.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2018",
     "score": 52
   },
   {
