@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 1174
+    "score": 979
   },
   {
     "id": "naruto",
@@ -34,40 +34,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 225
-  },
-  {
-    "id": "yu-gi-oh-duel-monsters-gx",
-    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
-    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "العاب",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "180",
-    "season": "خريف 2004",
-    "score": 181
-  },
-  {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
-    "score": 114
+    "score": 146
   },
   {
     "id": "hokuto-no-ken",
@@ -87,6 +54,22 @@
     "score": 112
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 109
+  },
+  {
     "id": "fairy-tail-2014",
     "title": "انمي Fairy Tail (2014) مترجم اون لاين",
     "poster": "data/posters/fairy-tail-2014.webp",
@@ -100,54 +83,6 @@
     "episodes_count": "102",
     "season": "ربيع 2014",
     "score": 104
-  },
-  {
-    "id": "gegege-no-kitarou-2018",
-    "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
-    "poster": "data/posters/gegege-no-kitarou-2018.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "قوى خارقة",
-      "شياطين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "97",
-    "season": "ربيع 2018",
-    "score": 101
-  },
-  {
-    "id": "world-trigger",
-    "title": "انمي World Trigger مترجم اون لاين",
-    "poster": "data/posters/world-trigger.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "خيال علمي",
-      "قوى خارقة",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "73",
-    "season": "خريف 2014",
-    "score": 78
-  },
-  {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 76
   },
   {
     "id": "digimon-adventure",
@@ -184,7 +119,7 @@
     "type": "تلفزيون",
     "episodes_count": "64",
     "season": "ربيع 2009",
-    "score": 72
+    "score": 69
   },
   {
     "id": "dragon-ball-kai-2014",
@@ -206,40 +141,19 @@
     "score": 68
   },
   {
-    "id": "bakuten-shoot-beyblade",
-    "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
-    "poster": "data/posters/bakuten-shoot-beyblade.webp",
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
     "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
+      "دراما",
       "كوميدي",
-      "خيال علمي",
       "رياضي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "خريف 2001",
-    "score": 57
-  },
-  {
-    "id": "shaman-king-2021",
-    "title": "انمي Shaman King (2021) مترجم اون لاين",
-    "poster": "data/posters/shaman-king-2021.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2021",
-    "score": 57
+    "episodes_count": "75",
+    "season": "خريف 2000",
+    "score": 58
   },
   {
     "id": "captain-tsubasa-2018",
@@ -257,21 +171,6 @@
     "score": 52
   },
   {
-    "id": "nana",
-    "title": "انمي Nana مترجم اون لاين",
-    "poster": "data/posters/nana.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "ربيع 2006",
-    "score": 51
-  },
-  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -286,22 +185,7 @@
     "type": "تلفزيون",
     "episodes_count": "51",
     "season": "ربيع 2016",
-    "score": 48
-  },
-  {
-    "id": "great-teacher-onizuka",
-    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
-    "poster": "data/posters/great-teacher-onizuka.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "صيف 1999",
-    "score": 46
+    "score": 47
   },
   {
     "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
@@ -321,61 +205,19 @@
     "score": 44
   },
   {
-    "id": "digimon-beatbreak",
-    "title": "انمي Digimon Beatbreak مترجم اون لاين",
-    "poster": "data/posters/digimon-beatbreak.webp",
+    "id": "nana",
+    "title": "انمي Nana مترجم اون لاين",
+    "poster": "data/posters/nana.webp",
     "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2025",
-    "score": 39
-  },
-  {
-    "id": "hanyou-no-yashahime-sengoku-otogizoushi",
-    "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
-    "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "سحر",
-      "قوى خارقة",
-      "شياطين",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2020",
-    "score": 32
-  },
-  {
-    "id": "mugen-no-juunin-immortal",
-    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
-    "poster": "data/posters/mugen-no-juunin-immortal.webp",
-    "genres": [
-      "أكشن",
       "دراما",
-      "مغامرات",
-      "قوى خارقة",
-      "سينين",
-      "فنون قتالية",
-      "تاريخي",
-      "ساموراي"
+      "رومانسي",
+      "موسيقي"
     ],
     "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "خريف 2019",
-    "score": 32
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "ربيع 2006",
+    "score": 37
   },
   {
     "id": "mushishi",
@@ -406,26 +248,38 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022",
-    "score": 31
+    "score": 30
   },
   {
-    "id": "shingeki-no-kyojin",
-    "title": "انمي Shingeki no Kyojin مترجم اون لاين",
-    "poster": "data/posters/shingeki-no-kyojin.webp",
+    "id": "garo-honoo-no-kokuin",
+    "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
+    "poster": "data/posters/garo-honoo-no-kokuin.webp",
     "genres": [
       "أكشن",
-      "حربي",
-      "غموض",
-      "خارق للعادة",
-      "دراما",
       "فنتازيا",
-      "شونين"
+      "سحر",
+      "قوى خارقة",
+      "شياطين"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2013",
-    "score": 31
+    "episodes_count": "24",
+    "season": "خريف 2014",
+    "score": 29
+  },
+  {
+    "id": "hajime-no-ippo-new-challenger",
+    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "شتاء 2009",
+    "score": 28
   },
   {
     "id": "nanatsu-no-taizai",
@@ -444,46 +298,159 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2014",
-    "score": 31
+    "score": 28
   },
   {
-    "id": "fruits-basket-2nd-season",
-    "title": "انمي Fruits Basket 2nd Season مترجم اون لاين",
-    "poster": "data/posters/fruits-basket-2nd-season.webp",
+    "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
+    "title": "انمي Nanatsu no Taizai: Mokushiroku no Yonkishi مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-mokushiroku-no-yonkishi.webp",
     "genres": [
-      "دراما",
-      "رومانسي",
-      "كوميدي",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "شوجو"
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
-    "score": 31
+    "episodes_count": "24",
+    "season": "خريف 2023",
+    "score": 28
   },
   {
-    "id": "toaru-majutsu-no-index-iii",
-    "title": "انمي Toaru Majutsu no Index III مترجم اون لاين",
-    "poster": "data/posters/toaru-majutsu-no-index-iii.webp",
+    "id": "fairy-tail-100-nen-quest",
+    "title": "انمي Fairy Tail: 100-nen Quest مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-100-nen-quest.webp",
     "genres": [
       "أكشن",
-      "خارق للعادة",
-      "سحر",
-      "خيال علمي"
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "صيف 2024",
+    "score": 28
+  },
+  {
+    "id": "monogatari-series-second-season",
+    "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
+    "poster": "data/posters/monogatari-series-second-season.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "26",
-    "season": "خريف 2018",
-    "score": 30
+    "season": "صيف 2013",
+    "score": 27
   },
   {
-    "id": "boku-no-hero-academia-4th-season",
-    "title": "انمي Boku no Hero Academia 4th Season مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-4th-season.webp",
+    "id": "kingdom-4th-season",
+    "title": "انمي Kingdom 4th Season مترجم اون لاين",
+    "poster": "data/posters/kingdom-4th-season.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022",
+    "score": 27
+  },
+  {
+    "id": "tu-bian-yingxiong-x",
+    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
+    "poster": "data/posters/tu-bian-yingxiong-x.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "ربيع 2025",
+    "score": 26
+  },
+  {
+    "id": "blue-lock",
+    "title": "انمي Blue Lock مترجم اون لاين",
+    "poster": "data/posters/blue-lock.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2022",
+    "score": 26
+  },
+  {
+    "id": "the-fable",
+    "title": "انمي The Fable مترجم اون لاين",
+    "poster": "data/posters/the-fable.webp",
+    "genres": [
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2024",
+    "score": 26
+  },
+  {
+    "id": "ousama-ranking",
+    "title": "انمي Ousama Ranking مترجم اون لاين",
+    "poster": "data/posters/ousama-ranking.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021",
+    "score": 26
+  },
+  {
+    "id": "sengoku-youko-senma-konton-hen",
+    "title": "انمي Sengoku Youko: Senma Konton-hen مترجم اون لاين",
+    "poster": "data/posters/sengoku-youko-senma-konton-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "صيف 2024",
+    "score": 26
+  },
+  {
+    "id": "kakkou-no-iinazuke",
+    "title": "انمي Kakkou no Iinazuke مترجم اون لاين",
+    "poster": "data/posters/kakkou-no-iinazuke.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2022",
+    "score": 26
+  },
+  {
+    "id": "boku-no-hero-academia-2nd-season",
+    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
     "genres": [
       "أكشن",
       "خارق للعادة",
@@ -494,24 +461,24 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "25",
-    "season": "خريف 2019",
-    "score": 30
+    "season": "ربيع 2017",
+    "score": 25
   },
   {
-    "id": "tensei-shitara-slime-datta-ken-3rd-season",
-    "title": "انمي Tensei shitara Slime Datta Ken 3rd Season مترجم اون لاين",
-    "poster": "data/posters/tensei-shitara-slime-datta-ken-3rd-season.webp",
+    "id": "sword-art-online-alicization",
+    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization.webp",
     "genres": [
       "أكشن",
       "فنتازيا",
-      "شونين",
       "مغامرات",
-      "كوميدي"
+      "العاب",
+      "رومانسي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "season": "ربيع 2024",
-    "score": 30
+    "season": "خريف 2018",
+    "score": 24
   }
 ]
