@@ -12439,6 +12439,21 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara",
+    "title": "انمي Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara مترجم اون لاين",
+    "poster": "data/posters/kyuukyoku-shinka-shita-full-dive-rpg-ga-genjitsu-yori-mo-kusoge-dattara.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "العاب",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "atarashii-joushi-wa-do-tennen",
     "title": "انمي Atarashii Joushi wa Do Tennen مترجم اون لاين",
     "poster": "data/posters/atarashii-joushi-wa-do-tennen.webp",
@@ -15809,6 +15824,21 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "ansatsu-kyoushitsu-365-nichi-no-jikan",
+    "title": "انمي Ansatsu Kyoushitsu: 365-nichi no Jikan مترجم اون لاين",
+    "poster": "data/posters/ansatsu-kyoushitsu-365-nichi-no-jikan.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2016"
   },
   {
     "id": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito",

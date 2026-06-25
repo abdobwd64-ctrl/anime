@@ -1,0 +1,76 @@
+{
+  "id": "ansatsu-kyoushitsu-365-nichi-no-jikan",
+  "title": "انمي Ansatsu Kyoushitsu: 365-nichi no Jikan مترجم اون لاين",
+  "url": "https://animelek.top/anime/ansatsu-kyoushitsu-365-nichi-no-jikan/",
+  "poster": "data/posters/ansatsu-kyoushitsu-365-nichi-no-jikan.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2016",
+  "season": "خريف 2016",
+  "genres": [
+    "أكشن",
+    "شونين",
+    "كوميدي",
+    "مدرسي"
+  ],
+  "story": "الفيلم هو ملخص لأحداث انمي Ansatsu Kyoushitsu ويضم بعض المشاهد الجديدة.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Ansatsu Kyoushitsu: 365-nichi no Jikan",
+      "date": "09 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/992628902618"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1G0XNhloy7GkkR0ybxpPjOZIaVsqg26bU/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!urx3UQiA!kU-hWKAQURBQ0Gumn5QgIcfX525DkhVU2StEuC4U3DI"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-ap94oezvb8c3.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1G0XNhloy7GkkR0ybxpPjOZIaVsqg26bU&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!urx3UQiA!kU-hWKAQURBQ0Gumn5QgIcfX525DkhVU2StEuC4U3DI"
+        },
+        {
+          "server": "3rbup",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/e0987a786047767e"
+        },
+        {
+          "server": "openload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ycliHxwrd8s/%5BAnime4up.com%5D_AK365NNJ_FHD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ywn0wkqbh28n"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:38:24.152749"
+}
