@@ -3048,6 +3048,16 @@
     "season": "صيف 2024"
   },
   {
+    "id": "vampire-in-the-garden",
+    "title": "انمي Vampire in the Garden مترجم اون لاين",
+    "poster": "data/posters/vampire-in-the-garden.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "jojo-no-kimyou-na-bouken-part-6-stone-ocean",
     "title": "انمي JoJo no Kimyou na Bouken Part 6: Stone Ocean مترجم اون لاين",
     "poster": "data/posters/jojo-no-kimyou-na-bouken-part-6-stone-ocean.webp",
@@ -4002,6 +4012,21 @@
     "type": "أونا",
     "episodes_count": "20",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "psycho-pass-3-first-inspector",
+    "title": "انمي Psycho-Pass 3: First Inspector مترجم اون لاين",
+    "poster": "data/posters/psycho-pass-3-first-inspector.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "نفسي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "3",
+    "season": "شتاء 2020"
   },
   {
     "id": "kanojo-okarishimasu-3rd-season",
@@ -5336,6 +5361,16 @@
     "season": "خريف 2019"
   },
   {
+    "id": "uma-musume-pretty-derby-shin-jidai-no-tobira",
+    "title": "انمي Uma Musume: Pretty Derby - Shin Jidai no Tobira مترجم اون لاين",
+    "poster": "data/posters/uma-musume-pretty-derby-shin-jidai-no-tobira.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "kun-tun-tianxia-zhi-zhang-men-guilai",
     "title": "انمي Kun Tun Tianxia Zhi Zhang Men Guilai مترجم اون لاين",
     "poster": "data/posters/kun-tun-tianxia-zhi-zhang-men-guilai.webp",
@@ -5564,6 +5599,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1993"
+  },
+  {
+    "id": "tensei-shitara-slime-datta-ken-ova",
+    "title": "انمي Tensei shitara Slime Datta Ken OVA مترجم اون لاين",
+    "poster": "data/posters/tensei-shitara-slime-datta-ken-ova.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "5",
+    "season": "صيف 2019"
   },
   {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
@@ -12005,6 +12053,18 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "na-nare-hana-nare",
+    "title": "انمي Na Nare Hana Nare مترجم اون لاين",
+    "poster": "data/posters/na-nare-hana-nare.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "rock-wa-lady-no-tashinami-deshite",
     "title": "انمي Rock wa Lady no Tashinami deshite مترجم اون لاين",
     "poster": "data/posters/rock-wa-lady-no-tashinami-deshite.webp",
@@ -12812,6 +12872,33 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "goblin-slayer-goblin-s-crown",
+    "title": "انمي Goblin Slayer: Goblin's Crown مترجم اون لاين",
+    "poster": "data/posters/goblin-slayer-goblin-s-crown.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
+  },
+  {
+    "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season",
+    "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season مترجم اون لاين",
+    "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-2nd-season.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "psycho-pass-3",
@@ -14905,6 +14992,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu",
+    "title": "انمي Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu مترجم اون لاين",
+    "poster": "data/posters/ningen-fushin-no-boukensha-tachi-ga-sekai-wo-sukuu-you-desu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "dragon-quest-dai-no-daibouken-2020",
