@@ -11643,6 +11643,20 @@
     "season": "ربيع 2013"
   },
   {
+    "id": "arifureta-shokugyou-de-sekai-saikyou-2nd-season",
+    "title": "انمي Arifureta Shokugyou de Sekai Saikyou 2nd Season مترجم اون لاين",
+    "poster": "data/posters/arifureta-shokugyou-de-sekai-saikyou-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "virtual-san-wa-miteiru",
     "title": "انمي Virtual-san wa Miteiru مترجم اون لاين",
     "poster": "data/posters/virtual-san-wa-miteiru.webp",
@@ -14287,6 +14301,19 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "shin-chuuka-ichiban-2nd-season",
+    "title": "انمي Shin Chuuka Ichiban! 2nd Season مترجم اون لاين",
+    "poster": "data/posters/shin-chuuka-ichiban-2nd-season.webp",
+    "genres": [
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "liar-game",
