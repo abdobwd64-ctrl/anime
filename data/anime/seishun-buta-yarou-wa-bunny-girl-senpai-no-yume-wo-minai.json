@@ -745,7 +745,226 @@
           "url": "https://letsupload.co/1t6sf/[Anime4up.com]_SBYWBGSNYWM_EP_04_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=2P1kx&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/18-5a7rjEQTFswLuyCftK5xV817LSOpys/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!xNkn0a4D!7pnhdEk4TbJ-__7KF2ZICjTbdkSa7gcSNeVvIgTmK5Y"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/jb4ge8si5vh3"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-mrj4ug4grw0i.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vtoc199via7p.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-cvnwe9lyst70.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=18-5a7rjEQTFswLuyCftK5xV817LSOpys&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!xNkn0a4D!7pnhdEk4TbJ-__7KF2ZICjTbdkSa7gcSNeVvIgTmK5Y"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vtoc199via7p"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/jb4ge8si5vh3"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/cvnwe9lyst70"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/2P1kx/[Anime4up.com]_SBYWBGSNYWM_EP_03_HD.mp4"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=4QPsc&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1_aC5XDYOYhlNwmA2BCKQH3rNhDYTl8Fl/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!nvoz3KRK!cdH0DpCWq4SV5c1rOHLWc2AEQn9FuFIg29bdFPJJm-M"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/9m0dwquw0s07"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-8uawvstya99y.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-e5jmiyfczdhz.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-wcunehqhbc5m.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1_aC5XDYOYhlNwmA2BCKQH3rNhDYTl8Fl&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nvoz3KRK!cdH0DpCWq4SV5c1rOHLWc2AEQn9FuFIg29bdFPJJm-M"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/e5jmiyfczdhz"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/9m0dwquw0s07"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/wcunehqhbc5m"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/4QPsc/[Anime4up.com]_SBYWBGSNYWM_EP_02_HD.mp4"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28X1m&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1uuU1xVF0YHvsbV7Nlb7OJHHX6EJP7Xxt/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!nipBTAhI!iQvdomLCb0hv64s5NblpZkSNfmy56th1PG-UOforQo4"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0koq1aozpm5h"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-811sjtgbqc25.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-eguzdxwsw1x3.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-6c8vco9662aj.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1uuU1xVF0YHvsbV7Nlb7OJHHX6EJP7Xxt&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nipBTAhI!iQvdomLCb0hv64s5NblpZkSNfmy56th1PG-UOforQo4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/eguzdxwsw1x3"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0koq1aozpm5h"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/6c8vco9662aj"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/28X1m/[Anime4up.com]_SBYWBGSNYWM_EP_01_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:27:07.780103"
+  "last_updated": "2026-06-25T02:27:46.907108"
 }
