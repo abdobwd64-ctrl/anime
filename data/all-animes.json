@@ -2964,6 +2964,20 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "gintama-enchousen",
+    "title": "انمي Gintama': Enchousen مترجم اون لاين",
+    "poster": "data/posters/gintama-enchousen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2012"
+  },
+  {
     "id": "atri-my-dear-moments",
     "title": "انمي Atri: My Dear Moments مترجم اون لاين",
     "poster": "data/posters/atri-my-dear-moments.webp",
