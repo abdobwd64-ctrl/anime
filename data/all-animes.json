@@ -13711,6 +13711,19 @@
     "season": "صيف 2024"
   },
   {
+    "id": "shoushimin-series",
+    "title": "انمي Shoushimin Series مترجم اون لاين",
+    "poster": "data/posters/shoushimin-series.webp",
+    "genres": [
+      "غموض",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "صيف 2024"
+  },
+  {
     "id": "bye-bye-earth",
     "title": "انمي Bye Bye, Earth مترجم اون لاين",
     "poster": "data/posters/bye-bye-earth.webp",
