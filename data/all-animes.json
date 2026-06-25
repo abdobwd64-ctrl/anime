@@ -3106,6 +3106,24 @@
     "season": "خريف 2021"
   },
   {
+    "id": "nanatsu-no-taizai",
+    "title": "انمي Nanatsu no Taizai مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014"
+  },
+  {
     "id": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
     "title": "انمي Otome Game Sekai wa Mob ni Kibishii Sekai desu مترجم اون لاين",
     "poster": "data/posters/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.webp",
