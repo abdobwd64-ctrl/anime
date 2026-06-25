@@ -5275,6 +5275,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "shoushimin-series-2nd-season",
+    "title": "انمي Shoushimin Series 2nd Season مترجم اون لاين",
+    "poster": "data/posters/shoushimin-series-2nd-season.webp",
+    "genres": [
+      "غموض",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "majo-no-tabitabi",
     "title": "انمي Majo no Tabitabi مترجم اون لاين",
     "poster": "data/posters/majo-no-tabitabi.webp",
@@ -7668,6 +7681,22 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "haikyuu",
+    "title": "انمي Haikyuu!! مترجم اون لاين",
+    "poster": "data/posters/haikyuu.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2014"
+  },
+  {
     "id": "garo-honoo-no-kokuin",
     "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
     "poster": "data/posters/garo-honoo-no-kokuin.webp",
@@ -10038,6 +10067,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "jigokuraku-2nd-season",
+    "title": "انمي Jigokuraku 2nd Season مترجم اون لاين",
+    "poster": "data/posters/jigokuraku-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "idolish7-second-beat",
     "title": "انمي IDOLiSH7: Second Beat! مترجم اون لاين",
     "poster": "data/posters/idolish7-second-beat.webp",
@@ -11191,6 +11234,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu",
+    "title": "انمي Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu مترجم اون لاين",
+    "poster": "data/posters/yarinaoshi-reijou-wa-ryuutei-heika-wo-kouryakuchuu.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "dead-account",
@@ -12594,6 +12652,20 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "shikizakura",
+    "title": "انمي Shikizakura مترجم اون لاين",
+    "poster": "data/posters/shikizakura.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2021"
+  },
+  {
     "id": "boku-no-hero-academia-2nd-season",
     "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
@@ -12705,6 +12777,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2022"
+  },
+  {
+    "id": "meiji-gekken-1874",
+    "title": "انمي Meiji Gekken: 1874 مترجم اون لاين",
+    "poster": "data/posters/meiji-gekken-1874.webp",
+    "genres": [
+      "أكشن",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "شتاء 2024"
   },
   {
     "id": "mayonaka-heart-tune",
@@ -15540,6 +15626,20 @@
     "season": "صيف 2019"
   },
   {
+    "id": "one-piece-3d-mugiwara-chase",
+    "title": "انمي One Piece 3D: Mugiwara Chase مترجم اون لاين",
+    "poster": "data/posters/one-piece-3d-mugiwara-chase.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "love-live-superstar",
     "title": "انمي Love Live! Superstar!! مترجم اون لاين",
     "poster": "https://animelek.top/uploads/posters/poster-Love-Live-Superstar--6143582e763c2.jpg?1.0.38",
@@ -17984,6 +18084,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "owarimonogatari",
+    "title": "انمي Owarimonogatari مترجم اون لاين",
+    "poster": "data/posters/owarimonogatari.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2015"
   },
   {
     "id": "needy-girl-overdose",
