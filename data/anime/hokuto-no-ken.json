@@ -5654,7 +5654,39 @@
         }
       ],
       "downloads": []
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Hokuto no Ken",
+      "date": "21 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1410996439755"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-6cwmt03fqpqg.html"
+        }
+      ],
+      "downloads": []
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Hokuto no Ken",
+      "date": "21 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1410993556171"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-but94fxnea5p.html"
+        }
+      ],
+      "downloads": []
     }
   ],
-  "last_updated": "2026-06-25T02:09:38.452650"
+  "last_updated": "2026-06-25T02:10:12.987494"
 }

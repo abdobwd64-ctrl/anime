@@ -56,6 +56,20 @@
     "season": "ربيع 2017"
   },
   {
+    "id": "mieruko-chan",
+    "title": "انمي Mieruko-chan مترجم اون لاين",
+    "poster": "data/posters/mieruko-chan.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "nasu-andalusia-no-natsu",
     "title": "انمي Nasu: Andalusia no Natsu مترجم اون لاين",
     "poster": "data/posters/nasu-andalusia-no-natsu.webp",
