@@ -478,7 +478,84 @@
           "url": "https://megamax.me/download/elesgjgEDs59E"
         }
       ]
+    },
+    {
+      "number": "%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9",
+      "title": "الأوفا 2",
+      "date": "25 يونيو, 2026",
+      "servers": [
+        {
+          "name": "share4max | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/KOSeoXy1Z35vT"
+        },
+        {
+          "name": "voe sx | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/2xqgnkyt3a3a"
+        },
+        {
+          "name": "dsvplay | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/kgm3v7gqt86k"
+        },
+        {
+          "name": "uqload is | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-fc0agyyk6ji6.html"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-f4oweqr1ng71.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "megamax",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/KOSeoXy1Z35vT"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/f4oweqr1ng71"
+        },
+        {
+          "server": "voe",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://voe.sx/2xqgnkyt3a3a"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/bu8a1auhkecc"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/HnXNm0"
+        },
+        {
+          "server": "uqload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uqload.is/fc0agyyk6ji6.html"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/kgm3v7gqt86k"
+        },
+        {
+          "server": "megamax",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/KOSeoXy1Z35vT"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T04:37:15.170181"
+  "last_updated": "2026-06-25T17:13:53.279951"
 }
