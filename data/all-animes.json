@@ -8971,6 +8971,19 @@
     "season": "صيف 2021"
   },
   {
+    "id": "lord-of-vermilion-guren-no-ou",
+    "title": "انمي Lord of Vermilion: Guren no Ou مترجم اون لاين",
+    "poster": "data/posters/lord-of-vermilion-guren-no-ou.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
+  },
+  {
     "id": "chi-chikyuu-no-undou-ni-tsuite",
     "title": "انمي Chi.: Chikyuu no Undou ni Tsuite مترجم اون لاين",
     "poster": "data/posters/chi-chikyuu-no-undou-ni-tsuite.webp",
@@ -21497,6 +21510,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki",
+    "title": "انمي Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki مترجم اون لاين",
+    "poster": "data/posters/mondaiji-tachi-ga-isekai-kara-kuru-sou-desu-yo-onsen-manyuuki.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2013"
   },
   {
     "id": "kuroko-no-basket",
