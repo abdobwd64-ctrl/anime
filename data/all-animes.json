@@ -2278,6 +2278,21 @@
     "season": "شتاء 2016"
   },
   {
+    "id": "kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season",
+    "title": "انمي Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season مترجم اون لاين",
+    "poster": "data/posters/kimi-no-koto-ga-daidaidaidaidaisuki-na-100-nin-no-kanojo-2nd-season.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "hibi-wa-sugiredo-meshi-umashi",
     "title": "انمي Hibi wa Sugiredo Meshi Umashi مترجم اون لاين",
     "poster": "data/posters/hibi-wa-sugiredo-meshi-umashi.webp",
@@ -6895,6 +6910,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+    "title": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen مترجم اون لاين",
+    "poster": "data/posters/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "gintama-shiroyasha-koutan",
