@@ -3174,6 +3174,20 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "kuroko-no-basket-movie-4-last-game",
+    "title": "انمي Kuroko no Basket Movie 4: Last Game مترجم اون لاين",
+    "poster": "data/posters/kuroko-no-basket-movie-4-last-game.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2017"
+  },
+  {
     "id": "hibike-euphonium-ensemble-contest-hen",
     "title": "انمي Hibike! Euphonium: Ensemble Contest-hen مترجم اون لاين",
     "poster": "data/posters/hibike-euphonium-ensemble-contest-hen.webp",
@@ -9830,6 +9844,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "tokyo-ghoul-pinto",
+    "title": "انمي Tokyo Ghoul: \"Pinto\" مترجم اون لاين",
+    "poster": "data/posters/tokyo-ghoul-pinto.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رعب",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 2015"
   },
   {
     "id": "debu-to-love-to-ayamachi-to",
