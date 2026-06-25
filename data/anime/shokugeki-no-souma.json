@@ -598,7 +598,80 @@
           "url": "https://letsupload.co/4bAuQ/[Anime4up.com]_SNS_EP_17_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "16",
+      "title": "الحلقة 16Shokugeki no Souma",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3vD0f&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Pa6JNqEyWevBAzMqDIwvGc53VmlXe3b9/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!5M52Saoa!x691A3uNNpkBYTe9795GdGKiqAJOhC2_YiX9PJ1h2X0"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/tmj1xamz5p74"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-28tce8cgas8r.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-br03z7vhkc2h.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-9kp8utxvw1f2.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1Pa6JNqEyWevBAzMqDIwvGc53VmlXe3b9&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!5M52Saoa!x691A3uNNpkBYTe9795GdGKiqAJOhC2_YiX9PJ1h2X0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/br03z7vhkc2h"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/tmj1xamz5p74"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/9kp8utxvw1f2"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/3vD0f/[Anime4up.com]_SNS_EP_16_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:21.428876"
+  "last_updated": "2026-06-25T00:29:27.772507"
 }

@@ -309,7 +309,66 @@
           "url": "https://letsupload.co/Qqrc/[Anime4up.com]_NNT_EP_20_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "19",
+      "title": "الحلقة 19Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1sc9eKg-X8YWfAH63tVFUEIfQ9oi9GhlB/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!8fYBDIaK!c6ih_zQotrBKKbd880s6sz9VYUxmBe7paNyeGML9zOU"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/qOI6pw0Yfi"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-t2mf8p44mmma.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/y2pobkne429a"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1sc9eKg-X8YWfAH63tVFUEIfQ9oi9GhlB&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!8fYBDIaK!c6ih_zQotrBKKbd880s6sz9VYUxmBe7paNyeGML9zOU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hujwf9h8bnx4"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/q-ZsFMxCrS8/%5BAnime4up.com%5D_NNT_EP_19_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/y2pobkne429a"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:19.860206"
+  "last_updated": "2026-06-25T00:29:27.356642"
 }
