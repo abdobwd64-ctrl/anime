@@ -1777,6 +1777,19 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "majo-minarai-wo-sagashite",
+    "title": "انمي Majo Minarai wo Sagashite مترجم اون لاين",
+    "poster": "data/posters/majo-minarai-wo-sagashite.webp",
+    "genres": [
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
+  },
+  {
     "id": "youjo-senki-movie",
     "title": "انمي Youjo Senki Movie مترجم اون لاين",
     "poster": "data/posters/youjo-senki-movie.webp",
@@ -9037,6 +9050,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "cencoroll-connect",
+    "title": "انمي Cencoroll Connect مترجم اون لاين",
+    "poster": "data/posters/cencoroll-connect.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
   },
   {
     "id": "birdie-wing-golf-girls-story-season-2",
@@ -22304,6 +22330,19 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "خريف 2024"
+  },
+  {
+    "id": "tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story",
+    "title": "انمي Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story مترجم اون لاين",
+    "poster": "data/posters/tearmoon-teikoku-monogatari-dantoudai-kara-hajimaru-hime-no-tensei-gyakuten-story.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
   },
   {
     "id": "shin-shinka-no-mi-shiranai-uchi-ni-kachigumi-jinsei",

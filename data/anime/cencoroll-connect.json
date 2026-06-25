@@ -1,0 +1,160 @@
+{
+  "id": "cencoroll-connect",
+  "title": "انمي Cencoroll Connect مترجم اون لاين",
+  "url": "https://animelek.top/anime/cencoroll-connect/",
+  "poster": "data/posters/cencoroll-connect.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "ربيع 2019",
+  "genres": [
+    "أكشن",
+    "خيال علمي"
+  ],
+  "story": "قصة الفيلم تتمة لاحداث الفيلم الاول Cencoroll.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Cencoroll Connect",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28wfa&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1FuoRWUAK611bneV5yefJfRTpt22IhMF5/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/KpXdRWwpKGeP4"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/TT2C-eLiiq"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!J8dnRQrL!kyXagj0uwGvP6FK43AmQcC3wGT6bHvzY9vvky20HM70"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/t7iq79t4je2l"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/emb.html?qaze1bt2fpt5=img.vidbm.com/qaze1bt2fpt5"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-2oo7x4nujtx5.html"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Vab0CciuTSexyeNCEsg-d3RQMbbFm4AX/preview"
+        },
+        {
+          "name": "letsupload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=28wh6&w=640&h=320"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!k4VVAA7L!E8lDpu8mwveJBBXtBXSdKScBraBErry74Gem5HG2H3w"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-247sh9gsj3q7.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1Vab0CciuTSexyeNCEsg-d3RQMbbFm4AX&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!k4VVAA7L!E8lDpu8mwveJBBXtBXSdKScBraBErry74Gem5HG2H3w"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/247sh9gsj3q7"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/csj3etsl0s1u"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/8c0q0vvdkl4s"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/28wh6/[Anime4up.com]_CC_SD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1FuoRWUAK611bneV5yefJfRTpt22IhMF5&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!J8dnRQrL!kyXagj0uwGvP6FK43AmQcC3wGT6bHvzY9vvky20HM70"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2oo7x4nujtx5"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/t7iq79t4je2l"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/yvaekn6dei58"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/KpXdRWwpKGeP4"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/28wfa/[Anime4up.com]_CC_HD.mp4"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/TT2C-eLiiq/Anime4upcom_CC_HD.html"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:41:01.553444"
+}
