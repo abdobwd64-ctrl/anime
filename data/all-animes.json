@@ -442,6 +442,21 @@
     "season": "خريف 2018"
   },
   {
+    "id": "yuusha-ga-shinda",
+    "title": "انمي Yuusha ga Shinda! مترجم اون لاين",
+    "poster": "data/posters/yuusha-ga-shinda.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -620,6 +635,19 @@
     "type": "تلفزيون",
     "episodes_count": "20",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "nihon-e-youkoso-elf-san",
+    "title": "انمي Nihon e Youkoso Elf-san. مترجم اون لاين",
+    "poster": "data/posters/nihon-e-youkoso-elf-san.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
   },
   {
     "id": "jujutsu-kaisen-3rd-season",
@@ -1936,6 +1964,20 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "charlotte-tsuyoimono-tachi",
+    "title": "انمي Charlotte: Tsuyoimono-tachi مترجم اون لاين",
+    "poster": "data/posters/charlotte-tsuyoimono-tachi.webp",
+    "genres": [
+      "خارق للعادة",
+      "دراما",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2016"
+  },
+  {
     "id": "senyoku-no-sigrdrifa",
     "title": "انمي Senyoku no Sigrdrifa مترجم اون لاين",
     "poster": "data/posters/senyoku-no-sigrdrifa.webp",
@@ -1966,6 +2008,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2016"
+  },
+  {
+    "id": "dragon-ball-z-movie-08-moetsukiro-nessen-ressen-chougekisen",
+    "title": "انمي Dragon Ball Z Movie 08: Moetsukiro!! Nessen, Ressen, Chougekisen مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-08-moetsukiro-nessen-ressen-chougekisen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 1993"
   },
   {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
@@ -2474,6 +2532,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "nageki-no-bourei-wa-intai-shitai",
+    "title": "انمي Nageki no Bourei wa Intai shitai مترجم اون لاين",
+    "poster": "data/posters/nageki-no-bourei-wa-intai-shitai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2024"
+  },
+  {
     "id": "shachiku-san-wa-youjo-yuurei-ni-iyasaretai",
     "title": "انمي Shachiku-san wa Youjo Yuurei ni Iyasaretai. مترجم اون لاين",
     "poster": "data/posters/shachiku-san-wa-youjo-yuurei-ni-iyasaretai.webp",
@@ -2499,6 +2571,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "mf-ghost",
+    "title": "انمي MF Ghost مترجم اون لاين",
+    "poster": "data/posters/mf-ghost.webp",
+    "genres": [
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
   },
   {
     "id": "let-s-play-quest-darake-no-my-life",
@@ -3221,6 +3305,16 @@
     "season": "صيف 2025"
   },
   {
+    "id": "let-s-all-love-lain",
+    "title": "انمي LET'S ALL LOVE LAIN مترجم اون لاين",
+    "poster": "data/posters/let-s-all-love-lain.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2021"
+  },
+  {
     "id": "girly-air-force",
     "title": "انمي Girly Air Force مترجم اون لاين",
     "poster": "data/posters/girly-air-force.webp",
@@ -3744,6 +3838,22 @@
     "season": "صيف 2025"
   },
   {
+    "id": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+    "title": "انمي Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen مترجم اون لاين",
+    "poster": "data/posters/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "نفسي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "kyochuu-rettou-movie",
     "title": "انمي Kyochuu Rettou Movie مترجم اون لاين",
     "poster": "data/posters/kyochuu-rettou-movie.webp",
@@ -4042,6 +4152,19 @@
     "genres": [
       "دراما",
       "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
+  },
+  {
+    "id": "seijo-no-maryoku-wa-bannou-desu-2nd-season",
+    "title": "انمي Seijo no Maryoku wa Bannou desu 2nd Season مترجم اون لاين",
+    "poster": "data/posters/seijo-no-maryoku-wa-bannou-desu-2nd-season.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
@@ -4606,6 +4729,16 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "bubble",
+    "title": "انمي Bubble مترجم اون لاين",
+    "poster": "data/posters/bubble.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "pet",
     "title": "انمي Pet مترجم اون لاين",
     "poster": "data/posters/pet.webp",
@@ -5125,6 +5258,19 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "chou-kaguya-hime",
+    "title": "انمي Chou Kaguya-hime! مترجم اون لاين",
+    "poster": "data/posters/chou-kaguya-hime.webp",
+    "genres": [
+      "فنتازيا",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "kanojo-okarishimasu-2nd-season",
     "title": "انمي Kanojo, Okarishimasu 2nd Season مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu-2nd-season.webp",
@@ -5181,6 +5327,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "خريف 2024"
+  },
+  {
+    "id": "fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon",
+    "title": "انمي Fate/Grand Order: Shuukyoku Tokuiten - Kani Jikan Shinden Solomon مترجم اون لاين",
+    "poster": "data/posters/fate-grand-order-shuukyoku-tokuiten-kani-jikan-shinden-solomon.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2021"
   },
   {
     "id": "your-forma",
