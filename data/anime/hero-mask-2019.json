@@ -577,7 +577,78 @@
           "url": "https://www.solidfiles.com/v/3PvjjmZzqw68z"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الأونا 1Hero Mask (2019)",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1207385852634"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/11CJRME-MmIt_dkhvhkURDu2jN1b6QnzS/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/DKn7Apdpk6ANQ"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!OihEWCLJ!pU0KC_vUYCIasYZdBb5Jw8-U8-cfsGFCOgKvt76juJk"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/8dixvciod3yb"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=11CJRME-MmIt_dkhvhkURDu2jN1b6QnzS&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!OihEWCLJ!pU0KC_vUYCIasYZdBb5Jw8-U8-cfsGFCOgKvt76juJk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/9xq5h069pxdg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/WghKTaq9qoo/%5BAnime4up.com%5D_MH2019_EP_01_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/8dixvciod3yb"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/oy6putfpla8y"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/DKn7Apdpk6ANQ"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:25:03.724693"
+  "last_updated": "2026-06-25T02:25:26.147962"
 }
