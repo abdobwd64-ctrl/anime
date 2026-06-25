@@ -1224,6 +1224,20 @@
     "season": "ربيع 2013"
   },
   {
+    "id": "kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun",
+    "title": "انمي Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun مترجم اون لاين",
+    "poster": "data/posters/kao-ni-denai-kashiwada-san-to-kao-ni-deru-oota-kun.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "code-geass-hangyaku-no-lelouch-r2",
     "title": "انمي Code Geass: Hangyaku no Lelouch R2 مترجم اون لاين",
     "poster": "data/posters/code-geass-hangyaku-no-lelouch-r2.webp",
@@ -1774,6 +1788,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "undead-unluck",
+    "title": "انمي Undead Unluck مترجم اون لاين",
+    "poster": "data/posters/undead-unluck.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "jujutsu-kaisen-2nd-season-recap",
     "title": "انمي Jujutsu Kaisen 2nd Season Recap مترجم اون لاين",
     "poster": "data/posters/jujutsu-kaisen-2nd-season-recap.webp",
@@ -1935,6 +1964,19 @@
     "type": "تلفزيون",
     "episodes_count": "109",
     "season": "خريف 1984"
+  },
+  {
+    "id": "kamisama-ni-natta-hi",
+    "title": "انمي Kamisama ni Natta Hi مترجم اون لاين",
+    "poster": "data/posters/kamisama-ni-natta-hi.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "kimi-wa-kanata",
@@ -2173,6 +2215,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020"
+  },
+  {
+    "id": "kawaisugi-crisis",
+    "title": "انمي Kawaisugi Crisis مترجم اون لاين",
+    "poster": "data/posters/kawaisugi-crisis.webp",
+    "genres": [
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
   },
   {
     "id": "wo-shi-jiang-xiaobai",
@@ -6527,6 +6582,21 @@
     "season": "خريف 2020"
   },
   {
+    "id": "date-a-live-v",
+    "title": "انمي Date A Live V مترجم اون لاين",
+    "poster": "data/posters/date-a-live-v.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "lupin-iii-part-6",
     "title": "انمي Lupin III: Part 6 مترجم اون لاين",
     "poster": "data/posters/lupin-iii-part-6.webp",
@@ -9631,6 +9701,19 @@
     "season": "خريف 2023"
   },
   {
+    "id": "kaizoku-oujo",
+    "title": "انمي Kaizoku Oujo مترجم اون لاين",
+    "poster": "data/posters/kaizoku-oujo.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021"
+  },
+  {
     "id": "nana",
     "title": "انمي Nana مترجم اون لاين",
     "poster": "data/posters/nana.webp",
@@ -10654,6 +10737,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu-zamaa-shimasu",
+    "title": "انمي Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu! مترجم اون لاين",
+    "poster": "data/posters/shinjiteita-nakama-tachi-ni-dungeon-okuchi-de-korosarekaketa-ga-gift-mugen-gacha-de-level-9999-no-nakama-tachi-wo-te-ni-irete-moto-party-member-to-sekai-ni-fukushuu-zamaa-shimasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "gal-to-kyouryuu",
     "title": "انمي Gal to Kyouryuu مترجم اون لاين",
     "poster": "data/posters/gal-to-kyouryuu.webp",
@@ -10784,6 +10880,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2013"
+  },
+  {
+    "id": "boogiepop-wa-warawanai-2019",
+    "title": "انمي Boogiepop wa Warawanai (2019) مترجم اون لاين",
+    "poster": "data/posters/boogiepop-wa-warawanai-2019.webp",
+    "genres": [
+      "غموض",
+      "رعب",
+      "نفسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "18",
+    "season": "خريف 2019"
   },
   {
     "id": "gundam-build-divers-re-rise",
