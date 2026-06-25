@@ -328,6 +328,22 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "ginga-eiyuu-densetsu-die-neue-these-seiran-3",
+    "title": "انمي Ginga Eiyuu Densetsu: Die Neue These - Seiran 3 مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu-die-neue-these-seiran-3.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "4",
+    "season": "خريف 2019"
+  },
+  {
     "id": "shikkakumon-no-saikyou-kenja",
     "title": "انمي Shikkakumon no Saikyou Kenja مترجم اون لاين",
     "poster": "data/posters/shikkakumon-no-saikyou-kenja.webp",
