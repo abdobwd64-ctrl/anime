@@ -1,0 +1,80 @@
+{
+  "id": "hotaru-no-haka",
+  "title": "انمي Hotaru no Haka مترجم اون لاين",
+  "url": "https://animelek.top/anime/hotaru-no-haka/",
+  "poster": "data/posters/hotaru-no-haka.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "1988",
+  "season": "ربيع 1988",
+  "genres": [
+    "دراما",
+    "تاريخي"
+  ],
+  "story": "في نهاية الحرب العالمية الثانية يقوم سيتا البالغ من العمر 14 عاماً باصطحاب أخته الصغيرة ساتسكو والتي تبلغ من العمر أربع سنوات إلى منطقة بعيدة تقيم فيها عمتهما بعد مقتل أمهما في الغارة الأمريكية التي استهدفت مدينه كوبى في اليابان.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Hotaru no Haka",
+      "date": "11 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1892883302987"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1apO4tGMpSLhM3zr9U_wx-gVnVy4cp1n6/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/KVMkgAKC#E_Gjs2NRwLpiP758VlN6XaQq2c0v6SnGklhsyEGB0L4"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/a1oftu0jtslt"
+        },
+        {
+          "name": "vidfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidfast.co/embed-tsdrp1vqevfa.html"
+        },
+        {
+          "name": "anavids | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://anavids.com/embed-c7k0bqwbw4o1.html"
+        },
+        {
+          "name": "vidia | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidia.tv/embed-xt1hmgrrftjq.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1apO4tGMpSLhM3zr9U_wx-gVnVy4cp1n6&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/KVMkgAKC#E_Gjs2NRwLpiP758VlN6XaQq2c0v6SnGklhsyEGB0L4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/a1oftu0jtslt"
+        },
+        {
+          "server": "mediafire",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mediafire.com/file/ulen1lgmgt0zv3o/%5BWitanime.com%5D_HNH_BD-FHD.mp4/file"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:14:50.561816"
+}
