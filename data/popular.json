@@ -236,6 +236,23 @@
     "score": 46
   },
   {
+    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
+    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "39",
+    "season": "ربيع 2016",
+    "score": 39
+  },
+  {
     "id": "digimon-beatbreak",
     "title": "انمي Digimon Beatbreak مترجم اون لاين",
     "poster": "data/posters/digimon-beatbreak.webp",
@@ -251,23 +268,6 @@
     "episodes_count": "غير معروف",
     "season": "خريف 2025",
     "score": 39
-  },
-  {
-    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
-    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
-    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "39",
-    "season": "ربيع 2016",
-    "score": 38
   },
   {
     "id": "nana",
