@@ -1,0 +1,134 @@
+{
+  "id": "yasashii-akuma",
+  "title": "انمي Yasashii Akuma مترجم اون لاين",
+  "url": "https://animelek.top/anime/yasashii-akuma/",
+  "poster": "data/posters/yasashii-akuma.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "خريف 2018",
+  "genres": [
+    "شياطين",
+    "أطفال"
+  ],
+  "story": "やさしいあくま",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأونا 1Yasashii Akuma",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1194706799322"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1u2HIhfhq2irJtJDxUgbvROXaDQmW7_7a/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/r6KzNDzv8Lyzm"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!TuoUGAQa!IFcxbu24iDOn_g7NvuHtY5E3siBIBkEHH9A36Agb6xA"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ikdboqvriykd"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1194728229594"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1grML4yk868ianzIy2PpSFOwsnDv1VSv0/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1grML4yk868ianzIy2PpSFOwsnDv1VSv0&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!vzYTiQjY!Jk9RUW7BRGzQmgSz1BIN9c_fHiSjP9ionNffFn-2KZk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/j6zapijzo0a7"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/lY6E4ENOMZw/%5BAnime4up.com%5D_YA_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/1mhm0juaexh6"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/luefc02derfe"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1u2HIhfhq2irJtJDxUgbvROXaDQmW7_7a&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!TuoUGAQa!IFcxbu24iDOn_g7NvuHtY5E3siBIBkEHH9A36Agb6xA"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rxklixk18ci3"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/fX4YaesrDwE/%5BAnime4up.com%5D_YA_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/ikdboqvriykd"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/8jnrr0i9g7f0"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/r6KzNDzv8Lyzm"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:06:18.536617"
+}

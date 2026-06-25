@@ -2708,6 +2708,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "non-non-biyori-nonstop",
+    "title": "انمي Non Non Biyori Nonstop مترجم اون لاين",
+    "poster": "data/posters/non-non-biyori-nonstop.webp",
+    "genres": [
+      "كوميدي",
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "jigokuraku",
     "title": "انمي Jigokuraku مترجم اون لاين",
     "poster": "data/posters/jigokuraku.webp",
@@ -2896,6 +2910,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+    "title": "انمي Class no Daikirai na Joshi to Kekkon suru Koto ni Natta. مترجم اون لاين",
+    "poster": "data/posters/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
   },
   {
     "id": "mahoutsukai-no-yakusoku",
@@ -3255,6 +3282,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "fumetsu-no-anata-e-season-3",
+    "title": "انمي Fumetsu no Anata e Season 3 مترجم اون لاين",
+    "poster": "data/posters/fumetsu-no-anata-e-season-3.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "22",
+    "season": "خريف 2025"
   },
   {
     "id": "hoozuki-no-reitetsu-2nd-season-ova",
@@ -3688,6 +3730,19 @@
     "season": "صيف 2023"
   },
   {
+    "id": "eris-no-seihai",
+    "title": "انمي Eris no Seihai مترجم اون لاين",
+    "poster": "data/posters/eris-no-seihai.webp",
+    "genres": [
+      "غموض",
+      "قوى خارقة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "natsume-yuujinchou-movie-utsusemi-ni-musubu",
     "title": "انمي Natsume Yuujinchou Movie: Utsusemi ni Musubu مترجم اون لاين",
     "poster": "data/posters/natsume-yuujinchou-movie-utsusemi-ni-musubu.webp",
@@ -4106,6 +4161,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set",
+    "title": "انمي Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set مترجم اون لاين",
+    "poster": "data/posters/ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2020"
+  },
+  {
     "id": "ginga-eiyuu-densetsu-die-neue-these-seiran-1",
     "title": "انمي Ginga Eiyuu Densetsu: Die Neue These - Seiran 1 مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu-die-neue-these-seiran-1.webp",
@@ -4227,6 +4296,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai",
+    "title": "انمي Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai مترجم اون لاين",
+    "poster": "data/posters/donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2017"
   },
   {
     "id": "human-lost-ningen-shikkaku",
@@ -5322,6 +5405,21 @@
     "season": "خريف 2022"
   },
   {
+    "id": "oushitsu-kyoushi-heine-movie",
+    "title": "انمي Oushitsu Kyoushi Heine Movie مترجم اون لاين",
+    "poster": "data/posters/oushitsu-kyoushi-heine-movie.webp",
+    "genres": [
+      "كوميدي",
+      "سينين",
+      "شريحة من الحياة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
+  },
+  {
     "id": "triage-x",
     "title": "انمي Triage X مترجم اون لاين",
     "poster": "data/posters/triage-x.webp",
@@ -5406,6 +5504,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2024"
+  },
+  {
+    "id": "spy-kyoushitsu-2nd-season",
+    "title": "انمي Spy Kyoushitsu 2nd Season مترجم اون لاين",
+    "poster": "data/posters/spy-kyoushitsu-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2023"
   },
   {
     "id": "ramen-akaneko",
@@ -6732,6 +6844,20 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu",
+    "title": "انمي Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezashimasu مترجم اون لاين",
+    "poster": "data/posters/mikata-ga-yowasugite-hojo-mahou-ni-tesshiteita-kyuutei-mahoushi-tsuihou-sarete-saikyou-wo-mezashimasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "great-pretender",
     "title": "انمي Great Pretender مترجم اون لاين",
     "poster": "data/posters/great-pretender.webp",
@@ -7372,6 +7498,21 @@
     "season": "صيف 2025"
   },
   {
+    "id": "bungou-stray-dogs-dead-apple",
+    "title": "انمي Bungou Stray Dogs: Dead Apple مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-dead-apple.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "vinland-saga-season-2",
     "title": "انمي Vinland Saga Season 2 مترجم اون لاين",
     "poster": "data/posters/vinland-saga-season-2.webp",
@@ -7895,6 +8036,22 @@
     "season": "صيف 2023"
   },
   {
+    "id": "nige-jouzu-no-wakagimi",
+    "title": "انمي Nige Jouzu no Wakagimi مترجم اون لاين",
+    "poster": "data/posters/nige-jouzu-no-wakagimi.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "maou-2099",
     "title": "انمي Maou 2099 مترجم اون لاين",
     "poster": "data/posters/maou-2099.webp",
@@ -8061,6 +8218,24 @@
     "season": "صيف 2020"
   },
   {
+    "id": "trinity-seven-movie-2-heavens-library-to-crimson-lord",
+    "title": "انمي Trinity Seven Movie 2: Heavens Library to Crimson Lord مترجم اون لاين",
+    "poster": "data/posters/trinity-seven-movie-2-heavens-library-to-crimson-lord.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
+  },
+  {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
     "title": "انمي Yahari Ore no Seishun Love Comedy wa Machigatteiru. مترجم اون لاين",
     "poster": "data/posters/yahari-ore-no-seishun-love-comedy-wa-machigatteiru.webp",
@@ -8224,6 +8399,18 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
+    "title": "انمي VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta مترجم اون لاين",
+    "poster": "data/posters/vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "classic-stars",
     "title": "انمي classic★stars مترجم اون لاين",
     "poster": "data/posters/classic-stars.webp",
@@ -8341,6 +8528,19 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "خريف 2025"
+  },
+  {
+    "id": "yasashii-akuma",
+    "title": "انمي Yasashii Akuma مترجم اون لاين",
+    "poster": "data/posters/yasashii-akuma.webp",
+    "genres": [
+      "شياطين",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "خريف 2018"
   },
   {
     "id": "koori-zokusei-danshi-to-cool-na-douryou-joshi",
