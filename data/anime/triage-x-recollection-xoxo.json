@@ -1,0 +1,120 @@
+{
+  "id": "triage-x-recollection-xoxo",
+  "title": "انمي Triage X: Recollection XOXO مترجم اون لاين",
+  "url": "https://animelek.top/anime/triage-x-recollection-xoxo/",
+  "poster": "data/posters/triage-x-recollection-xoxo.webp",
+  "status": "مكتمل",
+  "type": "أوفا",
+  "episodes_count": "1",
+  "start_date": "2015",
+  "season": "خريف 2015",
+  "genres": [
+    "أكشن",
+    "شونين",
+    "مدرسي",
+    "إيتشي"
+  ],
+  "story": "اوفا مكملة لأحداث الانمي.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأوفا 1Triage X: Recollection XOXO",
+      "date": "30 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1869697583691"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/YoDTaiOMea"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1WgUJ8OGY4hVkZrS3bwZX83MGswtnK8iA/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9donEKKL#6rxrgYfE_klwh2MaL_D6XSCEnBVG4fbxirk5VQzdRo4"
+        },
+        {
+          "name": "yourupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.yourupload.com/embed/4lWn1C3VL32q"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/phmftou9qvmi"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-acggot4ddrv6.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-hf77i59p7u0e.html"
+        },
+        {
+          "name": "vup to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vup.to/emb.html?h0wt73exx7z6=img.vup.to/54/01/00193/h0wt73exx7z6"
+        },
+        {
+          "name": "anavids | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://anavids.com/embed-kw8hjy4diyqg.html"
+        },
+        {
+          "name": "vidia | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidia.tv/embed-99e6pyo8k27e.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vqdmhdcr9v4k.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/fh5xs95ajpnd"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1WgUJ8OGY4hVkZrS3bwZX83MGswtnK8iA&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/9donEKKL#6rxrgYfE_klwh2MaL_D6XSCEnBVG4fbxirk5VQzdRo4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/phmftou9qvmi"
+        },
+        {
+          "server": "mediafire",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mediafire.com/file/xedeho0ep30wwsx/%5BWitanime.com%5D_TXRX_BD-HD.mp4/file"
+        },
+        {
+          "server": "yourupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.yourupload.com/download?file=2859394"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vqdmhdcr9v4k"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T02:48:38.680678"
+}

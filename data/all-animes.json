@@ -175,6 +175,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "zanting-rang-wo-cha-gonglue",
+    "title": "انمي Zanting! Rang Wo Cha Gonglue مترجم اون لاين",
+    "poster": "data/posters/zanting-rang-wo-cha-gonglue.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "city-the-animation",
     "title": "انمي City The Animation مترجم اون لاين",
     "poster": "data/posters/city-the-animation.webp",
@@ -324,6 +337,18 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "boku-no-kokoro-no-yabai-yatsu",
+    "title": "انمي Boku no Kokoro no Yabai Yatsu مترجم اون لاين",
+    "poster": "data/posters/boku-no-kokoro-no-yabai-yatsu.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "tu-bian-yingxiong-x",
     "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
     "poster": "data/posters/tu-bian-yingxiong-x.webp",
@@ -378,6 +403,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2025"
+  },
+  {
+    "id": "iwa-kakeru-sport-climbing-girls",
+    "title": "انمي Iwa Kakeru!: Sport Climbing Girls مترجم اون لاين",
+    "poster": "data/posters/iwa-kakeru-sport-climbing-girls.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "arne-no-jikenbo",
@@ -677,6 +716,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "gochuumon-wa-usagi-desu-ka-bloom",
+    "title": "انمي Gochuumon wa Usagi Desu ka? Bloom مترجم اون لاين",
+    "poster": "data/posters/gochuumon-wa-usagi-desu-ka-bloom.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "dr-stone-science-future",
@@ -2296,6 +2348,19 @@
     "season": "صيف 2022"
   },
   {
+    "id": "girly-air-force",
+    "title": "انمي Girly Air Force مترجم اون لاين",
+    "poster": "data/posters/girly-air-force.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "ginga-eiyuu-densetsu-die-neue-these-seiran-1",
     "title": "انمي Ginga Eiyuu Densetsu: Die Neue These - Seiran 1 مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu-die-neue-these-seiran-1.webp",
@@ -2391,6 +2456,20 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "gintama-shirogane-no-tamashii-hen",
+    "title": "انمي Gintama.: Shirogane no Tamashii-hen مترجم اون لاين",
+    "poster": "data/posters/gintama-shirogane-no-tamashii-hen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2018"
   },
   {
     "id": "himesama-goumon-no-jikan-desu-2nd-season",
@@ -2519,6 +2598,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2013"
+  },
+  {
+    "id": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
+    "title": "انمي Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi مترجم اون لاين",
+    "poster": "data/posters/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
   },
   {
     "id": "megami-no-caf-terrace-2nd-season",
@@ -3199,6 +3292,21 @@
     "season": "صيف 2020"
   },
   {
+    "id": "triage-x-recollection-xoxo",
+    "title": "انمي Triage X: Recollection XOXO مترجم اون لاين",
+    "poster": "data/posters/triage-x-recollection-xoxo.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 2015"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii.webp",
@@ -3631,6 +3739,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "vigilante-boku-no-hero-academia-illegals",
+    "title": "انمي Vigilante: Boku no Hero Academia Illegals مترجم اون لاين",
+    "poster": "data/posters/vigilante-boku-no-hero-academia-illegals.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "osananajimi-ga-zettai-ni-makenai-love-comedy",
     "title": "انمي Osananajimi ga Zettai ni Makenai Love Comedy مترجم اون لاين",
     "poster": "data/posters/osananajimi-ga-zettai-ni-makenai-love-comedy.webp",
@@ -3995,6 +4117,21 @@
     "season": "شتاء 2012"
   },
   {
+    "id": "tokyo-ghoul-pinto",
+    "title": "انمي Tokyo Ghoul: \"Pinto\" مترجم اون لاين",
+    "poster": "data/posters/tokyo-ghoul-pinto.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رعب",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 2015"
+  },
+  {
     "id": "granblue-fantasy-the-animation-season-2-djeeta-hen",
     "title": "انمي Granblue Fantasy The Animation Season 2: Djeeta-hen مترجم اون لاين",
     "poster": "data/posters/granblue-fantasy-the-animation-season-2-djeeta-hen.webp",
@@ -4120,6 +4257,20 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "shokugeki-no-souma-gou-no-sara",
+    "title": "انمي Shokugeki no Souma: Gou no Sara مترجم اون لاين",
+    "poster": "data/posters/shokugeki-no-souma-gou-no-sara.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "overtake",
     "title": "انمي Overtake! مترجم اون لاين",
     "poster": "data/posters/overtake.webp",
@@ -4202,6 +4353,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2021"
+  },
+  {
+    "id": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
+    "title": "انمي Seishun Buta Yarou wa Santa Claus no Yume wo Minai مترجم اون لاين",
+    "poster": "data/posters/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2025"
   },
   {
     "id": "gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi",
@@ -4611,6 +4777,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren",
+    "title": "انمي Boku no Hero Academia: Ikinokore! Kesshi no Survival Kunren مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "2",
+    "season": "صيف 2020"
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru",
