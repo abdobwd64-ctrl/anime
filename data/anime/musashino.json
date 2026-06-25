@@ -106,7 +106,100 @@
           "url": "https://www.4shared.com/video/Schv4QbSfa/Anime4uptv_MU_EP_12_END_FHD.html"
         }
       ]
+    },
+    {
+      "number": "11",
+      "title": "الحلقة 11Musashino!",
+      "date": "20 ديسمبر, 2022",
+      "servers": [
+        {
+          "name": "play cdngo | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://play.cdngo.me/hd.php?code=c5t0hztuuklk"
+        },
+        {
+          "name": "sblongvu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sblongvu.com/e/9dthda5jcgaz"
+        },
+        {
+          "name": "4shared | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/-cF_5mCmfa/"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4122615220954"
+        },
+        {
+          "name": "dood wf | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.wf/e/s4gc8yx3o9ak"
+        },
+        {
+          "name": "uqload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-u2g3rd1sqzz9.html"
+        },
+        {
+          "name": "vadbam | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.com/embed-96zlyfohxsei.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/674Syaba!7Yhl-kuo8uF9BVXMai-UbOZqe8mNHEGvj78mB_jjh1A"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/kqwylz2uor02"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sblongvu",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sblongvu.com/9dthda5jcgaz.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/0mnhxom73e1q"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!674Syaba!7Yhl-kuo8uF9BVXMai-UbOZqe8mNHEGvj78mB_jjh1A"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/35KeE0Nby5"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/f8je3qo0mat0"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/kqwylz2uor02"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/s4gc8yx3o9ak"
+        },
+        {
+          "server": "4shared",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/-cF_5mCmfa/Anime4uptv_MU_EP_11_FHD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:19:13.094141"
+  "last_updated": "2026-06-25T01:19:21.598318"
 }
