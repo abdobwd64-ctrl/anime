@@ -3850,6 +3850,22 @@
     "season": "خريف 2020"
   },
   {
+    "id": "vinland-saga",
+    "title": "انمي Vinland Saga مترجم اون لاين",
+    "poster": "data/posters/vinland-saga.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2019"
+  },
+  {
     "id": "tokyo-revengers-seiya-kessen-hen",
     "title": "انمي Tokyo Revengers: Seiya Kessen-hen مترجم اون لاين",
     "poster": "data/posters/tokyo-revengers-seiya-kessen-hen.webp",
@@ -7628,6 +7644,21 @@
     "season": "شتاء 1986"
   },
   {
+    "id": "kochouki-wakaki-nobunaga",
+    "title": "انمي Kochouki: Wakaki Nobunaga مترجم اون لاين",
+    "poster": "data/posters/kochouki-wakaki-nobunaga.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "megaton-kyuu-musashi",
     "title": "انمي Megaton-kyuu Musashi مترجم اون لاين",
     "poster": "data/posters/megaton-kyuu-musashi.webp",
@@ -8102,6 +8133,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "meitantei-conan-movie-09-suihei-senjou-no-strategy",
+    "title": "انمي Meitantei Conan Movie 09: Suihei Senjou no Strategy مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-09-suihei-senjou-no-strategy.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2005"
   },
   {
     "id": "senki-zesshou-symphogear-xv",
@@ -13326,6 +13371,22 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2021"
+  },
+  {
+    "id": "ahiru-no-sora",
+    "title": "انمي Ahiru no Sora مترجم اون لاين",
+    "poster": "data/posters/ahiru-no-sora.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "50",
+    "season": "خريف 2019"
   },
   {
     "id": "boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta",

@@ -360,6 +360,23 @@
     "score": 57
   },
   {
+    "id": "ahiru-no-sora",
+    "title": "انمي Ahiru no Sora مترجم اون لاين",
+    "poster": "data/posters/ahiru-no-sora.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "50",
+    "season": "خريف 2019",
+    "score": 55
+  },
+  {
     "id": "captain-tsubasa-2018",
     "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
     "poster": "data/posters/captain-tsubasa-2018.webp",
@@ -484,22 +501,5 @@
     "episodes_count": "36",
     "season": "خريف 2018",
     "score": 41
-  },
-  {
-    "id": "digimon-beatbreak",
-    "title": "انمي Digimon Beatbreak مترجم اون لاين",
-    "poster": "data/posters/digimon-beatbreak.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2025",
-    "score": 39
   }
 ]
