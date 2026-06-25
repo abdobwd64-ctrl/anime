@@ -390,6 +390,21 @@
     "score": 51
   },
   {
+    "id": "ashita-no-joe-2",
+    "title": "انمي Ashita no Joe 2 مترجم اون لاين",
+    "poster": "data/posters/ashita-no-joe-2.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "خريف 1980",
+    "score": 50
+  },
+  {
     "id": "honoo-no-toukyuuji-dodge-danpei",
     "title": "انمي Honoo no Toukyuuji: Dodge Danpei مترجم اون لاين",
     "poster": "data/posters/honoo-no-toukyuuji-dodge-danpei.webp",
@@ -486,20 +501,5 @@
     "episodes_count": "غير معروف",
     "season": "خريف 2025",
     "score": 39
-  },
-  {
-    "id": "nana",
-    "title": "انمي Nana مترجم اون لاين",
-    "poster": "data/posters/nana.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "ربيع 2006",
-    "score": 37
   }
 ]
