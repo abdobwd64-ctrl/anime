@@ -5221,6 +5221,23 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "kyokou-suiri",
+    "title": "انمي Kyokou Suiri مترجم اون لاين",
+    "poster": "data/posters/kyokou-suiri.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "steins-gate-movie-fuka-ryouiki-no-d-j-vu",
     "title": "انمي Steins;Gate Movie: Fuka Ryouiki no Déjà vu مترجم اون لاين",
     "poster": "data/posters/steins-gate-movie-fuka-ryouiki-no-d-j-vu.webp",
