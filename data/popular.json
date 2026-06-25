@@ -98,7 +98,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 94
+    "score": 95
   },
   {
     "id": "hajime-no-ippo",
@@ -236,23 +236,6 @@
     "score": 46
   },
   {
-    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
-    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
-    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "39",
-    "season": "ربيع 2016",
-    "score": 44
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -269,7 +252,24 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
-    "score": 43
+    "score": 44
+  },
+  {
+    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
+    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "39",
+    "season": "ربيع 2016",
+    "score": 44
   },
   {
     "id": "digimon-beatbreak",
