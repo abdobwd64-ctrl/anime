@@ -486,20 +486,18 @@
     "score": 44
   },
   {
-    "id": "karakuri-circus-tv",
-    "title": "انمي Karakuri Circus (TV) مترجم اون لاين",
-    "poster": "data/posters/karakuri-circus-tv.webp",
+    "id": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
+    "title": "انمي JoJo no Kimyou na Bouken Part 5: Ougon no Kaze مترجم اون لاين",
+    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze.webp",
     "genres": [
       "أكشن",
-      "غموض",
-      "دراما",
       "شونين",
       "مغامرات"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "36",
+    "episodes_count": "39",
     "season": "خريف 2018",
-    "score": 41
+    "score": 42
   }
 ]
