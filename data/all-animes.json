@@ -5636,6 +5636,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "heion-sedai-no-idaten-tachi",
+    "title": "انمي Heion Sedai no Idaten-tachi مترجم اون لاين",
+    "poster": "data/posters/heion-sedai-no-idaten-tachi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2021"
+  },
+  {
     "id": "planet-with",
     "title": "انمي Planet With مترجم اون لاين",
     "poster": "data/posters/planet-with.webp",
