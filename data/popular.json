@@ -19,6 +19,24 @@
     "score": 979
   },
   {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "season": "شتاء 2007",
+    "score": 505
+  },
+  {
     "id": "yu-gi-oh-duel-monsters-gx",
     "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
     "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
@@ -473,21 +491,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022",
-    "score": 27
-  },
-  {
-    "id": "vinland-saga-season-2",
-    "title": "انمي Vinland Saga Season 2 مترجم اون لاين",
-    "poster": "data/posters/vinland-saga-season-2.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "شتاء 2023",
     "score": 27
   }
 ]

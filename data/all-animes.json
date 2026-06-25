@@ -663,6 +663,22 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "dragon-ball-movie-2-majinjou-no-nemurihime",
+    "title": "انمي Dragon Ball Movie 2: Majinjou no Nemurihime مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-movie-2-majinjou-no-nemurihime.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1987"
+  },
+  {
     "id": "birdie-wing-golf-girls-story",
     "title": "انمي Birdie Wing: Golf Girls' Story مترجم اون لاين",
     "poster": "data/posters/birdie-wing-golf-girls-story.webp",
@@ -1653,6 +1669,23 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "naruto-shippuuden",
+    "title": "انمي Naruto: Shippuuden مترجم اون لاين",
+    "poster": "data/posters/naruto-shippuuden.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "500",
+    "season": "شتاء 2007"
+  },
+  {
     "id": "gintama-enchousen",
     "title": "انمي Gintama': Enchousen مترجم اون لاين",
     "poster": "data/posters/gintama-enchousen.webp",
@@ -2476,6 +2509,19 @@
     "season": "خريف 2023"
   },
   {
+    "id": "number24",
+    "title": "انمي number24 مترجم اون لاين",
+    "poster": "data/posters/number24.webp",
+    "genres": [
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "tokyo-ghoul-a",
     "title": "انمي Tokyo Ghoul √A مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-a.webp",
@@ -2958,6 +3004,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "koukyoushihen-eureka-seven-hi-evolution-3-eureka",
+    "title": "انمي Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka مترجم اون لاين",
+    "poster": "data/posters/koukyoushihen-eureka-seven-hi-evolution-3-eureka.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2021"
   },
   {
     "id": "one-punch-man-specials",
@@ -4578,6 +4638,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "boku-no-hero-academia-memories",
+    "title": "انمي Boku no Hero Academia: Memories مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-memories.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "4",
+    "season": "ربيع 2024"
   },
   {
     "id": "jibaku-shounen-hanako-kun-2",
