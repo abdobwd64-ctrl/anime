@@ -88,6 +88,21 @@
     "score": 181
   },
   {
+    "id": "fairy-tail",
+    "title": "انمي Fairy Tail مترجم اون لاين",
+    "poster": "data/posters/fairy-tail.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "175",
+    "season": "خريف 2009",
+    "score": 178
+  },
+  {
     "id": "hokuto-no-ken",
     "title": "انمي Hokuto no Ken مترجم اون لاين",
     "poster": "data/posters/hokuto-no-ken.webp",
@@ -487,24 +502,6 @@
     "type": "أونا",
     "episodes_count": "24",
     "season": "خريف 2019",
-    "score": 32
-  },
-  {
-    "id": "mushishi",
-    "title": "انمي Mushishi مترجم اون لاين",
-    "poster": "data/posters/mushishi.webp",
-    "genres": [
-      "غموض",
-      "فنتازيا",
-      "مغامرات",
-      "قوى خارقة",
-      "شريحة من الحياة",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "خريف 2005",
     "score": 32
   }
 ]

@@ -1075,6 +1075,19 @@
     "season": "صيف 2015"
   },
   {
+    "id": "chuukan-kanriroku-tonegawa",
+    "title": "انمي Chuukan Kanriroku Tonegawa مترجم اون لاين",
+    "poster": "data/posters/chuukan-kanriroku-tonegawa.webp",
+    "genres": [
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2018"
+  },
+  {
     "id": "iwa-kakeru-sport-climbing-girls",
     "title": "انمي Iwa Kakeru!: Sport Climbing Girls مترجم اون لاين",
     "poster": "data/posters/iwa-kakeru-sport-climbing-girls.webp",
@@ -4046,6 +4059,21 @@
     "season": "صيف 2022"
   },
   {
+    "id": "kanojo-okarishimasu-4th-season",
+    "title": "انمي Kanojo, Okarishimasu 4th Season مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu-4th-season.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "rokudou-no-onna-tachi",
     "title": "انمي Rokudou no Onna-tachi مترجم اون لاين",
     "poster": "data/posters/rokudou-no-onna-tachi.webp",
@@ -4995,6 +5023,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "kurayukaba",
+    "title": "انمي Kurayukaba مترجم اون لاين",
+    "poster": "data/posters/kurayukaba.webp",
+    "genres": [
+      "غموض",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "one-piece-dai-gekisen-tokushuu-mugiwara-no-ichimi-vs-tobi-roppou",
     "title": "انمي One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou مترجم اون لاين",
     "poster": "data/posters/one-piece-dai-gekisen-tokushuu-mugiwara-no-ichimi-vs-tobi-roppou.webp",
@@ -5389,6 +5431,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "anne-shirley",
+    "title": "انمي Anne Shirley مترجم اون لاين",
+    "poster": "data/posters/anne-shirley.webp",
+    "genres": [
+      "دراما",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2025"
   },
   {
     "id": "mononoke-movie-dai-2-shou-hinezumi",
@@ -6210,6 +6265,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "fairy-tail",
+    "title": "انمي Fairy Tail مترجم اون لاين",
+    "poster": "data/posters/fairy-tail.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "175",
+    "season": "خريف 2009"
+  },
+  {
     "id": "rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu",
     "title": "انمي Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu مترجم اون لاين",
     "poster": "data/posters/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu.webp",
@@ -6636,6 +6705,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "tonikaku-kawaii-2nd-season",
+    "title": "انمي Tonikaku Kawaii 2nd Season مترجم اون لاين",
+    "poster": "data/posters/tonikaku-kawaii-2nd-season.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
   },
   {
     "id": "pokemon-movie-23-koko",
