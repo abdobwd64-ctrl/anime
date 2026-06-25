@@ -42,6 +42,18 @@
     "season": "خريف 2018"
   },
   {
+    "id": "boku-no-hero-academia-ua-heroes-battle",
+    "title": "انمي Boku no Hero Academia: UA Heroes Battle مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-ua-heroes-battle.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
+  },
+  {
     "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
     "title": "انمي Rekishi ni Nokoru Akujo ni Naru zo مترجم اون لاين",
     "poster": "data/posters/rekishi-ni-nokoru-akujo-ni-naru-zo.webp",
@@ -762,6 +774,16 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "one-piece-dokuta-choppa-no-boken-karute-hokori-takaki-giganto-dorimu",
+    "title": "انمي One Piece: Dokuta Choppa no Boken Karute Hokori Takaki Giganto Dorimu مترجم اون لاين",
+    "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-hokori-takaki-giganto-dorimu.webp",
+    "genres": [],
+    "status": "يعرض الان",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2025"
   },
   {
     "id": "tenchi-muyou-ryououki-5th-season",
@@ -6190,6 +6212,23 @@
     "season": "صيف 2019"
   },
   {
+    "id": "date-a-live-iii",
+    "title": "انمي Date A Live III مترجم اون لاين",
+    "poster": "data/posters/date-a-live-iii.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "خيال علمي",
+      "مدرسي",
+      "ميكا",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "fantasy-bishoujo-juniku-ojisan-to",
     "title": "انمي Fantasy Bishoujo Juniku Ojisan to مترجم اون لاين",
     "poster": "data/posters/fantasy-bishoujo-juniku-ojisan-to.webp",
@@ -8000,6 +8039,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "haibara-kun-no-tsuyokute-seishun-new-game",
+    "title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
+    "poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "ore-wo-suki-nano-wa-omae-dake-ka-yo",
     "title": "انمي Ore wo Suki nano wa Omae dake ka yo مترجم اون لاين",
     "poster": "data/posters/ore-wo-suki-nano-wa-omae-dake-ka-yo.webp",
@@ -8767,6 +8820,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2010"
+  },
+  {
+    "id": "meitantei-conan-movie-04-hitomi-no-naka-no-ansatsusha",
+    "title": "انمي Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-04-hitomi-no-naka-no-ansatsusha.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2000"
   },
   {
     "id": "vazzrock-the-animation",
@@ -13978,6 +14045,19 @@
     "season": "صيف 2024"
   },
   {
+    "id": "aharen-san-wa-hakarenai-season-2",
+    "title": "انمي Aharen-san wa Hakarenai Season 2 مترجم اون لاين",
+    "poster": "data/posters/aharen-san-wa-hakarenai-season-2.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "shingeki-no-kyojin-season-3-part-2",
     "title": "انمي Shingeki no Kyojin Season 3 Part 2 مترجم اون لاين",
     "poster": "data/posters/shingeki-no-kyojin-season-3-part-2.webp",
@@ -18879,6 +18959,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "sabiiro-no-armor-reimei",
+    "title": "انمي Sabiiro no Armor: Reimei مترجم اون لاين",
+    "poster": "data/posters/sabiiro-no-armor-reimei.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "back-arrow",
@@ -25648,6 +25740,21 @@
     "season": "ربيع 2012"
   },
   {
+    "id": "majutsushi-orphen-hagure-tabi-urbanrama-hen",
+    "title": "انمي Majutsushi Orphen Hagure Tabi: Urbanrama-hen مترجم اون لاين",
+    "poster": "data/posters/majutsushi-orphen-hagure-tabi-urbanrama-hen.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto",
     "title": "انمي Zom 100: Zombie ni Naru made ni Shitai 100 no Koto مترجم اون لاين",
     "poster": "data/posters/zom-100-zombie-ni-naru-made-ni-shitai-100-no-koto.webp",
@@ -28029,6 +28136,18 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "migi-to-dali",
+    "title": "انمي Migi to Dali مترجم اون لاين",
+    "poster": "data/posters/migi-to-dali.webp",
+    "genres": [
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "cop-craft",
     "title": "انمي Cop Craft مترجم اون لاين",
     "poster": "data/posters/cop-craft.webp",
@@ -28043,6 +28162,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2019"
+  },
+  {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2",
+    "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-2nd-season-part-2.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "isekai-cheat-magician-yoiboshi-no-matsuri-to-majutsushi",
