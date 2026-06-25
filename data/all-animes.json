@@ -272,6 +272,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "azur-lane",
+    "title": "انمي Azur Lane مترجم اون لاين",
+    "poster": "data/posters/azur-lane.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "meitantei-conan-hannin-no-hanzawa-san",
     "title": "انمي Meitantei Conan: Hannin no Hanzawa-san مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-hannin-no-hanzawa-san.webp",
@@ -4578,6 +4592,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2019"
+  },
+  {
+    "id": "wonder-egg-priority-special",
+    "title": "انمي Wonder Egg Priority Special مترجم اون لاين",
+    "poster": "data/posters/wonder-egg-priority-special.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "نفسي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2021"
   },
   {
     "id": "tokyo-revengers-seiya-kessen-hen",
@@ -11959,6 +11987,21 @@
     "season": "صيف 2024"
   },
   {
+    "id": "youkai-gakkou-no-sensei-hajimemashita",
+    "title": "انمي Youkai Gakkou no Sensei Hajimemashita! مترجم اون لاين",
+    "poster": "data/posters/youkai-gakkou-no-sensei-hajimemashita.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2024"
+  },
+  {
     "id": "mahou-shoujo-magical-destroyers",
     "title": "انمي Mahou Shoujo Magical Destroyers مترجم اون لاين",
     "poster": "data/posters/mahou-shoujo-magical-destroyers.webp",
@@ -17317,6 +17360,24 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2013"
+  },
+  {
+    "id": "dororo",
+    "title": "انمي Dororo مترجم اون لاين",
+    "poster": "data/posters/dororo.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2019"
   },
   {
     "id": "summer-ghost",
