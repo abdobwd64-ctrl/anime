@@ -8015,6 +8015,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "murenase-seton-gakuen",
+    "title": "انمي Murenase! Seton Gakuen مترجم اون لاين",
+    "poster": "data/posters/murenase-seton-gakuen.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "granblue-fantasy-the-animation-season-2-djeeta-hen",
     "title": "انمي Granblue Fantasy The Animation Season 2: Djeeta-hen مترجم اون لاين",
     "poster": "data/posters/granblue-fantasy-the-animation-season-2-djeeta-hen.webp",
