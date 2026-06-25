@@ -628,6 +628,24 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "one-piece-movie-14-stampede",
+    "title": "انمي One Piece Movie 14: Stampede مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-14-stampede.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2019"
+  },
+  {
     "id": "boku-no-kokoro-no-yabai-yatsu",
     "title": "انمي Boku no Kokoro no Yabai Yatsu مترجم اون لاين",
     "poster": "data/posters/boku-no-kokoro-no-yabai-yatsu.webp",
@@ -1368,6 +1386,19 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "blue-lock-vs-u-20-japan",
+    "title": "انمي Blue Lock vs. U-20 Japan مترجم اون لاين",
+    "poster": "data/posters/blue-lock-vs-u-20-japan.webp",
+    "genres": [
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "14",
+    "season": "خريف 2024"
+  },
+  {
     "id": "isekai-quartet-2",
     "title": "انمي Isekai Quartet 2 مترجم اون لاين",
     "poster": "data/posters/isekai-quartet-2.webp",
@@ -1763,6 +1794,24 @@
     "season": "صيف 2016"
   },
   {
+    "id": "7-seeds",
+    "title": "انمي 7 Seeds مترجم اون لاين",
+    "poster": "data/posters/7-seeds.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "مغامرات",
+      "رومانسي",
+      "خيال علمي",
+      "نفسي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "prism-rondo",
     "title": "انمي Prism Rondo مترجم اون لاين",
     "poster": "data/posters/prism-rondo.webp",
@@ -1801,6 +1850,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020"
+  },
+  {
+    "id": "granblue-fantasy-the-animation-kabocha-no-lantern",
+    "title": "انمي Granblue Fantasy The Animation: Kabocha no Lantern مترجم اون لاين",
+    "poster": "data/posters/granblue-fantasy-the-animation-kabocha-no-lantern.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2017"
   },
   {
     "id": "hunter-x-hunter-movie-2-the-last-mission",
@@ -3369,6 +3430,18 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "assassins-pride",
+    "title": "انمي Assassins Pride مترجم اون لاين",
+    "poster": "data/posters/assassins-pride.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "monogatari-series-second-season",
     "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
     "poster": "data/posters/monogatari-series-second-season.webp",
@@ -4257,6 +4330,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "hokuto-no-ken-2",
+    "title": "انمي Hokuto no Ken 2 مترجم اون لاين",
+    "poster": "data/posters/hokuto-no-ken-2.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "شتاء 1987"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
@@ -4600,6 +4688,18 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "koukyuu-no-karasu",
+    "title": "انمي Koukyuu no Karasu مترجم اون لاين",
+    "poster": "data/posters/koukyuu-no-karasu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "kyochuu-rettou-movie",
     "title": "انمي Kyochuu Rettou Movie مترجم اون لاين",
     "poster": "data/posters/kyochuu-rettou-movie.webp",
@@ -4748,6 +4848,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "bem-movie-become-human",
+    "title": "انمي Bem Movie: Become Human مترجم اون لاين",
+    "poster": "data/posters/bem-movie-become-human.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "رعب",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
   },
   {
     "id": "kandagawa-jet-girls",
@@ -5280,6 +5395,19 @@
     "season": "خريف 2017"
   },
   {
+    "id": "kekkon-suru-tte-hontou-desu-ka",
+    "title": "انمي Kekkon suru tte, Hontou desu ka مترجم اون لاين",
+    "poster": "data/posters/kekkon-suru-tte-hontou-desu-ka.webp",
+    "genres": [
+      "رومانسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "ramen-akaneko",
     "title": "انمي Ramen Akaneko مترجم اون لاين",
     "poster": "data/posters/ramen-akaneko.webp",
@@ -5291,6 +5419,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "magatsu-wahrheit-zuerst",
+    "title": "انمي Magatsu Wahrheit: Zuerst مترجم اون لاين",
+    "poster": "data/posters/magatsu-wahrheit-zuerst.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "shuumatsu-no-walk-re-ii",

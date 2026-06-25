@@ -270,6 +270,22 @@
     "score": 49
   },
   {
+    "id": "hokuto-no-ken-2",
+    "title": "انمي Hokuto no Ken 2 مترجم اون لاين",
+    "poster": "data/posters/hokuto-no-ken-2.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "شتاء 1987",
+    "score": 47
+  },
+  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -477,23 +493,6 @@
     "type": "تلفزيون",
     "episodes_count": "27",
     "season": "ربيع 2024",
-    "score": 29
-  },
-  {
-    "id": "garo-honoo-no-kokuin",
-    "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
-    "poster": "data/posters/garo-honoo-no-kokuin.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "سحر",
-      "قوى خارقة",
-      "شياطين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2014",
     "score": 29
   }
 ]
