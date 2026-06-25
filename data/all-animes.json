@@ -362,6 +362,19 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "fairy-ranmaru-anata-no-kokoro-otasuke-shimasu",
+    "title": "انمي Fairy Ranmaru: Anata no Kokoro Otasuke Shimasu مترجم اون لاين",
+    "poster": "data/posters/fairy-ranmaru-anata-no-kokoro-otasuke-shimasu.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "isekai-shoukan-wa-nidome-desu",
     "title": "انمي Isekai Shoukan wa Nidome desu مترجم اون لاين",
     "poster": "data/posters/isekai-shoukan-wa-nidome-desu.webp",
@@ -549,6 +562,21 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "ربيع 2008"
+  },
+  {
+    "id": "overlord-ii",
+    "title": "انمي Overlord II مترجم اون لاين",
+    "poster": "data/posters/overlord-ii.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2018"
   },
   {
     "id": "jigoku-sensei-nube-2025-part-2",
@@ -1518,6 +1546,19 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "senyoku-no-sigrdrifa",
+    "title": "انمي Senyoku no Sigrdrifa مترجم اون لاين",
+    "poster": "data/posters/senyoku-no-sigrdrifa.webp",
+    "genres": [
+      "أكشن",
+      "حربي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
+  },
+  {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu",
     "title": "انمي Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. مترجم اون لاين",
     "poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu.webp",
@@ -2005,6 +2046,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "jaku-chara-tomozaki-kun",
+    "title": "انمي Jaku-Chara Tomozaki-kun مترجم اون لاين",
+    "poster": "data/posters/jaku-chara-tomozaki-kun.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
   },
   {
     "id": "monogatari-series-second-season",
@@ -3182,6 +3237,20 @@
     "season": "صيف 2026"
   },
   {
+    "id": "layton-mystery-tanteisha-katri-no-nazotoki-file",
+    "title": "انمي Layton Mystery Tanteisha: Katri no Nazotoki File مترجم اون لاين",
+    "poster": "data/posters/layton-mystery-tanteisha-katri-no-nazotoki-file.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "50",
+    "season": "ربيع 2018"
+  },
+  {
     "id": "boku-no-hero-academia-2nd-season",
     "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
@@ -3562,6 +3631,21 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "pet",
+    "title": "انمي Pet مترجم اون لاين",
+    "poster": "data/posters/pet.webp",
+    "genres": [
+      "غموض",
+      "قوى خارقة",
+      "نفسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "akiba-maid-sensou",
     "title": "انمي Akiba Maid Sensou مترجم اون لاين",
     "poster": "data/posters/akiba-maid-sensou.webp",
@@ -3729,6 +3813,21 @@
     "season": "ربيع 2003"
   },
   {
+    "id": "one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado",
+    "title": "انمي One Piece: Dokuta Choppa no Boken Karute Chichi to Musume no Barado مترجم اون لاين",
+    "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado.webp",
+    "genres": [
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "kotarou-wa-hitorigurashi",
     "title": "انمي Kotarou wa Hitorigurashi مترجم اون لاين",
     "poster": "data/posters/kotarou-wa-hitorigurashi.webp",
@@ -3808,6 +3907,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "date-a-live-iv",
+    "title": "انمي Date A Live IV مترجم اون لاين",
+    "poster": "data/posters/date-a-live-iv.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "the-witcher-sirens-of-the-deep",
@@ -5029,6 +5142,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "jibaku-shounen-hanako-kun-2-part-2",
+    "title": "انمي Jibaku Shounen Hanako-kun 2 Part 2 مترجم اون لاين",
+    "poster": "data/posters/jibaku-shounen-hanako-kun-2-part-2.webp",
+    "genres": [
+      "شونين",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "unnamed-memory",

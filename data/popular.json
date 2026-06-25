@@ -171,6 +171,21 @@
     "score": 52
   },
   {
+    "id": "layton-mystery-tanteisha-katri-no-nazotoki-file",
+    "title": "انمي Layton Mystery Tanteisha: Katri no Nazotoki File مترجم اون لاين",
+    "poster": "data/posters/layton-mystery-tanteisha-katri-no-nazotoki-file.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "50",
+    "season": "ربيع 2018",
+    "score": 51
+  },
+  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -461,22 +476,5 @@
     "episodes_count": "24",
     "season": "ربيع 2022",
     "score": 26
-  },
-  {
-    "id": "boku-no-hero-academia-2nd-season",
-    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2017",
-    "score": 25
   }
 ]
