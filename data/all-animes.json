@@ -4403,6 +4403,19 @@
     "season": "ربيع 2018"
   },
   {
+    "id": "kimi-no-matsu-mirai-basho-e",
+    "title": "انمي Kimi no Matsu Mirai (Basho) e مترجم اون لاين",
+    "poster": "data/posters/kimi-no-matsu-mirai-basho-e.webp",
+    "genres": [
+      "خيال علمي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "خريف 2018"
+  },
+  {
     "id": "chainsaw-man-movie-reze-hen",
     "title": "انمي Chainsaw Man Movie: Reze-hen مترجم اون لاين",
     "poster": "data/posters/chainsaw-man-movie-reze-hen.webp",
@@ -11508,6 +11521,18 @@
     "season": "صيف 2022"
   },
   {
+    "id": "hanma-baki-son-of-ogre",
+    "title": "انمي Hanma Baki: Son of Ogre مترجم اون لاين",
+    "poster": "data/posters/hanma-baki-son-of-ogre.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "shadowverse-flame-recap",
     "title": "انمي Shadowverse Flame Recap مترجم اون لاين",
     "poster": "data/posters/shadowverse-flame-recap.webp",
@@ -15061,6 +15086,19 @@
     "type": "تلفزيون",
     "episodes_count": "20",
     "season": "خريف 2022"
+  },
+  {
+    "id": "ai-no-utagoe-wo-kikasete",
+    "title": "انمي Ai no Utagoe wo Kikasete مترجم اون لاين",
+    "poster": "data/posters/ai-no-utagoe-wo-kikasete.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "selection-project",
