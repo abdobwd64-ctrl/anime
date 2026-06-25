@@ -2141,6 +2141,20 @@
     "season": "خريف 2018"
   },
   {
+    "id": "rebirth",
+    "title": "انمي Rebirth مترجم اون لاين",
+    "poster": "data/posters/rebirth.webp",
+    "genres": [
+      "العاب",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "meikyuu-black-company",
     "title": "انمي Meikyuu Black Company مترجم اون لاين",
     "poster": "data/posters/meikyuu-black-company.webp",
@@ -2874,6 +2888,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
+    "title": "انمي Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2024"
+  },
+  {
     "id": "girly-air-force",
     "title": "انمي Girly Air Force مترجم اون لاين",
     "poster": "data/posters/girly-air-force.webp",
@@ -3348,6 +3376,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2025"
+  },
+  {
+    "id": "kyochuu-rettou-movie",
+    "title": "انمي Kyochuu Rettou Movie مترجم اون لاين",
+    "poster": "data/posters/kyochuu-rettou-movie.webp",
+    "genres": [
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
   },
   {
     "id": "mikadono-sanshimai-wa-angai-choroi",
@@ -5363,6 +5403,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2025"
+  },
+  {
+    "id": "vinland-saga-season-2",
+    "title": "انمي Vinland Saga Season 2 مترجم اون لاين",
+    "poster": "data/posters/vinland-saga-season-2.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "شتاء 2023"
   },
   {
     "id": "gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi",

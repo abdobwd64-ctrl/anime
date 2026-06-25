@@ -1,0 +1,107 @@
+{
+  "id": "rebirth",
+  "title": "انمي Rebirth مترجم اون لاين",
+  "url": "https://animelek.top/anime/rebirth/",
+  "poster": "data/posters/rebirth.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "غير معروف",
+  "start_date": "2020",
+  "season": "شتاء 2020",
+  "genres": [
+    "العاب",
+    "كوميدي",
+    "شريحة من الحياة"
+  ],
+  "story": "りばあす",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة 1Rebirth",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1330746165978"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1gQIUfVSt1PiwyeuFgryk4OK4-YVMhV7y/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=1t8iv&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/R4BvRNWN5kx6W"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!RYUX2KyI!WDAk2bjxqzOx6G-g6WJVa7eSqp2X8sDbnXjfrKdVBWo"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0k4z0gnd8vja"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-x0rqjz4hq47u.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ip8pqz3vupw5.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-sw3bzvl9nzg1.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1gQIUfVSt1PiwyeuFgryk4OK4-YVMhV7y&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RYUX2KyI!WDAk2bjxqzOx6G-g6WJVa7eSqp2X8sDbnXjfrKdVBWo"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ip8pqz3vupw5"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0k4z0gnd8vja"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/sw3bzvl9nzg1"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/R4BvRNWN5kx6W"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/1t8iv/[Anime4up.com]_RE_EP_01_HD.mp4"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T02:55:43.521248"
+}
