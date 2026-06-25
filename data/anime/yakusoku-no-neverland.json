@@ -772,7 +772,58 @@
           "url": "https://openload.co/f/98-KhCn2FgY/[Animetak.com]_YNN_EP_02.mp4"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Yakusoku no Neverland",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ogQlwvG5ymmiG7rNtIK74NA2xAVP0eY2/preview"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-sa5p3xwu5b4a.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/mttbp1w8v7k0"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/c6la9v3wu9of"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1ogQlwvG5ymmiG7rNtIK74NA2xAVP0eY2&export=download"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0gp1h7pvma2y"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.to/ejqZ"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/mttbp1w8v7k0"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T21:23:02.807970"
+  "last_updated": "2026-06-25T04:39:11.677975"
 }

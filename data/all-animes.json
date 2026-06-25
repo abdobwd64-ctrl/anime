@@ -2326,6 +2326,21 @@
     "season": "ربيع 2018"
   },
   {
+    "id": "kinnikuman-kanpeki-ch-ujin-shiso-hen-season-2",
+    "title": "انمي Kinnikuman: Kanpeki Chоujin Shiso-hen Season 2 مترجم اون لاين",
+    "poster": "data/posters/kinnikuman-kanpeki-ch-ujin-shiso-hen-season-2.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "فنون قتالية",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya.webp",
@@ -3049,6 +3064,19 @@
     "season": "خريف 2023"
   },
   {
+    "id": "chainsaw-man",
+    "title": "انمي Chainsaw Man مترجم اون لاين",
+    "poster": "data/posters/chainsaw-man.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "fate-extra-last-encore-illustrias-tendousetsu",
     "title": "انمي Fate/Extra: Last Encore - Illustrias Tendousetsu مترجم اون لاين",
     "poster": "data/posters/fate-extra-last-encore-illustrias-tendousetsu.webp",
@@ -3248,6 +3276,19 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "delico-s-nursery",
+    "title": "انمي Delico's Nursery مترجم اون لاين",
+    "poster": "data/posters/delico-s-nursery.webp",
+    "genres": [
+      "فنتازيا",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2024"
   },
   {
     "id": "isekai-quartet",
@@ -4529,6 +4570,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "hanasaku-iroha-home-sweet-home",
+    "title": "انمي Hanasaku Iroha: Home Sweet Home مترجم اون لاين",
+    "poster": "data/posters/hanasaku-iroha-home-sweet-home.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2013"
   },
   {
     "id": "mushoku-tensei-isekai-ittara-honki-dasu-eris-no-goblin-toubatsu",
@@ -6008,6 +6063,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi",
+    "title": "انمي Mahoutsukai no Yome: Nishi no Shounen to Seiran no Kishi مترجم اون لاين",
+    "poster": "data/posters/mahoutsukai-no-yome-nishi-no-shounen-to-seiran-no-kishi.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "3",
+    "season": "صيف 2021"
+  },
+  {
     "id": "shoushimin-series-2nd-season",
     "title": "انمي Shoushimin Series 2nd Season مترجم اون لاين",
     "poster": "data/posters/shoushimin-series-2nd-season.webp",
@@ -6364,6 +6432,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "kuroko-no-basket-movie-4-last-game",
+    "title": "انمي Kuroko no Basket Movie 4: Last Game مترجم اون لاين",
+    "poster": "data/posters/kuroko-no-basket-movie-4-last-game.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2017"
   },
   {
     "id": "spy-x-family",
@@ -8635,6 +8717,18 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2013"
+  },
+  {
+    "id": "obsolete",
+    "title": "انمي Obsolete مترجم اون لاين",
+    "poster": "data/posters/obsolete.webp",
+    "genres": [
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "bungou-stray-dogs",
@@ -12513,6 +12607,21 @@
     "season": "شتاء 1994"
   },
   {
+    "id": "toujima-tanzaburou-wa-kamen-rider-ni-naritai",
+    "title": "انمي Toujima Tanzaburou wa Kamen Rider ni Naritai مترجم اون لاين",
+    "poster": "data/posters/toujima-tanzaburou-wa-kamen-rider-ni-naritai.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "خريف 2025"
+  },
+  {
     "id": "i-byeol-e-pil-yohan",
     "title": "انمي I Byeol-e Pil-yohan مترجم اون لاين",
     "poster": "data/posters/i-byeol-e-pil-yohan.webp",
@@ -13355,6 +13464,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2010"
+  },
+  {
+    "id": "eden-ona",
+    "title": "انمي Eden (ONA) مترجم اون لاين",
+    "poster": "data/posters/eden-ona.webp",
+    "genres": [
+      "فنتازيا",
+      "خيال علمي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "4",
+    "season": "ربيع 2021"
   },
   {
     "id": "bye-bye-earth-2nd-season",
@@ -15403,6 +15526,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "africa-no-salaryman-tv",
+    "title": "انمي Africa no Salaryman (TV) مترجم اون لاين",
+    "poster": "data/posters/africa-no-salaryman-tv.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "hachi-nan-tte-sore-wa-nai-deshou",
@@ -17705,6 +17841,20 @@
     "season": "صيف 2020"
   },
   {
+    "id": "rpg-fudousan",
+    "title": "انمي RPG Fudousan مترجم اون لاين",
+    "poster": "data/posters/rpg-fudousan.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "hajime-no-ippo",
     "title": "انمي Hajime no Ippo مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo.webp",
@@ -17731,6 +17881,18 @@
     "type": "أونا",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "meitantei-conan-zero-no-tea-time",
+    "title": "انمي Meitantei Conan: Zero no Tea Time مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-zero-no-tea-time.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "uniteup",
@@ -18512,6 +18674,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021"
+  },
+  {
+    "id": "high-school-dxd-hero-taiikukan-ura-no-holy",
+    "title": "انمي High School DxD Hero: Taiikukan-ura no Holy مترجم اون لاين",
+    "poster": "data/posters/high-school-dxd-hero-taiikukan-ura-no-holy.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "kanan-sama-wa-akumade-choroi",
@@ -21084,6 +21261,18 @@
     "season": "خريف 2019"
   },
   {
+    "id": "necronomico-no-cosmic-horror-show",
+    "title": "انمي Necronomico no Cosmic Horror Show مترجم اون لاين",
+    "poster": "data/posters/necronomico-no-cosmic-horror-show.webp",
+    "genres": [
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "sand-land-the-series",
     "title": "انمي Sand Land: The Series مترجم اون لاين",
     "poster": "data/posters/sand-land-the-series.webp",
@@ -22081,6 +22270,20 @@
     "season": "صيف 2024"
   },
   {
+    "id": "kuroko-no-basket-movie-1-winter-cup-kage-to-hikari",
+    "title": "انمي Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari مترجم اون لاين",
+    "poster": "data/posters/kuroko-no-basket-movie-1-winter-cup-kage-to-hikari.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2016"
+  },
+  {
     "id": "boushoku-no-berserk",
     "title": "انمي Boushoku no Berserk مترجم اون لاين",
     "poster": "data/posters/boushoku-no-berserk.webp",
@@ -22092,6 +22295,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "dark-gathering",
+    "title": "انمي Dark Gathering مترجم اون لاين",
+    "poster": "data/posters/dark-gathering.webp",
+    "genres": [
+      "قوى خارقة",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "صيف 2023"
   },
   {
     "id": "black-bullet",
