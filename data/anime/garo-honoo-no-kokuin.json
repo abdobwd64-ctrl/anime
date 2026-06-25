@@ -272,7 +272,23 @@
         }
       ],
       "downloads": []
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Garo: Honoo no Kokuin",
+      "date": "09 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1531904002763"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-j8iq0f41b61l.html"
+        }
+      ],
+      "downloads": []
     }
   ],
-  "last_updated": "2026-06-25T00:06:54.469875"
+  "last_updated": "2026-06-25T00:07:03.659455"
 }
