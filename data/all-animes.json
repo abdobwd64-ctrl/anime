@@ -3422,6 +3422,19 @@
     "season": "صيف 2020"
   },
   {
+    "id": "golden-kamuy-4th-season",
+    "title": "انمي Golden Kamuy 4th Season مترجم اون لاين",
+    "poster": "data/posters/golden-kamuy-4th-season.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "granblue-fantasy-the-animation-kabocha-no-lantern",
     "title": "انمي Granblue Fantasy The Animation: Kabocha no Lantern مترجم اون لاين",
     "poster": "data/posters/granblue-fantasy-the-animation-kabocha-no-lantern.webp",
@@ -5948,6 +5961,22 @@
     "season": "خريف 2014"
   },
   {
+    "id": "heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto",
+    "title": "انمي Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto مترجم اون لاين",
+    "poster": "data/posters/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "xian-wang-de-richang-shenghuo-3",
     "title": "انمي Xian Wang de Richang Shenghuo 3 مترجم اون لاين",
     "poster": "data/posters/xian-wang-de-richang-shenghuo-3.webp",
@@ -8441,6 +8470,19 @@
     "season": "خريف 2024"
   },
   {
+    "id": "kamierabi",
+    "title": "انمي Kamierabi مترجم اون لاين",
+    "poster": "data/posters/kamierabi.webp",
+    "genres": [
+      "أكشن",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -8596,6 +8638,16 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1994"
+  },
+  {
+    "id": "i-byeol-e-pil-yohan",
+    "title": "انمي I Byeol-e Pil-yohan مترجم اون لاين",
+    "poster": "data/posters/i-byeol-e-pil-yohan.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
   },
   {
     "id": "overlord-movie-3-sei-oukoku-hen",
@@ -12129,6 +12181,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "tasuuketsu",
+    "title": "انمي Tasuuketsu مترجم اون لاين",
+    "poster": "data/posters/tasuuketsu.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "14",
+    "season": "صيف 2024"
+  },
+  {
     "id": "ore-wa-seikan-kokka-no-akutoku-ryoushu",
     "title": "انمي Ore wa Seikan Kokka no Akutoku Ryoushu! مترجم اون لاين",
     "poster": "data/posters/ore-wa-seikan-kokka-no-akutoku-ryoushu.webp",
@@ -12948,6 +13014,22 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "hunter-x-hunter-2011",
+    "title": "انمي Hunter x Hunter (2011) مترجم اون لاين",
+    "poster": "data/posters/hunter-x-hunter-2011.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "148",
+    "season": "خريف 2011"
+  },
+  {
     "id": "tokyo-ghoul-pinto",
     "title": "انمي Tokyo Ghoul: \"Pinto\" مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-pinto.webp",
@@ -13454,6 +13536,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "sojunghan-nal-ui-kkum",
+    "title": "انمي Sojunghan Nal-ui Kkum مترجم اون لاين",
+    "poster": "data/posters/sojunghan-nal-ui-kkum.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2011"
   },
   {
     "id": "nana",
@@ -16273,5 +16369,17 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2023"
+  },
+  {
+    "id": "maebashi-witches",
+    "title": "انمي Maebashi Witches مترجم اون لاين",
+    "poster": "data/posters/maebashi-witches.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
   }
 ]
