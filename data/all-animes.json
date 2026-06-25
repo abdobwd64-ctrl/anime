@@ -371,6 +371,20 @@
     "season": "صيف 2016"
   },
   {
+    "id": "make-heroine-ga-oosugiru",
+    "title": "انمي Make Heroine ga Oosugiru! مترجم اون لاين",
+    "poster": "data/posters/make-heroine-ga-oosugiru.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "val-x-love",
     "title": "انمي Val x Love مترجم اون لاين",
     "poster": "data/posters/val-x-love.webp",
@@ -2123,6 +2137,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "bucchigiri",
+    "title": "انمي Bucchigiri?! مترجم اون لاين",
+    "poster": "data/posters/bucchigiri.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "shin-sakura-taisen-the-animation",
     "title": "انمي Shin Sakura Taisen the Animation مترجم اون لاين",
     "poster": "data/posters/shin-sakura-taisen-the-animation.webp",
@@ -2263,6 +2290,23 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "high-school-dxd",
+    "title": "انمي High School DxD مترجم اون لاين",
+    "poster": "data/posters/high-school-dxd.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شياطين",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2012"
   },
   {
     "id": "dragon-ball-z-movie-14-kami-to-kami",
@@ -2603,6 +2647,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "meitantei-conan-movie-17-zekkai-no-private-eye",
+    "title": "انمي Meitantei Conan Movie 17: Zekkai no Private Eye مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-17-zekkai-no-private-eye.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2013"
   },
   {
     "id": "karaoke-iko",
@@ -4574,6 +4632,21 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "sewayaki-kitsune-no-senko-san",
+    "title": "انمي Sewayaki Kitsune no Senko-san مترجم اون لاين",
+    "poster": "data/posters/sewayaki-kitsune-no-senko-san.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "meitantei-conan-movie-08-ginyoku-no-magician",
     "title": "انمي Meitantei Conan Movie 08: Ginyoku no Magician مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-08-ginyoku-no-magician.webp",
@@ -5152,6 +5225,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "صيف 2016"
+  },
+  {
+    "id": "gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru",
+    "title": "انمي Gintama': Futon ni Haitte kara Buki Nokoshi ni Kizuite Neru ni Nerenai Toki mo Aru مترجم اون لاين",
+    "poster": "data/posters/gintama-futon-ni-haitte-kara-buki-nokoshi-ni-kizuite-neru-ni-nerenai-toki-mo-aru.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2015"
   },
   {
     "id": "jaku-chara-tomozaki-kun-specials",
@@ -5761,6 +5848,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "princess-principal-crown-handler-movie-1",
+    "title": "انمي Princess Principal: Crown Handler Movie 1 مترجم اون لاين",
+    "poster": "data/posters/princess-principal-crown-handler-movie-1.webp",
+    "genres": [
+      "أكشن",
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "tatoeba-last-dungeon-mae-no-mura-no-shounen-ga-joban-no-machi-de-kurasu-youna-monogatari",
@@ -8125,6 +8225,22 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2022"
+  },
+  {
+    "id": "slayers-the-motion-picture",
+    "title": "انمي Slayers: The Motion Picture مترجم اون لاين",
+    "poster": "data/posters/slayers-the-motion-picture.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1995"
   },
   {
     "id": "ousama-ranking-yuuki-no-takarabako",
@@ -14589,6 +14705,18 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "fermat-no-ryouri",
+    "title": "انمي Fermat no Ryouri مترجم اون لاين",
+    "poster": "data/posters/fermat-no-ryouri.webp",
+    "genres": [
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "meitantei-conan-movie-19-gouka-no-himawari",
     "title": "انمي Meitantei Conan Movie 19: Gouka no Himawari مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-19-gouka-no-himawari.webp",
@@ -15255,6 +15383,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "fugou-keiji-balance-unlimited",
+    "title": "انمي Fugou Keiji: Balance:Unlimited مترجم اون لاين",
+    "poster": "data/posters/fugou-keiji-balance-unlimited.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "ربيع 2020"
   },
   {
     "id": "tantei-wa-mou-shindeiru",
@@ -16093,6 +16235,23 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "ikkitousen-western-wolves",
+    "title": "انمي Ikkitousen: Western Wolves مترجم اون لاين",
+    "poster": "data/posters/ikkitousen-western-wolves.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "سينين",
+      "مدرسي",
+      "فنون قتالية",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "3",
+    "season": "خريف 2019"
   },
   {
     "id": "suki-demo-kirai-na-amanojaku",
@@ -17307,6 +17466,18 @@
     "season": "خريف 2019"
   },
   {
+    "id": "cardfight-vanguard-will-dress-season-2",
+    "title": "انمي Cardfight!! Vanguard: will+Dress Season 2 مترجم اون لاين",
+    "poster": "data/posters/cardfight-vanguard-will-dress-season-2.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "world-trigger",
     "title": "انمي World Trigger مترجم اون لاين",
     "poster": "data/posters/world-trigger.webp",
@@ -18193,6 +18364,22 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "صيف 2019"
+  },
+  {
+    "id": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru",
+    "title": "انمي 100-man no Inochi no Ue ni Ore wa Tatteiru مترجم اون لاين",
+    "poster": "data/posters/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2020"
   },
   {
     "id": "one-piece-3d-mugiwara-chase",
@@ -21123,6 +21310,19 @@
     "season": "صيف 2020"
   },
   {
+    "id": "suzume-no-tojimari",
+    "title": "انمي Suzume no Tojimari مترجم اون لاين",
+    "poster": "data/posters/suzume-no-tojimari.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2022"
+  },
+  {
     "id": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
     "title": "انمي Seishun Buta Yarou wa Santa Claus no Yume wo Minai مترجم اون لاين",
     "poster": "data/posters/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai.webp",
@@ -23983,6 +24183,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "gintama",
+    "title": "انمي Gintama مترجم اون لاين",
+    "poster": "data/posters/gintama.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "201",
+    "season": "ربيع 2006"
+  },
+  {
     "id": "kai-byoui-ramune",
     "title": "انمي Kai Byoui Ramune مترجم اون لاين",
     "poster": "data/posters/kai-byoui-ramune.webp",
@@ -24704,6 +24918,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "shiguang-dailiren-yingdu-pian",
+    "title": "انمي Shiguang Dailiren: Yingdu Pian مترجم اون لاين",
+    "poster": "data/posters/shiguang-dailiren-yingdu-pian.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "يعرض الان",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "خريف 2024"
   },
   {
     "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
