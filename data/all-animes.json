@@ -3742,6 +3742,19 @@
     "season": "صيف 2025"
   },
   {
+    "id": "yakitori",
+    "title": "انمي Yakitori مترجم اون لاين",
+    "poster": "data/posters/yakitori.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "86-eighty-six",
     "title": "انمي 86 Eighty Six مترجم اون لاين",
     "poster": "data/posters/86-eighty-six.webp",
