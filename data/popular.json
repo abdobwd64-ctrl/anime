@@ -54,6 +54,24 @@
     "score": 505
   },
   {
+    "id": "bleach",
+    "title": "انمي Bleach مترجم اون لاين",
+    "poster": "data/posters/bleach.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "366",
+    "season": "خريف 2004",
+    "score": 365
+  },
+  {
     "id": "boruto-naruto-next-generations",
     "title": "انمي Boruto: Naruto Next Generations مترجم اون لاين",
     "poster": "data/posters/boruto-naruto-next-generations.webp",
@@ -221,6 +239,23 @@
     "episodes_count": "109",
     "season": "خريف 1984",
     "score": 112
+  },
+  {
+    "id": "slam-dunk",
+    "title": "انمي Slam Dunk مترجم اون لاين",
+    "poster": "data/posters/slam-dunk.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "101",
+    "season": "خريف 1993",
+    "score": 106
   },
   {
     "id": "fairy-tail-2014",
@@ -483,39 +518,5 @@
     "episodes_count": "52",
     "season": "ربيع 2021",
     "score": 57
-  },
-  {
-    "id": "bakuten-shoot-beyblade-g-revolution",
-    "title": "انمي Bakuten Shoot Beyblade G Revolution مترجم اون لاين",
-    "poster": "data/posters/bakuten-shoot-beyblade-g-revolution.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "خريف 2003",
-    "score": 56
-  },
-  {
-    "id": "diamond-no-ace-act-ii",
-    "title": "انمي Diamond no Ace: Act II مترجم اون لاين",
-    "poster": "data/posters/diamond-no-ace-act-ii.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2019",
-    "score": 56
   }
 ]

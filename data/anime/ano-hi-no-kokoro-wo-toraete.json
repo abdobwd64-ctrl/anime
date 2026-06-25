@@ -1,0 +1,132 @@
+{
+  "id": "ano-hi-no-kokoro-wo-toraete",
+  "title": "انمي Ano Hi no Kokoro wo Toraete مترجم اون لاين",
+  "url": "https://animelek.top/anime/ano-hi-no-kokoro-wo-toraete/",
+  "poster": "data/posters/ano-hi-no-kokoro-wo-toraete.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "خريف 2019",
+  "genres": [
+    "دراما",
+    "خيال علمي"
+  ],
+  "story": "あの日の心をとらえて",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأونا 1Ano Hi no Kokoro wo Toraete",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1325473401562"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1yfqLY3oRMM1rqMKiIjWvvGLQCfrP4-1f/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=4QKeh&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/j65dnW6rYjDvq"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Kq5wTABA!Ei4aHUSfgaoTjKKVzH5lTn8_NtWgP9leEmaNwdDXkog"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/9zwb87u2o072"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-f5kld01zr4gv.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-hhe7u0i2twvc.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-2hefaarlsjsf.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-g6r8w19464vl.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-llki945jib7w.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1yfqLY3oRMM1rqMKiIjWvvGLQCfrP4-1f&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Kq5wTABA!Ei4aHUSfgaoTjKKVzH5lTn8_NtWgP9leEmaNwdDXkog"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hhe7u0i2twvc"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/9zwb87u2o072"
+        },
+        {
+          "server": "file-up",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/2hefaarlsjsf"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/j65dnW6rYjDvq"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/4QKeh/[Anime4up.com]_AHNKWT_FHD.mp4"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/9q7b5ogvjy0v"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/llki945jib7w"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3szP6"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:35:40.752153"
+}
