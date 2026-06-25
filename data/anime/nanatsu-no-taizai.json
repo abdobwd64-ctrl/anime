@@ -368,7 +368,66 @@
           "url": "https://uptobox.com/y2pobkne429a"
         }
       ]
+    },
+    {
+      "number": "18",
+      "title": "الحلقة 18Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1x7cOUUEBpK75UGiuDEY-TlrXfPHNpuKq/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!QPJVhYoC!aIBsfVzecUXfOHi_THDgmjrk8qEsljqqOCCumE-t9Ng"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/OxUXzzsLee"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-qis7zsdal7m6.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/zdw162ohu7xc"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1x7cOUUEBpK75UGiuDEY-TlrXfPHNpuKq&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!QPJVhYoC!aIBsfVzecUXfOHi_THDgmjrk8qEsljqqOCCumE-t9Ng"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/fam9m0mncca2"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/wm6Ab007ifM/%5BAnime4up.com%5D_NNT_EP_18_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/zdw162ohu7xc"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:27.356642"
+  "last_updated": "2026-06-25T00:29:36.391313"
 }
