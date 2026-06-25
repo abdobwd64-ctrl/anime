@@ -2631,6 +2631,16 @@
     "season": "خريف 2023"
   },
   {
+    "id": "solo-leveling-ore-dake-level-up-na-ken",
+    "title": "انمي Solo Leveling Ore dake Level Up na Ken مترجم اون لاين",
+    "poster": "data/posters/solo-leveling-ore-dake-level-up-na-ken.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou",
     "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou مترجم اون لاين",
     "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi-ni-no-shou.webp",
@@ -7744,6 +7754,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "kaii-to-otome-to-kamikakushi",
+    "title": "انمي Kaii to Otome to Kamikakushi مترجم اون لاين",
+    "poster": "data/posters/kaii-to-otome-to-kamikakushi.webp",
+    "genres": [
+      "غموض",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "anne-shirley",
     "title": "انمي Anne Shirley مترجم اون لاين",
     "poster": "data/posters/anne-shirley.webp",
@@ -8110,6 +8133,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "high-card",
+    "title": "انمي High Card مترجم اون لاين",
+    "poster": "data/posters/high-card.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
   },
   {
     "id": "ore-dake-haireru-kakushi-dungeon",
@@ -12318,6 +12353,19 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "tasokare-hotel",
+    "title": "انمي Tasokare Hotel مترجم اون لاين",
+    "poster": "data/posters/tasokare-hotel.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "blue-archive-the-animation",
     "title": "انمي Blue Archive the Animation مترجم اون لاين",
     "poster": "data/posters/blue-archive-the-animation.webp",
@@ -12989,6 +13037,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "back-arrow",
+    "title": "انمي Back Arrow مترجم اون لاين",
+    "poster": "data/posters/back-arrow.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "metallic-rouge",
@@ -14850,6 +14912,18 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "deep-insanity-the-lost-child",
+    "title": "انمي Deep Insanity: The Lost Child مترجم اون لاين",
+    "poster": "data/posters/deep-insanity-the-lost-child.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "kyokou-suiri-season-2",
     "title": "انمي Kyokou Suiri Season 2 مترجم اون لاين",
     "poster": "data/posters/kyokou-suiri-season-2.webp",
@@ -14928,6 +15002,23 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "bleach-movie-1-memories-of-nobody",
+    "title": "انمي Bleach Movie 1: Memories of Nobody مترجم اون لاين",
+    "poster": "data/posters/bleach-movie-1-memories-of-nobody.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2006"
   },
   {
     "id": "watashi-no-shiawase-na-kekkon-2nd-season",
