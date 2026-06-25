@@ -9947,6 +9947,21 @@
     "season": "خريف 2021"
   },
   {
+    "id": "hunter-x-hunter-pilot",
+    "title": "انمي Hunter x Hunter Pilot مترجم اون لاين",
+    "poster": "data/posters/hunter-x-hunter-pilot.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 1998"
+  },
+  {
     "id": "made-in-abyss-movie-3-fukaki-tamashii-no-reimei",
     "title": "انمي Made in Abyss Movie 3: Fukaki Tamashii no Reimei مترجم اون لاين",
     "poster": "data/posters/made-in-abyss-movie-3-fukaki-tamashii-no-reimei.webp",
