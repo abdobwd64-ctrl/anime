@@ -1,0 +1,131 @@
+{
+  "id": "ninja-mono",
+  "title": "انمي Ninja Mono مترجم اون لاين",
+  "url": "https://animelek.top/anime/ninja-mono/",
+  "poster": "data/posters/ninja-mono.webp",
+  "status": "مكتمل",
+  "type": "أوفا",
+  "episodes_count": "2",
+  "start_date": "1996",
+  "season": "شتاء 1996",
+  "genres": [
+    "شونين",
+    "مغامرات",
+    "كوميدي",
+    "قوى خارقة"
+  ],
+  "story": "Ｎｉｎｊａ者",
+  "episodes": [
+    {
+      "number": "2",
+      "title": "الأوفا 2Ninja Mono",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/978677598938"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1DDHSSUwTmTJW81HullG0fIh6S2OoDlV7/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!kkxEEShZ!gk7uWSedOv_ZW3W4Sr98Uq_1afvBxuswUk7ht_D1KOM"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-7egx5qzjdfme.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/CTgss8CZOSU/%5BAnime4up.com%5D_NM_EP_02_END.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1DDHSSUwTmTJW81HullG0fIh6S2OoDlV7&export=download"
+        },
+        {
+          "server": "3rbup",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/0bb26b0df90f92b4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/k0rk9w2xnd0w"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!kkxEEShZ!gk7uWSedOv_ZW3W4Sr98Uq_1afvBxuswUk7ht_D1KOM"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "title": "الأوفا 1Ninja Mono",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/978671700698"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1J7DRChZWHoScRWEwRGJSCugpwVwvl8GQ/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Fx5lxY6L!o_QpBz_c07QX4mzZfX36_uSaVWouz46jYgoq6RosfhY"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-t7u83rd21u0k.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/JX70MsNbFns/%5BAnime4up.com%5D_NM_EP_01_SD.mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1J7DRChZWHoScRWEwRGJSCugpwVwvl8GQ&export=download"
+        },
+        {
+          "server": "3rbup",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/e81547ce949c572e"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/oyyhbvgliskb"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Fx5lxY6L!o_QpBz_c07QX4mzZfX36_uSaVWouz46jYgoq6RosfhY"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:48:25.868920"
+}

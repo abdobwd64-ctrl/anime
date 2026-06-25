@@ -240,6 +240,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season مترجم اون لاين",
+    "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-3rd-season.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "خريف 2024"
+  },
+  {
     "id": "bungou-stray-dogs-3rd-season",
     "title": "انمي Bungou Stray Dogs 3rd Season مترجم اون لاين",
     "poster": "data/posters/bungou-stray-dogs-3rd-season.webp",
@@ -6230,6 +6244,21 @@
     "season": "خريف 2022"
   },
   {
+    "id": "night-head-2041",
+    "title": "انمي Night Head 2041 مترجم اون لاين",
+    "poster": "data/posters/night-head-2041.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "خيال علمي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021"
+  },
+  {
     "id": "konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
     "title": "انمي Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu مترجم اون لاين",
     "poster": "data/posters/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu.webp",
@@ -7731,6 +7760,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "food-court-de-mata-ashita",
+    "title": "انمي Food Court de, Mata Ashita. مترجم اون لاين",
+    "poster": "data/posters/food-court-de-mata-ashita.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "6",
+    "season": "صيف 2025"
   },
   {
     "id": "mahoutsukai-no-yome-season-2",
@@ -9531,6 +9572,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "puniru-wa-kawaii-slime",
+    "title": "انمي Puniru wa Kawaii Slime مترجم اون لاين",
+    "poster": "data/posters/puniru-wa-kawaii-slime.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "sword-art-online",
     "title": "انمي Sword Art Online مترجم اون لاين",
     "poster": "data/posters/sword-art-online.webp",
@@ -10416,6 +10471,21 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "ninja-mono",
+    "title": "انمي Ninja Mono مترجم اون لاين",
+    "poster": "data/posters/ninja-mono.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "2",
+    "season": "شتاء 1996"
   },
   {
     "id": "somali-to-mori-no-kamisama",

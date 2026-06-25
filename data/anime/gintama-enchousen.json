@@ -693,7 +693,104 @@
           "url": "https://www.4shared.com/video/N3FBcJw4iq/Anime4upcom_GE_EP_07_HD.html"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Gintama': Enchousen",
+      "date": "26 مارس, 2022",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/KRgbY8Fuea/"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3242283240154"
+        },
+        {
+          "name": "sbfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbfast.com/e/7vl38utgm88v"
+        },
+        {
+          "name": "dood so | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.so/e/ofuuqlay1o9p"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-znz6x3uu336q.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/3dQBVwyPevRkW"
+        },
+        {
+          "name": "vidbam org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbam.org/embed-lxcngwp0ga6c.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-hul633j78bku.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/w3ZVERRY!oYntkmHht3dWis75bC9R8QR0AFdQaFtAhvcxq39NIFA"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/2ymclowxr1io"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/oyhkw6yc44vt"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!w3ZVERRY!oYntkmHht3dWis75bC9R8QR0AFdQaFtAhvcxq39NIFA"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hul633j78bku"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/3dQBVwyPevRkW"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2ymclowxr1io"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/ofuuqlay1o9p"
+        },
+        {
+          "server": "sbfast",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://sbfast.com/7vl38utgm88v.html"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/KRgbY8Fuea/Anime4upcom_GE_EP_06_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:16:45.718740"
+  "last_updated": "2026-06-25T04:48:29.857451"
 }
