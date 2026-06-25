@@ -1645,6 +1645,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "kaze-tachinu",
+    "title": "انمي Kaze Tachinu مترجم اون لاين",
+    "poster": "data/posters/kaze-tachinu.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2013"
+  },
+  {
     "id": "farmagia",
     "title": "انمي Farmagia مترجم اون لاين",
     "poster": "data/posters/farmagia.webp",
