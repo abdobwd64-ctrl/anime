@@ -3303,6 +3303,20 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "one-piece-film-gold",
+    "title": "انمي One Piece Film: Gold مترجم اون لاين",
+    "poster": "data/posters/one-piece-film-gold.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "delico-s-nursery",
     "title": "انمي Delico's Nursery مترجم اون لاين",
     "poster": "data/posters/delico-s-nursery.webp",
@@ -5830,6 +5844,19 @@
     "season": "صيف 2022"
   },
   {
+    "id": "osomatsu-san-3rd-season",
+    "title": "انمي Osomatsu-san 3rd Season مترجم اون لاين",
+    "poster": "data/posters/osomatsu-san-3rd-season.webp",
+    "genres": [
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
+  },
+  {
     "id": "yowamushi-pedal-limit-break",
     "title": "انمي Yowamushi Pedal: Limit Break مترجم اون لاين",
     "poster": "data/posters/yowamushi-pedal-limit-break.webp",
@@ -5879,6 +5906,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "mars-red",
+    "title": "انمي Mars Red مترجم اون لاين",
+    "poster": "data/posters/mars-red.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "قوى خارقة",
+      "تاريخي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021"
   },
   {
     "id": "goumon-baito-kun-no-nichijou",
@@ -6162,6 +6205,16 @@
     "type": "أوفا",
     "episodes_count": "3",
     "season": "صيف 2021"
+  },
+  {
+    "id": "idolish7-third-beat-part-2",
+    "title": "انمي IDOLiSH7: Third Beat! Part 2 مترجم اون لاين",
+    "poster": "data/posters/idolish7-third-beat-part-2.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "shoushimin-series-2nd-season",
@@ -7845,6 +7898,20 @@
     "season": "صيف 2020"
   },
   {
+    "id": "sarazanmai",
+    "title": "انمي Sarazanmai مترجم اون لاين",
+    "poster": "data/posters/sarazanmai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "one-piece-dai-tokushu-momonosuke-no-mei-shogun-e-no-michi",
     "title": "انمي One Piece: Dai Tokushu! Momonosuke no Mei Shogun e no Michi مترجم اون لاين",
     "poster": "data/posters/one-piece-dai-tokushu-momonosuke-no-mei-shogun-e-no-michi.webp",
@@ -8921,6 +8988,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "sword-art-online",
+    "title": "انمي Sword Art Online مترجم اون لاين",
+    "poster": "data/posters/sword-art-online.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "صيف 2012"
   },
   {
     "id": "xian-wang-de-richang-shenghuo-3",
@@ -10292,6 +10375,18 @@
     "season": "صيف 2024"
   },
   {
+    "id": "a3-season-spring-summer",
+    "title": "انمي A3! Season Spring & Summer مترجم اون لاين",
+    "poster": "data/posters/a3-season-spring-summer.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "tonikaku-kawaii-joshikou-hen",
     "title": "انمي Tonikaku Kawaii: Joshikou-hen مترجم اون لاين",
     "poster": "data/posters/tonikaku-kawaii-joshikou-hen.webp",
@@ -10334,6 +10429,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2018"
+  },
+  {
+    "id": "bakuten",
+    "title": "انمي Bakuten!! مترجم اون لاين",
+    "poster": "data/posters/bakuten.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
   },
   {
     "id": "mairimashita-iruma-kun-3rd-season",
@@ -13276,6 +13383,21 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "k-seven-stories-movie-1-r-b-blaze",
+    "title": "انمي K: Seven Stories Movie 1 - R:B - Blaze مترجم اون لاين",
+    "poster": "data/posters/k-seven-stories-movie-1-r-b-blaze.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2018"
+  },
+  {
     "id": "uma-musume-pretty-derby-tv-season-2",
     "title": "انمي Uma Musume: Pretty Derby (TV) Season 2 مترجم اون لاين",
     "poster": "data/posters/uma-musume-pretty-derby-tv-season-2.webp",
@@ -14825,6 +14947,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2023"
+  },
+  {
+    "id": "yoru-no-kuni",
+    "title": "انمي Yoru no Kuni مترجم اون لاين",
+    "poster": "data/posters/yoru-no-kuni.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "ramen-akaneko",
@@ -19519,6 +19653,19 @@
     "season": "صيف 2015"
   },
   {
+    "id": "yumemiru-danshi-wa-genjitsushugisha",
+    "title": "انمي Yumemiru Danshi wa Genjitsushugisha مترجم اون لاين",
+    "poster": "data/posters/yumemiru-danshi-wa-genjitsushugisha.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "meitantei-conan-movie-07-meikyuu-no-crossroad",
     "title": "انمي Meitantei Conan Movie 07: Meikyuu no Crossroad مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-07-meikyuu-no-crossroad.webp",
@@ -21022,6 +21169,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2015"
+  },
+  {
+    "id": "sasaki-to-pii-chan",
+    "title": "انمي Sasaki to Pii-chan مترجم اون لاين",
+    "poster": "data/posters/sasaki-to-pii-chan.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "fureru",
