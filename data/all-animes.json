@@ -3632,6 +3632,19 @@
     "season": "صيف 2025"
   },
   {
+    "id": "shadowverse-tv",
+    "title": "انمي Shadowverse (TV) مترجم اون لاين",
+    "poster": "data/posters/shadowverse-tv.webp",
+    "genres": [
+      "فنتازيا",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
@@ -6389,6 +6402,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2022"
+  },
+  {
+    "id": "pumpkin-scissors",
+    "title": "انمي Pumpkin Scissors مترجم اون لاين",
+    "poster": "data/posters/pumpkin-scissors.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2006"
   },
   {
     "id": "one-piece-dai-gekisen-tokushuu-hangeki-doumei-vs-big-mom",
@@ -13006,6 +13034,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha",
+    "title": "انمي Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha مترجم اون لاين",
+    "poster": "data/posters/natsume-yuujinchou-ishi-okoshi-to-ayashiki-raihousha.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة",
+      "شياطين",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "2",
+    "season": "خريف 2021"
   },
   {
     "id": "mono",

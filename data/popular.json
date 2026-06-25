@@ -444,6 +444,20 @@
     "score": 51
   },
   {
+    "id": "shadowverse-tv",
+    "title": "انمي Shadowverse (TV) مترجم اون لاين",
+    "poster": "data/posters/shadowverse-tv.webp",
+    "genres": [
+      "فنتازيا",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
+    "score": 50
+  },
+  {
     "id": "ashita-no-joe-2",
     "title": "انمي Ashita no Joe 2 مترجم اون لاين",
     "poster": "data/posters/ashita-no-joe-2.webp",
@@ -488,21 +502,5 @@
     "episodes_count": "51",
     "season": "ربيع 2016",
     "score": 48
-  },
-  {
-    "id": "hokuto-no-ken-2",
-    "title": "انمي Hokuto no Ken 2 مترجم اون لاين",
-    "poster": "data/posters/hokuto-no-ken-2.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "دراما",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "شتاء 1987",
-    "score": 47
   }
 ]
