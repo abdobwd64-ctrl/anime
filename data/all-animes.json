@@ -8975,6 +8975,34 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "shokugeki-no-souma",
+    "title": "انمي Shokugeki no Souma مترجم اون لاين",
+    "poster": "data/posters/shokugeki-no-souma.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2015"
+  },
+  {
+    "id": "douse-koishite-shimaunda",
+    "title": "انمي Douse, Koishite Shimaunda. مترجم اون لاين",
+    "poster": "data/posters/douse-koishite-shimaunda.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "tomodachi-no-imouto-ga-ore-ni-dake-uzai",
     "title": "انمي Tomodachi no Imouto ga Ore ni dake Uzai مترجم اون لاين",
     "poster": "data/posters/tomodachi-no-imouto-ga-ore-ni-dake-uzai.webp",
