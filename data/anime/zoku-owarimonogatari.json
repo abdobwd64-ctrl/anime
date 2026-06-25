@@ -1,0 +1,114 @@
+{
+  "id": "zoku-owarimonogatari",
+  "title": "انمي Zoku Owarimonogatari مترجم اون لاين",
+  "url": "https://animelek.top/anime/zoku-owarimonogatari/",
+  "poster": "data/posters/zoku-owarimonogatari.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "6",
+  "start_date": "2018",
+  "season": "خريف 2018",
+  "genres": [
+    "غموض",
+    "كوميدي",
+    "قوى خارقة",
+    "مصاصي دماء"
+  ],
+  "story": "تدور الأحداث حول كويومي الذي يستيقظ في يوم من الأيام ليجد عوارض غريبة تحدث معه.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Zoku Owarimonogatari",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1r-JQW0aL1Gsaegj4bOvL8Tb3pqd1yYlA/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!xToixIYS!JVX22xP390GhdOUBZSd9QaiMnRTHkBQH9d5qh-mfij0"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-iadm7l74z424.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/28qxihnhh1ao"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1blZuvQdfubMSN761W1EU_qy3i5VqefIK/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!5P5m3CKQ!fhIOW2n-GouZd-4R9LqRw97-Bms_BV2OOm2Hp8phmMs"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1blZuvQdfubMSN761W1EU_qy3i5VqefIK&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!5P5m3CKQ!fhIOW2n-GouZd-4R9LqRw97-Bms_BV2OOm2Hp8phmMs"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/Pt7zi0ZeheQ/%5BAnime4up.com%5D_ZO_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/isw24all1vzu"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/6j9wvi2zdkvy"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1r-JQW0aL1Gsaegj4bOvL8Tb3pqd1yYlA&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!xToixIYS!JVX22xP390GhdOUBZSd9QaiMnRTHkBQH9d5qh-mfij0"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ZCeQWHp5Lkw/%5BAnime4up.com%5D_ZO_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/28qxihnhh1ao"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/jvssf43jquea"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:23:46.147888"
+}

@@ -414,6 +414,24 @@
     "score": 68
   },
   {
+    "id": "super-dragon-ball-heroes",
+    "title": "انمي Super Dragon Ball Heroes مترجم اون لاين",
+    "poster": "data/posters/super-dragon-ball-heroes.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "56",
+    "season": "صيف 2018",
+    "score": 62
+  },
+  {
     "id": "fairy-tail-final-series",
     "title": "انمي Fairy Tail: Final Series مترجم اون لاين",
     "poster": "data/posters/fairy-tail-final-series.webp",
@@ -499,20 +517,5 @@
     "episodes_count": "50",
     "season": "خريف 2019",
     "score": 55
-  },
-  {
-    "id": "gintama-season-4",
-    "title": "انمي Gintama season 4 مترجم اون لاين",
-    "poster": "https://animelek.top/uploads/posters/poster-Gintama--676807b304407.jpg?1.0.38",
-    "genres": [
-      "أكشن",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "ربيع 2015",
-    "score": 54
   }
 ]
