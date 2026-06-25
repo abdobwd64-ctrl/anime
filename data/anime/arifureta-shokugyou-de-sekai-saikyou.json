@@ -880,7 +880,118 @@
           "url": "https://www.solidfiles.com/v/4ap6yND8ygdMg"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Arifureta Shokugyou de Sekai Saikyou",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1YBGfOWu8g0jBPxrJ71-is97byT_6OkIR/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/jXpYR4yyjmLWr"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!WvxTRAAJ!njj4SNu3dh1m4hLrvcPvXW5NY83nOhxB258TsSWPpmI"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0u7k46c2z0l5"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1vj3uLxP-sf1D2tEJItuU9pP-FQtffWDm/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!y7pEhSjI!xc7TQRf-CgZVHstkKbQgSlMB-JwoPil2JCnWiIqzs1o"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1vj3uLxP-sf1D2tEJItuU9pP-FQtffWDm&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!y7pEhSjI!xc7TQRf-CgZVHstkKbQgSlMB-JwoPil2JCnWiIqzs1o"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8y2l3fum3ddi"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/doIeNMrNw7Q/%5BAnime4up.com%5D_ASDSS_EP_08_SD_V2.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/5d9aukw2i1tx"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ooka6pdsfumi"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1YBGfOWu8g0jBPxrJ71-is97byT_6OkIR&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!WvxTRAAJ!njj4SNu3dh1m4hLrvcPvXW5NY83nOhxB258TsSWPpmI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/gkvmpcrz0yl8"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/It03LSaS-Bo/%5BAnime4up.com%5D_ASDSS_EP_08_HD_V2.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0u7k46c2z0l5"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/l97zpnxkca33"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/jXpYR4yyjmLWr"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:13:32.266175"
+  "last_updated": "2026-06-25T02:13:42.619731"
 }
