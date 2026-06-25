@@ -9359,6 +9359,22 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "yu-gi-oh-vrains",
+    "title": "انمي Yu☆Gi☆Oh! VRAINS مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-vrains.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "120",
+    "season": "ربيع 2017"
+  },
+  {
     "id": "mayonaka-no-occult-koumuin",
     "title": "انمي Mayonaka no Occult Koumuin مترجم اون لاين",
     "poster": "data/posters/mayonaka-no-occult-koumuin.webp",
