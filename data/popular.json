@@ -155,6 +155,22 @@
     "score": 57
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 57
+  },
+  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
@@ -171,22 +187,6 @@
     "episodes_count": "52",
     "season": "ربيع 2021",
     "score": 57
-  },
-  {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
-    "score": 55
   },
   {
     "id": "captain-tsubasa-2018",
