@@ -8738,6 +8738,20 @@
     "season": "صيف 2019"
   },
   {
+    "id": "biohazard-death-island",
+    "title": "انمي Biohazard: Death Island مترجم اون لاين",
+    "poster": "data/posters/biohazard-death-island.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2023"
+  },
+  {
     "id": "gundam-build-divers-re-rise-2nd-season",
     "title": "انمي Gundam Build Divers Re:Rise 2nd Season مترجم اون لاين",
     "poster": "data/posters/gundam-build-divers-re-rise-2nd-season.webp",
@@ -11719,6 +11733,23 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "koukaku-kidoutai-sac_2045",
+    "title": "انمي Koukaku Kidoutai: SAC_2045 مترجم اون لاين",
+    "poster": "data/posters/koukaku-kidoutai-sac_2045.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "خيال علمي",
+      "سينين",
+      "ميكا",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "yano-kun-no-futsuu-no-hibi",
     "title": "انمي Yano-kun no Futsuu no Hibi مترجم اون لاين",
     "poster": "data/posters/yano-kun-no-futsuu-no-hibi.webp",
@@ -12453,6 +12484,18 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "12",
+    "season": "خريف 2016"
+  },
+  {
+    "id": "kizumonogatari-i-tekketsu-hen",
+    "title": "انمي Kizumonogatari I: Tekketsu-hen مترجم اون لاين",
+    "poster": "data/posters/kizumonogatari-i-tekketsu-hen.webp",
+    "genres": [
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
     "season": "خريف 2016"
   },
   {
