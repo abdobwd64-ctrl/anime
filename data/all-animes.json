@@ -7756,6 +7756,18 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "bang-dream-3rd-season",
+    "title": "انمي BanG Dream! 3rd Season مترجم اون لاين",
+    "poster": "data/posters/bang-dream-3rd-season.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "kuroko-no-basket-movie-4-last-game",
     "title": "انمي Kuroko no Basket Movie 4: Last Game مترجم اون لاين",
     "poster": "data/posters/kuroko-no-basket-movie-4-last-game.webp",
