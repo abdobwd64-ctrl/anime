@@ -551,7 +551,131 @@
           "url": "https://uptobox.com/de3iahc3v3cs"
         }
       ]
+    },
+    {
+      "number": "15",
+      "title": "الحلقة 15Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1dAYk06FX_tMM1dQpaHR_8C5IILQzZgSd/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/-vdV2_Mmgm"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!4SAx2aYB!tBx7tDN57v-aOS30qzg5TA9NghGg8vneUMu_sbkQvcg"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-0v6dfczwy4u8.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/nshc1qmg4zjs"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1dAYk06FX_tMM1dQpaHR_8C5IILQzZgSd&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4SAx2aYB!tBx7tDN57v-aOS30qzg5TA9NghGg8vneUMu_sbkQvcg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/63m6qvsv4qll"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/dRl1NEbl6jg/%5BAnime4up.com%5D_NNT_EP_15_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/nshc1qmg4zjs"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ezql12snmu0f"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "title": "الحلقة 14Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1gUdfxifRC0bUXMpcuJVkzpn-xCosyP_V/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!9fQmRaiL!B2jkuPrpWrt2e-1uyKRamjnZVc5b5_0z7Pt1KXmAlmY"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/C1E86DRTgm"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-rrx6zqof5cyg.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/cj4mlk0lxx0t"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1gUdfxifRC0bUXMpcuJVkzpn-xCosyP_V&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9fQmRaiL!B2jkuPrpWrt2e-1uyKRamjnZVc5b5_0z7Pt1KXmAlmY"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/idrvkwt14yc6"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/a3Bv6w0reKw/%5BAnime4up.com%5D_NNT_EP_14_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/cj4mlk0lxx0t"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:50.790716"
+  "last_updated": "2026-06-25T00:30:04.750244"
 }
