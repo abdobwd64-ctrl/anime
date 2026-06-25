@@ -720,6 +720,20 @@
     "season": "خريف 2004"
   },
   {
+    "id": "mayonaka-punch",
+    "title": "انمي Mayonaka Punch مترجم اون لاين",
+    "poster": "data/posters/mayonaka-punch.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "ganbare-douki-chan",
     "title": "انمي Ganbare Douki-chan مترجم اون لاين",
     "poster": "data/posters/ganbare-douki-chan.webp",
@@ -1068,6 +1082,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2013"
+  },
+  {
+    "id": "arne-no-jikenbo",
+    "title": "انمي Arne no Jikenbo مترجم اون لاين",
+    "poster": "data/posters/arne-no-jikenbo.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
   },
   {
     "id": "bucchigiri",
