@@ -458,7 +458,232 @@
           "url": "https://doodstream.com/d/rvpblc2aghnz"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Oniichan wa Oshimai!",
+      "date": "16 مارس, 2023",
+      "servers": [
+        {
+          "name": "streamhide to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://streamhide.to/e/lvjakr7gkup5"
+        },
+        {
+          "name": "sbbrisk | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbbrisk.com/e/nvk0d5paz6iu"
+        },
+        {
+          "name": "segavid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://segavid.com/embed-y3n9886oudh5.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/612kwcve8soo"
+        },
+        {
+          "name": "dood re | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.re/e/nh3mjgmcitxj"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4468658539226"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-hywyftxdoh4j.html"
+        },
+        {
+          "name": "vadbam | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vadbam.net/embed-6nwwci3zu9ev.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/8RVE3bCL!nMkMb_12QeCn52ZX5p80UrBRQXzDHvnGLRJgghShyBU"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/3lsrh5wtltyw"
+        },
+        {
+          "name": "voe sx | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/68l91t3jclic"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4468722830042"
+        },
+        {
+          "name": "dood re | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.re/e/aan2swlp7cqc"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-7gtumypxj20f.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/gF9n2C5b!JMEqh5_-ar_jzqbNwiGPeNnUIVXH5BFct2E3pA1Uync"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/lzqpmsr4hi9y"
+        },
+        {
+          "name": "voe sx | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/p0cemyn18e0y"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/4468798589658"
+        },
+        {
+          "name": "dood re | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.re/e/1w2v1sjkbfjh"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/lYtASAKa!iQ0GfQtjWOGeUCND8s44qJFa07gzyaQnLJggoZMEvtI"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/2catpjpuqi0n"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "voe",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://voe.sx/p0cemyn18e0y"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/ikcmrxyfrhjt"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!lYtASAKa!iQ0GfQtjWOGeUCND8s44qJFa07gzyaQnLJggoZMEvtI"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/N0sbDde3z2"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2catpjpuqi0n"
+        },
+        {
+          "server": "doodstream",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/1w2v1sjkbfjh"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/1cmhqiynsr8c"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/612kwcve8soo"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!8RVE3bCL!nMkMb_12QeCn52ZX5p80UrBRQXzDHvnGLRJgghShyBU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hywyftxdoh4j"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/ObO6Cdebz4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/3lsrh5wtltyw"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/nh3mjgmcitxj"
+        },
+        {
+          "server": "streamhide",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://streamhide.to/w/lvjakr7gkup5"
+        },
+        {
+          "server": "sbbrisk",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sbbrisk.com/nvk0d5paz6iu.html"
+        },
+        {
+          "server": "voe",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://voe.sx/68l91t3jclic"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/97s85erhw8w7"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!gF9n2C5b!JMEqh5_-ar_jzqbNwiGPeNnUIVXH5BFct2E3pA1Uync"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/86haD2eaze"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/7gtumypxj20f"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/lzqpmsr4hi9y"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/aan2swlp7cqc"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:15:20.716473"
+  "last_updated": "2026-06-25T02:15:32.199363"
 }
