@@ -4364,6 +4364,24 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "dragon-ball-kai-2014",
+    "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-kai-2014.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "61",
+    "season": "ربيع 2014"
+  },
+  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
     "title": "انمي Naze Boku no Sekai wo Daremo Oboeteinai no ka? مترجم اون لاين",
     "poster": "data/posters/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka.webp",
