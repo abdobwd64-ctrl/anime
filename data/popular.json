@@ -339,6 +339,25 @@
     "score": 31
   },
   {
+    "id": "nanatsu-no-taizai",
+    "title": "انمي Nanatsu no Taizai مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014",
+    "score": 31
+  },
+  {
     "id": "toaru-majutsu-no-index-iii",
     "title": "انمي Toaru Majutsu no Index III مترجم اون لاين",
     "poster": "data/posters/toaru-majutsu-no-index-iii.webp",
@@ -386,25 +405,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2024",
-    "score": 30
-  },
-  {
-    "id": "nanatsu-no-taizai",
-    "title": "انمي Nanatsu no Taizai مترجم اون لاين",
-    "poster": "data/posters/nanatsu-no-taizai.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "سحر",
-      "قوى خارقة",
-      "إيتشي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2014",
     "score": 30
   },
   {
