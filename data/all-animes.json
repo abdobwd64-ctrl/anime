@@ -8099,6 +8099,18 @@
     "season": "ربيع 2008"
   },
   {
+    "id": "tribe-nine",
+    "title": "انمي Tribe Nine مترجم اون لاين",
+    "poster": "data/posters/tribe-nine.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "yozakura-san-chi-no-daisakusen",
     "title": "انمي Yozakura-san Chi no Daisakusen مترجم اون لاين",
     "poster": "data/posters/yozakura-san-chi-no-daisakusen.webp",
@@ -9810,6 +9822,22 @@
     "season": "خريف 2015"
   },
   {
+    "id": "kyoushoku-soukou-guyver-1989",
+    "title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
+    "poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "خيال علمي",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "6",
+    "season": "صيف 1989"
+  },
+  {
     "id": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
     "title": "انمي Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? مترجم اون لاين",
     "poster": "data/posters/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo.webp",
@@ -10265,6 +10293,20 @@
     "season": "صيف 2025"
   },
   {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
+    "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 4th Season مترجم اون لاين",
+    "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-4th-season.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "اثارة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "19",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "tensura-nikki-tensei-shitara-slime-datta-ken",
     "title": "انمي Tensura Nikki: Tensei shitara Slime Datta Ken مترجم اون لاين",
     "poster": "data/posters/tensura-nikki-tensei-shitara-slime-datta-ken.webp",
@@ -10672,6 +10714,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "human-bug-daigaku",
+    "title": "انمي Human Bug Daigaku مترجم اون لاين",
+    "poster": "data/posters/human-bug-daigaku.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "digimon-adventure",
@@ -11218,6 +11272,23 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "bleach-the-sealed-sword-frenzy",
+    "title": "انمي Bleach: The Sealed Sword Frenzy مترجم اون لاين",
+    "poster": "data/posters/bleach-the-sealed-sword-frenzy.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2006"
   },
   {
     "id": "kanata-no-astra",
@@ -12786,6 +12857,19 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 2006"
+  },
+  {
+    "id": "bishounen-tanteidan",
+    "title": "انمي Bishounen Tanteidan مترجم اون لاين",
+    "poster": "data/posters/bishounen-tanteidan.webp",
+    "genres": [
+      "غموض",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "spy-x-family-season-3",
@@ -22290,6 +22374,24 @@
     "season": "خريف 2021"
   },
   {
+    "id": "dr-chopper-s-adventure-checkup-traitors-masquerade",
+    "title": "انمي Dr. Chopper's Adventure Checkup -Traitors' Masquerade مترجم اون لاين",
+    "poster": "data/posters/dr-chopper-s-adventure-checkup-traitors-masquerade.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2025"
+  },
+  {
     "id": "acca-13-ku-kansatsu-ka-regards",
     "title": "انمي ACCA: 13-ku Kansatsu-ka - Regards مترجم اون لاين",
     "poster": "data/posters/acca-13-ku-kansatsu-ka-regards.webp",
@@ -22932,6 +23034,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio",
+    "title": "انمي Steins;Gate 0: Kesshou Takei no Valentine - Bittersweet Intermedio مترجم اون لاين",
+    "poster": "data/posters/steins-gate-0-kesshou-takei-no-valentine-bittersweet-intermedio.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2018"
   },
   {
     "id": "dragon-ball-z-movie-02-kono-yo-de-ichiban-tsuyoi-yatsu",
