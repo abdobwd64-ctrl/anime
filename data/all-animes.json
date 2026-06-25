@@ -809,6 +809,19 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "tamon-kun-ima-docchi",
+    "title": "انمي Tamon-kun Ima Docchi!? مترجم اون لاين",
+    "poster": "data/posters/tamon-kun-ima-docchi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "yu-gi-oh-duel-monsters-gx",
     "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
     "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
@@ -4940,6 +4953,18 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2016"
+  },
+  {
+    "id": "one-piece-rufi-senpai-oen-kikaku-baruto-no-himitsu-no-heya-fosu",
+    "title": "انمي One Piece Rufi Senpai Oen Kikaku Baruto No Himitsu No Heya Fosu مترجم اون لاين",
+    "poster": "data/posters/one-piece-rufi-senpai-oen-kikaku-baruto-no-himitsu-no-heya-fosu.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
   },
   {
     "id": "mahoutsukai-no-yome-season-2",
@@ -12618,6 +12643,21 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "detective-conan-movie-24-the-scarlet-bullet",
+    "title": "انمي Detective Conan Movie 24: The Scarlet Bullet مترجم اون لاين",
+    "poster": "data/posters/detective-conan-movie-24-the-scarlet-bullet.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "osananajimi-ga-zettai-ni-makenai-love-comedy",
     "title": "انمي Osananajimi ga Zettai ni Makenai Love Comedy مترجم اون لاين",
     "poster": "data/posters/osananajimi-ga-zettai-ni-makenai-love-comedy.webp",
@@ -15556,6 +15596,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "overlord-movie-1-fushisha-no-ou",
+    "title": "انمي Overlord Movie 1: Fushisha no Ou مترجم اون لاين",
+    "poster": "data/posters/overlord-movie-1-fushisha-no-ou.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "charlotte",
