@@ -85,21 +85,6 @@
     "score": 101
   },
   {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 76
-  },
-  {
     "id": "ginga-eiyuu-densetsu",
     "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu.webp",
@@ -113,6 +98,21 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
+    "score": 77
+  },
+  {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
     "score": 76
   },
   {
