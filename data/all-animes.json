@@ -2220,6 +2220,19 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "jujutsu-kaisen-0-movie",
+    "title": "انمي Jujutsu Kaisen 0 Movie مترجم اون لاين",
+    "poster": "data/posters/jujutsu-kaisen-0-movie.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii",
     "title": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II مترجم اون لاين",
     "poster": "data/posters/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-ii.webp",
