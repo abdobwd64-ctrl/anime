@@ -331,6 +331,21 @@
     "score": 28
   },
   {
+    "id": "carole-tuesday",
+    "title": "انمي Carole & Tuesday مترجم اون لاين",
+    "poster": "data/posters/carole-tuesday.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2019",
+    "score": 27
+  },
+  {
     "id": "monogatari-series-second-season",
     "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
     "poster": "data/posters/monogatari-series-second-season.webp",
@@ -462,22 +477,6 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "ربيع 2017",
-    "score": 25
-  },
-  {
-    "id": "fate-grand-order-zettai-majuu-sensen-babylonia",
-    "title": "انمي Fate/Grand Order: Zettai Majuu Sensen Babylonia مترجم اون لاين",
-    "poster": "data/posters/fate-grand-order-zettai-majuu-sensen-babylonia.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "سحر",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "21",
-    "season": "خريف 2019",
     "score": 25
   }
 ]

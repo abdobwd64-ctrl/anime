@@ -943,6 +943,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "carole-tuesday",
+    "title": "انمي Carole & Tuesday مترجم اون لاين",
+    "poster": "data/posters/carole-tuesday.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "yakunara-mug-cup-mo-niban-gama",
     "title": "انمي Yakunara Mug Cup mo: Niban Gama مترجم اون لاين",
     "poster": "data/posters/yakunara-mug-cup-mo-niban-gama.webp",
@@ -1595,6 +1609,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2022"
+  },
+  {
+    "id": "isekai-yakkyoku",
+    "title": "انمي Isekai Yakkyoku مترجم اون لاين",
+    "poster": "data/posters/isekai-yakkyoku.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   },
   {
     "id": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
@@ -2657,6 +2683,21 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "kono-healer-mendokusai",
+    "title": "انمي Kono Healer, Mendokusai مترجم اون لاين",
+    "poster": "data/posters/kono-healer-mendokusai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "megami-no-caf-terrace-2nd-season",
     "title": "انمي Megami no Café Terrace 2nd Season مترجم اون لاين",
     "poster": "data/posters/megami-no-caf-terrace-2nd-season.webp",
@@ -2712,6 +2753,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki",
+    "title": "انمي Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki مترجم اون لاين",
+    "poster": "data/posters/party-kara-tsuihou-sareta-sono-chiyushi-jitsu-wa-saikyou-ni-tsuki.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "kamierabi-2nd-season",
@@ -3517,6 +3572,21 @@
     "season": "خريف 2022"
   },
   {
+    "id": "yatogame-chan-kansatsu-nikki-nisatsume",
+    "title": "انمي Yatogame-chan Kansatsu Nikki Nisatsume مترجم اون لاين",
+    "poster": "data/posters/yatogame-chan-kansatsu-nikki-nisatsume.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "metallic-rouge",
     "title": "انمي Metallic Rouge مترجم اون لاين",
     "poster": "data/posters/metallic-rouge.webp",
@@ -3671,6 +3741,18 @@
     "type": "أونا",
     "episodes_count": "10",
     "season": "شتاء 2022"
+  },
+  {
+    "id": "tsuki-to-laika-to-nosferatu",
+    "title": "انمي Tsuki to Laika to Nosferatu مترجم اون لاين",
+    "poster": "data/posters/tsuki-to-laika-to-nosferatu.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
   },
   {
     "id": "super-cub",
@@ -3864,6 +3946,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "bna",
+    "title": "انمي BNA مترجم اون لاين",
+    "poster": "data/posters/bna.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
   },
   {
     "id": "osananajimi-ga-zettai-ni-makenai-love-comedy",
@@ -5343,6 +5439,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "runway-de-waratte",
+    "title": "انمي Runway de Waratte مترجم اون لاين",
+    "poster": "data/posters/runway-de-waratte.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "golden-kamuy-saishuushou",
