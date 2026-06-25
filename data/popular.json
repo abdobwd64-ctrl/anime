@@ -253,6 +253,25 @@
     "score": 100
   },
   {
+    "id": "monster",
+    "title": "انمي Monster مترجم اون لاين",
+    "poster": "data/posters/monster.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "رعب",
+      "نفسي",
+      "سينين",
+      "اثارة",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "74",
+    "season": "ربيع 2004",
+    "score": 81
+  },
+  {
     "id": "world-trigger",
     "title": "انمي World Trigger مترجم اون لاين",
     "poster": "data/posters/world-trigger.webp",
@@ -485,22 +504,5 @@
     "episodes_count": "47",
     "season": "خريف 1991",
     "score": 49
-  },
-  {
-    "id": "beyblade-burst",
-    "title": "انمي Beyblade Burst مترجم اون لاين",
-    "poster": "data/posters/beyblade-burst.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "ربيع 2016",
-    "score": 48
   }
 ]
