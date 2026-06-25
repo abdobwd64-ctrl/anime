@@ -98,7 +98,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 90
+    "score": 91
   },
   {
     "id": "hajime-no-ippo",
@@ -253,23 +253,6 @@
     "score": 44
   },
   {
-    "id": "digimon-beatbreak",
-    "title": "انمي Digimon Beatbreak مترجم اون لاين",
-    "poster": "data/posters/digimon-beatbreak.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي"
-    ],
-    "status": "يعرض الان",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2025",
-    "score": 39
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -286,7 +269,24 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
-    "score": 38
+    "score": 39
+  },
+  {
+    "id": "digimon-beatbreak",
+    "title": "انمي Digimon Beatbreak مترجم اون لاين",
+    "poster": "data/posters/digimon-beatbreak.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2025",
+    "score": 39
   },
   {
     "id": "nana",
