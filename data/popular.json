@@ -323,6 +323,24 @@
     "score": 32
   },
   {
+    "id": "nanatsu-no-taizai-kamigami-no-gekirin",
+    "title": "انمي Nanatsu no Taizai: Kamigami no Gekirin مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-kamigami-no-gekirin.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2019",
+    "score": 30
+  },
+  {
     "id": "shadowverse-flame",
     "title": "انمي Shadowverse Flame مترجم اون لاين",
     "poster": "data/posters/shadowverse-flame.webp",
@@ -475,22 +493,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2019",
-    "score": 27
-  },
-  {
-    "id": "plunderer",
-    "title": "انمي Plunderer مترجم اون لاين",
-    "poster": "data/posters/plunderer.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "إيتشي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "شتاء 2020",
     "score": 27
   }
 ]

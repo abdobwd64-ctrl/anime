@@ -844,6 +844,23 @@
     "season": "خريف 2022"
   },
   {
+    "id": "nanatsu-no-taizai-kamigami-no-gekirin",
+    "title": "انمي Nanatsu no Taizai: Kamigami no Gekirin مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-kamigami-no-gekirin.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2019"
+  },
+  {
     "id": "shadowverse-flame",
     "title": "انمي Shadowverse Flame مترجم اون لاين",
     "poster": "data/posters/shadowverse-flame.webp",
@@ -1222,6 +1239,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "kidou-senshi-gundam-gquuuuuux",
+    "title": "انمي Kidou Senshi Gundam: GQuuuuuuX مترجم اون لاين",
+    "poster": "data/posters/kidou-senshi-gundam-gquuuuuux.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
   },
   {
     "id": "fumetsu-no-anata-e-2nd-season",
@@ -1767,6 +1799,19 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2025"
+  },
+  {
+    "id": "deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku",
+    "title": "انمي Deemo Movie: Sakura no Oto - Anata no Kanadeta Oto ga, Ima mo Hibiku مترجم اون لاين",
+    "poster": "data/posters/deemo-movie-sakura-no-oto-anata-no-kanadeta-oto-ga-ima-mo-hibiku.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2022"
   },
   {
     "id": "nokemono-tachi-no-yoru",
@@ -6727,6 +6772,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2021"
+  },
+  {
+    "id": "shin-chuuka-ichiban",
+    "title": "انمي Shin Chuuka Ichiban! مترجم اون لاين",
+    "poster": "data/posters/shin-chuuka-ichiban.webp",
+    "genres": [
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "beastars-2nd-season",
