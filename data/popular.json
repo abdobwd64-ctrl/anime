@@ -155,6 +155,23 @@
     "score": 101
   },
   {
+    "id": "world-trigger",
+    "title": "انمي World Trigger مترجم اون لاين",
+    "poster": "data/posters/world-trigger.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "73",
+    "season": "خريف 2014",
+    "score": 78
+  },
+  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -270,22 +287,6 @@
     "score": 49
   },
   {
-    "id": "hokuto-no-ken-2",
-    "title": "انمي Hokuto no Ken 2 مترجم اون لاين",
-    "poster": "data/posters/hokuto-no-ken-2.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "دراما",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "شتاء 1987",
-    "score": 47
-  },
-  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -300,6 +301,22 @@
     "type": "تلفزيون",
     "episodes_count": "51",
     "season": "ربيع 2016",
+    "score": 48
+  },
+  {
+    "id": "hokuto-no-ken-2",
+    "title": "انمي Hokuto no Ken 2 مترجم اون لاين",
+    "poster": "data/posters/hokuto-no-ken-2.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "شتاء 1987",
     "score": 47
   },
   {
@@ -398,6 +415,25 @@
     "score": 31
   },
   {
+    "id": "shingeki-no-kyojin",
+    "title": "انمي Shingeki no Kyojin مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "غموض",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2013",
+    "score": 31
+  },
+  {
     "id": "captain-tsubasa-season-2-junior-youth-hen",
     "title": "انمي Captain Tsubasa Season 2: Junior Youth-hen مترجم اون لاين",
     "poster": "data/posters/captain-tsubasa-season-2-junior-youth-hen.webp",
@@ -462,38 +498,5 @@
     "episodes_count": "24",
     "season": "خريف 2018",
     "score": 30
-  },
-  {
-    "id": "higurashi-no-naku-koro-ni-2020",
-    "title": "انمي Higurashi no Naku Koro ni (2020) مترجم اون لاين",
-    "poster": "data/posters/higurashi-no-naku-koro-ni-2020.webp",
-    "genres": [
-      "غموض",
-      "قوى خارقة",
-      "رعب",
-      "نفسي",
-      "اثارة",
-      "جنون"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2020",
-    "score": 29
-  },
-  {
-    "id": "fight-league-gear-gadget-generators",
-    "title": "انمي Fight League: Gear Gadget Generators مترجم اون لاين",
-    "poster": "data/posters/fight-league-gear-gadget-generators.webp",
-    "genres": [
-      "أكشن",
-      "خيال علمي",
-      "ميكا"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "26",
-    "season": "شتاء 2019",
-    "score": 29
   }
 ]
