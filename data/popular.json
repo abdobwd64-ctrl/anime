@@ -337,6 +337,23 @@
     "score": 44
   },
   {
+    "id": "karakuri-circus-tv",
+    "title": "انمي Karakuri Circus (TV) مترجم اون لاين",
+    "poster": "data/posters/karakuri-circus-tv.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "36",
+    "season": "خريف 2018",
+    "score": 41
+  },
+  {
     "id": "digimon-beatbreak",
     "title": "انمي Digimon Beatbreak مترجم اون لاين",
     "poster": "data/posters/digimon-beatbreak.webp",
@@ -479,24 +496,6 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "خريف 2019",
-    "score": 30
-  },
-  {
-    "id": "nanatsu-no-taizai-imashime-no-fukkatsu",
-    "title": "انمي Nanatsu no Taizai: Imashime no Fukkatsu مترجم اون لاين",
-    "poster": "data/posters/nanatsu-no-taizai-imashime-no-fukkatsu.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "سحر",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
     "score": 30
   }
 ]
