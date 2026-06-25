@@ -1446,6 +1446,20 @@
     "season": "خريف 2016"
   },
   {
+    "id": "dr-stone-science-future-part-3",
+    "title": "انمي Dr. Stone: Science Future Part 3 مترجم اون لاين",
+    "poster": "data/posters/dr-stone-science-future-part-3.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "sword-art-online-alicization",
     "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
     "poster": "data/posters/sword-art-online-alicization.webp",
@@ -2132,6 +2146,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2019"
+  },
+  {
+    "id": "hakozume-kouban-joshi-no-gyakushuu",
+    "title": "انمي Hakozume: Kouban Joshi no Gyakushuu مترجم اون لاين",
+    "poster": "data/posters/hakozume-kouban-joshi-no-gyakushuu.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "jujutsu-kaisen-3rd-season",
