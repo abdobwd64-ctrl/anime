@@ -12085,6 +12085,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "ta-ga-tame-no-alchemist",
+    "title": "انمي Ta ga Tame no Alchemist مترجم اون لاين",
+    "poster": "data/posters/ta-ga-tame-no-alchemist.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "otonari-ni-ginga",
     "title": "انمي Otonari ni Ginga مترجم اون لاين",
     "poster": "data/posters/otonari-ni-ginga.webp",
@@ -13805,6 +13820,22 @@
     "season": "صيف 2012"
   },
   {
+    "id": "fragtime",
+    "title": "انمي Fragtime مترجم اون لاين",
+    "poster": "data/posters/fragtime.webp",
+    "genres": [
+      "رومانسي",
+      "خيال علمي",
+      "مدرسي",
+      "شريحة من الحياة",
+      "شوجو آي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
+  },
+  {
     "id": "akuma-kun-ona",
     "title": "انمي Akuma-kun (ONA) مترجم اون لاين",
     "poster": "data/posters/akuma-kun-ona.webp",
@@ -14180,6 +14211,21 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018"
+  },
+  {
+    "id": "naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo",
+    "title": "انمي Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2004"
   },
   {
     "id": "digimon-beatbreak",
@@ -17721,6 +17767,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "gyakuten-saiban-sono-shinjitsu-igi-ari-season-2",
+    "title": "انمي Gyakuten Saiban: Sono \"Shinjitsu\", Igi Ari! Season 2 مترجم اون لاين",
+    "poster": "data/posters/gyakuten-saiban-sono-shinjitsu-igi-ari-season-2.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "23",
+    "season": "خريف 2018"
+  },
+  {
     "id": "psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni",
     "title": "انمي Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿ مترجم اون لاين",
     "poster": "data/posters/psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni.webp",
@@ -18380,6 +18441,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2019"
+  },
+  {
+    "id": "highschool-of-the-dead-drifters-of-the-dead",
+    "title": "انمي Highschool of the Dead: Drifters of the Dead مترجم اون لاين",
+    "poster": "data/posters/highschool-of-the-dead-drifters-of-the-dead.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "ربيع 2011"
   },
   {
     "id": "kage-no-jitsuryokusha-ni-naritakute-2nd-season",
