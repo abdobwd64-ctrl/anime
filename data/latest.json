@@ -320,6 +320,14 @@
     "date_sort": "2026-06-19"
   },
   {
+    "anime_id": "himekishi-wa-barbaroi-no-yome",
+    "anime_title": "انمي Himekishi wa Barbaroi no Yome مترجم اون لاين",
+    "anime_poster": "data/posters/himekishi-wa-barbaroi-no-yome.webp",
+    "episode": "11",
+    "date": "17 يونيو, 2026",
+    "date_sort": "2026-06-17"
+  },
+  {
     "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
     "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
     "episode": "11",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
-    "anime_id": "aishiteru-game-wo-owarasetai",
-    "anime_title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
-    "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
-    "episode": "10",
     "date": "16 يونيو, 2026",
     "date_sort": "2026-06-16"
   }
