@@ -6372,6 +6372,18 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "dandelion",
+    "title": "انمي Dandelion مترجم اون لاين",
+    "poster": "data/posters/dandelion.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "7",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-2",
     "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! 2 مترجم اون لاين",
     "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo-2.webp",
