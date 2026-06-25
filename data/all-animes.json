@@ -2335,6 +2335,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "one-piece-movie-08-episode-of-alabasta-sabaku-no-oujo-to-kaizoku-tachi",
+    "title": "انمي One Piece Movie 08: Episode of Alabasta - Sabaku no Oujo to Kaizoku-tachi مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-08-episode-of-alabasta-sabaku-no-oujo-to-kaizoku-tachi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "dark-moon-tsuki-no-saidan",
     "title": "انمي Dark Moon: Tsuki no Saidan مترجم اون لاين",
     "poster": "data/posters/dark-moon-tsuki-no-saidan.webp",
@@ -2619,6 +2633,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2012"
+  },
+  {
+    "id": "kuramerukagari",
+    "title": "انمي Kuramerukagari مترجم اون لاين",
+    "poster": "data/posters/kuramerukagari.webp",
+    "genres": [
+      "غموض",
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
   },
   {
     "id": "neet-kunoichi-to-nazeka-dousei-hajimemashita",
@@ -16494,6 +16522,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018"
+  },
+  {
+    "id": "guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu",
+    "title": "انمي Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu مترجم اون لاين",
+    "poster": "data/posters/guild-no-uketsukejou-desu-ga-zangyou-wa-iya-nanode-boss-wo-solo-toubatsu-shiyou-to-omoimasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
   },
   {
     "id": "jahy-sama-wa-kujikenai",
