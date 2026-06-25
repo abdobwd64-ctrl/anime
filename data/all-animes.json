@@ -3854,6 +3854,18 @@
     "season": "صيف 2019"
   },
   {
+    "id": "koujo-denka-no-kateikyoushi",
+    "title": "انمي Koujo Denka no Kateikyoushi مترجم اون لاين",
+    "poster": "data/posters/koujo-denka-no-kateikyoushi.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "farmagia",
     "title": "انمي Farmagia مترجم اون لاين",
     "poster": "data/posters/farmagia.webp",
@@ -4122,6 +4134,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "sabikui-bisco",
+    "title": "انمي Sabikui Bisco مترجم اون لاين",
+    "poster": "data/posters/sabikui-bisco.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "yakunara-mug-cup-mo-niban-gama",
@@ -18800,6 +18826,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "wotaku-ni-koi-wa-muzukashii-youth",
+    "title": "انمي Wotaku ni Koi wa Muzukashii: Youth مترجم اون لاين",
+    "poster": "data/posters/wotaku-ni-koi-wa-muzukashii-youth.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
   },
   {
     "id": "owarimonogatari",
