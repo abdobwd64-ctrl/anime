@@ -99,6 +99,20 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen",
+    "title": "انمي Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Tokubetsu-hen مترجم اون لاين",
+    "poster": "data/posters/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note-tokubetsu-hen.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2021"
+  },
+  {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
     "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
     "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
@@ -1565,6 +1579,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021"
+  },
+  {
+    "id": "kuutei-dragons",
+    "title": "انمي Kuutei Dragons مترجم اون لاين",
+    "poster": "data/posters/kuutei-dragons.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "hajime-no-ippo-new-challenger",
@@ -5495,6 +5523,20 @@
     "season": "خريف 2023"
   },
   {
+    "id": "kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru",
+    "title": "انمي Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru مترجم اون لاين",
+    "poster": "data/posters/kizoku-tensei-megumareta-umare-kara-saikyou-no-chikara-wo-eru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life",
     "title": "انمي Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life مترجم اون لاين",
     "poster": "data/posters/lv2-kara-cheat-datta-motoyuusha-kouho-no-mattari-isekai-life.webp",
@@ -5749,6 +5791,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "code-geass-hangyaku-no-lelouch",
+    "title": "انمي Code Geass: Hangyaku no Lelouch مترجم اون لاين",
+    "poster": "data/posters/code-geass-hangyaku-no-lelouch.webp",
+    "genres": [
+      "حربي",
+      "خارق للعادة",
+      "دراما",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2006"
   },
   {
     "id": "ore-wo-suki-nano-wa-omae-dake-ka-yo-oretachi-no-game-set",
@@ -6522,6 +6580,19 @@
     "season": "خريف 2022"
   },
   {
+    "id": "osomatsu-san-movie",
+    "title": "انمي Osomatsu-san Movie مترجم اون لاين",
+    "poster": "data/posters/osomatsu-san-movie.webp",
+    "genres": [
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
+  },
+  {
     "id": "koukyuu-no-karasu",
     "title": "انمي Koukyuu no Karasu مترجم اون لاين",
     "poster": "data/posters/koukyuu-no-karasu.webp",
@@ -6574,6 +6645,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "shaman-king-flowers",
+    "title": "انمي Shaman King: Flowers مترجم اون لاين",
+    "poster": "data/posters/shaman-king-flowers.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "mikadono-sanshimai-wa-angai-choroi",
     "title": "انمي Mikadono Sanshimai wa Angai, Choroi. مترجم اون لاين",
     "poster": "data/posters/mikadono-sanshimai-wa-angai-choroi.webp",
@@ -6598,6 +6683,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "benriya-saitou-san-isekai-ni-iku",
+    "title": "انمي Benriya Saitou-san, Isekai ni Iku مترجم اون لاين",
+    "poster": "data/posters/benriya-saitou-san-isekai-ni-iku.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
   },
   {
     "id": "boruto-naruto-next-generations",
@@ -11349,6 +11448,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "t-p-bon-season-2",
+    "title": "انمي T.P BON Season 2 مترجم اون لاين",
+    "poster": "data/posters/t-p-bon-season-2.webp",
+    "genres": [
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "shaman-king-2021",
