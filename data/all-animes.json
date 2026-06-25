@@ -2207,6 +2207,20 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "meitantei-conan-movie-08-ginyoku-no-magician",
+    "title": "انمي Meitantei Conan Movie 08: Ginyoku no Magician مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-08-ginyoku-no-magician.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2004"
+  },
+  {
     "id": "hatena-illusion",
     "title": "انمي Hatena☆Illusion مترجم اون لاين",
     "poster": "data/posters/hatena-illusion.webp",
@@ -5595,6 +5609,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "dragon-ball-movie-1-shen-long-no-densetsu",
+    "title": "انمي Dragon Ball Movie 1: Shen Long no Densetsu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-movie-1-shen-long-no-densetsu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 1986"
   },
   {
     "id": "beastars",
@@ -10730,6 +10759,22 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "dragon-ball-z-movie-05-tobikkiri-no-saikyou-tai-saikyou",
+    "title": "انمي Dragon Ball Z Movie 05: Tobikkiri no Saikyou tai Saikyou مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-05-tobikkiri-no-saikyou-tai-saikyou.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1991"
   },
   {
     "id": "majutsushi-kunon-wa-mieteiru",
