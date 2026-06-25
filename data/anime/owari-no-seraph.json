@@ -173,7 +173,46 @@
           "url": "https://www.mp4upload.com/9rzp8jt74803"
         }
       ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Owari no Seraph",
+      "date": "06 نوفمبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2045028993712"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/VwJUe6ryiq.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-m7gkka9rfc6s.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/VwJUe6ryiq/XSAnimecom_Owari_no_Seraph_S01.html"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/8fwxylhkf8ey"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m7gkka9rfc6s"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:07:49.790828"
+  "last_updated": "2026-06-25T01:07:57.353749"
 }
