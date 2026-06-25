@@ -3892,6 +3892,16 @@
     "season": "ربيع 2000"
   },
   {
+    "id": "vazzrock-the-animation",
+    "title": "انمي Vazzrock The Animation مترجم اون لاين",
+    "poster": "data/posters/vazzrock-the-animation.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2022"
+  },
+  {
     "id": "isekai-yakkyoku",
     "title": "انمي Isekai Yakkyoku مترجم اون لاين",
     "poster": "data/posters/isekai-yakkyoku.webp",
