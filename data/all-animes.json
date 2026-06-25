@@ -3534,6 +3534,19 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "touken-ranbu-kai-douden-chikashi-haberau-monora",
+    "title": "انمي Touken Ranbu Kai: Douden Chikashi Haberau Monora مترجم اون لاين",
+    "poster": "data/posters/touken-ranbu-kai-douden-chikashi-haberau-monora.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2024"
+  },
+  {
     "id": "saenai-heroine-no-sodatekata",
     "title": "انمي Saenai Heroine no Sodatekata مترجم اون لاين",
     "poster": "data/posters/saenai-heroine-no-sodatekata.webp",
@@ -9838,6 +9851,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021"
+  },
+  {
+    "id": "oniichan-wa-oshimai",
+    "title": "انمي Oniichan wa Oshimai! مترجم اون لاين",
+    "poster": "data/posters/oniichan-wa-oshimai.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
   },
   {
     "id": "black-cat",
