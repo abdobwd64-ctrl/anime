@@ -3564,6 +3564,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "munou-na-nana",
+    "title": "انمي Munou na Nana مترجم اون لاين",
+    "poster": "data/posters/munou-na-nana.webp",
+    "genres": [
+      "شونين",
+      "قوى خارقة",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo",
     "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! مترجم اون لاين",
     "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo.webp",
@@ -10646,6 +10661,19 @@
     "season": "خريف 2021"
   },
   {
+    "id": "kinoko-inu",
+    "title": "انمي Kinoko Inu مترجم اون لاين",
+    "poster": "data/posters/kinoko-inu.webp",
+    "genres": [
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "onimusha",
     "title": "انمي Onimusha مترجم اون لاين",
     "poster": "data/posters/onimusha.webp",
@@ -11870,6 +11898,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "deca-dence",
+    "title": "انمي Deca-Dence مترجم اون لاين",
+    "poster": "data/posters/deca-dence.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
   },
   {
     "id": "shibou-yuugi-de-meshi-wo-kuu",
@@ -13128,6 +13170,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "one-piece-movie-05-norowareta-seiken",
+    "title": "انمي One Piece Movie 05: Norowareta Seiken مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-05-norowareta-seiken.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "katsute-mahou-shoujo-to-aku-wa-tekitai-shiteita",
@@ -15118,6 +15174,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "uma-musume-cinderella-gray",
+    "title": "انمي Uma Musume: Cinderella Gray مترجم اون لاين",
+    "poster": "data/posters/uma-musume-cinderella-gray.webp",
+    "genres": [
+      "دراما",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2025"
   },
   {
     "id": "haikyuu-karasuno-koukou-vs-shiratorizawa-gakuen-koukou",
