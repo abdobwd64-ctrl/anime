@@ -1321,6 +1321,19 @@
     "season": "صيف 2019"
   },
   {
+    "id": "musashino",
+    "title": "انمي Musashino! مترجم اون لاين",
+    "poster": "data/posters/musashino.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "meitantei-conan-movie-17-zekkai-no-private-eye",
     "title": "انمي Meitantei Conan Movie 17: Zekkai no Private Eye مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-17-zekkai-no-private-eye.webp",
