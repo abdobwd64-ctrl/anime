@@ -1,0 +1,78 @@
+{
+  "id": "oseam",
+  "title": "انمي Oseam مترجم اون لاين",
+  "url": "https://animelek.top/anime/oseam/",
+  "poster": "data/posters/oseam.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2003",
+  "season": "ربيع 2003",
+  "genres": [
+    "دراما",
+    "مغامرات"
+  ],
+  "story": "قصة فيلم Oseam تدور حول حكاية خرافية تروي قصة شقيقين يخوضان مغامرتهما بحثًا عن أمهما، يصادفهما راهب فيعتني بهما. الأخت تعاني بسببِ العمى والأخ يعاني من الشوقِ لأمه.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Oseam",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1073574709978"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1NHLEES4jRIKJSVmo5LawOT2i_xcNKLFo/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/BMm6nJ0-ee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!iDZBzagK!BhWPBFrRjjZTDeXXwcO5v_tR0XZ1TfFoorCKHO5CDRw"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/crd0d471ixyl"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1NHLEES4jRIKJSVmo5LawOT2i_xcNKLFo&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!iDZBzagK!BhWPBFrRjjZTDeXXwcO5v_tR0XZ1TfFoorCKHO5CDRw"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/PkDo3_rPXSE/%5BAnime4up.com%5D_OS_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/crd0d471ixyl"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ixhgboo7m85k"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:55:01.322131"
+}

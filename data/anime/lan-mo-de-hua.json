@@ -1,0 +1,79 @@
+{
+  "id": "lan-mo-de-hua",
+  "title": "انمي Lan Mo de Hua مترجم اون لاين",
+  "url": "https://animelek.top/anime/lan-mo-de-hua/",
+  "poster": "data/posters/lan-mo-de-hua.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "9",
+  "start_date": "2017",
+  "season": "صيف 2017",
+  "genres": [
+    "رومانسي",
+    "سحر",
+    "مدرسي"
+  ],
+  "story": "لان مو فتاة عادية المظهر حصلت على مشبك الزهره التي من الممكن ان تحولها الى فتاة الاحلام، انها تستخدم هذه الصوره لكسب قلب حبيب طفولتها ليو ييفينغ..",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأونا 1Lan Mo de Hua",
+      "date": "15 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1064074545882"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/uc?authuser=0&id=1N_AuzTg3_iaXstRMS38u2-afop4ykHFC&export=download"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/vYbc6ieBee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!cHg3UIDA!CYkznjHxzfVVsOEMDIyESgHVo6qd8HUTbC7gJvNe--w"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/a6z8ks2fxz0u"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!cHg3UIDA!CYkznjHxzfVVsOEMDIyESgHVo6qd8HUTbC7gJvNe--w"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/kx63kda1pinr"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/pU3n3GQeLcs/%5BAnime4up.com%5D_LMDH_EP_01_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/a6z8ks2fxz0u"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/ojx6u0kcus5j"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:54:58.678850"
+}

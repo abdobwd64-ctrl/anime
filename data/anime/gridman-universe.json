@@ -1,0 +1,103 @@
+{
+  "id": "gridman-universe",
+  "title": "انمي Gridman Universe مترجم اون لاين",
+  "url": "https://animelek.top/anime/gridman-universe/",
+  "poster": "data/posters/gridman-universe.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2023",
+  "season": "شتاء 2023",
+  "genres": [],
+  "story": "لقد مر عام منذ أحداث (أس أس أس أس . غريدمان ) العالم في سلام ولا أحد سوى ريكا وأوتسومي يتذكر الكايجو أو غريدمان أو أكاني شينجو. ويشمل ذلك يوتا، الذي على الرغم من أنه مضيف غريدمان، لا يتذكر أهم اللحظات في حياته. لذا عندما يظهر كايجو جديد، فإنه يغتنم الفرصة ليثبت لنفسه أنه أيضا يمكن أن يكون البطل عن طريق الاندماج مع غريدمان مرة أخرى.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Gridman Universe",
+      "date": "17 ديسمبر, 2023",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/omj0irKiQrwbY"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/omj0irKiQrwbY"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/omj0irKiQrwbY"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-mz4lsimhqmqs.html"
+        },
+        {
+          "name": "uqload io | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-98050fw2h9hf.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/YTt2DLbJ!oUg2KLYHc2iNuJzpVT2XZ_1lcSqeMXHrKLymjI0_aV8"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ILlQhZwB!Ky-Y6nsB3f3DvrK7_Qh4b16Hkv1qfTFAFvHFbfFi5WU"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-2wj2rlvi4ari.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9DV2CABI!pGH0QuHew9_sJUVVJw2Uz-d2zSr-oB-69xap9W7mN6I"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/4nmjyzzn4zdx"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2wj2rlvi4ari"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9DV2CABI!pGH0QuHew9_sJUVVJw2Uz-d2zSr-oB-69xap9W7mN6I"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/i6q871st0di6"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!YTt2DLbJ!oUg2KLYHc2iNuJzpVT2XZ_1lcSqeMXHrKLymjI0_aV8"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/h4v4ilw3yc70"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ILlQhZwB!Ky-Y6nsB3f3DvrK7_Qh4b16Hkv1qfTFAFvHFbfFi5WU"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:55:02.188204"
+}
