@@ -8711,6 +8711,20 @@
     "season": "خريف 2015"
   },
   {
+    "id": "mizuiro-2003",
+    "title": "انمي Mizuiro (2003) مترجم اون لاين",
+    "poster": "data/posters/mizuiro-2003.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "2",
+    "season": "ربيع 2003"
+  },
+  {
     "id": "one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado",
     "title": "انمي One Piece: Dokuta Choppa no Boken Karute Chichi to Musume no Barado مترجم اون لاين",
     "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado.webp",
