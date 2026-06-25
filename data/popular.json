@@ -171,24 +171,6 @@
     "score": 57
   },
   {
-    "id": "shaman-king-2021",
-    "title": "انمي Shaman King (2021) مترجم اون لاين",
-    "poster": "data/posters/shaman-king-2021.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2021",
-    "score": 57
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -205,7 +187,25 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
-    "score": 56
+    "score": 57
+  },
+  {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
+    "score": 57
   },
   {
     "id": "captain-tsubasa-2018",
