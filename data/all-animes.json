@@ -1573,6 +1573,22 @@
     "season": "خريف 2018"
   },
   {
+    "id": "peace-maker-kurogane-movie-1-omou-michi",
+    "title": "انمي Peace Maker Kurogane Movie 1: Omou Michi مترجم اون لاين",
+    "poster": "data/posters/peace-maker-kurogane-movie-1-omou-michi.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2018"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya.webp",
@@ -16194,6 +16210,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart",
+    "title": "انمي Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart مترجم اون لاين",
+    "poster": "data/posters/rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "koi-wa-sekai-seifuku-no-ato-de",
