@@ -4220,6 +4220,20 @@
     "season": "شتاء 1996"
   },
   {
+    "id": "yasuke",
+    "title": "انمي Yasuke مترجم اون لاين",
+    "poster": "data/posters/yasuke.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "noragami",
     "title": "انمي Noragami مترجم اون لاين",
     "poster": "data/posters/noragami.webp",
@@ -5067,6 +5081,22 @@
     "type": "تلفزيون",
     "episodes_count": "51",
     "season": "خريف 2001"
+  },
+  {
+    "id": "gibiate",
+    "title": "انمي Gibiate مترجم اون لاين",
+    "poster": "data/posters/gibiate.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رعب",
+      "فنون قتالية",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
   },
   {
     "id": "hibike-euphonium-3",
@@ -7164,6 +7194,23 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "mahouka-koukou-no-rettousei-raihousha-hen",
+    "title": "انمي Mahouka Koukou no Rettousei: Raihousha-hen مترجم اون لاين",
+    "poster": "data/posters/mahouka-koukou-no-rettousei-raihousha-hen.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "سحر",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2020"
+  },
+  {
     "id": "kono-oto-tomare-2nd-season",
     "title": "انمي Kono Oto Tomare! 2nd Season مترجم اون لاين",
     "poster": "data/posters/kono-oto-tomare-2nd-season.webp",
@@ -8356,6 +8403,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "otome-game-sekai-wa-mob-ni-kibishii-sekai-desu",
+    "title": "انمي Otome Game Sekai wa Mob ni Kibishii Sekai desu مترجم اون لاين",
+    "poster": "data/posters/otome-game-sekai-wa-mob-ni-kibishii-sekai-desu.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "one-piece-movie-01",
@@ -9552,6 +9612,22 @@
     "season": "صيف 2021"
   },
   {
+    "id": "dragon-ball-z-movie-01-ora-no-gohan-wo-kaese",
+    "title": "انمي Dragon Ball Z Movie 01: Ora no Gohan wo Kaese!! مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-01-ora-no-gohan-wo-kaese.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 1989"
+  },
+  {
     "id": "zuoshou-shanglan-2nd-season",
     "title": "انمي Zuoshou Shanglan 2nd Season مترجم اون لاين",
     "poster": "data/posters/zuoshou-shanglan-2nd-season.webp",
@@ -10303,6 +10379,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2022"
+  },
+  {
+    "id": "hibike-euphonium-movie-3-chikai-no-finale",
+    "title": "انمي Hibike! Euphonium Movie 3: Chikai no Finale مترجم اون لاين",
+    "poster": "data/posters/hibike-euphonium-movie-3-chikai-no-finale.webp",
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
   },
   {
     "id": "asobi-asobase",
@@ -13580,6 +13670,20 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "kusuriya-no-hitorigoto",
+    "title": "انمي Kusuriya no Hitorigoto مترجم اون لاين",
+    "poster": "data/posters/kusuriya-no-hitorigoto.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2023"
+  },
+  {
     "id": "dr-stone-stone-wars",
     "title": "انمي Dr. Stone: Stone Wars مترجم اون لاين",
     "poster": "data/posters/dr-stone-stone-wars.webp",
@@ -13862,6 +13966,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2013"
+  },
+  {
+    "id": "kuroko-no-basket-movie-3-winter-cup-tobira-no-mukou",
+    "title": "انمي Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou مترجم اون لاين",
+    "poster": "data/posters/kuroko-no-basket-movie-3-winter-cup-tobira-no-mukou.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2016"
   },
   {
     "id": "arifureta-shokugyou-de-sekai-saikyou-2nd-season",
@@ -19410,6 +19528,19 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024"
+  },
+  {
+    "id": "sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru",
+    "title": "انمي Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru مترجم اون لاين",
+    "poster": "data/posters/sekai-saikou-no-ansatsusha-isekai-kizoku-ni-tensei-suru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
   },
   {
     "id": "silent-witch-chinmoku-no-majo-no-kakushigoto",
