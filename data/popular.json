@@ -70,21 +70,6 @@
     "score": 114
   },
   {
-    "id": "fairy-tail-2014",
-    "title": "انمي Fairy Tail (2014) مترجم اون لاين",
-    "poster": "data/posters/fairy-tail-2014.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "102",
-    "season": "ربيع 2014",
-    "score": 104
-  },
-  {
     "id": "hokuto-no-ken",
     "title": "انمي Hokuto no Ken مترجم اون لاين",
     "poster": "data/posters/hokuto-no-ken.webp",
@@ -99,6 +84,21 @@
     "type": "تلفزيون",
     "episodes_count": "109",
     "season": "خريف 1984",
+    "score": 105
+  },
+  {
+    "id": "fairy-tail-2014",
+    "title": "انمي Fairy Tail (2014) مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-2014.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "102",
+    "season": "ربيع 2014",
     "score": 104
   },
   {
