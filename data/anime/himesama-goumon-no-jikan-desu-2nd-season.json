@@ -183,7 +183,176 @@
           "url": "https://gofile.io/d/ymPghA"
         }
       ]
+    },
+    {
+      "number": "11",
+      "title": "الحلقة 11Himesama \"Goumon\" no Jikan desu 2nd Season",
+      "date": "23 مارس, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/MZwVAzqb2hC8T"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/aaZFzC5T#eziWciNUT5Yb3QjZ4U6zuz6yVWMm_my66MNVTHuHGgg"
+        },
+        {
+          "name": "larhu website | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=v14pvx1v6tet"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/qwiezqokj0ae"
+        },
+        {
+          "name": "vidmoly | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidmoly.net/embed-uo8fk2rez8gn.html"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=jOlH03J671BD96iq"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456240668&hash=7e05aad4be03362f&hd=4&autoplay=1"
+        },
+        {
+          "name": "dsvplay | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dsvplay.com/e/qjb3yon0bkrw"
+        },
+        {
+          "name": "file-upload org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-98b2tlzin25q.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-qlq0hlfwnvn7.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/nbYEiYIA#LO0a8gYIFl6PWyJLzKqgv0Dh1eL8BHcmzm3KIBdQHBs"
+        },
+        {
+          "name": "file-upload org | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-6a5eojzsdufh.html"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-b2gtxchrrqzb.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/TXYUyYIJ#gykGpPvUcXFrkim6CGOHyrQpRyMSqNsvcEko7xMuG1M"
+        },
+        {
+          "name": "file-upload org | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://file-upload.org/embed-ig5kweb7ctig.html"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-4xx1phnzpw74.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!TXYUyYIJ!gykGpPvUcXFrkim6CGOHyrQpRyMSqNsvcEko7xMuG1M"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/ig5kweb7ctig"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/NETfm8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4xx1phnzpw74"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!aaZFzC5T!eziWciNUT5Yb3QjZ4U6zuz6yVWMm_my66MNVTHuHGgg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/98b2tlzin25q"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/qwiezqokj0ae"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/2lm14d"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qlq0hlfwnvn7"
+        },
+        {
+          "server": "dsvplay",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dsvplay.com/d/qjb3yon0bkrw"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/uo8fk2rez8gn"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/MZwVAzqb2hC8T"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nbYEiYIA!LO0a8gYIFl6PWyJLzKqgv0Dh1eL8BHcmzm3KIBdQHBs"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/6a5eojzsdufh"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/8AFp2w"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/b2gtxchrrqzb"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:12:42.391027"
+  "last_updated": "2026-06-25T00:12:49.518311"
 }
