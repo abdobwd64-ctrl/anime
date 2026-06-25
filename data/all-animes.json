@@ -8524,6 +8524,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "otonari-ni-ginga",
+    "title": "انمي Otonari ni Ginga مترجم اون لاين",
+    "poster": "data/posters/otonari-ni-ginga.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "majutsushi-orphen-hagure-tabi",
     "title": "انمي Majutsushi Orphen Hagure Tabi مترجم اون لاين",
     "poster": "data/posters/majutsushi-orphen-hagure-tabi.webp",
