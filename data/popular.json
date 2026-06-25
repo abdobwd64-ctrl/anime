@@ -266,6 +266,24 @@
     "score": 30
   },
   {
+    "id": "nanatsu-no-taizai-imashime-no-fukkatsu",
+    "title": "انمي Nanatsu no Taizai: Imashime no Fukkatsu مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-imashime-no-fukkatsu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2018",
+    "score": 30
+  },
+  {
     "id": "garo-honoo-no-kokuin",
     "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
     "poster": "data/posters/garo-honoo-no-kokuin.webp",
@@ -461,20 +479,6 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "صيف 2024",
-    "score": 26
-  },
-  {
-    "id": "kakkou-no-iinazuke",
-    "title": "انمي Kakkou no Iinazuke مترجم اون لاين",
-    "poster": "data/posters/kakkou-no-iinazuke.webp",
-    "genres": [
-      "رومانسي",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "ربيع 2022",
     "score": 26
   }
 ]

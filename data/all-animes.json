@@ -71,6 +71,21 @@
     "season": "خريف 2022"
   },
   {
+    "id": "fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter",
+    "title": "انمي Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter مترجم اون لاين",
+    "poster": "data/posters/fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2019"
+  },
+  {
     "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
     "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
     "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
@@ -91,6 +106,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "kaya-chan-wa-kowakunai",
+    "title": "انمي Kaya-chan wa Kowakunai مترجم اون لاين",
+    "poster": "data/posters/kaya-chan-wa-kowakunai.webp",
+    "genres": [
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
   },
   {
     "id": "ao-no-exorcist-shimane-illuminati-hen",
@@ -1192,6 +1219,19 @@
     "season": "صيف 2025"
   },
   {
+    "id": "the-marginal-service",
+    "title": "انمي The Marginal Service مترجم اون لاين",
+    "poster": "data/posters/the-marginal-service.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "quanzhi-gaoshou-2",
     "title": "انمي Quanzhi Gaoshou 2 مترجم اون لاين",
     "poster": "data/posters/quanzhi-gaoshou-2.webp",
@@ -1857,6 +1897,23 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "nanatsu-no-taizai-imashime-no-fukkatsu",
+    "title": "انمي Nanatsu no Taizai: Imashime no Fukkatsu مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-imashime-no-fukkatsu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2018"
   },
   {
     "id": "meikyuu-black-company",
@@ -2990,6 +3047,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020"
+  },
+  {
+    "id": "kimetsu-no-yaiba-hashira-geiko-hen",
+    "title": "انمي Kimetsu no Yaiba: Hashira Geiko-hen مترجم اون لاين",
+    "poster": "data/posters/kimetsu-no-yaiba-hashira-geiko-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "8",
+    "season": "ربيع 2024"
   },
   {
     "id": "heion-sedai-no-idaten-tachi",
@@ -4370,6 +4442,20 @@
     "season": "خريف 1999"
   },
   {
+    "id": "hametsu-no-oukoku",
+    "title": "انمي Hametsu no Oukoku مترجم اون لاين",
+    "poster": "data/posters/hametsu-no-oukoku.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
+  },
+  {
     "id": "keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi",
     "title": "انمي Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi. مترجم اون لاين",
     "poster": "data/posters/keikenzumi-na-kimi-to-keiken-zero-na-ore-ga-otsukiai-suru-hanashi.webp",
@@ -4592,6 +4678,18 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "ao-no-orchestra",
+    "title": "انمي Ao no Orchestra مترجم اون لاين",
+    "poster": "data/posters/ao-no-orchestra.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "shokugeki-no-souma-gou-no-sara",
     "title": "انمي Shokugeki no Souma: Gou no Sara مترجم اون لاين",
     "poster": "data/posters/shokugeki-no-souma-gou-no-sara.webp",
@@ -4688,6 +4786,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2021"
+  },
+  {
+    "id": "lupin-iii-vs-cat-s-eye",
+    "title": "انمي Lupin III vs. Cat's Eye مترجم اون لاين",
+    "poster": "data/posters/lupin-iii-vs-cat-s-eye.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
   },
   {
     "id": "seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai",
@@ -5374,6 +5487,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "koori-zokusei-danshi-to-cool-na-douryou-joshi",
+    "title": "انمي Koori Zokusei Danshi to Cool na Douryou Joshi مترجم اون لاين",
+    "poster": "data/posters/koori-zokusei-danshi-to-cool-na-douryou-joshi.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "grand-blue",
     "title": "انمي Grand Blue مترجم اون لاين",
     "poster": "data/posters/grand-blue.webp",
@@ -5540,6 +5667,18 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "صيف 2024"
+  },
+  {
+    "id": "gunjou-no-fanfare",
+    "title": "انمي Gunjou no Fanfare مترجم اون لاين",
+    "poster": "data/posters/gunjou-no-fanfare.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2022"
   },
   {
     "id": "cardfight-vanguard-overdress",
