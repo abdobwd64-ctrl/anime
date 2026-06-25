@@ -405,6 +405,19 @@
     "season": "صيف 2007"
   },
   {
+    "id": "akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru",
+    "title": "انمي Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru مترجم اون لاين",
+    "poster": "data/posters/akuyaku-reijou-wa-ringoku-no-outaishi-ni-dekiai-sareru.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "high-school-kimengumi-2026",
     "title": "انمي High School! Kimengumi (2026) مترجم اون لاين",
     "poster": "data/posters/high-school-kimengumi-2026.webp",
@@ -2303,6 +2316,16 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "natsume-yuujinchou-shichi-nobashita-te-wa",
+    "title": "انمي Natsume Yuujinchou Shichi: Nobashita Te wa مترجم اون لاين",
+    "poster": "data/posters/natsume-yuujinchou-shichi-nobashita-te-wa.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "one-piece-movie-07-karakuri-jou-no-mecha-kyohei",
     "title": "انمي One Piece Movie 07: Karakuri-jou no Mecha Kyohei مترجم اون لاين",
     "poster": "data/posters/one-piece-movie-07-karakuri-jou-no-mecha-kyohei.webp",
@@ -2315,6 +2338,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season",
+    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season مترجم اون لاين",
+    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   },
   {
     "id": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
@@ -5169,6 +5205,20 @@
     "season": "صيف 2019"
   },
   {
+    "id": "fantasy-bishoujo-juniku-ojisan-to",
+    "title": "انمي Fantasy Bishoujo Juniku Ojisan to مترجم اون لاين",
+    "poster": "data/posters/fantasy-bishoujo-juniku-ojisan-to.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "assault-lily-bouquet",
     "title": "انمي Assault Lily: Bouquet مترجم اون لاين",
     "poster": "data/posters/assault-lily-bouquet.webp",
@@ -6710,6 +6760,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "scarlet-nexus",
+    "title": "انمي Scarlet Nexus مترجم اون لاين",
+    "poster": "data/posters/scarlet-nexus.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "shichisei-no-subaru",
@@ -8893,6 +8956,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "mashle-2nd-season",
+    "title": "انمي Mashle 2nd Season مترجم اون لاين",
+    "poster": "data/posters/mashle-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "tensei-shitara-slime-datta-ken-coleus-no-yume",
     "title": "انمي Tensei shitara Slime Datta Ken: Coleus no Yume مترجم اون لاين",
     "poster": "data/posters/tensei-shitara-slime-datta-ken-coleus-no-yume.webp",
@@ -10527,6 +10604,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020"
+  },
+  {
+    "id": "hataraku-maou-sama-2nd-season",
+    "title": "انمي Hataraku Maou-sama!! 2nd Season مترجم اون لاين",
+    "poster": "data/posters/hataraku-maou-sama-2nd-season.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2023"
   },
   {
     "id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
@@ -12275,6 +12365,19 @@
     "season": "صيف 2025"
   },
   {
+    "id": "jujutsu-kaisen-2nd-season",
+    "title": "انمي Jujutsu Kaisen 2nd Season مترجم اون لاين",
+    "poster": "data/posters/jujutsu-kaisen-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
     "title": "انمي Kaguya-sama wa Kokurasetai?: Tensai-tachi no Renai Zunousen مترجم اون لاين",
     "poster": "data/posters/kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen.webp",
@@ -13218,6 +13321,23 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu",
+    "title": "انمي Dragon Ball GT: Gokuu Gaiden! Yuuki no Akashi wa Suushinchuu مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-gt-gokuu-gaiden-yuuki-no-akashi-wa-suushinchuu.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 1997"
   },
   {
     "id": "hananoi-kun-to-koi-no-yamai",
@@ -15428,6 +15548,23 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2024"
+  },
+  {
+    "id": "seirei-gensouki",
+    "title": "انمي Seirei Gensouki مترجم اون لاين",
+    "poster": "data/posters/seirei-gensouki.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
   },
   {
     "id": "slam-dunk",
@@ -18395,6 +18532,20 @@
     "season": "خريف 2025"
   },
   {
+    "id": "kono-kaisha-ni-suki-na-hito-ga-imasu",
+    "title": "انمي Kono Kaisha ni Suki na Hito ga Imasu مترجم اون لاين",
+    "poster": "data/posters/kono-kaisha-ni-suki-na-hito-ga-imasu.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
     "title": "انمي Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran مترجم اون لاين",
     "poster": "data/posters/rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran.webp",
@@ -20219,6 +20370,19 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "صيف 2023"
+  },
+  {
+    "id": "1-gatsu-ni-wa-christmas",
+    "title": "انمي 1-gatsu ni wa Christmas مترجم اون لاين",
+    "poster": "data/posters/1-gatsu-ni-wa-christmas.webp",
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 1991"
   },
   {
     "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii",
