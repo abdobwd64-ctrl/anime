@@ -6856,6 +6856,19 @@
     "season": "صيف 2007"
   },
   {
+    "id": "paripi-koumei",
+    "title": "انمي Paripi Koumei مترجم اون لاين",
+    "poster": "data/posters/paripi-koumei.webp",
+    "genres": [
+      "كوميدي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "owari-no-seraph-nagoya-kessen-hen-owaranai-seraph-nagoya-kessen-hen",
     "title": "انمي Owari no Seraph: Nagoya Kessen-hen - Owaranai Seraph - Nagoya Kessen-hen مترجم اون لاين",
     "poster": "data/posters/owari-no-seraph-nagoya-kessen-hen-owaranai-seraph-nagoya-kessen-hen.webp",
