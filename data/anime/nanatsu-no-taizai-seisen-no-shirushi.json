@@ -1,0 +1,73 @@
+{
+  "id": "nanatsu-no-taizai-seisen-no-shirushi",
+  "title": "انمي Nanatsu no Taizai: Seisen no Shirushi مترجم اون لاين",
+  "url": "https://animelek.top/anime/nanatsu-no-taizai-seisen-no-shirushi/",
+  "poster": "data/posters/nanatsu-no-taizai-seisen-no-shirushi.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "4",
+  "start_date": "2016",
+  "season": "صيف 2016",
+  "genres": [
+    "أكشن",
+    "فنتازيا",
+    "شونين",
+    "مغامرات",
+    "سحر",
+    "قوى خارقة",
+    "إيتشي"
+  ],
+  "story": "قصة أنمي Nanatsu no Taizai: Seisen no Shirushi تأتي استكمالًا لقصة الموسم الأول.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة 1Nanatsu no Taizai: Seisen no Shirushi",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/8MRvjiLnda"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!qeZmWArS!95OG3OgR7tasJwY9_9Jc2To1xsARt1TSAAogckdn39Q"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-ivnfnlnid6yu.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/b1y6cq2nvndz"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!qeZmWArS!95OG3OgR7tasJwY9_9Jc2To1xsARt1TSAAogckdn39Q"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/wrje6x1cgntf"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/H2SNtNbT_l0/%5BAnime4up.com%5D_NNTSNS_EP_01_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/b1y6cq2nvndz"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:19:54.534991"
+}
