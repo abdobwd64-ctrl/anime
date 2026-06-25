@@ -4775,6 +4775,18 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "dance-dance-danseur",
+    "title": "انمي Dance Dance Danseur مترجم اون لاين",
+    "poster": "data/posters/dance-dance-danseur.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "kingdom-6th-season",
     "title": "انمي Kingdom 6th Season مترجم اون لاين",
     "poster": "data/posters/kingdom-6th-season.webp",
@@ -4997,6 +5009,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2023"
+  },
+  {
+    "id": "meitantei-conan-movie-06-baker-street-no-bourei",
+    "title": "انمي Meitantei Conan Movie 06: Baker Street no Bourei مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-06-baker-street-no-bourei.webp",
+    "genres": [
+      "غموض",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2002"
   },
   {
     "id": "shingeki-no-kyojin-the-final-season",
@@ -7764,6 +7789,21 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "meitantei-conan-movie-28-sekigan-no-flashback",
+    "title": "انمي Meitantei Conan Movie 28: Sekigan no Flashback مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-28-sekigan-no-flashback.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "mf-ghost-3rd-season",
     "title": "انمي MF Ghost 3rd Season مترجم اون لاين",
     "poster": "data/posters/mf-ghost-3rd-season.webp",
@@ -8054,6 +8094,24 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2021"
+  },
+  {
+    "id": "shingeki-no-kyojin-season-2",
+    "title": "انمي Shingeki no Kyojin Season 2 مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin-season-2.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "غموض",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2017"
   },
   {
     "id": "aishiteru-game-wo-owarasetai",
@@ -11212,6 +11270,21 @@
     "season": "ربيع 2018"
   },
   {
+    "id": "diamond-no-ace-act-ii",
+    "title": "انمي Diamond no Ace: Act II مترجم اون لاين",
+    "poster": "data/posters/diamond-no-ace-act-ii.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "boku-no-hero-academia-2nd-season",
     "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
@@ -12219,6 +12292,24 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "drifters",
+    "title": "انمي Drifters مترجم اون لاين",
+    "poster": "data/posters/drifters.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "سينين",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2016"
   },
   {
     "id": "deca-dence",
@@ -16654,6 +16745,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "gokushufudou",
+    "title": "انمي Gokushufudou مترجم اون لاين",
+    "poster": "data/posters/gokushufudou.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "5",
+    "season": "ربيع 2021"
   },
   {
     "id": "tongari-boushi-no-atelier",

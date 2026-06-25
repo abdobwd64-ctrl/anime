@@ -416,6 +416,22 @@
     "score": 57
   },
   {
+    "id": "diamond-no-ace-act-ii",
+    "title": "انمي Diamond no Ace: Act II مترجم اون لاين",
+    "poster": "data/posters/diamond-no-ace-act-ii.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2019",
+    "score": 56
+  },
+  {
     "id": "ahiru-no-sora",
     "title": "انمي Ahiru no Sora مترجم اون لاين",
     "poster": "data/posters/ahiru-no-sora.webp",
@@ -490,19 +506,5 @@
     "episodes_count": "47",
     "season": "خريف 1980",
     "score": 50
-  },
-  {
-    "id": "honoo-no-toukyuuji-dodge-danpei",
-    "title": "انمي Honoo no Toukyuuji: Dodge Danpei مترجم اون لاين",
-    "poster": "data/posters/honoo-no-toukyuuji-dodge-danpei.webp",
-    "genres": [
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "خريف 1991",
-    "score": 49
   }
 ]
