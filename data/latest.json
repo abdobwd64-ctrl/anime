@@ -272,6 +272,14 @@
     "date_sort": "2026-06-20"
   },
   {
+    "anime_id": "kami-no-niwatsuki-kusunoki-tei",
+    "anime_title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
+    "anime_poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "episode": "12",
+    "date": "20 يونيو, 2026",
+    "date_sort": "2026-06-20"
+  },
+  {
     "anime_id": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
     "anime_title": "انمي Jishou Akuyaku Reijou na Konyakusha no Kansatsu Kiroku. مترجم اون لاين",
     "anime_poster": "data/posters/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Reincarnation no Kaben مترجم اون لاين",
     "anime_poster": "data/posters/reincarnation-no-kaben.webp",
     "episode": "10",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
-    "anime_id": "reincarnation-no-kaben",
-    "anime_title": "انمي Reincarnation no Kaben مترجم اون لاين",
-    "anime_poster": "data/posters/reincarnation-no-kaben.webp",
-    "episode": "9",
     "date": "16 يونيو, 2026",
     "date_sort": "2026-06-16"
   }

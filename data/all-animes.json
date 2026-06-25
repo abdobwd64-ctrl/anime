@@ -458,6 +458,18 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "birdie-wing-golf-girls-story",
+    "title": "انمي Birdie Wing: Golf Girls' Story مترجم اون لاين",
+    "poster": "data/posters/birdie-wing-golf-girls-story.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "musashino",
     "title": "انمي Musashino! مترجم اون لاين",
     "poster": "data/posters/musashino.webp",
@@ -2264,6 +2276,20 @@
     "season": "صيف 2018"
   },
   {
+    "id": "godzilla-s-p",
+    "title": "انمي Godzilla: S.P مترجم اون لاين",
+    "poster": "data/posters/godzilla-s-p.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "nanatsu-no-taizai-mokushiroku-no-yonkishi",
     "title": "انمي Nanatsu no Taizai: Mokushiroku no Yonkishi مترجم اون لاين",
     "poster": "data/posters/nanatsu-no-taizai-mokushiroku-no-yonkishi.webp",
@@ -2660,6 +2686,20 @@
     "season": "صيف 2025"
   },
   {
+    "id": "mahoutsukai-ni-narenakatta-onnanoko-no-hanashi",
+    "title": "انمي Mahoutsukai ni Narenakatta Onnanoko no Hanashi مترجم اون لاين",
+    "poster": "data/posters/mahoutsukai-ni-narenakatta-onnanoko-no-hanashi.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "kuroneko-to-majo-no-kyoushitsu",
     "title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
@@ -2815,6 +2855,18 @@
     "season": "صيف 2024"
   },
   {
+    "id": "cardfight-vanguard-will-dress",
+    "title": "انمي Cardfight!! Vanguard: will+Dress مترجم اون لاين",
+    "poster": "data/posters/cardfight-vanguard-will-dress.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
     "title": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen مترجم اون لاين",
     "poster": "data/posters/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen.webp",
@@ -2897,6 +2949,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "paradox-live-the-animation",
+    "title": "انمي Paradox Live the Animation مترجم اون لاين",
+    "poster": "data/posters/paradox-live-the-animation.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
   },
   {
     "id": "death-note",
@@ -3253,6 +3318,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2023"
+  },
+  {
+    "id": "isekai-ojisan",
+    "title": "انمي Isekai Ojisan مترجم اون لاين",
+    "poster": "data/posters/isekai-ojisan.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   },
   {
     "id": "okiraku-ryoushu-no-tanoshii-ryouchi-bouei-seisankei-majutsu-de-na-mo-naki-mura-wo-saikyou-no-jousai-toshi-ni",
@@ -4139,6 +4217,19 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "kami-no-niwatsuki-kusunoki-tei",
+    "title": "انمي Kami no Niwatsuki Kusunoki-tei مترجم اون لاين",
+    "poster": "data/posters/kami-no-niwatsuki-kusunoki-tei.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "steins-gate-oukoubakko-no-poriomania",
     "title": "انمي Steins;Gate: Oukoubakko no Poriomania مترجم اون لاين",
     "poster": "data/posters/steins-gate-oukoubakko-no-poriomania.webp",
@@ -4558,6 +4649,23 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "terra-formars",
+    "title": "انمي Terra Formars مترجم اون لاين",
+    "poster": "data/posters/terra-formars.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "رعب",
+      "سينين",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2014"
+  },
+  {
     "id": "tongari-boushi-no-atelier",
     "title": "انمي Tongari Boushi no Atelier مترجم اون لاين",
     "poster": "data/posters/tongari-boushi-no-atelier.webp",
@@ -4597,6 +4705,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "tomodachi-no-imouto-ga-ore-ni-dake-uzai",
+    "title": "انمي Tomodachi no Imouto ga Ore ni dake Uzai مترجم اون لاين",
+    "poster": "data/posters/tomodachi-no-imouto-ga-ore-ni-dake-uzai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
   },
   {
     "id": "chuuzenji-sensei-mononoke-kougiroku-sensei-ga-nazo-wo-hodoite-shimau-kara",
@@ -4999,6 +5121,34 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "koi-wa-sekai-seifuku-no-ato-de",
+    "title": "انمي Koi wa Sekai Seifuku no Ato de مترجم اون لاين",
+    "poster": "data/posters/koi-wa-sekai-seifuku-no-ato-de.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
+    "id": "boku-no-hero-academia-final-season",
+    "title": "انمي Boku no Hero Academia: Final Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-final-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "خريف 2025"
   },
   {
     "id": "grand-blue",
