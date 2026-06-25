@@ -211,6 +211,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "utawarerumono-futari-no-hakuoro",
+    "title": "انمي Utawarerumono: Futari no Hakuoro مترجم اون لاين",
+    "poster": "data/posters/utawarerumono-futari-no-hakuoro.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "28",
+    "season": "صيف 2022"
+  },
+  {
     "id": "mato-seihei-no-slave",
     "title": "انمي Mato Seihei no Slave مترجم اون لاين",
     "poster": "data/posters/mato-seihei-no-slave.webp",
@@ -789,6 +803,18 @@
     "season": "خريف 2019"
   },
   {
+    "id": "hanebado",
+    "title": "انمي Hanebado! مترجم اون لاين",
+    "poster": "data/posters/hanebado.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2018"
+  },
+  {
     "id": "boku-no-hero-academia",
     "title": "انمي Boku no Hero Academia مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia.webp",
@@ -1239,6 +1265,23 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2024"
+  },
+  {
+    "id": "owari-no-seraph-kyuuketsuki-shahar",
+    "title": "انمي Owari no Seraph: Kyuuketsuki Shahar مترجم اون لاين",
+    "poster": "data/posters/owari-no-seraph-kyuuketsuki-shahar.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "شونين",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "ربيع 2016"
   },
   {
     "id": "skip-to-loafer",
@@ -3109,6 +3152,35 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2017"
+  },
+  {
+    "id": "jijou-wo-shiranai-tenkousei-ga-guigui-kuru",
+    "title": "انمي Jijou wo Shiranai Tenkousei ga Guigui Kuru. مترجم اون لاين",
+    "poster": "data/posters/jijou-wo-shiranai-tenkousei-ga-guigui-kuru.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
+    "id": "ranma-2024-2nd-season",
+    "title": "انمي Ranma ½ (2024) 2nd Season مترجم اون لاين",
+    "poster": "data/posters/ranma-2024-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "فنون قتالية",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
   },
   {
     "id": "fuyu-no-okurimono",
@@ -5623,6 +5695,21 @@
     "season": "صيف 2020"
   },
   {
+    "id": "hanma-baki-son-of-ogre-2nd-season",
+    "title": "انمي Hanma Baki: Son of Ogre 2nd Season مترجم اون لاين",
+    "poster": "data/posters/hanma-baki-son-of-ogre-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "فنون قتالية",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "golden-kamuy-4th-season",
     "title": "انمي Golden Kamuy 4th Season مترجم اون لاين",
     "poster": "data/posters/golden-kamuy-4th-season.webp",
@@ -7105,6 +7192,18 @@
     "season": "شتاء 2022"
   },
   {
+    "id": "ao-ashi",
+    "title": "انمي Ao Ashi مترجم اون لاين",
+    "poster": "data/posters/ao-ashi.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "machikado-mazoku-2-choume",
     "title": "انمي Machikado Mazoku: 2-choume مترجم اون لاين",
     "poster": "data/posters/machikado-mazoku-2-choume.webp",
@@ -7513,6 +7612,18 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "uchi-no-shishou-wa-shippo-ga-nai",
+    "title": "انمي Uchi no Shishou wa Shippo ga Nai مترجم اون لاين",
+    "poster": "data/posters/uchi-no-shishou-wa-shippo-ga-nai.webp",
+    "genres": [
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "ishura-2nd-season",
@@ -19064,6 +19175,19 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "tensei-shitara-ken-deshita",
+    "title": "انمي Tensei shitara Ken Deshita مترجم اون لاين",
+    "poster": "data/posters/tensei-shitara-ken-deshita.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "sakamoto-days",
     "title": "انمي Sakamoto Days مترجم اون لاين",
     "poster": "data/posters/sakamoto-days.webp",
@@ -19089,6 +19213,22 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2022"
+  },
+  {
+    "id": "pokemon-2019",
+    "title": "انمي Pokemon (2019) مترجم اون لاين",
+    "poster": "data/posters/pokemon-2019.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2019"
   },
   {
     "id": "bokura-no-ameiro-protocol",
@@ -20046,6 +20186,19 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "and2-and2",
+    "title": "انمي And2! And2! مترجم اون لاين",
+    "poster": "data/posters/and2-and2.webp",
+    "genres": [
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "صيف 2018"
   },
   {
     "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
@@ -26639,6 +26792,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2024"
+  },
+  {
+    "id": "kancolle-itsuka-ano-umi-de",
+    "title": "انمي KanColle: Itsuka Ano Umi de مترجم اون لاين",
+    "poster": "data/posters/kancolle-itsuka-ano-umi-de.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "8",
+    "season": "خريف 2022"
   },
   {
     "id": "takt-op-destiny",

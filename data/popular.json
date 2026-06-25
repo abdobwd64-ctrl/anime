@@ -204,6 +204,23 @@
     "score": 153
   },
   {
+    "id": "pokemon-2019",
+    "title": "انمي Pokemon (2019) مترجم اون لاين",
+    "poster": "data/posters/pokemon-2019.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2019",
+    "score": 141
+  },
+  {
     "id": "dragon-ball-super",
     "title": "انمي Dragon Ball Super مترجم اون لاين",
     "poster": "data/posters/dragon-ball-super.webp",
@@ -497,23 +514,5 @@
     "episodes_count": "56",
     "season": "صيف 2018",
     "score": 62
-  },
-  {
-    "id": "fairy-tail-final-series",
-    "title": "انمي Fairy Tail: Final Series مترجم اون لاين",
-    "poster": "data/posters/fairy-tail-final-series.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "سحر"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "خريف 2018",
-    "score": 57
   }
 ]
