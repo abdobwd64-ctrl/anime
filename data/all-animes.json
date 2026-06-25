@@ -12831,6 +12831,23 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "mobile-suit-gundam-nt",
+    "title": "انمي Mobile Suit Gundam NT مترجم اون لاين",
+    "poster": "data/posters/mobile-suit-gundam-nt.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "ميكا",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2018"
+  },
+  {
     "id": "bai-yao-pu-3rd-season",
     "title": "انمي Bai Yao Pu 3rd Season مترجم اون لاين",
     "poster": "data/posters/bai-yao-pu-3rd-season.webp",
