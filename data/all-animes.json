@@ -3076,6 +3076,24 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "taimadou-gakuen-35-shiken-shoutai",
+    "title": "انمي Taimadou Gakuen 35 Shiken Shoutai مترجم اون لاين",
+    "poster": "data/posters/taimadou-gakuen-35-shiken-shoutai.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "فنتازيا",
+      "رومانسي",
+      "قوى خارقة",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2015"
+  },
+  {
     "id": "chuunibyou-demo-koi-ga-shitai",
     "title": "انمي Chuunibyou demo Koi ga Shitai! مترجم اون لاين",
     "poster": "data/posters/chuunibyou-demo-koi-ga-shitai.webp",
@@ -6080,6 +6098,19 @@
     "season": "خريف 2015"
   },
   {
+    "id": "zenshuu",
+    "title": "انمي Zenshuu. مترجم اون لاين",
+    "poster": "data/posters/zenshuu.webp",
+    "genres": [
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "kirei-ni-shitemoraemasu-ka",
     "title": "انمي Kirei ni Shitemoraemasu ka. مترجم اون لاين",
     "poster": "data/posters/kirei-ni-shitemoraemasu-ka.webp",
@@ -6932,6 +6963,18 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2016"
+  },
+  {
+    "id": "chikyuugai-shounen-shoujo",
+    "title": "انمي Chikyuugai Shounen Shoujo مترجم اون لاين",
+    "poster": "data/posters/chikyuugai-shounen-shoujo.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "2",
+    "season": "خريف 2022"
   },
   {
     "id": "mobile-suit-gundam-the-witch-from-mercury",
@@ -10672,6 +10715,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "burn-the-witch",
+    "title": "انمي Burn the Witch مترجم اون لاين",
+    "poster": "data/posters/burn-the-witch.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "kami-wa-game-ni-ueteiru",
@@ -16926,6 +16984,18 @@
     "season": "خريف 2025"
   },
   {
+    "id": "bakuten-movie",
+    "title": "انمي Bakuten!! Movie مترجم اون لاين",
+    "poster": "data/posters/bakuten-movie.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2022"
+  },
+  {
     "id": "hataraku-saibou",
     "title": "انمي Hataraku Saibou!! مترجم اون لاين",
     "poster": "data/posters/hataraku-saibou.webp",
@@ -22591,6 +22661,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "manaria-friends",
+    "title": "انمي Manaria Friends مترجم اون لاين",
+    "poster": "data/posters/manaria-friends.webp",
+    "genres": [
+      "فنتازيا",
+      "سحر",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "خريف 2019"
   },
   {
     "id": "bright-samurai-soul",
