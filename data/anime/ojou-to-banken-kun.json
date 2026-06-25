@@ -305,7 +305,114 @@
           "url": "https://mega.nz/#!IDtgBJ5I!yk9GBu1AAbezWQEVPOwQqiMrZcf_Ktx89jSSf4uDN3c"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Ojou to Banken-kun",
+      "date": "02 ديسمبر, 2023",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/cc6i1WyBNRdkG"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/cc6i1WyBNRdkG"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/cc6i1WyBNRdkG"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-a6tmaexza2yd.html"
+        },
+        {
+          "name": "uqload io | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-v1l1e8iymhuc.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-cdun3yras64c.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/kqFVxLCJ!TPOHi9xCFAEEC95h4d4mbAIXgB6EV9Gh8BRLKC0YfYY"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-bi3zr1ll3fcg.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/dm1z3RzY!SSv70DBLkFKBRru-2dDndD14q0RD9zSKeSML9mDxYUY"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-94w8ein938qp.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/gn9DQDCA!SSRvalU8l3maAdgy_hql_TAF2pvwj5CiSFN4f2pDEwc"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/t0ursfphnmqf"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/94w8ein938qp"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!gn9DQDCA!SSRvalU8l3maAdgy_hql_TAF2pvwj5CiSFN4f2pDEwc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/cdun3yras64c"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/kmakt3ruo9bp"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!kqFVxLCJ!TPOHi9xCFAEEC95h4d4mbAIXgB6EV9Gh8BRLKC0YfYY"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/bi3zr1ll3fcg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/qzbcovq512sc"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!dm1z3RzY!SSv70DBLkFKBRru-2dDndD14q0RD9zSKeSML9mDxYUY"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:27:08.572296"
+  "last_updated": "2026-06-25T01:27:15.725618"
 }
