@@ -2886,6 +2886,20 @@
     "season": "خريف 2007"
   },
   {
+    "id": "gintama-season-5",
+    "title": "انمي Gintama season 5 مترجم اون لاين",
+    "poster": "data/posters/gintama-season-5.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2017"
+  },
+  {
     "id": "fuyu-no-okurimono",
     "title": "انمي Fuyu no Okurimono مترجم اون لاين",
     "poster": "data/posters/fuyu-no-okurimono.webp",
@@ -3100,6 +3114,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "niehime-to-kemono-no-ou",
+    "title": "انمي Niehime to Kemono no Ou مترجم اون لاين",
+    "poster": "data/posters/niehime-to-kemono-no-ou.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
   },
   {
     "id": "fate-extra-last-encore-illustrias-tendousetsu",
@@ -8017,6 +8044,20 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "-oshi-no-ko-2nd-season",
+    "title": "انمي \"Oshi no Ko\" 2nd Season مترجم اون لاين",
+    "poster": "data/posters/-oshi-no-ko-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2024"
+  },
+  {
     "id": "himitsukessha-taka-no-tsume-golden-spell",
     "title": "انمي Himitsukessha Taka no Tsume: Golden Spell مترجم اون لاين",
     "poster": "data/posters/himitsukessha-taka-no-tsume-golden-spell.webp",
@@ -9082,6 +9123,20 @@
     "type": "تلفزيون",
     "episodes_count": "8",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "trigun-stampede",
+    "title": "انمي Trigun Stampede مترجم اون لاين",
+    "poster": "data/posters/trigun-stampede.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "granblue-fantasy-the-animation-season-2",
@@ -23316,6 +23371,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2021"
+  },
+  {
+    "id": "ashita-sekai-ga-owaru-toshitemo",
+    "title": "انمي Ashita Sekai ga Owaru toshitemo مترجم اون لاين",
+    "poster": "data/posters/ashita-sekai-ga-owaru-toshitemo.webp",
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
   },
   {
     "id": "ijiranaide-nagatoro-san-2nd-attack",
