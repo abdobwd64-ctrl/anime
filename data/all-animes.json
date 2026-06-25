@@ -5024,6 +5024,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "monogatari-series-second-season",
+    "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
+    "poster": "data/posters/monogatari-series-second-season.webp",
+    "genres": [
+      "غموض",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "صيف 2013"
+  },
+  {
     "id": "kami-no-tou-koubou-sen",
     "title": "انمي Kami no Tou: Koubou-sen مترجم اون لاين",
     "poster": "data/posters/kami-no-tou-koubou-sen.webp",

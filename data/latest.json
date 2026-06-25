@@ -344,6 +344,14 @@
     "date_sort": "2026-06-20"
   },
   {
+    "anime_id": "monogatari-series-second-season",
+    "anime_title": "انمي Monogatari Series: Second Season مترجم اون لاين",
+    "anime_poster": "data/posters/monogatari-series-second-season.webp",
+    "episode": "26",
+    "date": "20 يونيو, 2026",
+    "date_sort": "2026-06-20"
+  },
+  {
     "anime_id": "kanan-sama-wa-akumade-choroi",
     "anime_title": "انمي Kanan-sama wa Akumade Choroi مترجم اون لاين",
     "anime_poster": "data/posters/kanan-sama-wa-akumade-choroi.webp",
@@ -390,13 +398,5 @@
     "episode": "12",
     "date": "18 يونيو, 2026",
     "date_sort": "2026-06-18"
-  },
-  {
-    "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-    "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
-    "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026",
-    "date_sort": "2026-06-17"
   }
 ]
