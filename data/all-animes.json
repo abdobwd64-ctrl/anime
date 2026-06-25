@@ -6561,6 +6561,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "dekoboko-majo-no-oyako-jijou",
+    "title": "انمي Dekoboko Majo no Oyako Jijou مترجم اون لاين",
+    "poster": "data/posters/dekoboko-majo-no-oyako-jijou.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2023"
+  },
+  {
     "id": "grand-blue-season-2",
     "title": "انمي Grand Blue Season 2 مترجم اون لاين",
     "poster": "data/posters/grand-blue-season-2.webp",
