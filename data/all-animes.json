@@ -977,6 +977,18 @@
     "season": "صيف 2022"
   },
   {
+    "id": "gamera-rebirth",
+    "title": "انمي Gamera: Rebirth مترجم اون لاين",
+    "poster": "data/posters/gamera-rebirth.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "صيف 2023"
+  },
+  {
     "id": "gekidol",
     "title": "انمي Gekidol مترجم اون لاين",
     "poster": "data/posters/gekidol.webp",
@@ -2173,6 +2185,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "ultraman",
+    "title": "انمي Ultraman مترجم اون لاين",
+    "poster": "data/posters/ultraman.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "خيال علمي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "ربيع 2019"
   },
   {
     "id": "re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna",
@@ -14531,6 +14558,19 @@
     "season": "ربيع 2015"
   },
   {
+    "id": "planet-with",
+    "title": "انمي Planet With مترجم اون لاين",
+    "poster": "data/posters/planet-with.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
+  },
+  {
     "id": "pok-mon-liko-and-roy-s-departure",
     "title": "انمي Pokémon: Liko and Roy's Departure مترجم اون لاين",
     "poster": "data/posters/pok-mon-liko-and-roy-s-departure.webp",
@@ -16220,6 +16260,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "shinobi-no-ittoki",
+    "title": "انمي Shinobi no Ittoki مترجم اون لاين",
+    "poster": "data/posters/shinobi-no-ittoki.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2022"
   },
   {
     "id": "the-legend-of-heroes-sen-no-kiseki-northern-war",
@@ -19832,6 +19884,21 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "boku-no-kokoro-no-yabai-yatsu-season-2",
+    "title": "انمي Boku no Kokoro no Yabai Yatsu Season 2 مترجم اون لاين",
+    "poster": "data/posters/boku-no-kokoro-no-yabai-yatsu-season-2.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo",
     "title": "انمي Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo! مترجم اون لاين",
     "poster": "data/posters/naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo.webp",
@@ -23353,6 +23420,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "madogiwa-no-totto-chan",
+    "title": "انمي Madogiwa no Totto-chan مترجم اون لاين",
+    "poster": "data/posters/madogiwa-no-totto-chan.webp",
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
+  },
+  {
     "id": "chuubyou-gekihatsu-boy-special",
     "title": "انمي Chuubyou Gekihatsu Boy Special مترجم اون لاين",
     "poster": "data/posters/chuubyou-gekihatsu-boy-special.webp",
@@ -25660,6 +25741,18 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "cool-doji-danshi",
+    "title": "انمي Cool Doji Danshi مترجم اون لاين",
+    "poster": "data/posters/cool-doji-danshi.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "detective-conan",
     "title": "انمي Detective Conan مترجم اون لاين",
     "poster": "data/posters/detective-conan.webp",
@@ -25810,6 +25903,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "domestic-na-kanojo",
+    "title": "انمي Domestic na Kanojo مترجم اون لاين",
+    "poster": "data/posters/domestic-na-kanojo.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "build-divide-code-white",
