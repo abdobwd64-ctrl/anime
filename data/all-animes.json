@@ -7279,6 +7279,21 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "lupin-iii-part-6",
+    "title": "انمي Lupin III: Part 6 مترجم اون لاين",
+    "poster": "data/posters/lupin-iii-part-6.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "island",
     "title": "انمي Island مترجم اون لاين",
     "poster": "data/posters/island.webp",
