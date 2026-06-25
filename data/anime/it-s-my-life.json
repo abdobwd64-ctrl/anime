@@ -1,0 +1,102 @@
+{
+  "id": "it-s-my-life",
+  "title": "انمي It's My Life مترجم اون لاين",
+  "url": "https://animelek.top/anime/it-s-my-life/",
+  "poster": "data/posters/it-s-my-life.webp",
+  "status": "مكتمل",
+  "type": "أوفا",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "خريف 2019",
+  "genres": [
+    "فنتازيا",
+    "كوميدي"
+  ],
+  "story": "قصة انمي It's My Life تدور حول استرا الذي تقاعد في وقت مبكر عن 35 عامًا حيث كان سابقًا رئيس فرسان الامبراطورية، و في يومه الأول من حياته الهادئة في منزله بعد التقاعد تصدم بمنزله فتاة ساحرة شابة تدعى نوا و لتجبره بأن يكون خادمها.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأوفا 1It's My Life",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1307834190554"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1icrj9G51bTzee32brMbYwRDTRq1CoVzR/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/GG3jZdD4Vp2Mz"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/A0AGRQzKiq"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!RgUXXChA!mRAyQ-7XtFhyLpUy68voiMmWclGHeXUuQ-WTJYQynlk"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/y0sbpp307n8x"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/emb.html?obg1qb61a27u=img.vidbm.com/obg1qb61a27u"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ga4c66q1otsc.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1icrj9G51bTzee32brMbYwRDTRq1CoVzR&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RgUXXChA!mRAyQ-7XtFhyLpUy68voiMmWclGHeXUuQ-WTJYQynlk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ga4c66q1otsc"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/y0sbpp307n8x"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/jxglcfizv85s"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/GG3jZdD4Vp2Mz"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/A0AGRQzKiq/Anime4upcom_IML_HD.html"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:32:04.759790"
+}

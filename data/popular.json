@@ -1,5 +1,22 @@
 [
   {
+    "id": "detective-conan",
+    "title": "انمي Detective Conan مترجم اون لاين",
+    "poster": "data/posters/detective-conan.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 1996",
+    "score": 1183
+  },
+  {
     "id": "one-piece",
     "title": "انمي One Piece مترجم اون لاين",
     "poster": "data/posters/one-piece.webp",
@@ -500,22 +517,5 @@
     "episodes_count": "52",
     "season": "ربيع 2019",
     "score": 56
-  },
-  {
-    "id": "ahiru-no-sora",
-    "title": "انمي Ahiru no Sora مترجم اون لاين",
-    "poster": "data/posters/ahiru-no-sora.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "50",
-    "season": "خريف 2019",
-    "score": 55
   }
 ]
