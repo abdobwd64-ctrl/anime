@@ -12026,6 +12026,18 @@
     "season": "خريف 2024"
   },
   {
+    "id": "love-all-play",
+    "title": "انمي Love All Play مترجم اون لاين",
+    "poster": "data/posters/love-all-play.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "majutsushi-kunon-wa-mieteiru",
     "title": "انمي Majutsushi Kunon wa Mieteiru مترجم اون لاين",
     "poster": "data/posters/majutsushi-kunon-wa-mieteiru.webp",
