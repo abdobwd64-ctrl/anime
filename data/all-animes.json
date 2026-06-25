@@ -8656,6 +8656,20 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "touhai-ura-rate-mahjong-touhai-roku",
+    "title": "انمي Touhai: Ura Rate Mahjong Touhai Roku مترجم اون لاين",
+    "poster": "data/posters/touhai-ura-rate-mahjong-touhai-roku.webp",
+    "genres": [
+      "دراما",
+      "العاب",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2024"
+  },
+  {
     "id": "shabake",
     "title": "انمي Shabake مترجم اون لاين",
     "poster": "data/posters/shabake.webp",
