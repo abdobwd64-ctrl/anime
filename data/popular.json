@@ -115,7 +115,7 @@
     "type": "تلفزيون",
     "episodes_count": "109",
     "season": "خريف 1984",
-    "score": 91
+    "score": 92
   },
   {
     "id": "world-trigger",
@@ -512,39 +512,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2024",
-    "score": 30
-  },
-  {
-    "id": "haikyuu",
-    "title": "انمي Haikyuu!! مترجم اون لاين",
-    "poster": "data/posters/haikyuu.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2014",
-    "score": 30
-  },
-  {
-    "id": "monogatari-series-second-season",
-    "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
-    "poster": "data/posters/monogatari-series-second-season.webp",
-    "genres": [
-      "غموض",
-      "رومانسي",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "صيف 2013",
     "score": 30
   }
 ]
