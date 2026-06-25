@@ -12670,6 +12670,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "houkago-shounen-hanako-kun",
+    "title": "انمي Houkago Shounen Hanako-kun مترجم اون لاين",
+    "poster": "data/posters/houkago-shounen-hanako-kun.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "4",
+    "season": "خريف 2023"
+  },
+  {
     "id": "pokemon-2019-kami-to-yobareshi-arceus",
     "title": "انمي Pokemon (2019): Kami to Yobareshi Arceus مترجم اون لاين",
     "poster": "data/posters/pokemon-2019-kami-to-yobareshi-arceus.webp",
@@ -16044,6 +16057,19 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "phantom-in-the-twilight",
+    "title": "انمي Phantom in the Twilight مترجم اون لاين",
+    "poster": "data/posters/phantom-in-the-twilight.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
   },
   {
     "id": "jahy-sama-wa-kujikenai",
