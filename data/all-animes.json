@@ -3009,6 +3009,18 @@
     "season": "ربيع 2004"
   },
   {
+    "id": "zuoshou-shanglan",
+    "title": "انمي Zuoshou Shanglan مترجم اون لاين",
+    "poster": "data/posters/zuoshou-shanglan.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "hatena-illusion",
     "title": "انمي Hatena☆Illusion مترجم اون لاين",
     "poster": "data/posters/hatena-illusion.webp",
@@ -12743,6 +12755,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2023"
+  },
+  {
+    "id": "ikoku-nikki",
+    "title": "انمي Ikoku Nikki مترجم اون لاين",
+    "poster": "data/posters/ikoku-nikki.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2026"
   },
   {
     "id": "yichang-shengwu-jianwenlu",
