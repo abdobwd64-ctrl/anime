@@ -508,5 +508,71 @@
     "episodes_count": "24",
     "season": "خريف 2018",
     "score": 29
+  },
+  {
+    "id": "bastard-ankoku-no-hakaishin-ona",
+    "title": "انمي Bastard!! Ankoku no Hakaishin (ONA) مترجم اون لاين",
+    "poster": "data/posters/bastard-ankoku-no-hakaishin-ona.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "شتاء 2021",
+    "score": 29
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+    "title": "انمي Tsuki ga Michibiku Isekai Douchuu 2nd Season مترجم اون لاين",
+    "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024",
+    "score": 29
+  },
+  {
+    "id": "kill-la-kill",
+    "title": "انمي Kill la Kill مترجم اون لاين",
+    "poster": "data/posters/kill-la-kill.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2013",
+    "score": 29
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "انمي Tokyo Revengers مترجم اون لاين",
+    "poster": "data/posters/tokyo-revengers.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021",
+    "score": 29
   }
 ]

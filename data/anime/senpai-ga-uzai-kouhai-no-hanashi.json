@@ -500,7 +500,208 @@
           "url": "https://doodstream.com/d/wmlf1fxtblta"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Senpai ga Uzai Kouhai no Hanashi",
+      "date": "13 ديسمبر, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2899763661530"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/Cmxizdbcea"
+        },
+        {
+          "name": "dood ws | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/hzyv0cf0j6m8"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-kgb9int7ge6t.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/vNmr4Ayzjrn2p"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0yi41b2xa63o.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/a8cEDJwQ!EluTcyFbGRss8jShNQ2tfAgEdnv0m6PrjfgJ7Wtzb2Y"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/7v7qi61uu1zi"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2899761760986"
+        },
+        {
+          "name": "dood ws | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/tuxfcxy5no9y"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-h3qskcu8jqtx.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/m9MS0LQZ!wprNWVRDfar15fj0Rw8VKG0BdS9REo29h9Mh2_VvrnQ"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/2omv87uad3zn"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2899769035482"
+        },
+        {
+          "name": "dood ws | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/9btnf7yp7sqs"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-gz495afw9t1g.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/z8FASTYL!NQFyQGnxgfZDBPhvO3-vP_uqSj1yWFVEeXteE2_Ww3c"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ca6nggnvhn1f"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/icp3te63t3ne"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!z8FASTYL!NQFyQGnxgfZDBPhvO3-vP_uqSj1yWFVEeXteE2_Ww3c"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/gz495afw9t1g"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/2pjbC/[Anime4up.com]_SGUKNH_EP_10_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/ca6nggnvhn1f"
+        },
+        {
+          "server": "doodstream",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/9btnf7yp7sqs"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/7udz2tzptezj"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!a8cEDJwQ!EluTcyFbGRss8jShNQ2tfAgEdnv0m6PrjfgJ7Wtzb2Y"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0yi41b2xa63o"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/2pjbz/[Anime4up.com]_SGUKNH_EP_10_HD.mp4"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/vNmr4Ayzjrn2p"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/7v7qi61uu1zi"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/hzyv0cf0j6m8"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/Cmxizdbcea/Anime4upcom_SGUKNH_EP_10_HD.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/ehd4gqmyg8ul"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!m9MS0LQZ!wprNWVRDfar15fj0Rw8VKG0BdS9REo29h9Mh2_VvrnQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/h3qskcu8jqtx"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/2pjbD/[Anime4up.com]_SGUKNH_EP_10_FHD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2omv87uad3zn"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/tuxfcxy5no9y"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:06:22.852061"
+  "last_updated": "2026-06-25T00:06:30.363414"
 }
