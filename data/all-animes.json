@@ -4282,6 +4282,21 @@
     "season": "ربيع 2017"
   },
   {
+    "id": "vlad-love",
+    "title": "انمي Vlad Love مترجم اون لاين",
+    "poster": "data/posters/vlad-love.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2020"
+  },
+  {
     "id": "blue-lock-episode-nagi",
     "title": "انمي Blue Lock: Episode Nagi مترجم اون لاين",
     "poster": "data/posters/blue-lock-episode-nagi.webp",
