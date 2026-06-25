@@ -941,6 +941,18 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "hanma-baki-vs-kengan-ashura",
+    "title": "انمي Hanma Baki vs. Kengan Ashura مترجم اون لاين",
+    "poster": "data/posters/hanma-baki-vs-kengan-ashura.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "lupin-iii-vs-meitantei-conan-the-movie",
     "title": "انمي Lupin III vs. Meitantei Conan: The Movie مترجم اون لاين",
     "poster": "data/posters/lupin-iii-vs-meitantei-conan-the-movie.webp",
@@ -5296,6 +5308,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
+    "title": "انمي Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu مترجم اون لاين",
+    "poster": "data/posters/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu.webp",
+    "genres": [
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
   },
   {
     "id": "hataraku-saibou-black-tv",
@@ -9870,6 +9895,18 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "technoroid-overmind",
+    "title": "انمي Technoroid: Overmind مترجم اون لاين",
+    "poster": "data/posters/technoroid-overmind.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "kyoukai-senki",
     "title": "انمي Kyoukai Senki مترجم اون لاين",
     "poster": "data/posters/kyoukai-senki.webp",
@@ -11761,6 +11798,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "kimetsu-no-yaiba-katanakaji-no-sato-hen",
+    "title": "انمي Kimetsu no Yaiba: Katanakaji no Sato-hen مترجم اون لاين",
+    "poster": "data/posters/kimetsu-no-yaiba-katanakaji-no-sato-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
   },
   {
     "id": "seishun-buta-yarou-wa-bunny-girl-senpai-no-yume-wo-minai",
