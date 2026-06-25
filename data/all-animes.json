@@ -4462,6 +4462,23 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "bakuten-shoot-beyblade",
+    "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
+    "poster": "data/posters/bakuten-shoot-beyblade.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "خريف 2001"
+  },
+  {
     "id": "hibike-euphonium-3",
     "title": "انمي Hibike! Euphonium 3 مترجم اون لاين",
     "poster": "data/posters/hibike-euphonium-3.webp",
@@ -5936,6 +5953,22 @@
     "season": "خريف 2025"
   },
   {
+    "id": "bungou-stray-dogs-hitori-ayumu",
+    "title": "انمي Bungou Stray Dogs: Hitori Ayumu مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-hitori-ayumu.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2017"
+  },
+  {
     "id": "meitantei-conan-movie-03-seikimatsu-no-majutsushi",
     "title": "انمي Meitantei Conan Movie 03: Seikimatsu no Majutsushi مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-movie-03-seikimatsu-no-majutsushi.webp",
@@ -5990,6 +6023,22 @@
     "type": "تلفزيون",
     "episodes_count": "500",
     "season": "شتاء 2007"
+  },
+  {
+    "id": "lupin-iii-the-first",
+    "title": "انمي Lupin III: The First مترجم اون لاين",
+    "poster": "data/posters/lupin-iii-the-first.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "مغامرات",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
   },
   {
     "id": "meitantei-conan-movie-05-tengoku-e-no-countdown",
@@ -13317,6 +13366,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "phantasy-star-online-2-episode-oracle",
+    "title": "انمي Phantasy Star Online 2: Episode Oracle مترجم اون لاين",
+    "poster": "data/posters/phantasy-star-online-2-episode-oracle.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2019"
+  },
+  {
     "id": "trillion-game",
     "title": "انمي Trillion Game مترجم اون لاين",
     "poster": "data/posters/trillion-game.webp",
@@ -19251,6 +19314,21 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation",
+    "title": "انمي Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation مترجم اون لاين",
+    "poster": "data/posters/danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation.webp",
+    "genres": [
+      "غموض",
+      "رعب",
+      "نفسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2013"
+  },
+  {
     "id": "kumichou-musume-to-sewagakari",
     "title": "انمي Kumichou Musume to Sewagakari مترجم اون لاين",
     "poster": "data/posters/kumichou-musume-to-sewagakari.webp",
@@ -21219,6 +21297,23 @@
     "season": "صيف 2023"
   },
   {
+    "id": "fruits-basket-1st-season",
+    "title": "انمي Fruits Basket 1st Season مترجم اون لاين",
+    "poster": "data/posters/fruits-basket-1st-season.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "bang-dream-2nd-season",
     "title": "انمي BanG Dream! 2nd Season مترجم اون لاين",
     "poster": "data/posters/bang-dream-2nd-season.webp",
@@ -21784,6 +21879,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2019"
+  },
+  {
+    "id": "journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari",
+    "title": "انمي Journey: Taiko Arabia Hantou de no Kiseki to Tatakai no Monogatari مترجم اون لاين",
+    "poster": "data/posters/journey-taiko-arabia-hantou-de-no-kiseki-to-tatakai-no-monogatari.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2021"
   },
   {
     "id": "kimetsu-gakuen-valentine-hen",
