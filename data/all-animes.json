@@ -8275,6 +8275,23 @@
     "season": "خريف 2022"
   },
   {
+    "id": "death-note",
+    "title": "انمي Death Note مترجم اون لاين",
+    "poster": "data/posters/death-note.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "قوى خارقة",
+      "نفسي",
+      "اثارة",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "37",
+    "season": "خريف 2006"
+  },
+  {
     "id": "psycho-pass-sinners-of-the-system-case-2-first-guardian",
     "title": "انمي Psycho-Pass: Sinners of the System Case.2 - First Guardian مترجم اون لاين",
     "poster": "data/posters/psycho-pass-sinners-of-the-system-case-2-first-guardian.webp",
