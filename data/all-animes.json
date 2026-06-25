@@ -1134,6 +1134,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "tokyo-ghoul-re-2nd-season",
+    "title": "انمي Tokyo Ghoul:re 2nd Season مترجم اون لاين",
+    "poster": "data/posters/tokyo-ghoul-re-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2018"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-movie-orion-no-ya.webp",
@@ -2331,6 +2345,23 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "fuuka",
+    "title": "انمي Fuuka مترجم اون لاين",
+    "poster": "data/posters/fuuka.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "مدرسي",
+      "إيتشي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2017"
   },
   {
     "id": "orient",
@@ -4627,6 +4658,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018"
+  },
+  {
+    "id": "shy",
+    "title": "انمي Shy مترجم اون لاين",
+    "poster": "data/posters/shy.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
   },
   {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
@@ -9171,6 +9217,21 @@
     "type": "تلفزيون",
     "episodes_count": "25",
     "season": "خريف 2015"
+  },
+  {
+    "id": "tokyo-revengers",
+    "title": "انمي Tokyo Revengers مترجم اون لاين",
+    "poster": "data/posters/tokyo-revengers.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "chou-kaguya-hime",
