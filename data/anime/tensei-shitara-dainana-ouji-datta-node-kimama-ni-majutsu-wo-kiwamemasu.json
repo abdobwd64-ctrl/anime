@@ -584,7 +584,776 @@
           "url": "https://updown.cam/sm4q1vaukkce"
         }
       ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+      "date": "20 مايو, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ygaOoSdGr7yBe"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/ygaOoSdGr7yBe"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/ygaOoSdGr7yBe"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-be5pn5jyoloh.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-59gx3nwwprtc.html"
+        },
+        {
+          "name": "uqload to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.to/embed-zfiekbd0eqch.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6939933084378"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-27vgy1njduos.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/vepljSbD!VTk3iZeh2OwUzWslif-qOJ5UK8ATImvtK3LNtbH8dmQ"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/7gzxww3m"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6939925744346"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-8zob58eppsv9.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/KPJj1QBB!vTAHsziTKUsHPdJq3L9l5QtK5gocadD00RdPq8D9vm4"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6939938458330"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xj2cqnfw64ej.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/2HhFgZbL!uhGvm3VpzuFmRa9942UC0gtLnnR82Kc2W4hkLs_t-Wg"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xj2cqnfw64ej"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/drbq1llxve5j"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!2HhFgZbL!uhGvm3VpzuFmRa9942UC0gtLnnR82Kc2W4hkLs_t-Wg"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/o8ge3g888l1u"
+        },
+        {
+          "server": "updown",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://updown.cam/ruiktve38ph9"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/27vgy1njduos"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/lyb17gv213qd"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!vepljSbD!VTk3iZeh2OwUzWslif-qOJ5UK8ATImvtK3LNtbH8dmQ"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/7ojg321wwa2l"
+        },
+        {
+          "server": "updown",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://updown.cam/h94wry9dt7oh"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8zob58eppsv9"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/njg90064emdu"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!KPJj1QBB!vTAHsziTKUsHPdJq3L9l5QtK5gocadD00RdPq8D9vm4"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/phb9q1ifm5hr"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/ovzr85wcccn3"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+      "date": "13 مايو, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/bRZ4npbef7wTA"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/bRZ4npbef7wTA"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/bRZ4npbef7wTA"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-uf0416ecujgc.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-vz2aqz0bdjfj.html"
+        },
+        {
+          "name": "uqload to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.to/embed-7i5qyyy3fhv7.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6916494002906"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-dnwr0jzuupxb.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/pSlCFK6K!BZ8Ffm3qxjLRUnbgTXcm_nUbj2jmFecMfcx82t5so58"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/fe6wxo86"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6916485548762"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-z5kbwcr6qyzp.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/wPVXVT6C!jeLD5DWZOsFmU86zJHx5SM6jITETUNdFN3eNCStr4eE"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6916499835610"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ulb5qwoe2bwk.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/4WlliRAI!Ut5K6JOCnHfXWyjPgI2DnLxPRVgJDN4gE950kay1Eww"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/gxvk0mmlqpac"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ulb5qwoe2bwk"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4WlliRAI!Ut5K6JOCnHfXWyjPgI2DnLxPRVgJDN4gE950kay1Eww"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/2t4ji5z2j5ln"
+        },
+        {
+          "server": "updown",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://updown.cam/i4yz4knfmhxp"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/6sojqhdckfvc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/dnwr0jzuupxb"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!pSlCFK6K!BZ8Ffm3qxjLRUnbgTXcm_nUbj2jmFecMfcx82t5so58"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/533xi901pa03"
+        },
+        {
+          "server": "updown",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://updown.cam/aizuj47u302d"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/z5kbwcr6qyzp"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/a28nblb7qjel"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!wPVXVT6C!jeLD5DWZOsFmU86zJHx5SM6jITETUNdFN3eNCStr4eE"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/sbwrjdiecme0"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/sqmn6wpzo64e"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+      "date": "06 مايو, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/2FqRIXHn57UbC"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/2FqRIXHn57UbC"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/2FqRIXHn57UbC"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-ls19zw90zcfz.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-3oe9gcns4r3o.html"
+        },
+        {
+          "name": "uqload to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.to/embed-u453nyyq831i.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6895417559770"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-qmr70vgdttni.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/YYol1JLQ!2Vly3-Cx10VGUUlAJfwYguIeDLRTWeJ2YxljxacSyw4"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/tsm6co6f"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6895407074010"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-aa6kcxv279t2.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/tcp2TTqY!OsP6TW4SlKdcds_klU0rH0Pq1GHe3yyH1ieOFWeNrZE"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6895423130330"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-2w3h04dyjtl8.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/8QIg0SxS!JFxPUymr65edKrHZVIwJ77yXXfT2bVc3qtwRss_FbYE"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2w3h04dyjtl8"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/5hswmac07sq7"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!8QIg0SxS!JFxPUymr65edKrHZVIwJ77yXXfT2bVc3qtwRss_FbYE"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/ceey3pnvqm61"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qmr70vgdttni"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/sbdcqer9i54s"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!YYol1JLQ!2Vly3-Cx10VGUUlAJfwYguIeDLRTWeJ2YxljxacSyw4"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/b1xhhcwtdn8y"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/jypq8r4b1frj"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/aa6kcxv279t2"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!tcp2TTqY!OsP6TW4SlKdcds_klU0rH0Pq1GHe3yyH1ieOFWeNrZE"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/owo956miq7o4"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+      "date": "29 أبريل, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/IosujDJXh5yht"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/IosujDJXh5yht"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/IosujDJXh5yht"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-cdkum86szk0m.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-hz9ou1e8aekr.html"
+        },
+        {
+          "name": "uqload to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.to/embed-xn72irpz6163.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6870828714714"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-3dtngwn2vwes.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/tTtRnSpC!h5gcvpP9-RkXgl4YFlyQILwWxnI0yAX4Co1KSNUpKPM"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/4xu0hc6r"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6870820326106"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/MXtjjCBS!g915XODmIx8q-pjFAFTyD8a2PE00pCP5Sw_OeYg2KAw"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6870832057050"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-vj4k2bmkisde.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/QLtRTaxC!ZObM2cY4cIDji7kdZQNzYvXq8HddfjRQiCsWI5SUcYg"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/vj4k2bmkisde"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/4ifoun03ixkj"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!QLtRTaxC!ZObM2cY4cIDji7kdZQNzYvXq8HddfjRQiCsWI5SUcYg"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/3yyr024spafe"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/3dtngwn2vwes"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/u98gx45hbbtu"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!tTtRnSpC!h5gcvpP9-RkXgl4YFlyQILwWxnI0yAX4Co1KSNUpKPM"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/8gvea427yoc4"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/pvd439za6y0q"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!MXtjjCBS!g915XODmIx8q-pjFAFTyD8a2PE00pCP5Sw_OeYg2KAw"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/3rdkwak4p3aw"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu",
+      "date": "22 أبريل, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/Hv7pGjSN2km6k"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/Hv7pGjSN2km6k"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/Hv7pGjSN2km6k"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-rksm2zmzfqxs.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-jb4b2hsk0qd3.html"
+        },
+        {
+          "name": "uqload to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.to/embed-jho8g28mv4it.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6851298069210"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-rnqpk9iqpdyi.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9BRVhZoB!WJRqASdFD0Gp4e80Ihfmg6NSrduIhCeiscGBL8DNBws"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/47pg1tzr"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6851291450074"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-whkz3o4okg1d.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/sIZh1a5S!auOh_g48V4Nei1hfj_90EIgGyrJl886SOPoGLJxQX0g"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/6851303901914"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-g39jnqu71rg3.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/dNpyxDRD!ac6_DbFCdHA0nOZxYwV5iyWP_fphOBw85dFn5LNhaHY"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/jx3x1j2gb9by"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/g39jnqu71rg3"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!dNpyxDRD!ac6_DbFCdHA0nOZxYwV5iyWP_fphOBw85dFn5LNhaHY"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/mlakwz9a3cxq"
+        },
+        {
+          "server": "updown",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://updown.cam/aoxddttodmsj"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/95xow9lfospt"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rnqpk9iqpdyi"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9BRVhZoB!WJRqASdFD0Gp4e80Ihfmg6NSrduIhCeiscGBL8DNBws"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/idgyhe03f1sv"
+        },
+        {
+          "server": "updown",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://updown.cam/oyb5pafxsnqp"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/lll2zi1i17ff"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/whkz3o4okg1d"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!sIZh1a5S!auOh_g48V4Nei1hfj_90EIgGyrJl886SOPoGLJxQX0g"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/7z72wjiw83uh"
+        },
+        {
+          "server": "updown",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://updown.cam/n3ftxf819nse"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:23:22.284912"
+  "last_updated": "2026-06-25T01:24:08.170213"
 }
