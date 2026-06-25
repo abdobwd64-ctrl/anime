@@ -2100,6 +2100,19 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "kimi-wa-kanata",
+    "title": "انمي Kimi wa Kanata مترجم اون لاين",
+    "poster": "data/posters/kimi-wa-kanata.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
+  },
+  {
     "id": "hangyakusei-million-arthur-2nd-season",
     "title": "انمي Hangyakusei Million Arthur 2nd Season مترجم اون لاين",
     "poster": "data/posters/hangyakusei-million-arthur-2nd-season.webp",
