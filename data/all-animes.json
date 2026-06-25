@@ -2205,6 +2205,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "hanasaku-iroha-home-sweet-home",
+    "title": "انمي Hanasaku Iroha: Home Sweet Home مترجم اون لاين",
+    "poster": "data/posters/hanasaku-iroha-home-sweet-home.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2013"
+  },
+  {
     "id": "mushoku-tensei-isekai-ittara-honki-dasu-eris-no-goblin-toubatsu",
     "title": "انمي Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu مترجم اون لاين",
     "poster": "data/posters/mushoku-tensei-isekai-ittara-honki-dasu-eris-no-goblin-toubatsu.webp",
