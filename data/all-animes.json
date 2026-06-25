@@ -4736,6 +4736,19 @@
     "season": "صيف 2018"
   },
   {
+    "id": "mairimashita-iruma-kun-3rd-season",
+    "title": "انمي Mairimashita! Iruma-kun 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mairimashita-iruma-kun-3rd-season.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "21",
+    "season": "خريف 2022"
+  },
+  {
     "id": "aishiteru-game-wo-owarasetai",
     "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -7698,6 +7711,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi",
+    "title": "انمي Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2021"
   },
   {
     "id": "beyblade-burst",
