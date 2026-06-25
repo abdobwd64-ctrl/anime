@@ -103,6 +103,25 @@
     "score": 178
   },
   {
+    "id": "dragon-ball-super",
+    "title": "انمي Dragon Ball Super مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-super.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "131",
+    "season": "صيف 2015",
+    "score": 138
+  },
+  {
     "id": "hokuto-no-ken",
     "title": "انمي Hokuto no Ken مترجم اون لاين",
     "poster": "data/posters/hokuto-no-ken.webp",
@@ -482,20 +501,5 @@
     "episodes_count": "47",
     "season": "ربيع 2006",
     "score": 37
-  },
-  {
-    "id": "watashi-to-watashi-futari-no-lotte",
-    "title": "انمي Watashi to Watashi: Futari no Lotte مترجم اون لاين",
-    "poster": "data/posters/watashi-to-watashi-futari-no-lotte.webp",
-    "genres": [
-      "شريحة من الحياة",
-      "شوجو",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "29",
-    "season": "خريف 1991",
-    "score": 32
   }
 ]
