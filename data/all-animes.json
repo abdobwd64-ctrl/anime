@@ -28,6 +28,21 @@
     "season": "خريف 2025"
   },
   {
+    "id": "rekishi-ni-nokoru-akujo-ni-naru-zo",
+    "title": "انمي Rekishi ni Nokoru Akujo ni Naru zo مترجم اون لاين",
+    "poster": "data/posters/rekishi-ni-nokoru-akujo-ni-naru-zo.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2024"
+  },
+  {
     "id": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta",
     "title": "انمي Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... مترجم اون لاين",
     "poster": "data/posters/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta.webp",
@@ -7589,6 +7604,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "6",
     "season": "خريف 2015"
+  },
+  {
+    "id": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
+    "title": "انمي Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? مترجم اون لاين",
+    "poster": "data/posters/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "ore-dake-haireru-kakushi-dungeon",
