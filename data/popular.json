@@ -465,20 +465,19 @@
     "score": 25
   },
   {
-    "id": "sword-art-online-alicization",
-    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization.webp",
+    "id": "fate-grand-order-zettai-majuu-sensen-babylonia",
+    "title": "انمي Fate/Grand Order: Zettai Majuu Sensen Babylonia مترجم اون لاين",
+    "poster": "data/posters/fate-grand-order-zettai-majuu-sensen-babylonia.webp",
     "genres": [
       "أكشن",
       "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
+      "سحر",
+      "قوى خارقة"
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
-    "score": 24
+    "episodes_count": "21",
+    "season": "خريف 2019",
+    "score": 25
   }
 ]
