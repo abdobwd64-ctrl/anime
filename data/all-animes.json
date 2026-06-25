@@ -6130,6 +6130,20 @@
     "season": "خريف 2006"
   },
   {
+    "id": "dragon-ball-super-super-hero",
+    "title": "انمي Dragon Ball Super: Super Hero مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-super-super-hero.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "seiken-densetsu-legend-of-mana-the-teardrop-crystal",
     "title": "انمي Seiken Densetsu: Legend of Mana - The Teardrop Crystal مترجم اون لاين",
     "poster": "data/posters/seiken-densetsu-legend-of-mana-the-teardrop-crystal.webp",
