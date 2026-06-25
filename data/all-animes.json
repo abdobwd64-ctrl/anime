@@ -228,6 +228,20 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "tennis-no-ouji-sama-atobe-kara-no-okurimono-kimi-ni-sasageru-tennis-prince-matsuri",
+    "title": "انمي Tennis no Ouji-sama: Atobe kara no Okurimono - Kimi ni Sasageru Tennis Prince Matsuri مترجم اون لاين",
+    "poster": "data/posters/tennis-no-ouji-sama-atobe-kara-no-okurimono-kimi-ni-sasageru-tennis-prince-matsuri.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2005"
+  },
+  {
     "id": "nazotoki-wa-dinner-no-ato-de",
     "title": "انمي Nazotoki wa Dinner no Ato de مترجم اون لاين",
     "poster": "data/posters/nazotoki-wa-dinner-no-ato-de.webp",
@@ -1880,6 +1894,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2019"
+  },
+  {
+    "id": "one-piece-movie-07-karakuri-jou-no-mecha-kyohei",
+    "title": "انمي One Piece Movie 07: Karakuri-jou no Mecha Kyohei مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-07-karakuri-jou-no-mecha-kyohei.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
@@ -13517,6 +13545,20 @@
     "season": "ربيع 2010"
   },
   {
+    "id": "teppen",
+    "title": "انمي Teppen!!!!!!!!!!!!!!! مترجم اون لاين",
+    "poster": "data/posters/teppen.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "inuyasha-kanketsu-hen",
     "title": "انمي InuYasha: Kanketsu-hen مترجم اون لاين",
     "poster": "data/posters/inuyasha-kanketsu-hen.webp",
@@ -18662,6 +18704,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "kai-byoui-ramune",
+    "title": "انمي Kai Byoui Ramune مترجم اون لاين",
+    "poster": "data/posters/kai-byoui-ramune.webp",
+    "genres": [
+      "شونين",
+      "قوى خارقة",
+      "نفسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
   },
   {
     "id": "hikaru-ga-shinda-natsu",
