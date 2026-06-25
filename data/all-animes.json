@@ -2189,6 +2189,20 @@
     "season": "خريف 2017"
   },
   {
+    "id": "toaru-kagaku-no-railgun-t",
+    "title": "انمي Toaru Kagaku no Railgun T مترجم اون لاين",
+    "poster": "data/posters/toaru-kagaku-no-railgun-t.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
     "title": "انمي Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai مترجم اون لاين",
     "poster": "data/posters/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai.webp",
@@ -9944,6 +9958,18 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "kimi-wa-houkago-insomnia",
+    "title": "انمي Kimi wa Houkago Insomnia مترجم اون لاين",
+    "poster": "data/posters/kimi-wa-houkago-insomnia.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "majutsushi-kunon-wa-mieteiru",
     "title": "انمي Majutsushi Kunon wa Mieteiru مترجم اون لاين",
     "poster": "data/posters/majutsushi-kunon-wa-mieteiru.webp",
@@ -10137,6 +10163,19 @@
     "type": "تلفزيون",
     "episodes_count": "8",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "okashi-na-tensei",
+    "title": "انمي Okashi na Tensei مترجم اون لاين",
+    "poster": "data/posters/okashi-na-tensei.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2023"
   },
   {
     "id": "terra-formars",
