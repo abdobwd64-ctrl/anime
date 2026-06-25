@@ -10832,6 +10832,18 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi",
+    "title": "انمي Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi مترجم اون لاين",
+    "poster": "data/posters/seija-musou-salaryman-isekai-de-ikinokoru-tame-ni-ayumu-michi.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "choukadou-girl",
     "title": "انمي Choukadou Girl ⅙ مترجم اون لاين",
     "poster": "data/posters/choukadou-girl.webp",
@@ -13879,6 +13891,19 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "خريف 2024"
+  },
+  {
+    "id": "hateshinaki-scarlet",
+    "title": "انمي Hateshinaki Scarlet مترجم اون لاين",
+    "poster": "data/posters/hateshinaki-scarlet.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2025"
   },
   {
     "id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
