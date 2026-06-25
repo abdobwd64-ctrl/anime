@@ -389,6 +389,25 @@
     "score": 30
   },
   {
+    "id": "nanatsu-no-taizai",
+    "title": "انمي Nanatsu no Taizai مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014",
+    "score": 30
+  },
+  {
     "id": "haikyuu",
     "title": "انمي Haikyuu!! مترجم اون لاين",
     "poster": "data/posters/haikyuu.webp",
@@ -490,23 +509,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020",
-    "score": 29
-  },
-  {
-    "id": "sword-art-online-alicization",
-    "title": "انمي Sword Art Online: Alicization مترجم اون لاين",
-    "poster": "data/posters/sword-art-online-alicization.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "العاب",
-      "رومانسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2018",
     "score": 29
   }
 ]
