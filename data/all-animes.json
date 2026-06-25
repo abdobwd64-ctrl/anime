@@ -5608,6 +5608,20 @@
     "season": "خريف 2014"
   },
   {
+    "id": "mikadono-sanshimai-wa-angai-choroi",
+    "title": "انمي Mikadono Sanshimai wa Angai, Choroi. مترجم اون لاين",
+    "poster": "data/posters/mikadono-sanshimai-wa-angai-choroi.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "boruto-naruto-next-generations",
     "title": "انمي Boruto: Naruto Next Generations مترجم اون لاين",
     "poster": "data/posters/boruto-naruto-next-generations.webp",
