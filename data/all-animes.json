@@ -1173,6 +1173,22 @@
     "season": "صيف 2025"
   },
   {
+    "id": "high-score-girl-ii",
+    "title": "انمي High Score Girl II مترجم اون لاين",
+    "poster": "data/posters/high-score-girl-ii.webp",
+    "genres": [
+      "العاب",
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "9",
+    "season": "خريف 2019"
+  },
+  {
     "id": "starmyu-3rd-season",
     "title": "انمي Starmyu 3rd Season مترجم اون لاين",
     "poster": "data/posters/starmyu-3rd-season.webp",
@@ -7588,6 +7604,20 @@
     "season": "خريف 2023"
   },
   {
+    "id": "bleach-sennen-kessen-hen-ketsubetsu-tan",
+    "title": "انمي Bleach: Sennen Kessen-hen - Ketsubetsu-tan مترجم اون لاين",
+    "poster": "data/posters/bleach-sennen-kessen-hen-ketsubetsu-tan.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "yichang-shengwu-jianwenlu",
     "title": "انمي Yichang Shengwu Jianwenlu مترجم اون لاين",
     "poster": "data/posters/yichang-shengwu-jianwenlu.webp",
@@ -7883,6 +7913,20 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "خريف 2015"
+  },
+  {
+    "id": "debu-to-love-to-ayamachi-to",
+    "title": "انمي Debu to Love to Ayamachi to! مترجم اون لاين",
+    "poster": "data/posters/debu-to-love-to-ayamachi-to.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
   },
   {
     "id": "kunoichi-tsubaki-no-mune-no-uchi",
