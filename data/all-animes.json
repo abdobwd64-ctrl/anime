@@ -1454,6 +1454,20 @@
     "season": "صيف 2020"
   },
   {
+    "id": "tiger-bunny-2",
+    "title": "انمي Tiger & Bunny 2 مترجم اون لاين",
+    "poster": "data/posters/tiger-bunny-2.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "25",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "arknights-rise-from-ember",
     "title": "انمي Arknights: Rise from Ember مترجم اون لاين",
     "poster": "data/posters/arknights-rise-from-ember.webp",
