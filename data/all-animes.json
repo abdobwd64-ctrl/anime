@@ -1080,6 +1080,18 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
+    "title": "انمي Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega مترجم اون لاين",
+    "poster": "data/posters/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "musashino",
     "title": "انمي Musashino! مترجم اون لاين",
     "poster": "data/posters/musashino.webp",
@@ -1702,6 +1714,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "kuma-kuma-kuma-bear",
+    "title": "انمي Kuma Kuma Kuma Bear مترجم اون لاين",
+    "poster": "data/posters/kuma-kuma-kuma-bear.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "shigatsu-wa-kimi-no-uso",
@@ -3973,6 +3999,21 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014"
+  },
+  {
+    "id": "mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2",
+    "title": "انمي Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2 مترجم اون لاين",
+    "poster": "data/posters/mushoku-tensei-ii-isekai-ittara-honki-dasu-part-2.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
   },
   {
     "id": "zuoshou-shanglan-2nd-season",
@@ -6493,6 +6534,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "dr-stone-stone-wars-kaisen-zenya-special-eizou",
+    "title": "انمي Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou مترجم اون لاين",
+    "poster": "data/posters/dr-stone-stone-wars-kaisen-zenya-special-eizou.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2020"
   },
   {
     "id": "kenka-dokugaku",
@@ -9231,6 +9286,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "kami-no-shizuku",
+    "title": "انمي Kami no Shizuku مترجم اون لاين",
+    "poster": "data/posters/kami-no-shizuku.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "سينين"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "arifureta-shokugyou-de-sekai-saikyou",
