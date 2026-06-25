@@ -673,7 +673,226 @@
           "url": "https://doodstream.com/d/is76ozvg4893"
         }
       ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Made in Abyss: Retsujitsu no Ougonkyou",
+      "date": "01 سبتمبر, 2022",
+      "servers": [
+        {
+          "name": "sbspeed | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbspeed.com/e/wed2nw8px3zh"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/SWim7olWea/"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3666651515610"
+        },
+        {
+          "name": "dood pm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/f4fv8wt3hxoi"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-0tllt4oinzb3.html"
+        },
+        {
+          "name": "vidbam org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbam.org/embed-5qi0sff7d8y9.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ZOMi1ajR!nT32h15wLgS-EYtJZr9qF6KgFTs83n_VXTiL-7lKDvI"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/rr79dzk9h9qe"
+        },
+        {
+          "name": "sbspeed | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbspeed.com/e/rdr1sze31znh"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3666667637466"
+        },
+        {
+          "name": "dood pm | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/7gnpagxy6317"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ET8yRRKZ!H9z5VmJheS5ISTwFP43SwhDTIOpB1OsIE47sLBv95ak"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/lu138ew4prad"
+        },
+        {
+          "name": "sbspeed | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://sbspeed.com/e/wzivpd5ozla4"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/3666671897306"
+        },
+        {
+          "name": "dood pm | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.pm/e/ii63xqdp92hi"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/8K0xDAIa!bsAA8g0rJvhREuVMaEi6dVMbMmN2KI6beybqP_0uchc"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/3k33uj6ppk4t"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "sbspeed",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://sbspeed.com/wzivpd5ozla4.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/xujkb8k8mc5y"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!8K0xDAIa!bsAA8g0rJvhREuVMaEi6dVMbMmN2KI6beybqP_0uchc"
+        },
+        {
+          "server": "upbam",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://upbam.org/6b7nhzqpk6xg"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/s90drf6dyd"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/3k33uj6ppk4t"
+        },
+        {
+          "server": "doodstream",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/ii63xqdp92hi"
+        },
+        {
+          "server": "sbspeed",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://sbspeed.com/wed2nw8px3zh.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/962xhs36m55a"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ZOMi1ajR!nT32h15wLgS-EYtJZr9qF6KgFTs83n_VXTiL-7lKDvI"
+        },
+        {
+          "server": "upbam",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://upbam.org/grlyqv3zc7m3"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/H7xer867y5"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/5gMc3/[Anime4up.com]_MIARNO_EP_09_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/rr79dzk9h9qe"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/f4fv8wt3hxoi"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/SWim7olWea/Anime4upcom_MIARNO_EP_09_HD.html"
+        },
+        {
+          "server": "sbspeed",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://sbspeed.com/rdr1sze31znh.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/h4one8i7frfo"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ET8yRRKZ!H9z5VmJheS5ISTwFP43SwhDTIOpB1OsIE47sLBv95ak"
+        },
+        {
+          "server": "upbam",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://upbam.org/qxc65spyx7d8"
+        },
+        {
+          "server": "anonfiles",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://anonfiles.com/d80arc61y2"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/lu138ew4prad"
+        },
+        {
+          "server": "doodstream",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/7gnpagxy6317"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:19:16.195505"
+  "last_updated": "2026-06-25T02:19:24.468630"
 }
