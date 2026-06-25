@@ -1,0 +1,75 @@
+{
+  "id": "tsurune-kazemai-koukou-kyuudoubu-yabai",
+  "title": "انمي Tsurune: Kazemai Koukou Kyuudoubu - Yabai مترجم اون لاين",
+  "url": "https://animelek.top/anime/tsurune-kazemai-koukou-kyuudoubu-yabai/",
+  "poster": "data/posters/tsurune-kazemai-koukou-kyuudoubu-yabai.webp",
+  "status": "مكتمل",
+  "type": "حلقة خاصة",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "شتاء 2019",
+  "genres": [
+    "دراما",
+    "مدرسي",
+    "رياضي"
+  ],
+  "story": "حلقة خاصة تابعة لانمي Tsurune: Kazemai Koukou Kyuudoubu.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة الخاصة 1Tsurune: Kazemai Koukou Kyuudoubu - Yabai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1034188032730"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/155jbs77aKYJeE0bfrBlm1oRQVbiQBPOB/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!lTAhXKbB!dTB_jhFTkoIOij-EvF0tvw-luE5zMiykNa28hJY9vqI"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-3gxlwkxbs8nf.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=155jbs77aKYJeE0bfrBlm1oRQVbiQBPOB&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!lTAhXKbB!dTB_jhFTkoIOij-EvF0tvw-luE5zMiykNa28hJY9vqI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tfgemt0gx7pv"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/wkkRKpVpaTY/%5BAnime4up.com%5D_TKKKY_HD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/n70fji1bkxmb"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:35:14.713366"
+}

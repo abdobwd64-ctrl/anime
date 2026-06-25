@@ -1147,6 +1147,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "tsurune-kazemai-koukou-kyuudoubu-yabai",
+    "title": "انمي Tsurune: Kazemai Koukou Kyuudoubu - Yabai مترجم اون لاين",
+    "poster": "data/posters/tsurune-kazemai-koukou-kyuudoubu-yabai.webp",
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
+  },
+  {
     "id": "date-a-bullet-nightmare-or-queen",
     "title": "انمي Date A Bullet: Nightmare or Queen مترجم اون لاين",
     "poster": "data/posters/date-a-bullet-nightmare-or-queen.webp",
@@ -17994,6 +18008,19 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "tonari-no-youkai-san",
+    "title": "انمي Tonari no Youkai-san مترجم اون لاين",
+    "poster": "data/posters/tonari-no-youkai-san.webp",
+    "genres": [
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "yichang-shengwu-jianwenlu",
     "title": "انمي Yichang Shengwu Jianwenlu مترجم اون لاين",
     "poster": "data/posters/yichang-shengwu-jianwenlu.webp",
@@ -20169,6 +20196,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "mata-korosarete-shimatta-no-desu-ne-tantei-sama",
+    "title": "انمي Mata Korosarete Shimatta no desu ne, Tantei-sama مترجم اون لاين",
+    "poster": "data/posters/mata-korosarete-shimatta-no-desu-ne-tantei-sama.webp",
+    "genres": [
+      "غموض",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "gintama-movie-1-shinyaku-benizakura-hen",
