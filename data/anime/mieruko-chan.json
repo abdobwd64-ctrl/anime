@@ -450,7 +450,190 @@
           "url": "https://doodstream.com/d/23m9eq16fbz5"
         }
       ]
+    },
+    {
+      "number": "10",
+      "title": "الحلقة 10Mieruko-chan",
+      "date": "06 ديسمبر, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2818389314266"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/tHoYDqztea"
+        },
+        {
+          "name": "dood ws | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/22gxwufqalhx"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-7azylez6hemw.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xxrsf075fw7e.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/G593QAAa!X87Q1OTyJoEGja1949h2ttp7F9lETbA4L4W6YxVvEDQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/zlxkfnhxe8mp"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2818385316570"
+        },
+        {
+          "name": "dood ws | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/zustvw24hnkt"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ftt3AYAI!JI9oCzufvIz-tsQHf2FM-om2VRKCp8tdfcuZ8adBric"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/0kw8l4ivf17g"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2818392459994"
+        },
+        {
+          "name": "dood ws | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.ws/e/czy21sxet3wt"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-8vi47clkr9jd.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/KhsHXAYT!RXONn8AGwlXmtKAwrs0gMZQJscaqw7Oj5Po97HAYNaI"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/qo73ueuxo754"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/[Anime4up.com]_MC_EP_10_HD.mp4"
+        },
+        {
+          "name": "letsupload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/[Anime4up.com]_MC_EP_10_FHD.mp4"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/t04xff2yi033"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!KhsHXAYT!RXONn8AGwlXmtKAwrs0gMZQJscaqw7Oj5Po97HAYNaI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8vi47clkr9jd"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/qo73ueuxo754"
+        },
+        {
+          "server": "doodstream",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/czy21sxet3wt"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/61gkelevfz2c"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!G593QAAa!X87Q1OTyJoEGja1949h2ttp7F9lETbA4L4W6YxVvEDQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xxrsf075fw7e"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3KL7j/[Anime4up.com]_MC_EP_10_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/zlxkfnhxe8mp"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/22gxwufqalhx"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/tHoYDqztea/Anime4upcom_MC_EP_10_HD.html"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/1zqluypjf84i"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ftt3AYAI!JI9oCzufvIz-tsQHf2FM-om2VRKCp8tdfcuZ8adBric"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3KL7m/[Anime4up.com]_MC_EP_10_FHD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/0kw8l4ivf17g"
+        },
+        {
+          "server": "doodstream",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://doodstream.com/d/zustvw24hnkt"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:10:19.743445"
+  "last_updated": "2026-06-25T02:10:30.298178"
 }
