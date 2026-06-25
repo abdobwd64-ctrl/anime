@@ -5638,7 +5638,23 @@
         }
       ],
       "downloads": []
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Hokuto no Ken",
+      "date": "21 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1410998012619"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-lf2wefsehyq4.html"
+        }
+      ],
+      "downloads": []
     }
   ],
-  "last_updated": "2026-06-25T02:09:26.939091"
+  "last_updated": "2026-06-25T02:09:38.452650"
 }
