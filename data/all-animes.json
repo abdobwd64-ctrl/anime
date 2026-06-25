@@ -2093,6 +2093,19 @@
     "season": "صيف 2025"
   },
   {
+    "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou",
+    "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou مترجم اون لاين",
+    "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "chuukan-kanriroku-tonegawa",
     "title": "انمي Chuukan Kanriroku Tonegawa مترجم اون لاين",
     "poster": "data/posters/chuukan-kanriroku-tonegawa.webp",
@@ -3673,6 +3686,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "irozuku-sekai-no-ashita-kara",
+    "title": "انمي Irozuku Sekai no Ashita kara مترجم اون لاين",
+    "poster": "data/posters/irozuku-sekai-no-ashita-kara.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "سحر",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2018"
   },
   {
     "id": "chao-neng-lifang-chaofan-pian",
