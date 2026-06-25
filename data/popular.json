@@ -204,6 +204,22 @@
     "score": 153
   },
   {
+    "id": "yu-gi-oh-arc-v",
+    "title": "انمي Yu☆Gi☆Oh! Arc-V مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-arc-v.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "148",
+    "season": "ربيع 2014",
+    "score": 152
+  },
+  {
     "id": "pokemon-2019",
     "title": "انمي Pokemon (2019) مترجم اون لاين",
     "poster": "data/posters/pokemon-2019.webp",
@@ -496,23 +512,5 @@
     "episodes_count": "61",
     "season": "ربيع 2014",
     "score": 68
-  },
-  {
-    "id": "super-dragon-ball-heroes",
-    "title": "انمي Super Dragon Ball Heroes مترجم اون لاين",
-    "poster": "data/posters/super-dragon-ball-heroes.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "فنتازيا",
-      "شونين",
-      "كوميدي",
-      "فنون قتالية"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "56",
-    "season": "صيف 2018",
-    "score": 62
   }
 ]

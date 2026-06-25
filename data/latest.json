@@ -176,6 +176,14 @@
     "date_sort": "2026-06-25"
   },
   {
+    "anime_id": "heroine-seijo-iie-all-works-maid-desu-hokori",
+    "anime_title": "انمي Heroine? Seijo? Iie, All Works Maid desu (Hokori)! مترجم اون لاين",
+    "anime_poster": "data/posters/heroine-seijo-iie-all-works-maid-desu-hokori.webp",
+    "episode": "1",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25"
+  },
+  {
     "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
     "anime_title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
     "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
@@ -296,6 +304,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "diamond-no-ace-act-ii-second-season",
+    "anime_title": "انمي Diamond no Ace: Act II Second Season مترجم اون لاين",
+    "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
     "anime_id": "ghost-concert-missing-songs",
     "anime_title": "انمي Ghost Concert: Missing Songs مترجم اون لاين",
     "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
@@ -382,21 +398,5 @@
     "episode": "1167",
     "date": "21 يونيو, 2026",
     "date_sort": "2026-06-21"
-  },
-  {
-    "anime_id": "needy-girl-overdose",
-    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
-    "anime_poster": "data/posters/needy-girl-overdose.webp",
-    "episode": "12",
-    "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
-  },
-  {
-    "anime_id": "zombieland-saga-movie-yumeginga-paradise",
-    "anime_title": "انمي Zombieland Saga Movie: Yumeginga Paradise مترجم اون لاين",
-    "anime_poster": "data/posters/zombieland-saga-movie-yumeginga-paradise.webp",
-    "episode": "1",
-    "date": "20 يونيو, 2026",
-    "date_sort": "2026-06-20"
   }
 ]
