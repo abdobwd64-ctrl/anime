@@ -2404,6 +2404,22 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "bungou-stray-dogs-hitori-ayumu",
+    "title": "انمي Bungou Stray Dogs: Hitori Ayumu مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-hitori-ayumu.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2017"
+  },
+  {
     "id": "nokemono-tachi-no-yoru",
     "title": "انمي Nokemono-tachi no Yoru مترجم اون لاين",
     "poster": "data/posters/nokemono-tachi-no-yoru.webp",
@@ -7763,6 +7779,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "tsuma-shougakusei-ni-naru",
+    "title": "انمي Tsuma, Shougakusei ni Naru. مترجم اون لاين",
+    "poster": "data/posters/tsuma-shougakusei-ni-naru.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "mob-psycho-100-dai-ikkai-rei-toka-soudansho-ian-ryokou-kokoro-mitasu-iyashi-no-tabi",
