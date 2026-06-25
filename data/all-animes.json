@@ -770,6 +770,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "grendizer-u",
+    "title": "انمي Grendizer U مترجم اون لاين",
+    "poster": "data/posters/grendizer-u.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "overlord",
     "title": "انمي Overlord مترجم اون لاين",
     "poster": "data/posters/overlord.webp",
@@ -1398,6 +1411,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2018"
+  },
+  {
+    "id": "plunderer",
+    "title": "انمي Plunderer مترجم اون لاين",
+    "poster": "data/posters/plunderer.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "شتاء 2020"
   },
   {
     "id": "quanzhi-gaoshou-2",
@@ -2066,6 +2094,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2022"
+  },
+  {
+    "id": "garouden-the-way-of-the-lone-wolf",
+    "title": "انمي Garouden: The Way of the Lone Wolf مترجم اون لاين",
+    "poster": "data/posters/garouden-the-way-of-the-lone-wolf.webp",
+    "genres": [
+      "أكشن",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "ربيع 2024"
   },
   {
     "id": "isekai-suicide-squad",
@@ -5951,6 +5992,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "re-monster",
+    "title": "انمي Re:Monster مترجم اون لاين",
+    "poster": "data/posters/re-monster.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
   },
   {
     "id": "touhai-ura-rate-mahjong-touhai-roku",

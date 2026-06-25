@@ -414,6 +414,22 @@
     "score": 27
   },
   {
+    "id": "plunderer",
+    "title": "انمي Plunderer مترجم اون لاين",
+    "poster": "data/posters/plunderer.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "شتاء 2020",
+    "score": 27
+  },
+  {
     "id": "monogatari-series-second-season",
     "title": "انمي Monogatari Series: Second Season مترجم اون لاين",
     "poster": "data/posters/monogatari-series-second-season.webp",
@@ -469,20 +485,6 @@
     "type": "أونا",
     "episodes_count": "24",
     "season": "ربيع 2025",
-    "score": 26
-  },
-  {
-    "id": "blue-lock",
-    "title": "انمي Blue Lock مترجم اون لاين",
-    "poster": "data/posters/blue-lock.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2022",
     "score": 26
   }
 ]
