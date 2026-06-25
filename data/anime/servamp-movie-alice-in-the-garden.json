@@ -1,0 +1,128 @@
+{
+  "id": "servamp-movie-alice-in-the-garden",
+  "title": "انمي Servamp Movie: Alice in the Garden مترجم اون لاين",
+  "url": "https://animelek.top/anime/servamp-movie-alice-in-the-garden/",
+  "poster": "data/posters/servamp-movie-alice-in-the-garden.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "ربيع 2018",
+  "genres": [
+    "أكشن",
+    "دراما",
+    "كوميدي",
+    "قوى خارقة",
+    "مصاصي دماء",
+    "جوسي"
+  ],
+  "story": "فيلم يحكي قصة ميزونو الماضية.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Servamp Movie: Alice in the Garden",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1bN908daY49ivMuHC34H8tuGVHVHbUP2_/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/Pk1ougeQfi"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!rroHBAzR!JkJjOBKjvvHIxDu7LhUmz0MSm6jWSygrWlNU8xfjjIA"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/syqjmmbeb5sf"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1202453547738"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1R67JLk4d8Cnua1kejZl6UncU5YQPKvNB/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1R67JLk4d8Cnua1kejZl6UncU5YQPKvNB&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!TmowxaoY!XKx-YCCj6jX9UUz5hql6JO9g3kMOY4GvFp_-kIyeEFY"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8jxkwacbyeqr"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/dh-muP-RpCk/%5BAnime4up.com%5D_SMAITG_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/wtuh97p1l0s9"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/vta2dhvdmmkw"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1bN908daY49ivMuHC34H8tuGVHVHbUP2_&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!rroHBAzR!JkJjOBKjvvHIxDu7LhUmz0MSm6jWSygrWlNU8xfjjIA"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/jjbv5HkvuVc/%5BAnime4up.com%5D_SMAITG_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/syqjmmbeb5sf"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/n7walz8wf71r"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/Pk1ougeQfi/Anime4upcom_SMAITG_HD.html"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:09:57.829195"
+}

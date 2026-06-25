@@ -11632,6 +11632,20 @@
     "season": "صيف 2021"
   },
   {
+    "id": "dragon-s-dogma",
+    "title": "انمي Dragon's Dogma مترجم اون لاين",
+    "poster": "data/posters/dragon-s-dogma.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "7",
+    "season": "صيف 2020"
+  },
+  {
     "id": "layton-mystery-tanteisha-katri-no-nazotoki-file",
     "title": "انمي Layton Mystery Tanteisha: Katri no Nazotoki File مترجم اون لاين",
     "poster": "data/posters/layton-mystery-tanteisha-katri-no-nazotoki-file.webp",
@@ -15195,6 +15209,23 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "صيف 2024"
+  },
+  {
+    "id": "servamp-movie-alice-in-the-garden",
+    "title": "انمي Servamp Movie: Alice in the Garden مترجم اون لاين",
+    "poster": "data/posters/servamp-movie-alice-in-the-garden.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "كوميدي",
+      "قوى خارقة",
+      "مصاصي دماء",
+      "جوسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2018"
   },
   {
     "id": "rurouni-kenshin-meiji-kenkaku-romantan-kyoto-douran",
