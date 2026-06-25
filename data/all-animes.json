@@ -3472,6 +3472,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "sanda",
+    "title": "انمي Sanda مترجم اون لاين",
+    "poster": "data/posters/sanda.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "شونين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "mahouka-koukou-no-rettousei-raihousha-hen",
     "title": "انمي Mahouka Koukou no Rettousei: Raihousha-hen مترجم اون لاين",
     "poster": "data/posters/mahouka-koukou-no-rettousei-raihousha-hen.webp",
@@ -5061,6 +5076,16 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2024"
+  },
+  {
+    "id": "tokyo-24-ku",
+    "title": "انمي Tokyo 24-ku مترجم اون لاين",
+    "poster": "data/posters/tokyo-24-ku.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "shachiku-san-wa-youjo-yuurei-ni-iyasaretai",
