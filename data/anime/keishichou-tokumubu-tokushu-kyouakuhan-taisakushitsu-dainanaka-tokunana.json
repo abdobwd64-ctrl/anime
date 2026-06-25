@@ -977,7 +977,529 @@
           "url": "https://www.4shared.com/video/aDsfPQQNiq/Anime4upcom_KTTKTDT_EP_05_HD.html"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1259292658394"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1CBKszUN6vw2dWXvUk4sFPN3KnNJNMGdm/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/M2qK2w2VPndyM"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!hoJwzSAI!aOTCYEvgYiw6UQp25Ar79m5jXEH1dL2ePZD6ZVGdqcQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/mlbws5kdj9e4"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1259299343066"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1LXVstV2HT12U4kbJDgCMfmkbTZYTQC9q/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1LXVstV2HT12U4kbJDgCMfmkbTZYTQC9q&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!J5QWyIyY!ukUrLNqVXmgcTWZLZEZUElBjki2oRG7VSJMaiU3_dDE"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/sxwxz6yjopc5"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/mFg2Y-k490k/%5BAnime4up.com%5D_KTTKTDT_EP_04_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/1v47cjeq8g9y"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/il2s6cy2ye2x"
+        },
+        {
+          "server": "streamango",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://streamango.com/f/eldqaacoklnqlcac/_Anime4up_com_KTTKTDT_EP_04_SD_mp4"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1CBKszUN6vw2dWXvUk4sFPN3KnNJNMGdm&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!hoJwzSAI!aOTCYEvgYiw6UQp25Ar79m5jXEH1dL2ePZD6ZVGdqcQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/q04127gnnnhb"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/j0Cz0Rk0TiE/%5BAnime4up.com%5D_KTTKTDT_EP_04_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/mlbws5kdj9e4"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/1znhmslppgix"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/M2qK2w2VPndyM"
+        },
+        {
+          "server": "streamango",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://streamango.com/f/etqoafdolnrmlree/_Anime4up_com_KTTKTDT_EP_04_HD_mp4"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1253211900634"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1rn_zOJrMvDaiyJdey-b-N7J3odFzmh6_/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/QjIxG8Ggea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Yw4V1IBJ!EGOiIA50rqZgoOWoHn0kKr-2EAcuLe3e9gKJrxiQaJc"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/wzffari72waz"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1253220092634"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1nMDTqrvQtJGHR2dlOj2TEr_J8du-7Xjh/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1nMDTqrvQtJGHR2dlOj2TEr_J8du-7Xjh&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!R1QnFYTC!cn5basCHHrVRB6XS-fIPpEp9UCuVwzK-O7WtNm7zkRg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0aiwca5ffhhf"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/-13pkmoB4hM/%5BAnime4up.com%5D_KTTKTDT_EP_03_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/pacumanl16nu"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/9kqwvlw4y8yw"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1rn_zOJrMvDaiyJdey-b-N7J3odFzmh6_&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Yw4V1IBJ!EGOiIA50rqZgoOWoHn0kKr-2EAcuLe3e9gKJrxiQaJc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/6s3io311toy5"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/aiAu6RZTWxU/%5BAnime4up.com%5D_KTTKTDT_EP_03_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/wzffari72waz"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/nyoi571sz9w4"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/QjIxG8Ggea/Anime4upcom_KTTKTDT_EP_03_HD.html"
+        },
+        {
+          "server": "streamango",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://streamango.com/f/ennesldrpkprmpfk/_Anime4up_com_KTTKTDT_EP_03_HD_mp4"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1247653071578"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1N5DtxynFz692q-1BkZEwTQVAL-YrUXPj/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/EwYCRFm6ea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!4k5nCIjL!i1_zeYxNhNu_X6raqIZ8MFvJWK1ouFHmnLKWFyzjjFI"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/owlu1ar0x374"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1247665588954"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1XLMDlUVp9EjrVigVXPN1glG2_lNn3Cy4/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1XLMDlUVp9EjrVigVXPN1glG2_lNn3Cy4&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!F8IxEYIY!3JBeyWCt8la6odbBgptN0qTCjNedxDELiSQwkTKy0u0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/5f72q6rloutc"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/TgJpwFGge-U/%5BAnime4up.com%5D_KTTKTDT_EP_02_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/xwvecq6jd8yk"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/rz74u0wc20ge"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1N5DtxynFz692q-1BkZEwTQVAL-YrUXPj&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4k5nCIjL!i1_zeYxNhNu_X6raqIZ8MFvJWK1ouFHmnLKWFyzjjFI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m9ua6azlmgp0"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/9GM7VHb9LJM/%5BAnime4up.com%5D_KTTKTDT_EP_02_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/owlu1ar0x374"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/91vatmondryz"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/EwYCRFm6ea/Anime4upcom_KTTKTDT_EP_02_HD.html"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1242843450074"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1C3mgm6F3hg7vml2UMcT7VJGlF1WROhDB/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/r6Pzk4Ndg5Aky"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!EkpzAYAa!uCKkZ5PyfWxUR2dNvfGwKaMVN6FteBQfDL9rK0N07BQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/j36idw35zgaf"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1243060243162"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1BKa6m_iOUeDH13N2pHZ3mvudi1fQpIse/preview"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1242852821722"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1tpQTUmypEiQL-JbMiy7uNmnQ8UxKpa9w/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1tpQTUmypEiQL-JbMiy7uNmnQ8UxKpa9w&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!1kpAHK4a!KflepQH35gJREgJximLgl8EgPbeLNm4E7HZ0i4dLj6k"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xmqoz8moyek1"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/IsOpVOk8mqw/%5BAnime4up.com%5D_KRRKTDT_EP_01_SD_V2.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/fe8eh9n5yjmd"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/vw5nfq25p6tm"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1C3mgm6F3hg7vml2UMcT7VJGlF1WROhDB&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!EkpzAYAa!uCKkZ5PyfWxUR2dNvfGwKaMVN6FteBQfDL9rK0N07BQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/744labfwa2zg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/ss782INlt7I/%5BAnime4up.com%5D_KRRKTDT_EP_01_HD_V2.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/j36idw35zgaf"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/fmih1n2z4r5v"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/r6Pzk4Ndg5Aky"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1BKa6m_iOUeDH13N2pHZ3mvudi1fQpIse&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Y9RCVapB!1KPIJdxAI-QrXiPYlK2C6DUDwE5WJTgnW11ptixy2j0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/uk0gbur59gzz"
+        },
+        {
+          "server": "openload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/HnCyKwVY-Ns/%5BAnime4up.com%5D_KRRKTDT_EP_01_FHD_V2.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/5nq6rt8sg57z"
+        },
+        {
+          "server": "file-up",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/q365gmpnwsu9"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:23:38.999803"
+  "last_updated": "2026-06-25T03:26:15.219185"
 }

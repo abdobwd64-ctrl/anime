@@ -170,6 +170,22 @@
     "score": 104
   },
   {
+    "id": "dragon-quest-dai-no-daibouken-2020",
+    "title": "انمي Dragon Quest: Dai no Daibouken (2020) مترجم اون لاين",
+    "poster": "data/posters/dragon-quest-dai-no-daibouken-2020.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020",
+    "score": 104
+  },
+  {
     "id": "gegege-no-kitarou-2018",
     "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
     "poster": "data/posters/gegege-no-kitarou-2018.webp",
@@ -480,26 +496,6 @@
     "type": "تلفزيون",
     "episodes_count": "29",
     "season": "خريف 1991",
-    "score": 32
-  },
-  {
-    "id": "hanyou-no-yashahime-sengoku-otogizoushi",
-    "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
-    "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "سحر",
-      "قوى خارقة",
-      "شياطين",
-      "تاريخي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2020",
     "score": 32
   }
 ]
