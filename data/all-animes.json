@@ -72,6 +72,18 @@
     "season": "خريف 2019"
   },
   {
+    "id": "uruwashi-no-yoi-no-tsuki",
+    "title": "انمي Uruwashi no Yoi no Tsuki مترجم اون لاين",
+    "poster": "data/posters/uruwashi-no-yoi-no-tsuki.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "meitantei-conan-hannin-no-hanzawa-san",
     "title": "انمي Meitantei Conan: Hannin no Hanzawa-san مترجم اون لاين",
     "poster": "data/posters/meitantei-conan-hannin-no-hanzawa-san.webp",
@@ -134,6 +146,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "bartender-kami-no-glass",
+    "title": "انمي Bartender: Kami no Glass مترجم اون لاين",
+    "poster": "https://animelek.top/uploads/posters/Bartender-Kami-no-Glass-poster.jpg\r\n?1.0.38",
+    "genres": [
+      "فنتازيا",
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
   },
   {
     "id": "kaya-chan-wa-kowakunai",
@@ -324,6 +350,35 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "yu-gi-oh-duel-monsters-gx",
+    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "180",
+    "season": "خريف 2004"
+  },
+  {
+    "id": "hotel-inhumans",
+    "title": "انمي Hotel Inhumans مترجم اون لاين",
+    "poster": "data/posters/hotel-inhumans.webp",
+    "genres": [
+      "أكشن",
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2025"
   },
   {
     "id": "mayonaka-punch",
@@ -699,6 +754,22 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "خريف 2007"
+  },
+  {
+    "id": "horimiya",
+    "title": "انمي Horimiya مترجم اون لاين",
+    "poster": "data/posters/horimiya.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "mizu-zokusei-no-mahoutsukai",
@@ -2122,6 +2193,19 @@
     "season": "صيف 2024"
   },
   {
+    "id": "terminator-0",
+    "title": "انمي Terminator 0 مترجم اون لاين",
+    "poster": "data/posters/terminator-0.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "صيف 2024"
+  },
+  {
     "id": "heya-camp",
     "title": "انمي Heya Camp مترجم اون لاين",
     "poster": "data/posters/heya-camp.webp",
@@ -2840,6 +2924,19 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "getsuyoubi-no-tawawa-2",
+    "title": "انمي Getsuyoubi no Tawawa 2 مترجم اون لاين",
+    "poster": "data/posters/getsuyoubi-no-tawawa-2.webp",
+    "genres": [
+      "إيتشي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2021"
+  },
+  {
     "id": "hikari-no-ou",
     "title": "انمي Hikari no Ou مترجم اون لاين",
     "poster": "data/posters/hikari-no-ou.webp",
@@ -2864,6 +2961,23 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2023"
+  },
+  {
+    "id": "kujira-no-kora-wa-sajou-ni-manabu",
+    "title": "انمي Kujira no Kora wa Sajou ni Manabu! مترجم اون لاين",
+    "poster": "data/posters/kujira-no-kora-wa-sajou-ni-manabu.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "فنتازيا",
+      "كوميدي",
+      "مدرسي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "2",
+    "season": "خريف 2018"
   },
   {
     "id": "majutsushi-orphen-hagure-tabi-seiiki-hen",
@@ -3518,6 +3632,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 1994"
+  },
+  {
+    "id": "overlord-movie-3-sei-oukoku-hen",
+    "title": "انمي Overlord Movie 3: Sei Oukoku-hen مترجم اون لاين",
+    "poster": "data/posters/overlord-movie-3-sei-oukoku-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2024"
   },
   {
     "id": "kujima-utaeba-ie-hororo",
@@ -4789,6 +4917,19 @@
     "status": "مكتمل",
     "type": "أونا",
     "episodes_count": "9",
+    "season": "صيف 2019"
+  },
+  {
+    "id": "kengan-ashura",
+    "title": "انمي Kengan Ashura مترجم اون لاين",
+    "poster": "data/posters/kengan-ashura.webp",
+    "genres": [
+      "أكشن",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
     "season": "صيف 2019"
   },
   {
@@ -6203,6 +6344,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2013"
+  },
+  {
+    "id": "gundam-build-divers-re-rise",
+    "title": "انمي Gundam Build Divers Re:Rise مترجم اون لاين",
+    "poster": "data/posters/gundam-build-divers-re-rise.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "خريف 2019"
   },
   {
     "id": "high-school-dxd-born",

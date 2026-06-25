@@ -19,6 +19,23 @@
     "score": 979
   },
   {
+    "id": "yu-gi-oh-duel-monsters-gx",
+    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "180",
+    "season": "خريف 2004",
+    "score": 181
+  },
+  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
@@ -472,19 +489,5 @@
     "episodes_count": "24",
     "season": "شتاء 2023",
     "score": 27
-  },
-  {
-    "id": "tu-bian-yingxiong-x",
-    "title": "انمي Tu Bian Yingxiong X مترجم اون لاين",
-    "poster": "data/posters/tu-bian-yingxiong-x.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "ربيع 2025",
-    "score": 26
   }
 ]
