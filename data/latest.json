@@ -176,6 +176,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "digimon-beatbreak",
+    "anime_title": "انمي Digimon Beatbreak مترجم اون لاين",
+    "anime_poster": "data/posters/digimon-beatbreak.webp",
+    "episode": "36",
+    "date": "22 يونيو, 2026",
+    "date_sort": "2026-06-22"
+  },
+  {
     "anime_id": "tongari-boushi-no-atelier",
     "anime_title": "انمي Tongari Boushi no Atelier مترجم اون لاين",
     "anime_poster": "data/posters/tongari-boushi-no-atelier.webp",
@@ -387,14 +395,6 @@
     "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
     "anime_title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
     "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
-    "episode": "11",
-    "date": "16 يونيو, 2026",
-    "date_sort": "2026-06-16"
-  },
-  {
-    "anime_id": "replica-datte-koi-wo-suru",
-    "anime_title": "انمي Replica datte, Koi wo Suru. مترجم اون لاين",
-    "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
     "episode": "11",
     "date": "16 يونيو, 2026",
     "date_sort": "2026-06-16"

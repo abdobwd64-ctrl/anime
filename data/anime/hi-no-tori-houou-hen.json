@@ -1,0 +1,75 @@
+{
+  "id": "hi-no-tori-houou-hen",
+  "title": "انمي Hi no Tori: Houou-hen مترجم اون لاين",
+  "url": "https://animelek.top/anime/hi-no-tori-houou-hen/",
+  "poster": "data/posters/hi-no-tori-houou-hen.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "1986",
+  "season": "خريف 1986",
+  "genres": [
+    "دراما",
+    "فنتازيا",
+    "تاريخي"
+  ],
+  "story": "火の鳥　鳳凰編",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Hi no Tori: Houou-hen",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/986083363546"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1HA2EQMFx3k1Jje7-nOqXCgbgt1_ujRFo/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!euZFlSjQ!Mng5jlRsntLOO9E9Sr2cVF8Mji8cDqRocmJA90Bqs-Q"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-9wby9mnh3ir6.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1HA2EQMFx3k1Jje7-nOqXCgbgt1_ujRFo&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!euZFlSjQ!Mng5jlRsntLOO9E9Sr2cVF8Mji8cDqRocmJA90Bqs-Q"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/712fb30076a96dea"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/uebkcotvzjdl"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/DArcgtPa3eE/%5BAnime4up.com%5D_HNTHH_HD.mp4"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:03:55.450547"
+}
