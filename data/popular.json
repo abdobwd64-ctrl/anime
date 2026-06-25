@@ -85,6 +85,41 @@
     "score": 104
   },
   {
+    "id": "dragon-ball-kai",
+    "title": "انمي Dragon Ball Kai مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-kai.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "97",
+    "season": "ربيع 2009",
+    "score": 104
+  },
+  {
+    "id": "gegege-no-kitarou-2018",
+    "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
+    "poster": "data/posters/gegege-no-kitarou-2018.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "97",
+    "season": "ربيع 2018",
+    "score": 101
+  },
+  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -448,34 +483,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2022",
-    "score": 26
-  },
-  {
-    "id": "the-fable",
-    "title": "انمي The Fable مترجم اون لاين",
-    "poster": "data/posters/the-fable.webp",
-    "genres": [
-      "كوميدي",
-      "سينين"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2024",
-    "score": 26
-  },
-  {
-    "id": "platinum-end",
-    "title": "انمي Platinum End مترجم اون لاين",
-    "poster": "data/posters/platinum-end.webp",
-    "genres": [
-      "دراما",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2021",
     "score": 26
   }
 ]
