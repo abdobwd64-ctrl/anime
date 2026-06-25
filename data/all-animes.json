@@ -1513,6 +1513,18 @@
     "season": "خريف 2022"
   },
   {
+    "id": "detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train",
+    "title": "انمي Detective Conan: Haibara Ai Monogatari - Kurogane no Mystery Train مترجم اون لاين",
+    "poster": "data/posters/detective-conan-haibara-ai-monogatari-kurogane-no-mystery-train.webp",
+    "genres": [
+      "غموض"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "uma-musume-pretty-derby-season-3",
     "title": "انمي Uma Musume: Pretty Derby Season 3 مترجم اون لاين",
     "poster": "data/posters/uma-musume-pretty-derby-season-3.webp",
@@ -2019,6 +2031,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2024"
+  },
+  {
+    "id": "nyaight-of-the-living-cat",
+    "title": "انمي Nyaight of the Living Cat مترجم اون لاين",
+    "poster": "data/posters/nyaight-of-the-living-cat.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "رعب",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "the-idolm-ster-shiny-colors-2nd-season",
@@ -5805,6 +5832,22 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "nobunaga-sensei-no-osanazuma",
+    "title": "انمي Nobunaga-sensei no Osanazuma مترجم اون لاين",
+    "poster": "data/posters/nobunaga-sensei-no-osanazuma.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "mushikago-no-cagaster",
     "title": "انمي Mushikago no Cagaster مترجم اون لاين",
     "poster": "data/posters/mushikago-no-cagaster.webp",
@@ -7555,6 +7598,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "boku-no-hero-academia-ona",
+    "title": "انمي Boku no Hero Academia (ONA) مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-ona.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "2",
+    "season": "شتاء 2021"
   },
   {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
@@ -10314,6 +10369,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "sword-art-online-alternative-gun-gale-online-ii",
+    "title": "انمي Sword Art Online Alternative: Gun Gale Online II مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alternative-gun-gale-online-ii.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "العاب",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "yuusha-no-kuzu",
     "title": "انمي Yuusha no Kuzu مترجم اون لاين",
     "poster": "data/posters/yuusha-no-kuzu.webp",
@@ -12480,6 +12550,21 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "tantei-wa-mou-shindeiru",
+    "title": "انمي Tantei wa Mou, Shindeiru. مترجم اون لاين",
+    "poster": "data/posters/tantei-wa-mou-shindeiru.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021"
+  },
+  {
     "id": "ooi-tonbo",
     "title": "انمي Ooi! Tonbo مترجم اون لاين",
     "poster": "data/posters/ooi-tonbo.webp",
@@ -14289,6 +14374,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2019"
+  },
+  {
+    "id": "suki-na-ko-ga-megane-wo-wasureta",
+    "title": "انمي Suki na Ko ga Megane wo Wasureta مترجم اون لاين",
+    "poster": "data/posters/suki-na-ko-ga-megane-wo-wasureta.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
   },
   {
     "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
