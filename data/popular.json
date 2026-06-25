@@ -221,21 +221,6 @@
     "score": 48
   },
   {
-    "id": "great-teacher-onizuka",
-    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
-    "poster": "data/posters/great-teacher-onizuka.webp",
-    "genres": [
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "43",
-    "season": "صيف 1999",
-    "score": 46
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -252,6 +237,21 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
+    "score": 47
+  },
+  {
+    "id": "great-teacher-onizuka",
+    "title": "انمي Great Teacher Onizuka مترجم اون لاين",
+    "poster": "data/posters/great-teacher-onizuka.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "43",
+    "season": "صيف 1999",
     "score": 46
   },
   {
