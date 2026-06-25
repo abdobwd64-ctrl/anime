@@ -1,5 +1,13 @@
 [
   {
+    "anime_id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+    "anime_title": "انمي Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 مترجم اون لاين",
+    "anime_poster": "data/posters/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2.webp",
+    "episode": "12",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25"
+  },
+  {
     "anime_id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
     "anime_title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki مترجم اون لاين",
     "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Monogatari Series: Second Season مترجم اون لاين",
     "anime_poster": "data/posters/monogatari-series-second-season.webp",
     "episode": "22",
-    "date": "20 يونيو, 2026",
-    "date_sort": "2026-06-20"
-  },
-  {
-    "anime_id": "kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu",
-    "anime_title": "انمي Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu مترجم اون لاين",
-    "anime_poster": "data/posters/kobayashi-san-chi-no-maid-dragon-samishigariya-no-ryuu.webp",
-    "episode": "1",
     "date": "20 يونيو, 2026",
     "date_sort": "2026-06-20"
   }

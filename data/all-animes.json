@@ -920,6 +920,18 @@
     "season": "خريف 2024"
   },
   {
+    "id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+    "title": "انمي Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 مترجم اون لاين",
+    "poster": "data/posters/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "yuusha-ga-shinda",
     "title": "انمي Yuusha ga Shinda! مترجم اون لاين",
     "poster": "data/posters/yuusha-ga-shinda.webp",
@@ -3757,6 +3769,18 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "صيف 2023"
+  },
+  {
+    "id": "rwby-hyousetsu-teikoku",
+    "title": "انمي RWBY: Hyousetsu Teikoku مترجم اون لاين",
+    "poster": "data/posters/rwby-hyousetsu-teikoku.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku",
@@ -8978,6 +9002,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "trillion-game",
+    "title": "انمي Trillion Game مترجم اون لاين",
+    "poster": "data/posters/trillion-game.webp",
+    "genres": [
+      "دراما",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2024"
+  },
+  {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
     "title": "انمي Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen مترجم اون لاين",
     "poster": "data/posters/kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen.webp",
@@ -13571,6 +13608,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
+    "title": "انمي Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. مترجم اون لاين",
+    "poster": "data/posters/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "amagami-san-chi-no-enmusubi",
