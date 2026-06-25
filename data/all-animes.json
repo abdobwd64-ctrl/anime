@@ -1100,6 +1100,19 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "hyakuemu",
+    "title": "انمي Hyakuemu. مترجم اون لاين",
+    "poster": "data/posters/hyakuemu.webp",
+    "genres": [
+      "دراما",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2025"
+  },
+  {
     "id": "city-the-animation",
     "title": "انمي City The Animation مترجم اون لاين",
     "poster": "data/posters/city-the-animation.webp",
@@ -4219,6 +4232,19 @@
     "season": "صيف 2021"
   },
   {
+    "id": "koori-no-jouheki",
+    "title": "انمي Koori no Jouheki مترجم اون لاين",
+    "poster": "data/posters/koori-no-jouheki.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "gintama-season-4",
     "title": "انمي Gintama season 4 مترجم اون لاين",
     "poster": "https://animelek.top/uploads/posters/poster-Gintama--676807b304407.jpg?1.0.38",
@@ -6397,6 +6423,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2019"
+  },
+  {
+    "id": "megami-no-caf-terrace",
+    "title": "انمي Megami no Café Terrace مترجم اون لاين",
+    "poster": "data/posters/megami-no-caf-terrace.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
   },
   {
     "id": "wonder-egg-priority-special",
@@ -13433,6 +13473,21 @@
     "season": "خريف 2014"
   },
   {
+    "id": "kami-tachi-ni-hirowareta-otoko",
+    "title": "انمي Kami-tachi ni Hirowareta Otoko مترجم اون لاين",
+    "poster": "data/posters/kami-tachi-ni-hirowareta-otoko.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "سحر",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2020"
+  },
+  {
     "id": "drifters-the-outlandish-knight",
     "title": "انمي Drifters: The Outlandish Knight مترجم اون لاين",
     "poster": "data/posters/drifters-the-outlandish-knight.webp",
@@ -14943,6 +14998,19 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "wind-breaker",
+    "title": "انمي Wind Breaker مترجم اون لاين",
+    "poster": "data/posters/wind-breaker.webp",
+    "genres": [
+      "أكشن",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "shikizakura",
     "title": "انمي Shikizakura مترجم اون لاين",
     "poster": "data/posters/shikizakura.webp",
@@ -15684,6 +15752,20 @@
     "season": "ربيع 2015"
   },
   {
+    "id": "boku-no-hero-academia-2nd-season-hero-note",
+    "title": "انمي Boku no Hero Academia 2nd Season: Hero Note مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-2nd-season-hero-note.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2017"
+  },
+  {
     "id": "boku-no-hero-academia-memories",
     "title": "انمي Boku no Hero Academia: Memories مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-memories.webp",
@@ -15752,6 +15834,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2024"
+  },
+  {
+    "id": "mini-toji",
+    "title": "انمي Mini Toji مترجم اون لاين",
+    "poster": "data/posters/mini-toji.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "خريف 2019"
   },
   {
     "id": "princess-connect-re-dive-season-2",
@@ -17727,6 +17823,21 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "timing-movie",
+    "title": "انمي Timing (Movie) مترجم اون لاين",
+    "poster": "data/posters/timing-movie.webp",
+    "genres": [
+      "غموض",
+      "خارق للعادة",
+      "مدرسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2014"
+  },
+  {
     "id": "kakegurui-twin",
     "title": "انمي Kakegurui Twin مترجم اون لاين",
     "poster": "data/posters/kakegurui-twin.webp",
@@ -18226,6 +18337,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
+    "title": "انمي Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru مترجم اون لاين",
+    "poster": "data/posters/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "nihon-chinbotsu-2020",
@@ -24495,6 +24619,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "meiji-tokyo-renka",
+    "title": "انمي Meiji Tokyo Renka مترجم اون لاين",
+    "poster": "data/posters/meiji-tokyo-renka.webp",
+    "genres": [
+      "رومانسي",
+      "قوى خارقة",
+      "تاريخي",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "dandadan",
