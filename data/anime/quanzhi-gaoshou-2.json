@@ -803,7 +803,799 @@
           "url": "https://uptobox.com/dr0rrllyw7a1"
         }
       ]
+    },
+    {
+      "number": "6",
+      "title": "الأونا 6Quanzhi Gaoshou 2",
+      "date": "02 نوفمبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1751101672154"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1t3UOK6_8LCVkYn076UmfSlO2X1y-yhF_/preview"
+        },
+        {
+          "name": "dood to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/1ghl289lrggvl8fac0kjtx7bdd0l77xs"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-d7ozwnqmcgk7.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-4kojgfa83pe6.html"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-vv59qjo3eqlv.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/cWwGjDyA#BezfZv9X3VNey1T4OrTWvebhDlUR9Ys-uHQITs0vkNc"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/t6p56pc2u1zl"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1751131097818"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1nOmomGP46X9rBE1eO7tYWUntoPdHwR_l/preview"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-m7v9h0ei9qsa.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0XABmAqZ#OqoeH8h_My79s8bL1jLHBSqvyCMZNJUoIKdnEOP9d0c"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1751115434714"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1moTOJ23_iopWltsBX_G_UMd0BfCJsMGp/preview"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-8ylncmhgflo1.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/MCxUVL6J#wmy2-UQ6Lc9w7VHOo2jh8VKWNwSX9oUdDeVH5IkITsg"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/4uvhmc0o55q5"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/58jcbjao6wjy"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1moTOJ23_iopWltsBX_G_UMd0BfCJsMGp&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/MCxUVL6J#wmy2-UQ6Lc9w7VHOo2jh8VKWNwSX9oUdDeVH5IkITsg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/8ylncmhgflo1"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3sfah"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/4uvhmc0o55q5"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/48cuj5e7lf5f"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1t3UOK6_8LCVkYn076UmfSlO2X1y-yhF_&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/cWwGjDyA#BezfZv9X3VNey1T4OrTWvebhDlUR9Ys-uHQITs0vkNc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4kojgfa83pe6"
+        },
+        {
+          "server": "dood",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/5pud087jqhuw"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/26kfo"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/R4RpaMAP7A7Bw"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/t6p56pc2u1zl"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/7iia1wncqg69"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1nOmomGP46X9rBE1eO7tYWUntoPdHwR_l&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/0XABmAqZ#OqoeH8h_My79s8bL1jLHBSqvyCMZNJUoIKdnEOP9d0c"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m7v9h0ei9qsa"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/3sfaD"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/nzmh4cz981ut"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "title": "الأونا 5Quanzhi Gaoshou 2",
+      "date": "24 أكتوبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1732798450394"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1leEF0s1Bc1-iDAue5l23M9u1Xu33-Lzj/preview"
+        },
+        {
+          "name": "dood to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/w3kb9ij2nnu5zkjcfwnri28k144yir1o"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-4e9rhocnztlc.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-qi03ypca07st.html"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-hjy25lpxyg11.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/hhkkhArQ#HxKGnLPAAjgw0mJLuy0Reo3X0bhBzoMwd4lu2tgTO_c"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/i5ozdglj136z"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1732807494362"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1g4OcX4oIbA2YuoZcWv-E0D8LcGp_661Y/preview"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-azuaiofnnvl1.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/1p8g3B5J#dWaXkKkXy89d3KGe21AmM_sgV0tme3d-WfgfWKIXZlg"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1732804545242"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1QgzP94I05lNtvQ05TflXllFnOMmklnHx/preview"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-d51qjrjnbyuu.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/pp8EmL4D#8kHLw-lDqMcnOypR0VkSa3SF7XbQJerxf85fDUTu8eI"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/aaj4i4lkiupz"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/uub0789llms6"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1QgzP94I05lNtvQ05TflXllFnOMmklnHx&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/pp8EmL4D#8kHLw-lDqMcnOypR0VkSa3SF7XbQJerxf85fDUTu8eI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/d51qjrjnbyuu"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/1qe3o"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/aaj4i4lkiupz"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/r4kmymlp8b6s"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1leEF0s1Bc1-iDAue5l23M9u1Xu33-Lzj&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/hhkkhArQ#HxKGnLPAAjgw0mJLuy0Reo3X0bhBzoMwd4lu2tgTO_c"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qi03ypca07st"
+        },
+        {
+          "server": "dood",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/p51tqsj0crat"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/1qe3h"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/i5ozdglj136z"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/x0edms46orie"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1g4OcX4oIbA2YuoZcWv-E0D8LcGp_661Y&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/1p8g3B5J#dWaXkKkXy89d3KGe21AmM_sgV0tme3d-WfgfWKIXZlg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/azuaiofnnvl1"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/1qe3r"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/jb702ap7fqrv"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "title": "الأونا 4Quanzhi Gaoshou 2",
+      "date": "15 أكتوبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1717244463834"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1aR0qKpYcPg8-rdpCwROrmt1mIfMsW38O/preview"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-59qr7cwquz5k.html"
+        },
+        {
+          "name": "dood to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/6rqu53axetndm8n6pi6vlwj3rz1ofu3m"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-ufk494lsf8z3.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/UkoxzCyA#INZ7yg5SLO-rRYLnX__pSrgT5V8lR_qzGTBm010tVgw"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ryf18m14s7g8"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ul8pdlscnib0.html"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1717232929498"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1NVA7y_IIB9F77BUnLttlfjfqB4E2vYxs/preview"
+        },
+        {
+          "name": "dood to | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/735w6d0j2q10yx19n6l49fhgr2birqt9"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/01phFSoL#gwfQ0v5Fd0JmMTztl6WBZEqAhUaLE5FkrnbrswUZB6I"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ue6xw8bs20w1.html"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1717257243354"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1L9qPD28EJB1RvHh3mFgwVyuvXzwgPar-/preview"
+        },
+        {
+          "name": "dood to | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/v0iuu5q0ayfbdqaiqkjitiu8pgmo592g"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ZxxBHSBZ#s01D1YYntjqFEvDSvkHSf-BB4t4shctqZtvcajNkkTU"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-e3kqy74thblr.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/j33iycoq9r2k"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1L9qPD28EJB1RvHh3mFgwVyuvXzwgPar-&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/ZxxBHSBZ#s01D1YYntjqFEvDSvkHSf-BB4t4shctqZtvcajNkkTU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/e3kqy74thblr"
+        },
+        {
+          "server": "dood",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/bx398mmm9kig"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/8lob"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/12ja7gt4w8vg"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1aR0qKpYcPg8-rdpCwROrmt1mIfMsW38O&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/UkoxzCyA#INZ7yg5SLO-rRYLnX__pSrgT5V8lR_qzGTBm010tVgw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ul8pdlscnib0"
+        },
+        {
+          "server": "dood",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/a14zlrzzlam1"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/cxwT"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/BRZnrmjkRjgNg"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/ryf18m14s7g8"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/3guy7xx2ry9v"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1NVA7y_IIB9F77BUnLttlfjfqB4E2vYxs&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/01phFSoL#gwfQ0v5Fd0JmMTztl6WBZEqAhUaLE5FkrnbrswUZB6I"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ue6xw8bs20w1"
+        },
+        {
+          "server": "dood",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/k3nypl6sgedd"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/cxwD"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/kbljp1fhac4o"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "title": "الأونا 3Quanzhi Gaoshou 2",
+      "date": "06 أكتوبر, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1701760797402"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1_0RPqPBRBBtWgxJD0lS3CCr8JfIHY1kQ/preview"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-gk9d46nt0501.html"
+        },
+        {
+          "name": "dood to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.to/e/5n6hs6tl2pr1pglj6o4fi28u92m3vzi7"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-xe6i00yloy3e.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/9ygDgCiL#JbRG4U-qLynVkIainuQP2V1p3XKZ_Mvr3yxtftVneE0"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/u0g0u5lfx90m"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-yr62ev6rdj45.html"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1701776263898"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1m3hMs6lSB_4KsbpV6hO1oM8vQTbjs3L3/preview"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/J2pRyASL#xtActg1nbMDYlfLY-jEmUPjzCDXWQj4c4PYvOjf72oI"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-3p09t5wtg51g.html"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1701771741914"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1omIn0NueQgaAOo2GlKxU7JzjnKJPGFM0/preview"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/YqgDWAob#BZ8Xh0kKTOk3LTGa2oBmx-nhaGGdorxi9vIN5LrEBHQ"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/mwx2i77lfyxp"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-fri53x207lfv.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/4uj3hntwkbjj"
+        },
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1omIn0NueQgaAOo2GlKxU7JzjnKJPGFM0&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/YqgDWAob#BZ8Xh0kKTOk3LTGa2oBmx-nhaGGdorxi9vIN5LrEBHQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/fri53x207lfv"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/8evb"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/mwx2i77lfyxp"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/dx3dl80ezdfm"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1_0RPqPBRBBtWgxJD0lS3CCr8JfIHY1kQ&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/9ygDgCiL#JbRG4U-qLynVkIainuQP2V1p3XKZ_Mvr3yxtftVneE0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/yr62ev6rdj45"
+        },
+        {
+          "server": "dood",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://dood.to/d/98ghxib8vwij"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/p14U"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/DGdzMLmXm5kzL"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/u0g0u5lfx90m"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/l53tpb98xx75"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1m3hMs6lSB_4KsbpV6hO1oM8vQTbjs3L3&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/J2pRyASL#xtActg1nbMDYlfLY-jEmUPjzCDXWQj4c4PYvOjf72oI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/3p09t5wtg51g"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.org/8evn"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/22ecg6o288ij"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:24:41.062854"
+  "last_updated": "2026-06-25T00:25:17.194624"
 }
