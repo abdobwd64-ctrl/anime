@@ -9281,6 +9281,16 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "baki-dou",
+    "title": "انمي Baki-dou مترجم اون لاين",
+    "poster": "data/posters/baki-dou.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "boku-no-hero-academia-7th-season",
     "title": "انمي Boku no Hero Academia 7th Season مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-7th-season.webp",
@@ -9836,6 +9846,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "kimetsu-no-yaiba-movie-mugen-ressha-hen",
+    "title": "انمي Kimetsu no Yaiba Movie: Mugen Ressha-hen مترجم اون لاين",
+    "poster": "data/posters/kimetsu-no-yaiba-movie-mugen-ressha-hen.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
   },
   {
     "id": "shirobako-movie",
@@ -13611,6 +13637,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "gintama-dai-hanseikai",
+    "title": "انمي Gintama: Dai Hanseikai مترجم اون لاين",
+    "poster": "data/posters/gintama-dai-hanseikai.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2010"
   },
   {
     "id": "kidou-senshi-gundam-suisei-no-majo-season-2",
@@ -20730,6 +20769,20 @@
     "type": "تلفزيون",
     "episodes_count": "23",
     "season": "ربيع 2018"
+  },
+  {
+    "id": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
+    "title": "انمي Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo",
