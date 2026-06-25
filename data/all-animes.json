@@ -169,6 +169,19 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "nazotoki-wa-dinner-no-ato-de",
+    "title": "انمي Nazotoki wa Dinner no Ato de مترجم اون لاين",
+    "poster": "data/posters/nazotoki-wa-dinner-no-ato-de.webp",
+    "genres": [
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "mattaku-saikin-no-tantei-to-kitara",
     "title": "انمي Mattaku Saikin no Tantei to Kitara مترجم اون لاين",
     "poster": "data/posters/mattaku-saikin-no-tantei-to-kitara.webp",
@@ -1281,6 +1294,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2019"
+  },
+  {
+    "id": "shin-sakura-taisen-the-animation",
+    "title": "انمي Shin Sakura Taisen the Animation مترجم اون لاين",
+    "poster": "data/posters/shin-sakura-taisen-the-animation.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
   },
   {
     "id": "snack-basue",
@@ -2535,6 +2563,24 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "the-god-of-high-school",
+    "title": "انمي The God of High School مترجم اون لاين",
+    "poster": "data/posters/the-god-of-high-school.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي",
+      "قوى خارقة",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2020"
+  },
+  {
     "id": "fumetsu-no-anata-e-2nd-season",
     "title": "انمي Fumetsu no Anata e 2nd Season مترجم اون لاين",
     "poster": "data/posters/fumetsu-no-anata-e-2nd-season.webp",
@@ -2573,6 +2619,20 @@
     "type": "أونا",
     "episodes_count": "11",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "kaze-tachinu",
+    "title": "انمي Kaze Tachinu مترجم اون لاين",
+    "poster": "data/posters/kaze-tachinu.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2013"
   },
   {
     "id": "sounan-desu-ka",
@@ -6138,6 +6198,18 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "bullet-bullet",
+    "title": "انمي Bullet/Bullet مترجم اون لاين",
+    "poster": "data/posters/bullet-bullet.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "hige-wo-soru-soshite-joshikousei-wo-hirou",
     "title": "انمي Hige wo Soru. Soshite Joshikousei wo Hirou. مترجم اون لاين",
     "poster": "data/posters/hige-wo-soru-soshite-joshikousei-wo-hirou.webp",
@@ -6395,6 +6467,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "bad-girl",
+    "title": "انمي Bad Girl مترجم اون لاين",
+    "poster": "data/posters/bad-girl.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "aharen-san-wa-hakarenai",
@@ -7328,6 +7412,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "look-back",
+    "title": "انمي Look Back مترجم اون لاين",
+    "poster": "data/posters/look-back.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2024"
   },
   {
     "id": "goodbye-don-glees",
@@ -8283,6 +8379,24 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "ربيع 2006"
+  },
+  {
+    "id": "dragon-ball-daima",
+    "title": "انمي Dragon Ball Daima مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-daima.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "20",
+    "season": "خريف 2024"
   },
   {
     "id": "boku-no-hero-academia-the-movie-4-you-re-next",
@@ -12057,6 +12171,16 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "quanzhi-fashi-vii",
+    "title": "انمي Quanzhi Fashi VII مترجم اون لاين",
+    "poster": "data/posters/quanzhi-fashi-vii.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2",
     "title": "انمي Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2 مترجم اون لاين",
     "poster": "data/posters/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-2.webp",
@@ -12258,6 +12382,19 @@
     "type": "تلفزيون",
     "episodes_count": "15",
     "season": "صيف 2009"
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu",
+    "title": "انمي Tsuki ga Michibiku Isekai Douchuu مترجم اون لاين",
+    "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
   },
   {
     "id": "ishura",
