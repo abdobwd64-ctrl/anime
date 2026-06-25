@@ -5394,6 +5394,22 @@
     "season": "صيف 2023"
   },
   {
+    "id": "natsume-yuujinchou-movie-utsusemi-ni-musubu",
+    "title": "انمي Natsume Yuujinchou Movie: Utsusemi ni Musubu مترجم اون لاين",
+    "poster": "data/posters/natsume-yuujinchou-movie-utsusemi-ni-musubu.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة",
+      "شياطين",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2018"
+  },
+  {
     "id": "bakuten",
     "title": "انمي Bakuten!! مترجم اون لاين",
     "poster": "data/posters/bakuten.webp",

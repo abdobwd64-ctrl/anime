@@ -137,6 +137,22 @@
     "score": 72
   },
   {
+    "id": "ginga-eiyuu-densetsu",
+    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
+    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
+    "genres": [
+      "حربي",
+      "دراما",
+      "خيال علمي",
+      "فضائي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "110",
+    "season": "شتاء 1988",
+    "score": 58
+  },
+  {
     "id": "bakuten-shoot-beyblade",
     "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
     "poster": "data/posters/bakuten-shoot-beyblade.webp",
@@ -152,22 +168,6 @@
     "type": "تلفزيون",
     "episodes_count": "51",
     "season": "خريف 2001",
-    "score": 57
-  },
-  {
-    "id": "ginga-eiyuu-densetsu",
-    "title": "انمي Ginga Eiyuu Densetsu مترجم اون لاين",
-    "poster": "data/posters/ginga-eiyuu-densetsu.webp",
-    "genres": [
-      "حربي",
-      "دراما",
-      "خيال علمي",
-      "فضائي"
-    ],
-    "status": "مكتمل",
-    "type": "أوفا",
-    "episodes_count": "110",
-    "season": "شتاء 1988",
     "score": 57
   },
   {
