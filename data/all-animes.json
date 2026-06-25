@@ -5288,6 +5288,21 @@
     "season": "صيف 2025"
   },
   {
+    "id": "pokemon-movie-23-koko",
+    "title": "انمي Pokemon Movie 23: Koko مترجم اون لاين",
+    "poster": "data/posters/pokemon-movie-23-koko.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
@@ -7059,6 +7074,21 @@
     "type": "حلقة خاصة",
     "episodes_count": "4",
     "season": "خريف 2015"
+  },
+  {
+    "id": "one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado",
+    "title": "انمي One Piece: Dokuta Choppa no Boken Karute Chichi to Musume no Barado مترجم اون لاين",
+    "poster": "data/posters/one-piece-dokuta-choppa-no-boken-karute-chichi-to-musume-no-barado.webp",
+    "genres": [
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
   },
   {
     "id": "cardfight-vanguard-will-dress-season-2",
