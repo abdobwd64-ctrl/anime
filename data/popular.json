@@ -274,6 +274,24 @@
     "score": 58
   },
   {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021",
+    "score": 57
+  },
+  {
     "id": "captain-tsubasa-2018",
     "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
     "poster": "data/posters/captain-tsubasa-2018.webp",
@@ -488,18 +506,5 @@
     "episodes_count": "26",
     "season": "خريف 2005",
     "score": 32
-  },
-  {
-    "id": "shadowverse-flame",
-    "title": "انمي Shadowverse Flame مترجم اون لاين",
-    "poster": "data/posters/shadowverse-flame.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2022",
-    "score": 31
   }
 ]

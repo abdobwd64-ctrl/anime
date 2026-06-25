@@ -2507,6 +2507,19 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "utawarerumono-tusukuru-koujo-no-karei-naru-hibi",
+    "title": "انمي Utawarerumono: Tusukuru-koujo no Karei Naru Hibi مترجم اون لاين",
+    "poster": "data/posters/utawarerumono-tusukuru-koujo-no-karei-naru-hibi.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "ربيع 2018"
+  },
+  {
     "id": "chainsaw-man-movie-reze-hen",
     "title": "انمي Chainsaw Man Movie: Reze-hen مترجم اون لاين",
     "poster": "data/posters/chainsaw-man-movie-reze-hen.webp",
@@ -3601,6 +3614,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2019"
+  },
+  {
+    "id": "darwin-jihen",
+    "title": "انمي Darwin Jihen مترجم اون لاين",
+    "poster": "data/posters/darwin-jihen.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   },
   {
     "id": "karakuri-circus-tv",
@@ -5552,6 +5577,18 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "seiken-densetsu-legend-of-mana-the-teardrop-crystal",
+    "title": "انمي Seiken Densetsu: Legend of Mana - The Teardrop Crystal مترجم اون لاين",
+    "poster": "data/posters/seiken-densetsu-legend-of-mana-the-teardrop-crystal.webp",
+    "genres": [
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "ginga-eiyuu-densetsu-die-neue-these-seiran-1",
     "title": "انمي Ginga Eiyuu Densetsu: Die Neue These - Seiran 1 مترجم اون لاين",
     "poster": "data/posters/ginga-eiyuu-densetsu-die-neue-these-seiran-1.webp",
@@ -6269,6 +6306,20 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau",
+    "title": "انمي Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau مترجم اون لاين",
+    "poster": "data/posters/yuusha-party-wo-tsuihou-sareta-beast-tamer-saikyoushu-no-nekomimi-shoujo-to-deau.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "koukyuu-no-karasu",
     "title": "انمي Koukyuu no Karasu مترجم اون لاين",
     "poster": "data/posters/koukyuu-no-karasu.webp",
@@ -6768,6 +6819,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2023"
+  },
+  {
+    "id": "saiyuuki-reload-zeroin",
+    "title": "انمي Saiyuuki Reload: Zeroin مترجم اون لاين",
+    "poster": "data/posters/saiyuuki-reload-zeroin.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "kaiko-sareta-ankoku-heishi-30-dai-no-slow-na-second-life",
@@ -10936,6 +11003,23 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "shaman-king-2021",
+    "title": "انمي Shaman King (2021) مترجم اون لاين",
+    "poster": "data/posters/shaman-king-2021.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2021"
   },
   {
     "id": "boku-no-hero-academia-ikinokore-kesshi-no-survival-kunren",
