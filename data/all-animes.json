@@ -9751,6 +9751,20 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san",
+    "title": "انمي Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san مترجم اون لاين",
+    "poster": "data/posters/tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "steins-gate-oukoubakko-no-poriomania",
     "title": "انمي Steins;Gate: Oukoubakko no Poriomania مترجم اون لاين",
     "poster": "data/posters/steins-gate-oukoubakko-no-poriomania.webp",
@@ -10201,6 +10215,20 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "خريف 2016"
+  },
+  {
+    "id": "mushoku-tensei-isekai-ittara-honki-dasu-2nd-season",
+    "title": "انمي Mushoku Tensei: Isekai Ittara Honki Dasu 2nd Season مترجم اون لاين",
+    "poster": "data/posters/mushoku-tensei-isekai-ittara-honki-dasu-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2021"
   },
   {
     "id": "lupin-iii-vs-cat-s-eye",
