@@ -2364,6 +2364,18 @@
     "season": "صيف 2025"
   },
   {
+    "id": "zenonzard-the-animation-episode-0",
+    "title": "انمي Zenonzard The Animation Episode 0 مترجم اون لاين",
+    "poster": "data/posters/zenonzard-the-animation-episode-0.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "صيف 2019"
+  },
+  {
     "id": "one-punch-man-road-to-hero",
     "title": "انمي One Punch Man: Road to Hero مترجم اون لاين",
     "poster": "data/posters/one-punch-man-road-to-hero.webp",
