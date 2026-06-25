@@ -19,23 +19,6 @@
     "score": 1174
   },
   {
-    "id": "yu-gi-oh-duel-monsters-gx",
-    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
-    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "العاب",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "180",
-    "season": "خريف 2004",
-    "score": 181
-  },
-  {
     "id": "naruto",
     "title": "انمي Naruto مترجم اون لاين",
     "poster": "data/posters/naruto.webp",
@@ -51,7 +34,24 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 148
+    "score": 225
+  },
+  {
+    "id": "yu-gi-oh-duel-monsters-gx",
+    "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
+    "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "العاب",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "180",
+    "season": "خريف 2004",
+    "score": 181
   },
   {
     "id": "ginga-eiyuu-densetsu",
@@ -99,6 +99,40 @@
     "episodes_count": "97",
     "season": "ربيع 2018",
     "score": 101
+  },
+  {
+    "id": "hokuto-no-ken",
+    "title": "انمي Hokuto no Ken مترجم اون لاين",
+    "poster": "data/posters/hokuto-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "خيال علمي",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "109",
+    "season": "خريف 1984",
+    "score": 91
+  },
+  {
+    "id": "world-trigger",
+    "title": "انمي World Trigger مترجم اون لاين",
+    "poster": "data/posters/world-trigger.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "73",
+    "season": "خريف 2014",
+    "score": 78
   },
   {
     "id": "hajime-no-ippo",
@@ -223,6 +257,21 @@
     "score": 52
   },
   {
+    "id": "nana",
+    "title": "انمي Nana مترجم اون لاين",
+    "poster": "data/posters/nana.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "47",
+    "season": "ربيع 2006",
+    "score": 51
+  },
+  {
     "id": "beyblade-burst",
     "title": "انمي Beyblade Burst مترجم اون لاين",
     "poster": "data/posters/beyblade-burst.webp",
@@ -287,21 +336,6 @@
     "episodes_count": "غير معروف",
     "season": "خريف 2025",
     "score": 39
-  },
-  {
-    "id": "nana",
-    "title": "انمي Nana مترجم اون لاين",
-    "poster": "data/posters/nana.webp",
-    "genres": [
-      "دراما",
-      "رومانسي",
-      "موسيقي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "47",
-    "season": "ربيع 2006",
-    "score": 37
   },
   {
     "id": "hanyou-no-yashahime-sengoku-otogizoushi",
