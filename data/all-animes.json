@@ -18389,6 +18389,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "overlord-iv",
+    "title": "انمي Overlord IV مترجم اون لاين",
+    "poster": "data/posters/overlord-iv.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "ikoku-nikki",
     "title": "انمي Ikoku Nikki مترجم اون لاين",
     "poster": "data/posters/ikoku-nikki.webp",
@@ -24037,6 +24051,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2018"
+  },
+  {
+    "id": "uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai",
+    "title": "انمي Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai. مترجم اون لاين",
+    "poster": "data/posters/uchi-no-ko-no-tame-naraba-ore-wa-moshikashitara-maou-mo-taoseru-kamo-shirenai.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
   },
   {
     "id": "takt-op-destiny",
