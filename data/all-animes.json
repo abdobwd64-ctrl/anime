@@ -3129,6 +3129,19 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "jigokuraku",
+    "title": "انمي Jigokuraku مترجم اون لاين",
+    "poster": "data/posters/jigokuraku.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "bukiyou-na-senpai",
     "title": "انمي Bukiyou na Senpai. مترجم اون لاين",
     "poster": "data/posters/bukiyou-na-senpai.webp",
