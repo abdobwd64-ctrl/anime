@@ -67,7 +67,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 106
+    "score": 108
   },
   {
     "id": "fairy-tail-2014",
@@ -153,24 +153,6 @@
     "score": 72
   },
   {
-    "id": "bakuten-shoot-beyblade",
-    "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
-    "poster": "data/posters/bakuten-shoot-beyblade.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "كوميدي",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "خريف 2001",
-    "score": 57
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -187,6 +169,24 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
+    "score": 58
+  },
+  {
+    "id": "bakuten-shoot-beyblade",
+    "title": "انمي Bakuten Shoot Beyblade مترجم اون لاين",
+    "poster": "data/posters/bakuten-shoot-beyblade.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "خريف 2001",
     "score": 57
   },
   {
