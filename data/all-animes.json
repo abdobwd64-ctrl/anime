@@ -1099,6 +1099,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "code-geass-hangyaku-no-lelouch-r2",
+    "title": "انمي Code Geass: Hangyaku no Lelouch R2 مترجم اون لاين",
+    "poster": "data/posters/code-geass-hangyaku-no-lelouch-r2.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2008"
+  },
+  {
     "id": "jigoku-sensei-nube-2025-part-2",
     "title": "انمي Jigoku Sensei Nube (2025) Part 2 مترجم اون لاين",
     "poster": "data/posters/jigoku-sensei-nube-2025-part-2.webp",
