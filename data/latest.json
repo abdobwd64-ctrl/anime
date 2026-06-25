@@ -192,6 +192,14 @@
     "date_sort": "2026-06-22"
   },
   {
+    "anime_id": "tongari-boushi-no-atelier",
+    "anime_title": "انمي Tongari Boushi no Atelier مترجم اون لاين",
+    "anime_poster": "data/posters/tongari-boushi-no-atelier.webp",
+    "episode": "13",
+    "date": "22 يونيو, 2026",
+    "date_sort": "2026-06-22"
+  },
+  {
     "anime_id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
     "anime_title": "انمي Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi مترجم اون لاين",
     "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
@@ -387,14 +395,6 @@
     "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "anime_title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
-    "episode": "11",
-    "date": "17 يونيو, 2026",
-    "date_sort": "2026-06-17"
-  },
-  {
-    "anime_id": "nippon-sangoku",
-    "anime_title": "انمي Nippon Sangoku مترجم اون لاين",
-    "anime_poster": "data/posters/nippon-sangoku.webp",
     "episode": "11",
     "date": "17 يونيو, 2026",
     "date_sort": "2026-06-17"
