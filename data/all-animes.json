@@ -437,6 +437,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "disney-twisted-wonderland-the-animation-episode-of-heartslabyul",
+    "title": "انمي Disney Twisted-Wonderland The Animation: Episode of Heartslabyul مترجم اون لاين",
+    "poster": "data/posters/disney-twisted-wonderland-the-animation-episode-of-heartslabyul.webp",
+    "genres": [
+      "شونين",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "خريف 2025"
+  },
+  {
     "id": "city-the-animation",
     "title": "انمي City The Animation مترجم اون لاين",
     "poster": "data/posters/city-the-animation.webp",
