@@ -67,7 +67,109 @@
           "url": "https://openload.co/f/5SsY9WKlGjc/%5BAnime4up.com%5D_HSGES_EP_03_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الأوفا 2High Score Girl: Extra Stage",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Q02Bah5t3WpkHy5VqaHoZFP5lrey9WvX/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!HrhHBCTR!c_zNRIMwMEZLIxKlRPcGhKZe9VoQH8XfIYHNNPDHsfA"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-eu3tzic6fj8d.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1Q02Bah5t3WpkHy5VqaHoZFP5lrey9WvX&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!HrhHBCTR!c_zNRIMwMEZLIxKlRPcGhKZe9VoQH8XfIYHNNPDHsfA"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/b7a6d1482b141c42"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ep4wf7pziorm"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/07tfwb6unSw/%5BAnime4up.com%5D_HSGES_EP_02_HD.mp4"
+        }
+      ]
+    },
+    {
+      "number": "1",
+      "title": "الأوفا 1High Score Girl: Extra Stage",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1uldolL6BBX3l4Fjn9j3ENaIvkFR2rDP3/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!ejYwHKKb!5QNz9jZ8LaH2OzXG4N0a36kYdUjbAAPF348WG4F96B4"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-mzxapery80t5.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1uldolL6BBX3l4Fjn9j3ENaIvkFR2rDP3&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!ejYwHKKb!5QNz9jZ8LaH2OzXG4N0a36kYdUjbAAPF348WG4F96B4"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/25cc9061dba31c8a"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/d2jnq5ajkgjg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/Ydu8-epuoq0/%5BAnime4up.com%5D_HSGES_EP_01_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:22:21.779488"
+  "last_updated": "2026-06-25T02:22:43.447218"
 }
