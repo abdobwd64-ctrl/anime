@@ -11467,6 +11467,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "hakuouki-ova-2021",
+    "title": "انمي Hakuouki OVA (2021) مترجم اون لاين",
+    "poster": "data/posters/hakuouki-ova-2021.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "3",
+    "season": "خريف 2021"
+  },
+  {
     "id": "lupin-iii-goodbye-partner",
     "title": "انمي Lupin III: Goodbye Partner مترجم اون لاين",
     "poster": "data/posters/lupin-iii-goodbye-partner.webp",
