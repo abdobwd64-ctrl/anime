@@ -1222,6 +1222,23 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "fairy-tail-final-series",
+    "title": "انمي Fairy Tail: Final Series مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-final-series.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "خريف 2018"
+  },
+  {
     "id": "nihon-e-youkoso-elf-san",
     "title": "انمي Nihon e Youkoso Elf-san. مترجم اون لاين",
     "poster": "data/posters/nihon-e-youkoso-elf-san.webp",
@@ -9611,6 +9628,21 @@
     "season": "شتاء 2022"
   },
   {
+    "id": "hoshi-no-samidare",
+    "title": "انمي Hoshi no Samidare مترجم اون لاين",
+    "poster": "data/posters/hoshi-no-samidare.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
     "title": "انمي Boku no Hero Academia the Movie 1: Futari no Hero مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-the-movie-1-futari-no-hero.webp",
@@ -12656,6 +12688,20 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "baraou-no-souretsu",
+    "title": "انمي Baraou no Souretsu مترجم اون لاين",
+    "poster": "data/posters/baraou-no-souretsu.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "t-p-bon-season-2",
     "title": "انمي T.P BON Season 2 مترجم اون لاين",
     "poster": "data/posters/t-p-bon-season-2.webp",
@@ -12727,6 +12773,21 @@
     "type": "أونا",
     "episodes_count": "2",
     "season": "صيف 2020"
+  },
+  {
+    "id": "tenki-no-ko",
+    "title": "انمي Tenki no Ko مترجم اون لاين",
+    "poster": "data/posters/tenki-no-ko.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2019"
   },
   {
     "id": "trinity-seven-movie-2-heavens-library-to-crimson-lord",

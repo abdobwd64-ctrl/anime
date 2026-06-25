@@ -289,6 +289,24 @@
     "score": 68
   },
   {
+    "id": "fairy-tail-final-series",
+    "title": "انمي Fairy Tail: Final Series مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-final-series.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "خريف 2018",
+    "score": 57
+  },
+  {
     "id": "shaman-king-2021",
     "title": "انمي Shaman King (2021) مترجم اون لاين",
     "poster": "data/posters/shaman-king-2021.webp",
@@ -482,26 +500,6 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020",
-    "score": 32
-  },
-  {
-    "id": "mugen-no-juunin-immortal",
-    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
-    "poster": "data/posters/mugen-no-juunin-immortal.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات",
-      "قوى خارقة",
-      "سينين",
-      "فنون قتالية",
-      "تاريخي",
-      "ساموراي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "24",
-    "season": "خريف 2019",
     "score": 32
   }
 ]
