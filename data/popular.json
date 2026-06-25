@@ -85,6 +85,21 @@
     "score": 101
   },
   {
+    "id": "hajime-no-ippo",
+    "title": "انمي Hajime no Ippo مترجم اون لاين",
+    "poster": "data/posters/hajime-no-ippo.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "75",
+    "season": "خريف 2000",
+    "score": 76
+  },
+  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -120,21 +135,6 @@
     "episodes_count": "64",
     "season": "ربيع 2009",
     "score": 72
-  },
-  {
-    "id": "hajime-no-ippo",
-    "title": "انمي Hajime no Ippo مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo.webp",
-    "genres": [
-      "دراما",
-      "كوميدي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "75",
-    "season": "خريف 2000",
-    "score": 58
   },
   {
     "id": "bakuten-shoot-beyblade",
@@ -268,6 +268,23 @@
     "score": 37
   },
   {
+    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
+    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
+    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "39",
+    "season": "ربيع 2016",
+    "score": 34
+  },
+  {
     "id": "hanyou-no-yashahime-sengoku-otogizoushi",
     "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
     "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
@@ -339,6 +356,25 @@
     "score": 31
   },
   {
+    "id": "shingeki-no-kyojin",
+    "title": "انمي Shingeki no Kyojin مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "غموض",
+      "خارق للعادة",
+      "دراما",
+      "فنتازيا",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "ربيع 2013",
+    "score": 31
+  },
+  {
     "id": "nanatsu-no-taizai",
     "title": "انمي Nanatsu no Taizai مترجم اون لاين",
     "poster": "data/posters/nanatsu-no-taizai.webp",
@@ -355,6 +391,24 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2014",
+    "score": 31
+  },
+  {
+    "id": "fruits-basket-2nd-season",
+    "title": "انمي Fruits Basket 2nd Season مترجم اون لاين",
+    "poster": "data/posters/fruits-basket-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020",
     "score": 31
   },
   {
@@ -458,57 +512,5 @@
     "episodes_count": "24",
     "season": "خريف 2014",
     "score": 30
-  },
-  {
-    "id": "boku-no-hero-academia-2nd-season",
-    "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "ربيع 2017",
-    "score": 30
-  },
-  {
-    "id": "haikyuu-second-season",
-    "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
-    "poster": "data/posters/haikyuu-second-season.webp",
-    "genres": [
-      "دراما",
-      "شونين",
-      "كوميدي",
-      "مدرسي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
-    "season": "خريف 2015",
-    "score": 30
-  },
-  {
-    "id": "higurashi-no-naku-koro-ni-2020",
-    "title": "انمي Higurashi no Naku Koro ni (2020) مترجم اون لاين",
-    "poster": "data/posters/higurashi-no-naku-koro-ni-2020.webp",
-    "genres": [
-      "غموض",
-      "قوى خارقة",
-      "رعب",
-      "نفسي",
-      "اثارة",
-      "جنون"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "خريف 2020",
-    "score": 29
   }
 ]
