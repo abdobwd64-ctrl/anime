@@ -3640,6 +3640,20 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu",
+    "title": "انمي Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu. مترجم اون لاين",
+    "poster": "data/posters/isekai-de-mofumofu-nadenade-suru-tame-ni-ganbattemasu.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "kabukichou-sherlock",
     "title": "انمي Kabukichou Sherlock مترجم اون لاين",
     "poster": "data/posters/kabukichou-sherlock.webp",
@@ -4860,6 +4874,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
+    "title": "انمي Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu مترجم اون لاين",
+    "poster": "data/posters/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
   },
   {
     "id": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan-dakara-shishunki-wa-owarazu-ni-seishun-wa-tsuzuiteiku",
@@ -6604,6 +6632,20 @@
     "type": "أونا",
     "episodes_count": "13",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "himitsukessha-taka-no-tsume-golden-spell",
+    "title": "انمي Himitsukessha Taka no Tsume: Golden Spell مترجم اون لاين",
+    "poster": "data/posters/himitsukessha-taka-no-tsume-golden-spell.webp",
+    "genres": [
+      "خارق للعادة",
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2020"
   },
   {
     "id": "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo",
@@ -9194,6 +9236,16 @@
     "season": "خريف 1986"
   },
   {
+    "id": "idolish7-movie-live-4bit-beyond-the-period",
+    "title": "انمي IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD مترجم اون لاين",
+    "poster": "data/posters/idolish7-movie-live-4bit-beyond-the-period.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "2",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "beastars",
     "title": "انمي Beastars مترجم اون لاين",
     "poster": "data/posters/beastars.webp",
@@ -9292,6 +9344,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "taishou-otome-otogibanashi",
+    "title": "انمي Taishou Otome Otogibanashi مترجم اون لاين",
+    "poster": "data/posters/taishou-otome-otogibanashi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
   },
   {
     "id": "one-piece-movie-04-dead-end-no-bouken",
@@ -10738,6 +10804,16 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "eien-no-831",
+    "title": "انمي Eien no 831 مترجم اون لاين",
+    "poster": "data/posters/eien-no-831.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "ruri-no-houseki",
@@ -14022,6 +14098,21 @@
     "season": "خريف 2021"
   },
   {
+    "id": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-ova",
+    "title": "انمي Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA مترجم اون لاين",
+    "poster": "data/posters/otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-ova.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2021"
+  },
+  {
     "id": "star-wars-visions",
     "title": "انمي Star Wars: Visions مترجم اون لاين",
     "poster": "data/posters/star-wars-visions.webp",
@@ -15001,6 +15092,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "gintama-shirogane-no-tamashii-hen-kouhan-sen",
+    "title": "انمي Gintama.: Shirogane no Tamashii-hen - Kouhan-sen مترجم اون لاين",
+    "poster": "data/posters/gintama-shirogane-no-tamashii-hen-kouhan-sen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "14",
+    "season": "صيف 2018"
   },
   {
     "id": "one-piece-movie-05-norowareta-seiken",
@@ -17470,6 +17575,20 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "koi-to-uso-ova",
+    "title": "انمي Koi to Uso OVA مترجم اون لاين",
+    "poster": "data/posters/koi-to-uso-ova.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "2",
+    "season": "خريف 2018"
+  },
+  {
     "id": "saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita",
     "title": "انمي Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita. مترجم اون لاين",
     "poster": "data/posters/saijaku-tamer-wa-gomi-hiroi-no-tabi-wo-hajimemashita.webp",
@@ -19054,6 +19173,22 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "bleach-memories-in-the-rain",
+    "title": "انمي Bleach: Memories in the Rain مترجم اون لاين",
+    "poster": "data/posters/bleach-memories-in-the-rain.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "مغامرات",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2004"
   },
   {
     "id": "kamonohashi-ron-no-kindan-suiri-2nd-season",
