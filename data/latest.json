@@ -248,6 +248,14 @@
     "date_sort": "2026-06-23"
   },
   {
+    "anime_id": "isekai-nonbiri-nouka-2",
+    "anime_title": "انمي Isekai Nonbiri Nouka 2 مترجم اون لاين",
+    "anime_poster": "data/posters/isekai-nonbiri-nouka-2.webp",
+    "episode": "12",
+    "date": "23 يونيو, 2026",
+    "date_sort": "2026-06-23"
+  },
+  {
     "anime_id": "liar-game",
     "anime_title": "انمي Liar Game مترجم اون لاين",
     "anime_poster": "data/posters/liar-game.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Kuroneko to Majo no Kyoushitsu مترجم اون لاين",
     "anime_poster": "data/posters/kuroneko-to-majo-no-kyoushitsu.webp",
     "episode": "11",
-    "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
-  },
-  {
-    "anime_id": "one-piece",
-    "anime_title": "انمي One Piece مترجم اون لاين",
-    "anime_poster": "data/posters/one-piece.webp",
-    "episode": "1167",
     "date": "21 يونيو, 2026",
     "date_sort": "2026-06-21"
   }

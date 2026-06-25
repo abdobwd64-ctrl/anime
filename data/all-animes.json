@@ -2657,6 +2657,19 @@
     "season": "خريف 2018"
   },
   {
+    "id": "sozai-saishuka-no-isekai-ryokouki",
+    "title": "انمي Sozai Saishuka no Isekai Ryokouki مترجم اون لاين",
+    "poster": "data/posters/sozai-saishuka-no-isekai-ryokouki.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
+  },
+  {
     "id": "inuyasha-movie-3-tenka-hadou-no-ken",
     "title": "انمي InuYasha Movie 3: Tenka Hadou no Ken مترجم اون لاين",
     "poster": "data/posters/inuyasha-movie-3-tenka-hadou-no-ken.webp",
@@ -5209,6 +5222,19 @@
     "season": "خريف 2021"
   },
   {
+    "id": "shin-tennis-no-oujisama-u-17-world-cup-semifinal",
+    "title": "انمي Shin Tennis no Oujisama: U-17 World Cup Semifinal مترجم اون لاين",
+    "poster": "data/posters/shin-tennis-no-oujisama-u-17-world-cup-semifinal.webp",
+    "genres": [
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2024"
+  },
+  {
     "id": "penguin-highway",
     "title": "انمي Penguin Highway مترجم اون لاين",
     "poster": "data/posters/penguin-highway.webp",
@@ -5965,6 +5991,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2012"
+  },
+  {
+    "id": "bai-yao-pu-4th-season",
+    "title": "انمي Bai Yao Pu 4th Season مترجم اون لاين",
+    "poster": "data/posters/bai-yao-pu-4th-season.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "مغامرات",
+      "قوى خارقة",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
   },
   {
     "id": "granblue-fantasy-the-animation-kabocha-no-lantern",
@@ -7284,6 +7326,22 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2010"
+  },
+  {
+    "id": "gunjou-no-magmell",
+    "title": "انمي Gunjou no Magmell مترجم اون لاين",
+    "poster": "data/posters/gunjou-no-magmell.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2019"
   },
   {
     "id": "kami-tachi-ni-hirowareta-otoko-2nd-season",
@@ -8764,6 +8822,18 @@
     "season": "صيف 2024"
   },
   {
+    "id": "visual-prison",
+    "title": "انمي Visual Prison مترجم اون لاين",
+    "poster": "data/posters/visual-prison.webp",
+    "genres": [
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
     "title": "انمي 29-sai Dokushin Chuuken Boukensha no Nichijou مترجم اون لاين",
     "poster": "data/posters/29-sai-dokushin-chuuken-boukensha-no-nichijou.webp",
@@ -10110,6 +10180,18 @@
     "season": "ربيع 2014"
   },
   {
+    "id": "idolish7-vibrato",
+    "title": "انمي IDOLiSH7 Vibrato مترجم اون لاين",
+    "poster": "data/posters/idolish7-vibrato.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "8",
+    "season": "شتاء 2018"
+  },
+  {
     "id": "garo-honoo-no-kokuin",
     "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
     "poster": "data/posters/garo-honoo-no-kokuin.webp",
@@ -10634,6 +10716,21 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2019"
+  },
+  {
+    "id": "no-guns-life",
+    "title": "انمي No Guns Life مترجم اون لاين",
+    "poster": "data/posters/no-guns-life.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "tensei-shitara-slime-datta-ken-coleus-no-yume",
@@ -12179,6 +12276,21 @@
     "season": "خريف 2023"
   },
   {
+    "id": "golden-kamuy-2nd-season-ova",
+    "title": "انمي Golden Kamuy 2nd Season OVA مترجم اون لاين",
+    "poster": "data/posters/golden-kamuy-2nd-season-ova.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "سينين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "2",
+    "season": "شتاء 2019"
+  },
+  {
     "id": "jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze",
     "title": "انمي JoJo no Kimyou na Bouken Part 5: Ougon no Kaze مترجم اون لاين",
     "poster": "data/posters/jojo-no-kimyou-na-bouken-part-5-ougon-no-kaze.webp",
@@ -13518,6 +13630,19 @@
     "type": "حلقة خاصة",
     "episodes_count": "2",
     "season": "خريف 2019"
+  },
+  {
+    "id": "isekai-nonbiri-nouka-2",
+    "title": "انمي Isekai Nonbiri Nouka 2 مترجم اون لاين",
+    "poster": "data/posters/isekai-nonbiri-nouka-2.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2026"
   },
   {
     "id": "yuusha-yamemasu",
@@ -16044,6 +16169,20 @@
     "season": "شتاء 2016"
   },
   {
+    "id": "asobi-asobase-ova",
+    "title": "انمي Asobi Asobase OVA مترجم اون لاين",
+    "poster": "data/posters/asobi-asobase-ova.webp",
+    "genres": [
+      "دراما",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "خريف 2018"
+  },
+  {
     "id": "watari-kun-no-xx-ga-houkai-sunzen",
     "title": "انمي Watari-kun no xx ga Houkai Sunzen مترجم اون لاين",
     "poster": "data/posters/watari-kun-no-xx-ga-houkai-sunzen.webp",
@@ -16730,6 +16869,27 @@
     "type": "أونا",
     "episodes_count": "15",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "trinity-seven",
+    "title": "انمي Trinity Seven مترجم اون لاين",
+    "poster": "data/posters/trinity-seven.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "سحر",
+      "قوى خارقة",
+      "مدرسي",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2014"
   },
   {
     "id": "momentary-lily",
@@ -22081,6 +22241,19 @@
     "season": "صيف 2023"
   },
   {
+    "id": "mf-ghost-2nd-season",
+    "title": "انمي MF Ghost 2nd Season مترجم اون لاين",
+    "poster": "data/posters/mf-ghost-2nd-season.webp",
+    "genres": [
+      "سينين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! 3 مترجم اون لاين",
     "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo-3.webp",
@@ -24440,6 +24613,21 @@
     "season": "خريف 2023"
   },
   {
+    "id": "uzumaki",
+    "title": "انمي Uzumaki مترجم اون لاين",
+    "poster": "data/posters/uzumaki.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة",
+      "رعب",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "4",
+    "season": "خريف 2024"
+  },
+  {
     "id": "maoujou-de-oyasumi",
     "title": "انمي Maoujou de Oyasumi مترجم اون لاين",
     "poster": "data/posters/maoujou-de-oyasumi.webp",
@@ -26433,6 +26621,16 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "Uzaki-chan-wa-asobitai-double",
+    "title": "انمي Uzaki-chan wa Asobitai! Double مترجم اون لاين",
+    "poster": "data/posters/Uzaki-chan-wa-asobitai-double.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2022"
   },
   {
     "id": "rikei-ga-koi-ni-ochita-no-de-shoumei-shitemita-heart",

@@ -1,0 +1,89 @@
+{
+  "id": "asobi-asobase-ova",
+  "title": "انمي Asobi Asobase OVA مترجم اون لاين",
+  "url": "https://animelek.top/anime/asobi-asobase-ova/",
+  "poster": "data/posters/asobi-asobase-ova.webp",
+  "status": "مكتمل",
+  "type": "أوفا",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "خريف 2018",
+  "genres": [
+    "دراما",
+    "كوميدي",
+    "مدرسي"
+  ],
+  "story": "أوفا مع مجلد المانغا السابع.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأوفا 1Asobi Asobase OVA",
+      "date": "09 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1050753108698"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1Kb-pjy8JytETfJAkxVgkF-ggiqTjAwcw/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/6u2a9lnnda"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!uAUg1SBC!ArwNbQEcZ44KlqZSmacQMwiDvuiTV_3QEIRfECuFCvk"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-8a81yirlqc53.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/71elnidr1n1z"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1Kb-pjy8JytETfJAkxVgkF-ggiqTjAwcw&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!uAUg1SBC!ArwNbQEcZ44KlqZSmacQMwiDvuiTV_3QEIRfECuFCvk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/j0hayfyv15iv"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/_Z1Keb_rrY4/%5BAnime4up.com%5D_AAO_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/71elnidr1n1z"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/qh5b9pqfwdxg"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:54:07.508850"
+}
