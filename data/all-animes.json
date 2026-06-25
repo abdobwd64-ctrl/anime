@@ -6591,6 +6591,22 @@
     "season": "شتاء 2015"
   },
   {
+    "id": "made-in-abyss-retsujitsu-no-ougonkyou",
+    "title": "انمي Made in Abyss: Retsujitsu no Ougonkyou مترجم اون لاين",
+    "poster": "data/posters/made-in-abyss-retsujitsu-no-ougonkyou.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2022"
+  },
+  {
     "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
     "title": "انمي Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack مترجم اون لاين",
     "poster": "data/posters/shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack.webp",
