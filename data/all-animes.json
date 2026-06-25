@@ -5114,6 +5114,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "yuusha-yamemasu",
+    "title": "انمي Yuusha, Yamemasu مترجم اون لاين",
+    "poster": "data/posters/yuusha-yamemasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai",
     "title": "انمي Donten ni Warau Gaiden: Ketsubetsu, Yamainu no Chikai مترجم اون لاين",
     "poster": "data/posters/donten-ni-warau-gaiden-ketsubetsu-yamainu-no-chikai.webp",
