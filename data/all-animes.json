@@ -1190,6 +1190,21 @@
     "season": "ربيع 2018"
   },
   {
+    "id": "sayonara-watashi-no-cramer-movie-first-touch",
+    "title": "انمي Sayonara Watashi no Cramer Movie: First Touch مترجم اون لاين",
+    "poster": "data/posters/sayonara-watashi-no-cramer-movie-first-touch.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "kuroko-no-basket-movie-2-winter-cup-namida-no-saki-e",
     "title": "انمي Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e مترجم اون لاين",
     "poster": "data/posters/kuroko-no-basket-movie-2-winter-cup-namida-no-saki-e.webp",
@@ -6918,6 +6933,18 @@
     "season": "خريف 2023"
   },
   {
+    "id": "bokutachi-no-remake",
+    "title": "انمي Bokutachi no Remake مترجم اون لاين",
+    "poster": "data/posters/bokutachi-no-remake.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "number24",
     "title": "انمي number24 مترجم اون لاين",
     "poster": "data/posters/number24.webp",
@@ -7946,6 +7973,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "toaru-majutsu-no-index",
+    "title": "انمي Toaru Majutsu no Index مترجم اون لاين",
+    "poster": "data/posters/toaru-majutsu-no-index.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "سحر",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2008"
+  },
+  {
     "id": "knights-of-the-zodiac-saint-seiya",
     "title": "انمي Knights of the Zodiac: Saint Seiya مترجم اون لاين",
     "poster": "data/posters/knights-of-the-zodiac-saint-seiya.webp",
@@ -8517,6 +8559,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2019"
+  },
+  {
+    "id": "naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo",
+    "title": "انمي Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2005"
   },
   {
     "id": "champignon-no-majo",
@@ -9200,6 +9257,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "darwin-s-game",
+    "title": "انمي Darwin's Game مترجم اون لاين",
+    "poster": "data/posters/darwin-s-game.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2020"
   },
   {
     "id": "let-s-all-love-lain",
@@ -12584,6 +12655,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2023"
+  },
+  {
+    "id": "otaku-ni-yasashii-gal-wa-inai",
+    "title": "انمي Otaku ni Yasashii Gal wa Inai!? مترجم اون لاين",
+    "poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "gundam-build-divers-re-rise-2nd-season",
@@ -16705,6 +16791,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2018"
+  },
+  {
+    "id": "haikyuu-movie-2-shousha-to-haisha",
+    "title": "انمي Haikyuu!! Movie 2: Shousha to Haisha مترجم اون لاين",
+    "poster": "data/posters/haikyuu-movie-2-shousha-to-haisha.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "gintama-nanigoto-mo-saisho-ga-kanjin-nanode-tashou-senobisuru-kurai-ga-choudoyoi",
