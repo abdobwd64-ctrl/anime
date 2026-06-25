@@ -2322,6 +2322,22 @@
     "season": "خريف 2012"
   },
   {
+    "id": "gleipnir",
+    "title": "انمي Gleipnir مترجم اون لاين",
+    "poster": "data/posters/gleipnir.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "قوى خارقة",
+      "سينين",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "dragon-ball-z-movie-14-kami-to-kami",
     "title": "انمي Dragon Ball Z Movie 14: Kami to Kami مترجم اون لاين",
     "poster": "data/posters/dragon-ball-z-movie-14-kami-to-kami.webp",
@@ -16106,6 +16122,21 @@
     "season": "صيف 2018"
   },
   {
+    "id": "isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-tv-special",
+    "title": "انمي Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta (TV Special) مترجم اون لاين",
+    "poster": "data/posters/isekai-de-cheat-skill-wo-te-ni-shita-ore-wa-genjitsu-sekai-wo-mo-musou-suru-level-up-wa-jinsei-wo-kaeta-tv-special.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "triage-x-recollection-xoxo",
     "title": "انمي Triage X: Recollection XOXO مترجم اون لاين",
     "poster": "data/posters/triage-x-recollection-xoxo.webp",
@@ -16447,6 +16478,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season",
+    "title": "انمي Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season مترجم اون لاين",
+    "poster": "data/posters/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-3rd-season.webp",
+    "genres": [
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "deji-meets-girl",
@@ -17782,6 +17826,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "one-piece-movie-03-chinjuu-jima-no-chopper-oukoku",
+    "title": "انمي One Piece Movie 03: Chinjuu-jima no Chopper Oukoku مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-03-chinjuu-jima-no-chopper-oukoku.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
     "title": "انمي Boku no Hero Academia the Movie 1: Futari no Hero مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-the-movie-1-futari-no-hero.webp",
@@ -18170,6 +18228,20 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "try-knights",
+    "title": "انمي Try Knights مترجم اون لاين",
+    "poster": "data/posters/try-knights.webp",
+    "genres": [
+      "مدرسي",
+      "رياضي",
+      "جوسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
   },
   {
     "id": "gakusen-toshi-asterisk",
@@ -19238,6 +19310,20 @@
     "type": "تلفزيون",
     "episodes_count": "16",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo",
+    "title": "انمي Naruto Movie 3: Dai Koufun! Mikazuki-jima no Animal Panic Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-3-dai-koufun-mikazuki-jima-no-animal-panic-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2006"
   },
   {
     "id": "it-s-my-life",
