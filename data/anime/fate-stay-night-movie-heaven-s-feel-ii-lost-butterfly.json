@@ -1,0 +1,76 @@
+{
+  "id": "fate-stay-night-movie-heaven-s-feel-ii-lost-butterfly",
+  "title": "انمي Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly مترجم اون لاين",
+  "url": "https://animelek.top/anime/fate-stay-night-movie-heaven-s-feel-ii-lost-butterfly/",
+  "poster": "data/posters/fate-stay-night-movie-heaven-s-feel-ii-lost-butterfly.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2019",
+  "season": "خريف 2019",
+  "genres": [
+    "أكشن",
+    "فنتازيا",
+    "سحر",
+    "قوى خارقة"
+  ],
+  "story": "قصة الفيبلم تاتي استكمالا لقصة الفيلم الاول Fate/stay night Movie: Heaven's Feel - I. Presage Flower.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/136ujnmTsam5hvSSlDrJYV5LoheU938lm/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!FxB20YbD!9SnxNTz5M1NW_QiN_vLi81yDKBO9yEfiY_auoLtoqVg"
+        },
+        {
+          "name": "rapidvideo | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.rapidvideo.com/e/G0JJ4WT36E"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-yamnqioygowl.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=136ujnmTsam5hvSSlDrJYV5LoheU938lm&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!FxB20YbD!9SnxNTz5M1NW_QiN_vLi81yDKBO9yEfiY_auoLtoqVg"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/YMz_6dRSzwY/[Animetak.com]_FSNMHFIILB_FHD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/f918e2luqli9"
+        },
+        {
+          "server": "samaup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.samaup.cc/cj39bzf7xiur"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:21:33.963442"
+}
