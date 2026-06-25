@@ -188,6 +188,19 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "yofukashi-no-uta",
+    "title": "انمي Yofukashi no Uta مترجم اون لاين",
+    "poster": "data/posters/yofukashi-no-uta.webp",
+    "genres": [
+      "رومانسي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2022"
+  },
+  {
     "id": "disney-twisted-wonderland-the-animation-episode-of-heartslabyul",
     "title": "انمي Disney Twisted-Wonderland The Animation: Episode of Heartslabyul مترجم اون لاين",
     "poster": "data/posters/disney-twisted-wonderland-the-animation-episode-of-heartslabyul.webp",
@@ -1192,6 +1205,21 @@
     "season": "صيف 2020"
   },
   {
+    "id": "shingeki-no-kyojin-the-final-season-part-2",
+    "title": "انمي Shingeki no Kyojin: The Final Season Part 2 مترجم اون لاين",
+    "poster": "data/posters/shingeki-no-kyojin-the-final-season-part-2.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "hana-wa-saku-shura-no-gotoku",
     "title": "انمي Hana wa Saku, Shura no Gotoku مترجم اون لاين",
     "poster": "data/posters/hana-wa-saku-shura-no-gotoku.webp",
@@ -1342,6 +1370,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2012"
+  },
+  {
+    "id": "tokyo-revengers-seiya-kessen-hen",
+    "title": "انمي Tokyo Revengers: Seiya Kessen-hen مترجم اون لاين",
+    "poster": "data/posters/tokyo-revengers-seiya-kessen-hen.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "kingdom-6th-season",
@@ -1718,6 +1760,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "aru-majo-ga-shinu-made",
+    "title": "انمي Aru Majo ga Shinu Made مترجم اون لاين",
+    "poster": "data/posters/aru-majo-ga-shinu-made.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "29-sai-dokushin-chuuken-boukensha-no-nichijou",
     "title": "انمي 29-sai Dokushin Chuuken Boukensha no Nichijou مترجم اون لاين",
     "poster": "data/posters/29-sai-dokushin-chuuken-boukensha-no-nichijou.webp",
@@ -1956,6 +2012,18 @@
     "season": "صيف 2021"
   },
   {
+    "id": "namu-amida-butsu-rendai-utena",
+    "title": "انمي Namu Amida Butsu!: Rendai Utena مترجم اون لاين",
+    "poster": "data/posters/namu-amida-butsu-rendai-utena.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "tokyo-ghoul-a",
     "title": "انمي Tokyo Ghoul √A مترجم اون لاين",
     "poster": "data/posters/tokyo-ghoul-a.webp",
@@ -2027,6 +2095,19 @@
     "season": "صيف 2022"
   },
   {
+    "id": "let-s-play-quest-darake-no-my-life",
+    "title": "انمي Let's Play: Quest-darake no My Life مترجم اون لاين",
+    "poster": "data/posters/let-s-play-quest-darake-no-my-life.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2025"
+  },
+  {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -2090,6 +2171,18 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "صيف 2014"
+  },
+  {
+    "id": "one-piece-dai-gekisen-tokushuu-hangeki-doumei-vs-big-mom",
+    "title": "انمي One Piece – Dai Gekisen Tokushuu! Hangeki Doumei vs Big Mom مترجم اون لاين",
+    "poster": "data/posters/one-piece-dai-gekisen-tokushuu-hangeki-doumei-vs-big-mom.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2023"
   },
   {
     "id": "the-fable",
@@ -3186,6 +3279,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "hananoi-kun-to-koi-no-yamai",
+    "title": "انمي Hananoi-kun to Koi no Yamai مترجم اون لاين",
+    "poster": "data/posters/hananoi-kun-to-koi-no-yamai.webp",
+    "genres": [
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
   },
   {
     "id": "paradox-live-the-animation",
@@ -4619,6 +4725,21 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "yomi-no-tsugai",
+    "title": "انمي Yomi no Tsugai مترجم اون لاين",
+    "poster": "data/posters/yomi-no-tsugai.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2026"
   },
   {
     "id": "fujimoto-tatsuki-17-26",
