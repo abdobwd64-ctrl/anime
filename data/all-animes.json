@@ -3007,6 +3007,22 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "mix",
+    "title": "انمي Mix مترجم اون لاين",
+    "poster": "data/posters/mix.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "overlord-movie-2-shikkoku-no-eiyuu",
     "title": "انمي Overlord Movie 2: Shikkoku no Eiyuu مترجم اون لاين",
     "poster": "data/posters/overlord-movie-2-shikkoku-no-eiyuu.webp",
@@ -3143,6 +3159,20 @@
     "season": "صيف 2018"
   },
   {
+    "id": "hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite",
+    "title": "انمي Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite مترجم اون لاين",
+    "poster": "data/posters/hazure-skill-kinomi-master-skill-no-mi-tabetara-shinu-wo-mugen-ni-taberareru-you-ni-natta-ken-ni-tsuite.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "kumo-desu-ga-nani-ka",
     "title": "انمي Kumo Desu ga, Nani ka? مترجم اون لاين",
     "poster": "data/posters/kumo-desu-ga-nani-ka.webp",
@@ -3227,6 +3257,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "eizouken-ni-wa-te-wo-dasu-na",
+    "title": "انمي Eizouken ni wa Te wo Dasu na! مترجم اون لاين",
+    "poster": "data/posters/eizouken-ni-wa-te-wo-dasu-na.webp",
+    "genres": [
+      "مغامرات",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo",
@@ -3588,6 +3633,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "another",
+    "title": "انمي Another مترجم اون لاين",
+    "poster": "data/posters/another.webp",
+    "genres": [
+      "غموض",
+      "قوى خارقة",
+      "رعب",
+      "مدرسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2012"
   },
   {
     "id": "granblue-fantasy-the-animation-kabocha-no-lantern",
@@ -5757,6 +5818,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2019"
+  },
+  {
+    "id": "yuukoku-no-moriarty",
+    "title": "انمي Yuukoku no Moriarty مترجم اون لاين",
+    "poster": "data/posters/yuukoku-no-moriarty.webp",
+    "genres": [
+      "غموض",
+      "شونين",
+      "نفسي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "hazurewaku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made",
@@ -10695,6 +10771,21 @@
     "season": "صيف 2025"
   },
   {
+    "id": "dragon-ball-z-movie-15-fukkatsu-no-f",
+    "title": "انمي Dragon Ball Z Movie 15: Fukkatsu no \"F\" مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-15-fukkatsu-no-f.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "boku-no-hero-academia-memories",
     "title": "انمي Boku no Hero Academia: Memories مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-memories.webp",
@@ -11393,6 +11484,21 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "gintama-monster-strike-hen",
+    "title": "انمي Gintama: Monster Strike-hen مترجم اون لاين",
+    "poster": "data/posters/gintama-monster-strike-hen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "محاكاة ساخرة",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "2",
+    "season": "صيف 2019"
+  },
+  {
     "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita",
     "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita مترجم اون لاين",
     "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita.webp",
@@ -11752,6 +11858,23 @@
     "season": "خريف 2014"
   },
   {
+    "id": "inuyasha-kanketsu-hen",
+    "title": "انمي InuYasha: Kanketsu-hen مترجم اون لاين",
+    "poster": "data/posters/inuyasha-kanketsu-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "خريف 2009"
+  },
+  {
     "id": "grimm-kumikyoku",
     "title": "انمي Grimm Kumikyoku مترجم اون لاين",
     "poster": "data/posters/grimm-kumikyoku.webp",
@@ -11793,6 +11916,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "kimi-to-nami-ni-noretara",
+    "title": "انمي Kimi to, Nami ni Noretara مترجم اون لاين",
+    "poster": "data/posters/kimi-to-nami-ni-noretara.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
   },
   {
     "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
@@ -12393,6 +12530,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "sentai-daishikkaku",
+    "title": "انمي Sentai Daishikkaku مترجم اون لاين",
+    "poster": "data/posters/sentai-daishikkaku.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
   },
   {
     "id": "medalist",
@@ -14844,6 +14996,33 @@
     "season": "خريف 2025"
   },
   {
+    "id": "enen-no-shouboutai",
+    "title": "انمي Enen no Shouboutai مترجم اون لاين",
+    "poster": "data/posters/enen-no-shouboutai.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2019"
+  },
+  {
+    "id": "chuubyou-gekihatsu-boy",
+    "title": "انمي Chuubyou Gekihatsu Boy مترجم اون لاين",
+    "poster": "data/posters/chuubyou-gekihatsu-boy.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "خريف 2019"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-iv-fuka-shou-yakusai-hen.webp",
@@ -16251,6 +16430,23 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "خريف 2025"
+  },
+  {
+    "id": "mahouka-koukou-no-rettousei-3rd-season",
+    "title": "انمي Mahouka Koukou no Rettousei 3rd Season مترجم اون لاين",
+    "poster": "data/posters/mahouka-koukou-no-rettousei-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
   },
   {
     "id": "pon-no-michi",
