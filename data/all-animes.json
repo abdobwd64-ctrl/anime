@@ -484,6 +484,23 @@
     "season": "صيف 2025"
   },
   {
+    "id": "no-game-no-life",
+    "title": "انمي No Game No Life مترجم اون لاين",
+    "poster": "data/posters/no-game-no-life.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "كوميدي",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2014"
+  },
+  {
     "id": "osomatsu-san-4th-season",
     "title": "انمي Osomatsu-san 4th Season مترجم اون لاين",
     "poster": "data/posters/osomatsu-san-4th-season.webp",
@@ -3337,6 +3354,24 @@
     "season": "صيف 2024"
   },
   {
+    "id": "high-school-dxd-new",
+    "title": "انمي High School DxD New مترجم اون لاين",
+    "poster": "data/posters/high-school-dxd-new.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "شياطين",
+      "إيتشي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2013"
+  },
+  {
     "id": "ssss-dynazenon",
     "title": "انمي SSSS.Dynazenon مترجم اون لاين",
     "poster": "data/posters/ssss-dynazenon.webp",
@@ -4401,6 +4436,19 @@
     "season": "ربيع 2015"
   },
   {
+    "id": "shiguang-dailiren-ii",
+    "title": "انمي Shiguang Dailiren II مترجم اون لاين",
+    "poster": "data/posters/shiguang-dailiren-ii.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "صيف 2023"
+  },
+  {
     "id": "love-all-play",
     "title": "انمي Love All Play مترجم اون لاين",
     "poster": "data/posters/love-all-play.webp",
@@ -5063,6 +5111,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito",
+    "title": "انمي Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito مترجم اون لاين",
+    "poster": "data/posters/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shito.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
   },
   {
     "id": "giji-harem",
