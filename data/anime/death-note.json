@@ -135,7 +135,66 @@
           "url": "https://www.4shared.com/video/0x2C0VAggm/Anime4upcom_DN_EP_36_HD.html"
         }
       ]
+    },
+    {
+      "number": "35",
+      "title": "الحلقة 35Death Note",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1092536371930"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/Jeoc4huhee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!9uoQASAA!9jcz1LC6oplgplfxPRy_XrL5no6A0HaQYhtI7jgZfpM"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-dgm5up0itt29.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/lc1vdl6iqd7z"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!9uoQASAA!9jcz1LC6oplgplfxPRy_XrL5no6A0HaQYhtI7jgZfpM"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/j6lyx9hd1xad"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/YDISjAAmAhQ/%5BAnime4up.com%5D_DN_EP_35_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/lc1vdl6iqd7z"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/Jeoc4huhee/Anime4upcom_DN_EP_35_HD.html"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:28:22.847534"
+  "last_updated": "2026-06-25T02:28:34.236538"
 }
