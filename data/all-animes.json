@@ -8984,6 +8984,23 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "kiseijuu-sei-no-kakuritsu",
+    "title": "انمي Kiseijuu: Sei no Kakuritsu مترجم اون لاين",
+    "poster": "data/posters/kiseijuu-sei-no-kakuritsu.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "رعب",
+      "نفسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014"
+  },
+  {
     "id": "shaman-king-flowers",
     "title": "انمي Shaman King: Flowers مترجم اون لاين",
     "poster": "data/posters/shaman-king-flowers.webp",
@@ -10995,6 +11012,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "raise-wa-tanin-ga-ii",
+    "title": "انمي Raise wa Tanin ga Ii مترجم اون لاين",
+    "poster": "data/posters/raise-wa-tanin-ga-ii.webp",
+    "genres": [
+      "رومانسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "kill-la-kill",
@@ -13631,6 +13661,19 @@
     "season": "خريف 2017"
   },
   {
+    "id": "kyoto-teramachi-sanjou-no-holmes",
+    "title": "انمي Kyoto Teramachi Sanjou no Holmes مترجم اون لاين",
+    "poster": "data/posters/kyoto-teramachi-sanjou-no-holmes.webp",
+    "genres": [
+      "غموض",
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2018"
+  },
+  {
     "id": "ao-no-orchestra",
     "title": "انمي Ao no Orchestra مترجم اون لاين",
     "poster": "data/posters/ao-no-orchestra.webp",
@@ -14281,6 +14324,16 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2019"
+  },
+  {
+    "id": "world-dai-star",
+    "title": "انمي World Dai Star مترجم اون لاين",
+    "poster": "data/posters/world-dai-star.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
   },
   {
     "id": "do-it-yourself",
