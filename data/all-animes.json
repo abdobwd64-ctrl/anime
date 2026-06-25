@@ -894,6 +894,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "ganbare-douki-chan",
+    "title": "انمي Ganbare Douki-chan مترجم اون لاين",
+    "poster": "data/posters/ganbare-douki-chan.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2021"
+  },
+  {
     "id": "date-a-live-movie-mayuri-judgment",
     "title": "انمي Date A Live Movie: Mayuri Judgment مترجم اون لاين",
     "poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
@@ -1759,6 +1773,18 @@
     "type": "أونا",
     "episodes_count": "8",
     "season": "صيف 2019"
+  },
+  {
+    "id": "22-7",
+    "title": "انمي 22/7 مترجم اون لاين",
+    "poster": "data/posters/22-7.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "osomatsu-san-4th-season",
@@ -11456,6 +11482,20 @@
     "season": "خريف 2013"
   },
   {
+    "id": "lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note",
+    "title": "انمي Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note مترجم اون لاين",
+    "poster": "data/posters/lord-el-melloi-ii-sei-no-jikenbo-rail-zeppelin-grace-note.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2019"
+  },
+  {
     "id": "extreme-hearts",
     "title": "انمي Extreme Hearts مترجم اون لاين",
     "poster": "data/posters/extreme-hearts.webp",
@@ -14436,6 +14476,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru",
+    "title": "انمي Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru مترجم اون لاين",
+    "poster": "data/posters/saikyou-tank-no-meikyuu-kouryaku-tairyoku-9999-no-rare-skill-mochi-tank-yuusha-party-wo-tsuihou-sareru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "vigilante-boku-no-hero-academia-illegals-2nd-season",
     "title": "انمي Vigilante: Boku no Hero Academia Illegals 2nd Season مترجم اون لاين",
     "poster": "data/posters/vigilante-boku-no-hero-academia-illegals-2nd-season.webp",
@@ -15102,6 +15156,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2021"
+  },
+  {
+    "id": "shokugeki-no-souma-shin-no-sara",
+    "title": "انمي Shokugeki no Souma: Shin no Sara مترجم اون لاين",
+    "poster": "data/posters/shokugeki-no-souma-shin-no-sara.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "nozomanu-fushi-no-boukensha",
