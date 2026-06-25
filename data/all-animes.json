@@ -12315,6 +12315,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "giji-harem",
+    "title": "انمي Giji Harem مترجم اون لاين",
+    "poster": "data/posters/giji-harem.webp",
+    "genres": [
+      "شونين",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
+  },
+  {
     "id": "bye-bye-earth",
     "title": "انمي Bye Bye, Earth مترجم اون لاين",
     "poster": "data/posters/bye-bye-earth.webp",
