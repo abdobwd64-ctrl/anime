@@ -1654,7 +1654,156 @@
           "url": "https://gofile.io/d/fPlur0"
         }
       ]
+    },
+    {
+      "number": "4",
+      "title": "الحلقة 4Busu ni Hanataba wo.",
+      "date": "27 يوليو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/1P2IgrPEGtXRa"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/1P2IgrPEGtXRa"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/MNRCjTyJ!KTp1uU-aYnN6c-B6gEjFLZ34WzYOc1RPaQv4NmDE_jU"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/pr0rrioq1zmn"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-3cbomriecmzq.html"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239566&hd=2&hash=4fee835a5ab5129c&autoplay=1"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-czsose3weid9.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/0VBkxCpB!kXwlKQZhb6I-Ie4UAUSG-BdM6qHgrMJkfzCU9gWrKAw"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-tzbhtycrhart.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/RMxUyZSJ!fvYvfNMzvC-SIZbDoiVkbaXV8RrL1QHkN0PQ4KQmeJc"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-rabpn5sm5zx9.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RMxUyZSJ!fvYvfNMzvC-SIZbDoiVkbaXV8RrL1QHkN0PQ4KQmeJc"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/5qh0avdwbtt4"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/c0ZCBx"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rabpn5sm5zx9"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!MNRCjTyJ!KTp1uU-aYnN6c-B6gEjFLZ34WzYOc1RPaQv4NmDE_jU"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/gkqbpahn5sic"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/pr0rrioq1zmn"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/czsose3weid9"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/tW3I9g"
+        },
+        {
+          "server": "vvide0",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://vvide0.com/d/pyhlm87rzamn"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/3cbomriecmzq"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!0VBkxCpB!kXwlKQZhb6I-Ie4UAUSG-BdM6qHgrMJkfzCU9gWrKAw"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/vcmrvkkhsmm9"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/1P2IgrPEGtXRa"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/EdVE0X"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/tzbhtycrhart"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:22:43.879032"
+  "last_updated": "2026-06-25T02:22:59.893639"
 }
