@@ -169,6 +169,22 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "bungou-stray-dogs-3rd-season",
+    "title": "انمي Bungou Stray Dogs 3rd Season مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-3rd-season.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "odayaka-kizoku-no-kyuuka-no-susume",
     "title": "انمي Odayaka Kizoku no Kyuuka no Susume. مترجم اون لاين",
     "poster": "data/posters/odayaka-kizoku-no-kyuuka-no-susume.webp",
@@ -10123,6 +10139,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "dead-account",
+    "title": "انمي Dead Account مترجم اون لاين",
+    "poster": "data/posters/dead-account.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "9",
+    "season": "شتاء 2026"
   },
   {
     "id": "hachigatsu-no-cinderella-nine-tv",
