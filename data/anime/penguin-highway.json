@@ -1,0 +1,74 @@
+{
+  "id": "penguin-highway",
+  "title": "انمي Penguin Highway مترجم اون لاين",
+  "url": "https://animelek.top/anime/penguin-highway/",
+  "poster": "data/posters/penguin-highway.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "صيف 2018",
+  "genres": [
+    "فنتازيا",
+    "خيال علمي"
+  ],
+  "story": "قصة الفيلم تتحدث عن صبي في الصف الرابع يدعى أوياما و امرأة غامضة ساعدته في اقتلاع سنه الأول، حينما ظهرت مجموعة من البطاريق في ضاحية حيه الهادئ يحاول أيوما معرفة سر ظهورها المفاجئ.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Penguin Highway",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/973828131546"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1gzl3953tJ2itDhww0XBNS7Xs_UnwuVwZ/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!RsgQRaRD!F_jegyqhMVVob-lo4GsF3QmwPxObUcJSIBcerTBbIZc"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-4cfur2vxg566.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/DchUYzxO-eg/[Animetak.com]_PH_HD.mp4"
+        },
+        {
+          "server": "3rbup",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://3rbup.com/dac967f5e5b730cb"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RsgQRaRD!F_jegyqhMVVob-lo4GsF3QmwPxObUcJSIBcerTBbIZc"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/o9vv4s2dqur9"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1gzl3953tJ2itDhww0XBNS7Xs_UnwuVwZ&export=download"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:29:36.363752"
+}
