@@ -202,6 +202,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "tokyo-revengers-tenjiku-hen",
+    "title": "انمي Tokyo Revengers: Tenjiku-hen مترجم اون لاين",
+    "poster": "data/posters/tokyo-revengers-tenjiku-hen.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2023"
+  },
+  {
     "id": "higurashi-no-naku-koro-ni-2020",
     "title": "انمي Higurashi no Naku Koro ni (2020) مترجم اون لاين",
     "poster": "data/posters/higurashi-no-naku-koro-ni-2020.webp",
@@ -1309,6 +1323,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "ninja-to-koroshiya-no-futarigurashi",
+    "title": "انمي Ninja to Koroshiya no Futarigurashi مترجم اون لاين",
+    "poster": "data/posters/ninja-to-koroshiya-no-futarigurashi.webp",
+    "genres": [
+      "شونين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
   },
   {
     "id": "shigatsu-wa-kimi-no-uso",
@@ -2503,6 +2530,20 @@
     "season": "خريف 2014"
   },
   {
+    "id": "one-piece-movie-01",
+    "title": "انمي One Piece Movie 01 مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-01.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai",
     "title": "انمي Kimetsu no Yaiba Movie 1: Mugenjou-hen - Akaza Sairai مترجم اون لاين",
     "poster": "data/posters/kimetsu-no-yaiba-movie-1-mugenjou-hen-akaza-sairai.webp",
@@ -3232,6 +3273,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "صيف 2023"
+  },
+  {
+    "id": "sentouin-hakenshimasu",
+    "title": "انمي Sentouin, Hakenshimasu! مترجم اون لاين",
+    "poster": "data/posters/sentouin-hakenshimasu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
   },
   {
     "id": "the-fable",
@@ -4693,6 +4748,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "kandagawa-jet-girls",
+    "title": "انمي Kandagawa Jet Girls مترجم اون لاين",
+    "poster": "data/posters/kandagawa-jet-girls.webp",
+    "genres": [
+      "إيتشي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
@@ -7190,6 +7258,19 @@
     "season": "صيف 2005"
   },
   {
+    "id": "yuuki-bakuhatsu-bang-bravern",
+    "title": "انمي Yuuki Bakuhatsu Bang Bravern مترجم اون لاين",
+    "poster": "data/posters/yuuki-bakuhatsu-bang-bravern.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman",
     "title": "انمي Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman مترجم اون لاين",
     "poster": "data/posters/haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman.webp",
@@ -7961,6 +8042,20 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "maou-sama-retry",
+    "title": "انمي Maou-sama, Retry! مترجم اون لاين",
+    "poster": "data/posters/maou-sama-retry.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "cyberpunk-edgerunners",
     "title": "انمي Cyberpunk: Edgerunners مترجم اون لاين",
     "poster": "data/posters/cyberpunk-edgerunners.webp",
@@ -7998,6 +8093,18 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2013"
+  },
+  {
+    "id": "gimai-seikatsu",
+    "title": "انمي Gimai Seikatsu مترجم اون لاين",
+    "poster": "data/posters/gimai-seikatsu.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "totsukuni-no-shoujo",
