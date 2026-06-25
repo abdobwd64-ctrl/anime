@@ -5663,6 +5663,19 @@
     "season": "ربيع 2020"
   },
   {
+    "id": "leadale-no-daichi-nite",
+    "title": "انمي Leadale no Daichi nite مترجم اون لاين",
+    "poster": "data/posters/leadale-no-daichi-nite.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "sd-gundam-world-sangoku-souketsuden",
     "title": "انمي SD Gundam World: Sangoku Souketsuden مترجم اون لاين",
     "poster": "data/posters/sd-gundam-world-sangoku-souketsuden.webp",
@@ -17069,6 +17082,18 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "asatir-mirai-no-mukashi-banashi",
+    "title": "انمي Asatir: Mirai no Mukashi Banashi مترجم اون لاين",
+    "poster": "data/posters/asatir-mirai-no-mukashi-banashi.webp",
+    "genres": [
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "back-arrow",
     "title": "انمي Back Arrow مترجم اون لاين",
     "poster": "data/posters/back-arrow.webp",
@@ -24028,6 +24053,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "a3-season-autumn-winter",
+    "title": "انمي A3! Season Autumn & Winter مترجم اون لاين",
+    "poster": "data/posters/a3-season-autumn-winter.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "kanojo-okarishimasu-5th-season",
