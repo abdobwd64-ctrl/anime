@@ -207,7 +207,109 @@
           "url": "https://www.file-up.org/f8xs3379zw8a"
         }
       ]
+    },
+    {
+      "number": "21",
+      "title": "الحلقة 21Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1JaBGXTp3twZR8h5EEc0EU3ikdmC1Xaxr/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!4HgWwCKY!E10h_iLkPNc-QyAWbbzqnBsJpSRUherv_cSjhZ36tX8"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/lBSmSRikda"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-tek46p72jgku.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/zyrxe51we6ze"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1JaBGXTp3twZR8h5EEc0EU3ikdmC1Xaxr&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4HgWwCKY!E10h_iLkPNc-QyAWbbzqnBsJpSRUherv_cSjhZ36tX8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/smu4qw15hrxt"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/682Zyz4g8p0/%5BAnime4up.com%5D_NNT_EP_21_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/zyrxe51we6ze"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "title": "الحلقة 20Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=Qqrc&w=640&h=320"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-77uh6plx1sud.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-33xilps233fq.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-tvj7w1ssakvt.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/tvj7w1ssakvt"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/33xilps233fq"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/Qqrc/[Anime4up.com]_NNT_EP_20_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:02.592735"
+  "last_updated": "2026-06-25T00:29:19.860206"
 }
