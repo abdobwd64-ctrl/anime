@@ -1423,6 +1423,21 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "toaru-kagaku-no-accelerator",
+    "title": "انمي Toaru Kagaku no Accelerator مترجم اون لاين",
+    "poster": "data/posters/toaru-kagaku-no-accelerator.webp",
+    "genres": [
+      "خارق للعادة",
+      "فنتازيا",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "futoku-no-guild",
     "title": "انمي Futoku no Guild مترجم اون لاين",
     "poster": "data/posters/futoku-no-guild.webp",
@@ -4251,6 +4266,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "koukyoushihen-eureka-seven-hi-evolution-3-eureka",
+    "title": "انمي Koukyoushihen Eureka Seven Hi-Evolution 3: Eureka مترجم اون لاين",
+    "poster": "data/posters/koukyoushihen-eureka-seven-hi-evolution-3-eureka.webp",
+    "genres": [
+      "دراما",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2021"
   },
   {
     "id": "leviathan",
