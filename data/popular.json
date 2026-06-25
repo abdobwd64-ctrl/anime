@@ -352,6 +352,21 @@
     "score": 37
   },
   {
+    "id": "watashi-to-watashi-futari-no-lotte",
+    "title": "انمي Watashi to Watashi: Futari no Lotte مترجم اون لاين",
+    "poster": "data/posters/watashi-to-watashi-futari-no-lotte.webp",
+    "genres": [
+      "شريحة من الحياة",
+      "شوجو",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "29",
+    "season": "خريف 1991",
+    "score": 32
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -479,20 +494,6 @@
     "type": "أونا",
     "episodes_count": "26",
     "season": "شتاء 2019",
-    "score": 29
-  },
-  {
-    "id": "yozakura-san-chi-no-daisakusen",
-    "title": "انمي Yozakura-san Chi no Daisakusen مترجم اون لاين",
-    "poster": "data/posters/yozakura-san-chi-no-daisakusen.webp",
-    "genres": [
-      "أكشن",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "27",
-    "season": "ربيع 2024",
     "score": 29
   }
 ]

@@ -684,6 +684,18 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "uma-musume-pretty-derby-season-3",
+    "title": "انمي Uma Musume: Pretty Derby Season 3 مترجم اون لاين",
+    "poster": "data/posters/uma-musume-pretty-derby-season-3.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2023"
+  },
+  {
     "id": "princess-connect-re-dive",
     "title": "انمي Princess Connect! Re:Dive مترجم اون لاين",
     "poster": "data/posters/princess-connect-re-dive.webp",
@@ -1426,6 +1438,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "totsukuni-no-shoujo-2022",
+    "title": "انمي Totsukuni no Shoujo (2022) مترجم اون لاين",
+    "poster": "data/posters/totsukuni-no-shoujo-2022.webp",
+    "genres": [
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
   },
   {
     "id": "fumetsu-no-anata-e-2nd-season",
@@ -2176,6 +2200,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "kirei-ni-shitemoraemasu-ka",
+    "title": "انمي Kirei ni Shitemoraemasu ka. مترجم اون لاين",
+    "poster": "data/posters/kirei-ni-shitemoraemasu-ka.webp",
+    "genres": [
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "sanda",
     "title": "انمي Sanda مترجم اون لاين",
     "poster": "data/posters/sanda.webp",
@@ -2374,6 +2411,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2024"
+  },
+  {
+    "id": "dekin-no-mogura",
+    "title": "انمي Dekin no Mogura مترجم اون لاين",
+    "poster": "data/posters/dekin-no-mogura.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
   },
   {
     "id": "moonrise",
@@ -2853,6 +2905,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "watashi-to-watashi-futari-no-lotte",
+    "title": "انمي Watashi to Watashi: Futari no Lotte مترجم اون لاين",
+    "poster": "data/posters/watashi-to-watashi-futari-no-lotte.webp",
+    "genres": [
+      "شريحة من الحياة",
+      "شوجو",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "29",
+    "season": "خريف 1991"
   },
   {
     "id": "hi-no-tori-houou-hen",
@@ -4097,6 +4163,16 @@
     "season": "خريف 2024"
   },
   {
+    "id": "heike-monogatari",
+    "title": "انمي Heike Monogatari مترجم اون لاين",
+    "poster": "data/posters/heike-monogatari.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "babylon",
     "title": "انمي Babylon مترجم اون لاين",
     "poster": "data/posters/babylon.webp",
@@ -5064,6 +5140,23 @@
     "season": "صيف 2021"
   },
   {
+    "id": "nanatsu-no-taizai-ova",
+    "title": "انمي Nanatsu no Taizai OVA مترجم اون لاين",
+    "poster": "data/posters/nanatsu-no-taizai-ova.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "سحر",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "2",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "noblesse",
     "title": "انمي Noblesse مترجم اون لاين",
     "poster": "data/posters/noblesse.webp",
@@ -5827,6 +5920,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2013"
+  },
+  {
+    "id": "edomae-elf",
+    "title": "انمي Edomae Elf مترجم اون لاين",
+    "poster": "data/posters/edomae-elf.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "3",
+    "season": "ربيع 2023"
   },
   {
     "id": "ssss-dynazenon",
@@ -6919,6 +7025,19 @@
     "season": "خريف 2021"
   },
   {
+    "id": "tamayomi",
+    "title": "انمي Tamayomi مترجم اون لاين",
+    "poster": "data/posters/tamayomi.webp",
+    "genres": [
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "sengoku-youko-senma-konton-hen",
     "title": "انمي Sengoku Youko: Senma Konton-hen مترجم اون لاين",
     "poster": "data/posters/sengoku-youko-senma-konton-hen.webp",
@@ -7513,6 +7632,21 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "amagami-san-chi-no-enmusubi",
+    "title": "انمي Amagami-san Chi no Enmusubi مترجم اون لاين",
+    "poster": "data/posters/amagami-san-chi-no-enmusubi.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2024"
+  },
+  {
     "id": "vinland-saga-season-2",
     "title": "انمي Vinland Saga Season 2 مترجم اون لاين",
     "poster": "data/posters/vinland-saga-season-2.webp",
@@ -7610,6 +7744,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "shiroi-suna-no-aquatope",
+    "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
+    "poster": "data/posters/shiroi-suna-no-aquatope.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "صيف 2021"
   },
   {
     "id": "love-all-play",
