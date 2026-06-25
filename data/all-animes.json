@@ -550,6 +550,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "koi-to-yobu-ni-wa-kimochi-warui",
+    "title": "انمي Koi to Yobu ni wa Kimochi Warui مترجم اون لاين",
+    "poster": "data/posters/koi-to-yobu-ni-wa-kimochi-warui.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "fuufu-ijou-koibito-miman",
     "title": "انمي Fuufu Ijou, Koibito Miman. مترجم اون لاين",
     "poster": "data/posters/fuufu-ijou-koibito-miman.webp",
@@ -742,6 +755,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "2",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "bungou-stray-dogs-4th-season",
+    "title": "انمي Bungou Stray Dogs 4th Season مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-4th-season.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "yu-gi-oh-duel-monsters-gx",
@@ -2238,6 +2265,21 @@
     "season": "خريف 2020"
   },
   {
+    "id": "zombieland-saga-movie-yumeginga-paradise",
+    "title": "انمي Zombieland Saga Movie: Yumeginga Paradise مترجم اون لاين",
+    "poster": "data/posters/zombieland-saga-movie-yumeginga-paradise.webp",
+    "genres": [
+      "كوميدي",
+      "محاكاة ساخرة",
+      "قوى خارقة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2025"
+  },
+  {
     "id": "yofukashi-no-uta-season-2",
     "title": "انمي Yofukashi no Uta Season 2 مترجم اون لاين",
     "poster": "data/posters/yofukashi-no-uta-season-2.webp",
@@ -2393,6 +2435,25 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2025"
+  },
+  {
+    "id": "dragon-ball-gt",
+    "title": "انمي Dragon Ball GT مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-gt.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "شتاء 1996"
   },
   {
     "id": "enen-no-shouboutai-ni-no-shou",
@@ -5154,6 +5215,16 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2020"
+  },
+  {
+    "id": "one-piece-dai-tokushu-momonosuke-no-mei-shogun-e-no-michi",
+    "title": "انمي One Piece: Dai Tokushu! Momonosuke no Mei Shogun e no Michi مترجم اون لاين",
+    "poster": "data/posters/one-piece-dai-tokushu-momonosuke-no-mei-shogun-e-no-michi.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
   },
   {
     "id": "muchuu-sa-kimi-ni",
@@ -11776,6 +11847,22 @@
     "season": "خريف 2023"
   },
   {
+    "id": "kenja-no-mago",
+    "title": "انمي Kenja no Mago مترجم اون لاين",
+    "poster": "data/posters/kenja-no-mago.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "i-chu-halfway-through-the-idol",
     "title": "انمي I★Chu: Halfway Through the Idol مترجم اون لاين",
     "poster": "data/posters/i-chu-halfway-through-the-idol.webp",
@@ -12152,6 +12239,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "mahoutsukai-reimeiki",
+    "title": "انمي Mahoutsukai Reimeiki مترجم اون لاين",
+    "poster": "data/posters/mahoutsukai-reimeiki.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "niwatori-fighter",
@@ -14323,6 +14425,20 @@
     "type": "تلفزيون",
     "episodes_count": "8",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
+    "title": "انمي Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su مترجم اون لاين",
+    "poster": "data/posters/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
   },
   {
     "id": "okashi-na-tensei",

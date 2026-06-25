@@ -285,6 +285,26 @@
     "score": 76
   },
   {
+    "id": "dragon-ball-gt",
+    "title": "انمي Dragon Ball GT مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-gt.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "سحر",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "64",
+    "season": "شتاء 1996",
+    "score": 72
+  },
+  {
     "id": "digimon-adventure",
     "title": "انمي Digimon Adventure: مترجم اون لاين",
     "poster": "data/posters/digimon-adventure.webp",
@@ -484,22 +504,5 @@
     "episodes_count": "43",
     "season": "شتاء 1987",
     "score": 47
-  },
-  {
-    "id": "jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai",
-    "title": "انمي JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai مترجم اون لاين",
-    "poster": "data/posters/jojo-no-kimyou-na-bouken-part-4-diamond-wa-kudakenai.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "مغامرات",
-      "كوميدي",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "39",
-    "season": "ربيع 2016",
-    "score": 44
   }
 ]
