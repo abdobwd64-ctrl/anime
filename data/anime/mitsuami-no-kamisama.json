@@ -1,0 +1,85 @@
+{
+  "id": "mitsuami-no-kamisama",
+  "title": "انمي Mitsuami no Kamisama مترجم اون لاين",
+  "url": "https://animelek.top/anime/mitsuami-no-kamisama/",
+  "poster": "data/posters/mitsuami-no-kamisama.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2015",
+  "season": "خريف 2015",
+  "genres": [
+    "دراما",
+    "سينين",
+    "شريحة من الحياة"
+  ],
+  "story": "قصة فيلم Mitsuami no Kamisama تدور عن حياة فتاة صغيرة بعد كارثتي التسونامي والزلزال في اليابان عام 2011.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Mitsuami no Kamisama",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1091996420826"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1W6GYao-6Lu2vWCACMQhzloXGLXIbaA0d/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/ziwJJXpIgm"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!4q5mQaAK!m9TKiLV9m0EPEm-Qegryi_sgBKQmRg9xywXq2_zXEVY"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/d78fyxa6g8m8"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1W6GYao-6Lu2vWCACMQhzloXGLXIbaA0d&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!4q5mQaAK!m9TKiLV9m0EPEm-Qegryi_sgBKQmRg9xywXq2_zXEVY"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/z6nj3nvxkft0"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/oGiAGF86Ye8/%5BAnime4up.com%5D_MNK_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/d78fyxa6g8m8"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/k47olxtm8wgi"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T02:47:17.417411"
+}

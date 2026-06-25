@@ -58,6 +58,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "meitantei-conan-hannin-no-hanzawa-san",
+    "title": "انمي Meitantei Conan: Hannin no Hanzawa-san مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-hannin-no-hanzawa-san.webp",
+    "genres": [
+      "غموض",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
     "title": "انمي Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\" مترجم اون لاين",
     "poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
@@ -986,6 +999,20 @@
     "season": "صيف 2020"
   },
   {
+    "id": "hana-wa-saku-shura-no-gotoku",
+    "title": "انمي Hana wa Saku, Shura no Gotoku مترجم اون لاين",
+    "poster": "data/posters/hana-wa-saku-shura-no-gotoku.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "seiken-gakuin-no-makentsukai",
     "title": "انمي Seiken Gakuin no Makentsukai مترجم اون لاين",
     "poster": "data/posters/seiken-gakuin-no-makentsukai.webp",
@@ -1827,6 +1854,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "urashimasakatasen-no-nichijou",
+    "title": "انمي Urashimasakatasen no Nichijou مترجم اون لاين",
+    "poster": "data/posters/urashimasakatasen-no-nichijou.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "nippon-sangoku",
@@ -2868,6 +2909,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "mitsuami-no-kamisama",
+    "title": "انمي Mitsuami no Kamisama مترجم اون لاين",
+    "poster": "data/posters/mitsuami-no-kamisama.webp",
+    "genres": [
+      "دراما",
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2015"
+  },
+  {
     "id": "lycoris-recoil-friends-are-thieves-of-time",
     "title": "انمي Lycoris Recoil: Friends Are Thieves of Time. مترجم اون لاين",
     "poster": "data/posters/lycoris-recoil-friends-are-thieves-of-time.webp",
@@ -3096,6 +3151,20 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "kaoru-hana-wa-rin-to-saku",
+    "title": "انمي Kaoru Hana wa Rin to Saku مترجم اون لاين",
+    "poster": "data/posters/kaoru-hana-wa-rin-to-saku.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2025"
   },
   {
     "id": "haikyuu-second-season",
@@ -3374,6 +3443,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "osananajimi-ga-zettai-ni-makenai-love-comedy",
+    "title": "انمي Osananajimi ga Zettai ni Makenai Love Comedy مترجم اون لاين",
+    "poster": "data/posters/osananajimi-ga-zettai-ni-makenai-love-comedy.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2021"
   },
   {
     "id": "kanojo-okarishimasu-2nd-season",
@@ -4215,6 +4299,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2023"
+  },
+  {
+    "id": "maou-2099",
+    "title": "انمي Maou 2099 مترجم اون لاين",
+    "poster": "data/posters/maou-2099.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "kageki-shoujo",
