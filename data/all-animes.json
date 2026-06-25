@@ -5015,6 +5015,20 @@
     "season": "خريف 2012"
   },
   {
+    "id": "atri-my-dear-moments",
+    "title": "انمي Atri: My Dear Moments مترجم اون لاين",
+    "poster": "data/posters/atri-my-dear-moments.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2024"
+  },
+  {
     "id": "senpai-wa-otokonoko",
     "title": "انمي Senpai wa Otokonoko مترجم اون لاين",
     "poster": "data/posters/senpai-wa-otokonoko.webp",
@@ -6125,6 +6139,19 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2025"
+  },
+  {
+    "id": "long-zu",
+    "title": "انمي Long Zu مترجم اون لاين",
+    "poster": "data/posters/long-zu.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "16",
+    "season": "صيف 2022"
   },
   {
     "id": "yakitori",
@@ -12453,6 +12480,19 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "ooi-tonbo",
+    "title": "انمي Ooi! Tonbo مترجم اون لاين",
+    "poster": "data/posters/ooi-tonbo.webp",
+    "genres": [
+      "دراما",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "6",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "chuunibyou-demo-koi-ga-shitai-movie-take-on-me",
     "title": "انمي Chuunibyou demo Koi ga Shitai! Movie: Take On Me مترجم اون لاين",
     "poster": "data/posters/chuunibyou-demo-koi-ga-shitai-movie-take-on-me.webp",
@@ -12506,6 +12546,22 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2015"
+  },
+  {
+    "id": "kimetsu-no-yaiba",
+    "title": "انمي Kimetsu no Yaiba مترجم اون لاين",
+    "poster": "data/posters/kimetsu-no-yaiba.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2019"
   },
   {
     "id": "blue-period",
@@ -12572,6 +12628,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "uchi-tama-uchi-no-tama-shirimasen-ka",
+    "title": "انمي Uchi Tama?! Uchi no Tama Shirimasen ka? مترجم اون لاين",
+    "poster": "data/posters/uchi-tama-uchi-no-tama-shirimasen-ka.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2020"
   },
   {
     "id": "liar-game",
@@ -15992,6 +16060,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu",
+    "title": "انمي Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu مترجم اون لاين",
+    "poster": "data/posters/gaikotsu-kishi-sama-tadaima-isekai-e-odekakechuu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "kumichou-musume-to-sewagakari",
     "title": "انمي Kumichou Musume to Sewagakari مترجم اون لاين",
     "poster": "data/posters/kumichou-musume-to-sewagakari.webp",
@@ -16477,6 +16558,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2015"
+  },
+  {
+    "id": "undead-girl-murder-farce",
+    "title": "انمي Undead Girl Murder Farce مترجم اون لاين",
+    "poster": "data/posters/undead-girl-murder-farce.webp",
+    "genres": [
+      "غموض",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2023"
   },
   {
     "id": "black-clover-mahou-tei-no-ken",
@@ -17391,6 +17485,20 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "meitantei-conan-movie-11-konpeki-no-jolly-roger",
+    "title": "انمي Meitantei Conan Movie 11: Konpeki no Jolly Roger مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-11-konpeki-no-jolly-roger.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2007"
   },
   {
     "id": "haikara-san-ga-tooru-movie-2-hana-no-tokyo-dai-roman",
@@ -19085,6 +19193,22 @@
     "season": "صيف 2019"
   },
   {
+    "id": "saiki-kusuo-no-nan-shidou-hen",
+    "title": "انمي Saiki Kusuo no Ψ-nan: Ψ-shidou-hen مترجم اون لاين",
+    "poster": "data/posters/saiki-kusuo-no-nan-shidou-hen.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "خريف 2019"
+  },
+  {
     "id": "trinity-seven-movie-2-heavens-library-to-crimson-lord",
     "title": "انمي Trinity Seven Movie 2: Heavens Library to Crimson Lord مترجم اون لاين",
     "poster": "data/posters/trinity-seven-movie-2-heavens-library-to-crimson-lord.webp",
@@ -19607,6 +19731,19 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no",
+    "title": "انمي Kono Yo no Hate de Koi wo Utau Shoujo YU-NO مترجم اون لاين",
+    "poster": "data/posters/kono-yo-no-hate-de-koi-wo-utau-shoujo-yu-no.webp",
+    "genres": [
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "26",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "mairimashita-iruma-kun-4th-season",
     "title": "انمي Mairimashita! Iruma-kun 4th Season مترجم اون لاين",
     "poster": "data/posters/mairimashita-iruma-kun-4th-season.webp",
@@ -19620,6 +19757,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "hakuouki-ova-2021",
+    "title": "انمي Hakuouki OVA (2021) مترجم اون لاين",
+    "poster": "data/posters/hakuouki-ova-2021.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "3",
+    "season": "خريف 2021"
   },
   {
     "id": "boku-no-hero-academia-final-season",
@@ -19941,6 +20092,19 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2005"
+  },
+  {
+    "id": "tensai-ouji-no-akaji-kokka-saisei-jutsu",
+    "title": "انمي Tensai Ouji no Akaji Kokka Saisei Jutsu مترجم اون لاين",
+    "poster": "data/posters/tensai-ouji-no-akaji-kokka-saisei-jutsu.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "buta-no-liver-wa-kanetsu-shiro",

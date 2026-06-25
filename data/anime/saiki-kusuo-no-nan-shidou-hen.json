@@ -1,0 +1,109 @@
+{
+  "id": "saiki-kusuo-no-nan-shidou-hen",
+  "title": "انمي Saiki Kusuo no Ψ-nan: Ψ-shidou-hen مترجم اون لاين",
+  "url": "https://animelek.top/anime/saiki-kusuo-no-nan-shidou-hen/",
+  "poster": "data/posters/saiki-kusuo-no-nan-shidou-hen.webp",
+  "status": "مكتمل",
+  "type": "أونا",
+  "episodes_count": "6",
+  "start_date": "2019",
+  "season": "خريف 2019",
+  "genres": [
+    "شونين",
+    "كوميدي",
+    "قوى خارقة",
+    "مدرسي",
+    "شريحة من الحياة"
+  ],
+  "story": "قصة انمي Saiki Kusuo no Ψ-nan: Shidou-hen حول كوسو ومجموعة ممن يدعون أنهم أصدقاؤه.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأونا 1Saiki Kusuo no Ψ-nan: Ψ-shidou-hen",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1320616463066"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1BnIJGNCHYhsG3rgfXpfjmXik4Zux-St7/preview"
+        },
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=3uH6o&w=640&h=320"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/ZQmKzLBwykWVQ"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!Sm4gDSQB!bZR5tpdKEqKnjyJYLbH3MBKJILWXdWhbDJ0grhiq5k0"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/afza6iuud8af"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-iyt6drxzmgu2.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-cx5wh7k7abaq.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-mrqyna3rj2y4.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1BnIJGNCHYhsG3rgfXpfjmXik4Zux-St7&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Sm4gDSQB!bZR5tpdKEqKnjyJYLbH3MBKJILWXdWhbDJ0grhiq5k0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/cx5wh7k7abaq"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/afza6iuud8af"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/mrqyna3rj2y4"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/ZQmKzLBwykWVQ"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/3uH6o/[Anime4up.com]_SKNNSH_EP_01_HD.mp4"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:17:48.599167"
+}
