@@ -1342,7 +1342,166 @@
           "url": "https://www.file-up.org/3velamrkm5ma"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Beastars",
+      "date": "09 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1244464614106"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1QNfy2igy0p-_Pv0Zuc0h4s3vTqENnUKe/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/AnDZPmLrX7DrG"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!poJmQS4S!SENNj65dfKAkmUbw_EOqUJxTc9G99qyKWqOCUnzPtAI"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/2i1ie652cd7u"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1244505967322"
+        },
+        {
+          "name": "google | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1ZjBT0PpnLO21t4TEZl0GqF92Xwuj8LOW/preview"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1244474903258"
+        },
+        {
+          "name": "google | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1obdGUEbNjN2ZOMxjjUcICZWv5kGH7kCE/preview"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1obdGUEbNjN2ZOMxjjUcICZWv5kGH7kCE&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!1tYGzYBT!_PggKKiLFJmaTL1amezno1QlDVCncwuJPsZW38-D9tw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/n7a4hhi644nn"
+        },
+        {
+          "server": "openload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/MnL8ltvbcas/%5BAnime4up.com%5D_BE_EP_01_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2rheim0bzvxi"
+        },
+        {
+          "server": "file-up",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/b997119vhrae"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1QNfy2igy0p-_Pv0Zuc0h4s3vTqENnUKe&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!poJmQS4S!SENNj65dfKAkmUbw_EOqUJxTc9G99qyKWqOCUnzPtAI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qzk5zgb34ura"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2i1ie652cd7u"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/yLIVZE-sapU/%5BAnime4up.com%5D_BE_EP_01_HD.mp4"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/15o8kwl1i6r8"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/AnDZPmLrX7DrG"
+        },
+        {
+          "server": "drive",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1ZjBT0PpnLO21t4TEZl0GqF92Xwuj8LOW&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Fh5TjKwC!rzRdBkoLlI6rf2CZbsrownTb_DyFst3y9kj56QBSX14"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/hcx3vxukp87u"
+        },
+        {
+          "server": "openload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/FTFjNjzgZj8/%5BAnime4up.com%5D_BE_EP_01_FHD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/20kq0d62psmt"
+        },
+        {
+          "server": "file-up",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/om6yzm4vjcxm"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T22:11:16.464187"
+  "last_updated": "2026-06-25T04:45:39.934666"
 }

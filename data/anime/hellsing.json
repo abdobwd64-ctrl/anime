@@ -1,0 +1,75 @@
+{
+  "id": "hellsing",
+  "title": "انمي Hellsing مترجم اون لاين",
+  "url": "https://animelek.top/anime/hellsing/",
+  "poster": "data/posters/hellsing.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "13",
+  "start_date": "2001",
+  "season": "خريف 2001",
+  "genres": [
+    "أكشن",
+    "قوى خارقة",
+    "رعب",
+    "سينين",
+    "مصاصي دماء"
+  ],
+  "story": "قصة أنمي Hellsing تدور حول عالم مصاصي الدماء، عالم من الرعب القائم. “هيلسنج” منظمة سرية وُجدت لتقوم بمحاربة مصاصي الدماء بدعم من الحكومة البريطانية لتخفي حقيقة تواجدهم المرعب عن الناس الآمنين، “هيلسنج” لديها الكثير من الأسلحة القوية والتي لا يستطيع استخدامها سوى رجل من عائلة “هيلسنج”، العائلة التي أفنت عمرها في محاربة مصاصي الدماء. تقوم منظمة “هيلسنج” بمحاربتهم مستخدمةً قواها وأسلحتها التي حالت دون تمكنهم من العيش في بريطانيا لفترة طويلة. يخطط مصاصو الدماء هذه المرة لاجتياح كامل للبلدة ليدعون بذلك بسيادة الرعب في قلب المكان، فهل يستطيعون ذلك؟",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة 1Hellsing",
+      "date": "18 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2713447041758"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-521xud8mlscn.html"
+        },
+        {
+          "name": "gounlimited to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://gounlimited.to/embed-9k30qmot35s4.html"
+        },
+        {
+          "name": "vidoza | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidoza.net/embed-z6ivrolj3yrj.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!G3QGQa7D!eHhEsNvLYXnJEoAvlH7CeItmB26LvCkc8Xz0VK54l5I"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/521xud8mlscn"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!G3QGQa7D!eHhEsNvLYXnJEoAvlH7CeItmB26LvCkc8Xz0VK54l5I"
+        },
+        {
+          "server": "vidoza",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://vidoza.net/z6ivrolj3yrj.html"
+        },
+        {
+          "server": "gounlimited",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gounlimited.to/9k30qmot35s4"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:45:25.787452"
+}
