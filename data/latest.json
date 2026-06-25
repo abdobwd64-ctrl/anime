@@ -304,6 +304,14 @@
     "date_sort": "2026-06-21"
   },
   {
+    "anime_id": "needy-girl-overdose",
+    "anime_title": "انمي Needy Girl Overdose مترجم اون لاين",
+    "anime_poster": "data/posters/needy-girl-overdose.webp",
+    "episode": "12",
+    "date": "21 يونيو, 2026",
+    "date_sort": "2026-06-21"
+  },
+  {
     "anime_id": "zombieland-saga-movie-yumeginga-paradise",
     "anime_title": "انمي Zombieland Saga Movie: Yumeginga Paradise مترجم اون لاين",
     "anime_poster": "data/posters/zombieland-saga-movie-yumeginga-paradise.webp",
@@ -388,14 +396,6 @@
     "anime_title": "انمي Monogatari Series: Second Season مترجم اون لاين",
     "anime_poster": "data/posters/monogatari-series-second-season.webp",
     "episode": "25",
-    "date": "20 يونيو, 2026",
-    "date_sort": "2026-06-20"
-  },
-  {
-    "anime_id": "monogatari-series-second-season",
-    "anime_title": "انمي Monogatari Series: Second Season مترجم اون لاين",
-    "anime_poster": "data/posters/monogatari-series-second-season.webp",
-    "episode": "24",
     "date": "20 يونيو, 2026",
     "date_sort": "2026-06-20"
   }

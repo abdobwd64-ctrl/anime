@@ -1,0 +1,104 @@
+{
+  "id": "nanatsu-no-taizai-eiyuu-tachi-wa-hashagu",
+  "title": "انمي Nanatsu no Taizai: Eiyuu-tachi wa Hashagu مترجم اون لاين",
+  "url": "https://animelek.top/anime/nanatsu-no-taizai-eiyuu-tachi-wa-hashagu/",
+  "poster": "data/posters/nanatsu-no-taizai-eiyuu-tachi-wa-hashagu.webp",
+  "status": "مكتمل",
+  "type": "أوفا",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "خريف 2018",
+  "genres": [
+    "أكشن",
+    "فنتازيا",
+    "شونين",
+    "مغامرات",
+    "سحر",
+    "قوى خارقة"
+  ],
+  "story": "اوفا تابعة لانمي Nanatsu no Taizai: Imashime no Fukkatsu .",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الأوفا 1Nanatsu no Taizai: Eiyuu-tachi wa Hashagu",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1248685918938"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1MBRX0kRT9FobRxh2Z9IE6_iG4KJLUEti/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/6aRaMaDRmNewj"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/mW1cawnFea"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!RgRUVCwa!eEdA-0dDOwmZnMkQsSaFwgVl_TbpD4qjy6yQhBXYjU8"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/2h0gm481u71i"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1MBRX0kRT9FobRxh2Z9IE6_iG4KJLUEti&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RgRUVCwa!eEdA-0dDOwmZnMkQsSaFwgVl_TbpD4qjy6yQhBXYjU8"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/fm1h6igvklqi"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/mn-SwTeS3SE/[Anime4up.com]_NNTO_EP_03_END_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/2h0gm481u71i"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/?op=upload_form"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/6aRaMaDRmNewj"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/mW1cawnFea/Anime4upcom_NNTO_EP_03_END_HD.html"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:53:02.183245"
+}
