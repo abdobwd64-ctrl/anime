@@ -461,7 +461,661 @@
           "url": "http://uupbom.com/2ri0iey4ra5x"
         }
       ]
+    },
+    {
+      "number": "9",
+      "title": "الحلقة 9Zatsu Tabi: That's Journey",
+      "date": "02 يونيو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/f7ZtsjBGFIO8w"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/f7ZtsjBGFIO8w"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8999641221634"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=1yE4rg30aFSoM5Qs"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239107&autoplay=1"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/b5xjyLpa!MYxD6ENFwqyidejHu6SAKj2AHaQstLiD2FIUImo6zTM"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-muwlhfzofuxa.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/GpoTFbLL!y78ZDYXNlHUoe0eEQ97TC-UeamFc9ow_eBxiAInq5Sg"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-9bccp2x3356y.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/wmqzow7t0gcb"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-k7z0144jp7qy.html"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/fwcokg5gdk1w"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0q2gp8dt9bz2.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/5m6gd1aj"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/jx4xjbZT!sp3CfYbOfycVuI8Ptp3PCDk8Yb64P4Klg1s9nx7hGhs"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ptwv8xbj4225.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!jx4xjbZT!sp3CfYbOfycVuI8Ptp3PCDk8Yb64P4Klg1s9nx7hGhs"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/cw59vpkh5swj"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ptwv8xbj4225"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/3b0jzju28e19"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!GpoTFbLL!y78ZDYXNlHUoe0eEQ97TC-UeamFc9ow_eBxiAInq5Sg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/uq28hutea3dj"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/wmqzow7t0gcb"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0q2gp8dt9bz2"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/zzvoerqb864d"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/fwcokg5gdk1w"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/9bccp2x3356y"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!b5xjyLpa!MYxD6ENFwqyidejHu6SAKj2AHaQstLiD2FIUImo6zTM"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/7gzjs5p96adb"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/f7ZtsjBGFIO8w"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/muwlhfzofuxa"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/r215ac336j85"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "title": "الحلقة 8Zatsu Tabi: That's Journey",
+      "date": "26 مايو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/N8PsImwRTURm0"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/N8PsImwRTURm0"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/aF9C3RxK!Vqc0PcHz5NShR1DXjDJ38bi0iA4RM89PYkmSvYiMvMc"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8981469334018"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239057&hash=af5a849ff3282e0d&autoplay=1"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=QD4rytIr5K0gCRBR"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-v1g6cthw01vi.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/szm0oa8tnjvo"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-oq6nlsfg3h1y.html"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/j1fn1gs4pvhg"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-gfw62u1y8y9c.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/x0l8nfda"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/KQ0X1CzR!IhCsGTNc5-WQwt5dhrrnyrQ9FQASqXpAfFnL75gmspo"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ruhqciblg62d.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/nYUmATDI!YIdxuTiqHr1Yfa_uLKHWgYgoLA-MKGqIGiUEQ8QZB1g"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0d3upp8sgun4.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!nYUmATDI!YIdxuTiqHr1Yfa_uLKHWgYgoLA-MKGqIGiUEQ8QZB1g"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/7r7bq24rv29i"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0d3upp8sgun4"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/lfwdambnjeun"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!aF9C3RxK!Vqc0PcHz5NShR1DXjDJ38bi0iA4RM89PYkmSvYiMvMc"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/2j0adf79jxbj"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/szm0oa8tnjvo"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/gfw62u1y8y9c"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/x1pl08cqya4p"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/j1fn1gs4pvhg"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/v1g6cthw01vi"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!KQ0X1CzR!IhCsGTNc5-WQwt5dhrrnyrQ9FQASqXpAfFnL75gmspo"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/24x7ay2gjwsb"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/N8PsImwRTURm0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ruhqciblg62d"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/syhnic7wlppz"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "title": "الحلقة 7Zatsu Tabi: That's Journey",
+      "date": "19 مايو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/HyffqmfRg3a4K"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/HyffqmfRg3a4K"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8962837580290"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=sgEng6ZGMK2dGzZP"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/rFJTEJLK!BTGIvp-zcAzHQJtTziFF0h_5d65DqetzD1-E_aZSsDw"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-jdxc827hhnyc.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/3QwjBAJL!Szmtj9A0wy-ZDYczb4n0uPY2tKbPKfog_Bg-0I36Wbg"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-fqqfxdcliiyh.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/jsm7t2bhw0ol"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-s67dxsvyin9r.html"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/fmiwa4aq4bjn"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-y07rpsrqqlda.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/aw7q7bl0"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/vcBlwRoD!X11_2C4ILN3oK9SRvGuSt6wG-lg1LCxcUZOg1oKBGVo"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-jq9r8yyz7uq1.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!vcBlwRoD!X11_2C4ILN3oK9SRvGuSt6wG-lg1LCxcUZOg1oKBGVo"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/krgatndly43n"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/jq9r8yyz7uq1"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!3QwjBAJL!Szmtj9A0wy-ZDYczb4n0uPY2tKbPKfog_Bg-0I36Wbg"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/jto9heovq3vq"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/jsm7t2bhw0ol"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/y07rpsrqqlda"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/fmiwa4aq4bjn"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/fqqfxdcliiyh"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!rFJTEJLK!BTGIvp-zcAzHQJtTziFF0h_5d65DqetzD1-E_aZSsDw"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/8532ce8qc4m2"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/HyffqmfRg3a4K"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/jdxc827hhnyc"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "title": "الحلقة 6Zatsu Tabi: That's Journey",
+      "date": "12 مايو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/7UKVKvekR8FoC"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/upZHBbgb!XwKTfkB7GiEg4PTo_r898V8HPuIoiPzCfcND_rjpILo"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-4wp9bfn0g885.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/fhxDRYyb!VPxjqpkqDlAybq78Y_PfjH1dqGFq_4m8a0xI3TtvaTA"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8945174710786"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=Hgj87qlRqhesrEfh"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/dd5wmkmm28c4"
+        },
+        {
+          "name": "pixeldrain | LD",
+          "embed_url": "https://animelek.top/card.php?random=https://pixeldrain.com/u/ioBSkgWr"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-cmbpzmcdx8bh.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-qy9dgjbkek3h.html"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/4a9zwh2rlqs7"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-rcms3c6s219w.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/91xo82qi"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/b8wnlaRI!vQ_jifRX5j9LUgW8nRIlQAzKeh8ezmTPehOdmB3WRec"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-1dzrk4e3jkuo.html"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/7UKVKvekR8FoC"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!b8wnlaRI!vQ_jifRX5j9LUgW8nRIlQAzKeh8ezmTPehOdmB3WRec"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/b7w07tjo5w57"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/1dzrk4e3jkuo"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/uzdza2zh8nba"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!fhxDRYyb!VPxjqpkqDlAybq78Y_PfjH1dqGFq_4m8a0xI3TtvaTA"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/3eyr0chahoj7"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/dd5wmkmm28c4"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rcms3c6s219w"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/5n6sqsx9ktpw"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/4a9zwh2rlqs7"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/cmbpzmcdx8bh"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!upZHBbgb!XwKTfkB7GiEg4PTo_r898V8HPuIoiPzCfcND_rjpILo"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/arsskz7idofx"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/7UKVKvekR8FoC"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4wp9bfn0g885"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/7rpywe0za7y0"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:25:34.990718"
+  "last_updated": "2026-06-25T02:26:14.016113"
 }
