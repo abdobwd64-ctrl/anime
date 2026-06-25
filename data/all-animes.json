@@ -2919,6 +2919,20 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "isekai-quartet",
+    "title": "انمي Isekai Quartet مترجم اون لاين",
+    "poster": "data/posters/isekai-quartet.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "hajime-no-ippo-new-challenger",
     "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
     "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
@@ -5097,6 +5111,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "pacific-rim-ankoku-no-tairiku",
+    "title": "انمي Pacific Rim: Ankoku no Tairiku مترجم اون لاين",
+    "poster": "data/posters/pacific-rim-ankoku-no-tairiku.webp",
+    "genres": [
+      "أكشن",
+      "مغامرات",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
   },
   {
     "id": "okinawa-de-suki-ni-natta-ko-ga-hougen-sugite-tsurasugiru",
@@ -8462,6 +8491,21 @@
     "season": "صيف 2024"
   },
   {
+    "id": "hokuto-no-ken-fist-of-the-north-star",
+    "title": "انمي Hokuto no Ken: Fist of the North Star مترجم اون لاين",
+    "poster": "data/posters/hokuto-no-ken-fist-of-the-north-star.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "شونين",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "jaku-chara-tomozaki-kun",
     "title": "انمي Jaku-Chara Tomozaki-kun مترجم اون لاين",
     "poster": "data/posters/jaku-chara-tomozaki-kun.webp",
@@ -10064,6 +10108,21 @@
     "season": "خريف 2019"
   },
   {
+    "id": "hataraku-maou-sama",
+    "title": "انمي Hataraku Maou-sama!! مترجم اون لاين",
+    "poster": "data/posters/hataraku-maou-sama.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "kitsutsuki-tanteidokoro",
     "title": "انمي Kitsutsuki Tanteidokoro مترجم اون لاين",
     "poster": "data/posters/kitsutsuki-tanteidokoro.webp",
@@ -10144,6 +10203,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2015"
+  },
+  {
+    "id": "digimon-adventure-last-evolution-kizuna",
+    "title": "انمي Digimon Adventure: Last Evolution Kizuna مترجم اون لاين",
+    "poster": "data/posters/digimon-adventure-last-evolution-kizuna.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
   },
   {
     "id": "dr-stone-science-future-part-2",
@@ -11192,6 +11266,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2022"
+  },
+  {
+    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
+    "title": "انمي Tsuki ga Michibiku Isekai Douchuu 2nd Season مترجم اون لاين",
+    "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
   },
   {
     "id": "senki-zesshou-symphogear-xv",
@@ -15610,6 +15699,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "kaijuu-girls-kuro-ultra-kaijuu-gijinka-keikaku",
+    "title": "انمي Kaijuu Girls Kuro: Ultra Kaijuu Gijinka Keikaku مترجم اون لاين",
+    "poster": "data/posters/kaijuu-girls-kuro-ultra-kaijuu-gijinka-keikaku.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2018"
+  },
+  {
     "id": "hortensia-saga-tv",
     "title": "انمي Hortensia Saga (TV) مترجم اون لاين",
     "poster": "data/posters/hortensia-saga-tv.webp",
@@ -17810,6 +17913,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "ao-no-orchestra-season-2",
+    "title": "انمي Ao no Orchestra Season 2 مترجم اون لاين",
+    "poster": "data/posters/ao-no-orchestra-season-2.webp",
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "21",
+    "season": "خريف 2025"
   },
   {
     "id": "fujimoto-tatsuki-17-26",
