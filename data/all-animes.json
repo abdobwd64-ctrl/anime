@@ -1108,6 +1108,20 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai",
+    "title": "انمي Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai مترجم اون لاين",
+    "poster": "data/posters/kaguya-sama-wa-kokurasetai-first-kiss-wa-owaranai.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2022"
+  },
+  {
     "id": "takopii-no-genzai",
     "title": "انمي Takopii no Genzai مترجم اون لاين",
     "poster": "data/posters/takopii-no-genzai.webp",
@@ -2049,6 +2063,20 @@
     "type": "أوفا",
     "episodes_count": "3",
     "season": "خريف 2023"
+  },
+  {
+    "id": "zankyou-no-terror",
+    "title": "انمي Zankyou no Terror مترجم اون لاين",
+    "poster": "data/posters/zankyou-no-terror.webp",
+    "genres": [
+      "غموض",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2014"
   },
   {
     "id": "the-fable",
@@ -4862,6 +4890,19 @@
     "season": "صيف 2023"
   },
   {
+    "id": "maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii",
+    "title": "انمي Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II مترجم اون لاين",
+    "poster": "data/posters/maou-gakuin-no-futekigousha-shijou-saikyou-no-maou-no-shiso-tensei-shite-shison-tachi-no-gakkou-e-kayou-ii.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "love-all-play",
     "title": "انمي Love All Play مترجم اون لاين",
     "poster": "data/posters/love-all-play.webp",
@@ -5553,6 +5594,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni",
+    "title": "انمي Psycho-Pass: Sinners of the System Case.3 - Onshuu no Kanata ni＿＿ مترجم اون لاين",
+    "poster": "data/posters/psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "نفسي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
   },
   {
     "id": "mushishi",
