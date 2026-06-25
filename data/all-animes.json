@@ -383,6 +383,16 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "blue-giant",
+    "title": "انمي Blue Giant مترجم اون لاين",
+    "poster": "data/posters/blue-giant.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "bartender-kami-no-glass",
     "title": "انمي Bartender: Kami no Glass مترجم اون لاين",
     "poster": "https://animelek.top/uploads/posters/Bartender-Kami-no-Glass-poster.jpg\r\n?1.0.38",
