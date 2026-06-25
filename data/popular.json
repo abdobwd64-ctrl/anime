@@ -103,6 +103,23 @@
     "score": 178
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017",
+    "score": 174
+  },
+  {
     "id": "hunter-x-hunter-2011",
     "title": "انمي Hunter x Hunter (2011) مترجم اون لاين",
     "poster": "data/posters/hunter-x-hunter-2011.webp",
@@ -495,20 +512,5 @@
     "episodes_count": "52",
     "season": "ربيع 2018",
     "score": 52
-  },
-  {
-    "id": "layton-mystery-tanteisha-katri-no-nazotoki-file",
-    "title": "انمي Layton Mystery Tanteisha: Katri no Nazotoki File مترجم اون لاين",
-    "poster": "data/posters/layton-mystery-tanteisha-katri-no-nazotoki-file.webp",
-    "genres": [
-      "غموض",
-      "كوميدي",
-      "أطفال"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "50",
-    "season": "ربيع 2018",
-    "score": 51
   }
 ]

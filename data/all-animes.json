@@ -628,6 +628,22 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "black-clover",
+    "title": "انمي Black Clover مترجم اون لاين",
+    "poster": "data/posters/black-clover.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2017"
+  },
+  {
     "id": "kengan-ashura-season-2-part-2",
     "title": "انمي Kengan Ashura Season 2 Part 2 مترجم اون لاين",
     "poster": "data/posters/kengan-ashura-season-2-part-2.webp",
@@ -12359,6 +12375,19 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "tsuyokute-new-saga",
+    "title": "انمي Tsuyokute New Saga مترجم اون لاين",
+    "poster": "data/posters/tsuyokute-new-saga.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
     "id": "kanojo-okarishimasu",
     "title": "انمي Kanojo, Okarishimasu مترجم اون لاين",
     "poster": "data/posters/kanojo-okarishimasu.webp",
@@ -13305,6 +13334,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2022"
+  },
+  {
+    "id": "yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou",
+    "title": "انمي Yuuki Yuuna wa Yuusha de Aru: Dai Mankai no Shou مترجم اون لاين",
+    "poster": "data/posters/yuuki-yuuna-wa-yuusha-de-aru-dai-mankai-no-shou.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
   },
   {
     "id": "star-wars-visions",
@@ -15979,6 +16022,20 @@
     "season": "ربيع 2025"
   },
   {
+    "id": "karakai-jouzu-no-takagi-san-3",
+    "title": "انمي Karakai Jouzu no Takagi-san 3 مترجم اون لاين",
+    "poster": "data/posters/karakai-jouzu-no-takagi-san-3.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
+  },
+  {
     "id": "one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law",
     "title": "انمي One Piece: Dai Tannou Kikaku! “Shi no Gekai” Trafalgar Law مترجم اون لاين",
     "poster": "data/posters/one-piece-dai-tannou-kikaku-shi-no-gekai-trafalgar-law.webp",
@@ -18560,6 +18617,23 @@
     "type": "أونا",
     "episodes_count": "10",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "majutsushi-orphen-hagure-tabi-tennin-no-isan",
+    "title": "انمي Majutsushi Orphen Hagure Tabi: Tennin no Isan مترجم اون لاين",
+    "poster": "data/posters/majutsushi-orphen-hagure-tabi-tennin-no-isan.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "سحر",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2020"
   },
   {
     "id": "vtuber-nandaga-haishin-kiri-wasuretara-densetsu-ni-natteta",
