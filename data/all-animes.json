@@ -3391,6 +3391,19 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "uramichi-oniisan",
+    "title": "انمي Uramichi Oniisan مترجم اون لاين",
+    "poster": "data/posters/uramichi-oniisan.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "ame-wo-tsugeru-hyouryuu-danchi",
     "title": "انمي Ame wo Tsugeru Hyouryuu Danchi مترجم اون لاين",
     "poster": "data/posters/ame-wo-tsugeru-hyouryuu-danchi.webp",
@@ -6427,6 +6440,19 @@
     "season": "خريف 2015"
   },
   {
+    "id": "blue-period",
+    "title": "انمي Blue Period مترجم اون لاين",
+    "poster": "data/posters/blue-period.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2021"
+  },
+  {
     "id": "lycoris-recoil-friends-are-thieves-of-time",
     "title": "انمي Lycoris Recoil: Friends Are Thieves of Time. مترجم اون لاين",
     "poster": "data/posters/lycoris-recoil-friends-are-thieves-of-time.webp",
@@ -8442,6 +8468,20 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "ربيع 2018"
+  },
+  {
+    "id": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+    "title": "انمي 100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season مترجم اون لاين",
+    "poster": "data/posters/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2021"
   },
   {
     "id": "overtake",
