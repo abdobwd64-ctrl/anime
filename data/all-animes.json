@@ -1119,6 +1119,21 @@
     "season": "خريف 2023"
   },
   {
+    "id": "busu-ni-hanataba-wo",
+    "title": "انمي Busu ni Hanataba wo. مترجم اون لاين",
+    "poster": "data/posters/busu-ni-hanataba-wo.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "صيف 2025"
+  },
+  {
     "id": "boruto-naruto-the-movie",
     "title": "انمي Boruto: Naruto the Movie مترجم اون لاين",
     "poster": "data/posters/boruto-naruto-the-movie.webp",
