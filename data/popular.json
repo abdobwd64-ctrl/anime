@@ -16,7 +16,7 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 1999",
-    "score": 982
+    "score": 1174
   },
   {
     "id": "yu-gi-oh-duel-monsters-gx",
@@ -67,6 +67,22 @@
     "episodes_count": "102",
     "season": "ربيع 2014",
     "score": 104
+  },
+  {
+    "id": "gegege-no-kitarou-2018",
+    "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
+    "poster": "data/posters/gegege-no-kitarou-2018.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "97",
+    "season": "ربيع 2018",
+    "score": 101
   },
   {
     "id": "digimon-adventure",
@@ -252,6 +268,46 @@
     "score": 37
   },
   {
+    "id": "hanyou-no-yashahime-sengoku-otogizoushi",
+    "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
+    "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "سحر",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020",
+    "score": 32
+  },
+  {
+    "id": "mugen-no-juunin-immortal",
+    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
+    "poster": "data/posters/mugen-no-juunin-immortal.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "قوى خارقة",
+      "سينين",
+      "فنون قتالية",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "خريف 2019",
+    "score": 32
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -367,6 +423,24 @@
     "score": 30
   },
   {
+    "id": "kiseijuu-sei-no-kakuritsu",
+    "title": "انمي Kiseijuu: Sei no Kakuritsu مترجم اون لاين",
+    "poster": "data/posters/kiseijuu-sei-no-kakuritsu.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "رعب",
+      "نفسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014",
+    "score": 30
+  },
+  {
     "id": "boku-no-hero-academia-2nd-season",
     "title": "انمي Boku no Hero Academia 2nd Season مترجم اون لاين",
     "poster": "data/posters/boku-no-hero-academia-2nd-season.webp",
@@ -433,72 +507,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2018",
-    "score": 29
-  },
-  {
-    "id": "bastard-ankoku-no-hakaishin-ona",
-    "title": "انمي Bastard!! Ankoku no Hakaishin (ONA) مترجم اون لاين",
-    "poster": "data/posters/bastard-ankoku-no-hakaishin-ona.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي",
-      "إيتشي"
-    ],
-    "status": "مكتمل",
-    "type": "أونا",
-    "episodes_count": "13",
-    "season": "شتاء 2021",
-    "score": 29
-  },
-  {
-    "id": "tsuki-ga-michibiku-isekai-douchuu-2nd-season",
-    "title": "انمي Tsuki ga Michibiku Isekai Douchuu 2nd Season مترجم اون لاين",
-    "poster": "data/posters/tsuki-ga-michibiku-isekai-douchuu-2nd-season.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "مغامرات",
-      "كوميدي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "شتاء 2024",
-    "score": 29
-  },
-  {
-    "id": "kill-la-kill",
-    "title": "انمي Kill la Kill مترجم اون لاين",
-    "poster": "data/posters/kill-la-kill.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "كوميدي",
-      "مدرسي",
-      "إيتشي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2013",
-    "score": 29
-  },
-  {
-    "id": "tokyo-revengers",
-    "title": "انمي Tokyo Revengers مترجم اون لاين",
-    "poster": "data/posters/tokyo-revengers.webp",
-    "genres": [
-      "أكشن",
-      "دراما",
-      "شونين",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2021",
     "score": 29
   }
 ]

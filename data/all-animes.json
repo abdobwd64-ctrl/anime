@@ -109,6 +109,20 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-3rd-season",
+    "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season مترجم اون لاين",
+    "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-3rd-season.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "16",
+    "season": "خريف 2024"
+  },
+  {
     "id": "nomad-megalo-box-2",
     "title": "انمي Nomad: Megalo Box 2 مترجم اون لاين",
     "poster": "data/posters/nomad-megalo-box-2.webp",
@@ -150,6 +164,37 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "dokyuu-hentai-hxeros",
+    "title": "انمي Dokyuu Hentai HxEros مترجم اون لاين",
+    "poster": "data/posters/dokyuu-hentai-hxeros.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي",
+      "قوى خارقة",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2020"
+  },
+  {
+    "id": "hitori-no-shita-the-outcast",
+    "title": "انمي Hitori no Shita: The Outcast مترجم اون لاين",
+    "poster": "data/posters/hitori-no-shita-the-outcast.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2016"
   },
   {
     "id": "fairy-gone-2nd-season",
@@ -897,6 +942,24 @@
     "season": "خريف 2018"
   },
   {
+    "id": "inuyasha-movie-3-tenka-hadou-no-ken",
+    "title": "انمي InuYasha Movie 3: Tenka Hadou no Ken مترجم اون لاين",
+    "poster": "data/posters/inuyasha-movie-3-tenka-hadou-no-ken.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "kinnikuman-kanpeki-ch-ujin-shiso-hen-season-2",
     "title": "انمي Kinnikuman: Kanpeki Chоujin Shiso-hen Season 2 مترجم اون لاين",
     "poster": "data/posters/kinnikuman-kanpeki-ch-ujin-shiso-hen-season-2.webp",
@@ -910,6 +973,45 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "شتاء 2025"
+  },
+  {
+    "id": "one-piece-movie-07-karakuri-jou-no-mecha-kyohei",
+    "title": "انمي One Piece Movie 07: Karakuri-jou no Mecha Kyohei مترجم اون لاين",
+    "poster": "data/posters/one-piece-movie-07-karakuri-jou-no-mecha-kyohei.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
+    "id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season",
+    "title": "انمي Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (TV) 2nd Season مترجم اون لاين",
+    "poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-tv-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
+    "id": "ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega",
+    "title": "انمي Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega مترجم اون لاين",
+    "poster": "data/posters/ryza-no-atelier-tokoyami-no-joou-to-himitsu-no-kakurega.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
   },
   {
     "id": "toaru-majutsu-no-index-iii",
@@ -1265,6 +1367,22 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "shoumetsu-toshi",
+    "title": "انمي Shoumetsu Toshi مترجم اون لاين",
+    "poster": "data/posters/shoumetsu-toshi.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "futoku-no-guild",
     "title": "انمي Futoku no Guild مترجم اون لاين",
     "poster": "data/posters/futoku-no-guild.webp",
@@ -1377,6 +1495,32 @@
     "season": "صيف 2024"
   },
   {
+    "id": "vampire-in-the-garden",
+    "title": "انمي Vampire in the Garden مترجم اون لاين",
+    "poster": "data/posters/vampire-in-the-garden.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
+    "id": "boku-no-hero-academia-the-movie-2-heroes-rising",
+    "title": "انمي Boku no Hero Academia the Movie 2: Heroes:Rising مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-the-movie-2-heroes-rising.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
+  },
+  {
     "id": "fumetsu-no-anata-e-2nd-season",
     "title": "انمي Fumetsu no Anata e 2nd Season مترجم اون لاين",
     "poster": "data/posters/fumetsu-no-anata-e-2nd-season.webp",
@@ -1458,6 +1602,37 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "hangyakusei-million-arthur-2nd-season",
+    "title": "انمي Hangyakusei Million Arthur 2nd Season مترجم اون لاين",
+    "poster": "data/posters/hangyakusei-million-arthur-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2019"
+  },
+  {
+    "id": "mix",
+    "title": "انمي Mix مترجم اون لاين",
+    "poster": "data/posters/mix.webp",
+    "genres": [
+      "دراما",
+      "شونين",
+      "رومانسي",
+      "مدرسي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2019"
   },
   {
     "id": "overlord-movie-2-shikkoku-no-eiyuu",
@@ -1545,6 +1720,20 @@
     "season": "خريف 2024"
   },
   {
+    "id": "kumo-desu-ga-nani-ka",
+    "title": "انمي Kumo Desu ga, Nani ka? مترجم اون لاين",
+    "poster": "data/posters/kumo-desu-ga-nani-ka.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "shinchou-yuusha-kono-yuusha-ga-ore-tsueee-kuse-ni-shinchou-sugiru",
     "title": "انمي Shinchou Yuusha: Kono Yuusha ga Ore Tsueee Kuse ni Shinchou Sugiru مترجم اون لاين",
     "poster": "data/posters/shinchou-yuusha-kono-yuusha-ga-ore-tsueee-kuse-ni-shinchou-sugiru.webp",
@@ -1602,6 +1791,18 @@
     "type": "تلفزيون",
     "episodes_count": "10",
     "season": "شتاء 2016"
+  },
+  {
+    "id": "hibi-wa-sugiredo-meshi-umashi",
+    "title": "انمي Hibi wa Sugiredo Meshi Umashi مترجم اون لاين",
+    "poster": "data/posters/hibi-wa-sugiredo-meshi-umashi.webp",
+    "genres": [
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
   },
   {
     "id": "kemono-jihen",
@@ -1980,6 +2181,20 @@
     "season": "صيف 2022"
   },
   {
+    "id": "konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu",
+    "title": "انمي Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu مترجم اون لاين",
+    "poster": "data/posters/konyaku-haki-sareta-reijou-wo-hirotta-ore-ga-ikenai-koto-wo-oshiekomu.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
     "id": "itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu",
     "title": "انمي Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. مترجم اون لاين",
     "poster": "data/posters/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu.webp",
@@ -1994,6 +2209,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "healer-girl",
+    "title": "انمي Healer Girl مترجم اون لاين",
+    "poster": "data/posters/healer-girl.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "kakkou-no-iinazuke-season-2",
@@ -2206,6 +2433,19 @@
     "season": "خريف 2025"
   },
   {
+    "id": "kirei-ni-shitemoraemasu-ka",
+    "title": "انمي Kirei ni Shitemoraemasu ka. مترجم اون لاين",
+    "poster": "data/posters/kirei-ni-shitemoraemasu-ka.webp",
+    "genres": [
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "mahouka-koukou-no-rettousei-raihousha-hen",
     "title": "انمي Mahouka Koukou no Rettousei: Raihousha-hen مترجم اون لاين",
     "poster": "data/posters/mahouka-koukou-no-rettousei-raihousha-hen.webp",
@@ -2290,6 +2530,18 @@
     "season": "ربيع 2021"
   },
   {
+    "id": "ao-ashi",
+    "title": "انمي Ao Ashi مترجم اون لاين",
+    "poster": "data/posters/ao-ashi.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
+  },
+  {
     "id": "blue-lock",
     "title": "انمي Blue Lock مترجم اون لاين",
     "poster": "data/posters/blue-lock.webp",
@@ -2318,6 +2570,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "6",
     "season": "شتاء 2012"
+  },
+  {
+    "id": "gekai-elise",
+    "title": "انمي Gekai Elise مترجم اون لاين",
+    "poster": "data/posters/gekai-elise.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "uniteup-uni-birth",
@@ -2568,6 +2834,18 @@
     "season": "خريف 2022"
   },
   {
+    "id": "one-piece-rufi-senpai-oen-kikaku-baruto-no-himitsu-no-heya-fosu",
+    "title": "انمي One Piece Rufi Senpai Oen Kikaku Baruto No Himitsu No Heya Fosu مترجم اون لاين",
+    "poster": "data/posters/one-piece-rufi-senpai-oen-kikaku-baruto-no-himitsu-no-heya-fosu.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "haikyuu-movie-gomisuteba-no-kessen",
     "title": "انمي Haikyuu!! Movie: Gomisuteba no Kessen مترجم اون لاين",
     "poster": "data/posters/haikyuu-movie-gomisuteba-no-kessen.webp",
@@ -2719,6 +2997,34 @@
     "season": "صيف 2022"
   },
   {
+    "id": "kanojo-okarishimasu-4th-season",
+    "title": "انمي Kanojo, Okarishimasu 4th Season مترجم اون لاين",
+    "poster": "data/posters/kanojo-okarishimasu-4th-season.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2025"
+  },
+  {
+    "id": "rokudou-no-onna-tachi",
+    "title": "انمي Rokudou no Onna-tachi مترجم اون لاين",
+    "poster": "data/posters/rokudou-no-onna-tachi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2023"
+  },
+  {
     "id": "laidbackers",
     "title": "انمي Laidbackers مترجم اون لاين",
     "poster": "data/posters/laidbackers.webp",
@@ -2773,6 +3079,22 @@
     "season": "خريف 2025"
   },
   {
+    "id": "dorohedoro-ma-no-omake",
+    "title": "انمي Dorohedoro: Ma no Omake مترجم اون لاين",
+    "poster": "data/posters/dorohedoro-ma-no-omake.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي",
+      "رعب",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "6",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san",
     "title": "انمي Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san مترجم اون لاين",
     "poster": "data/posters/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san.webp",
@@ -2785,6 +3107,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo",
+    "title": "انمي Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen - Ryoushu no Youjo مترجم اون لاين",
+    "poster": "data/posters/honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-ryoushu-no-youjo.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "ame-iro-cocoa-side-g",
@@ -3001,6 +3335,19 @@
     "season": "خريف 2022"
   },
   {
+    "id": "yozakura-san-chi-no-daisakusen",
+    "title": "انمي Yozakura-san Chi no Daisakusen مترجم اون لاين",
+    "poster": "data/posters/yozakura-san-chi-no-daisakusen.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "27",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka",
     "title": "انمي Naze Boku no Sekai wo Daremo Oboeteinai no ka? مترجم اون لاين",
     "poster": "data/posters/naze-boku-no-sekai-wo-daremo-oboeteinai-no-ka.webp",
@@ -3079,6 +3426,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "nande-koko-ni-sensei-ga",
+    "title": "انمي Nande Koko ni Sensei ga!? مترجم اون لاين",
+    "poster": "data/posters/nande-koko-ni-sensei-ga.webp",
+    "genres": [
+      "كوميدي",
+      "سينين",
+      "مدرسي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
   },
   {
     "id": "great-pretender-razbliuto",
@@ -3170,6 +3532,22 @@
     "season": "ربيع 2014"
   },
   {
+    "id": "garo-honoo-no-kokuin",
+    "title": "انمي Garo: Honoo no Kokuin مترجم اون لاين",
+    "poster": "data/posters/garo-honoo-no-kokuin.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014"
+  },
+  {
     "id": "heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto",
     "title": "انمي Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto مترجم اون لاين",
     "poster": "data/posters/heroine-tarumono-kiraware-heroine-to-naisho-no-oshigoto.webp",
@@ -3214,6 +3592,18 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "one-piece-rufi-senpai-en-kikaku-baruto-no-himitsu-no-heya-s-do",
+    "title": "انمي One Piece: Rufi Senpai Ōen Kikaku! Baruto no Himitsu no Heya Sādo! مترجم اون لاين",
+    "poster": "data/posters/one-piece-rufi-senpai-en-kikaku-baruto-no-himitsu-no-heya-s-do.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2019"
+  },
+  {
     "id": "one-piece-dai-gekisen-tokushuu-mugiwara-no-ichimi-vs-tobi-roppou",
     "title": "انمي One Piece: Dai Gekisen Tokushuu! Mugiwara no Ichimi vs. Tobi Roppou مترجم اون لاين",
     "poster": "data/posters/one-piece-dai-gekisen-tokushuu-mugiwara-no-ichimi-vs-tobi-roppou.webp",
@@ -3239,6 +3629,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018"
+  },
+  {
+    "id": "bokura-no-nanokakan-sensou",
+    "title": "انمي Bokura no Nanokakan Sensou مترجم اون لاين",
+    "poster": "data/posters/bokura-no-nanokakan-sensou.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "كوميدي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
   },
   {
     "id": "shirobako-movie",
@@ -3376,6 +3781,33 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2018"
+  },
+  {
+    "id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru",
+    "title": "انمي Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? مترجم اون لاين",
+    "poster": "data/posters/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
+    "id": "pumpkin-scissors",
+    "title": "انمي Pumpkin Scissors مترجم اون لاين",
+    "poster": "data/posters/pumpkin-scissors.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2006"
   },
   {
     "id": "detective-conan-movie-23-the-fist-of-blue-sapphire",
@@ -3859,6 +4291,21 @@
     "season": "ربيع 2019"
   },
   {
+    "id": "naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo",
+    "title": "انمي Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo! مترجم اون لاين",
+    "poster": "data/posters/naruto-movie-2-dai-gekitotsu-maboroshi-no-chiteiiseki-dattebayo.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2005"
+  },
+  {
     "id": "champignon-no-majo",
     "title": "انمي Champignon no Majo مترجم اون لاين",
     "poster": "data/posters/champignon-no-majo.webp",
@@ -4027,6 +4474,21 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "majo-to-yajuu",
+    "title": "انمي Majo to Yajuu مترجم اون لاين",
+    "poster": "data/posters/majo-to-yajuu.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "idolish7-movie-live-4bit-beyond-the-period",
     "title": "انمي IDOLiSH7 Movie: LIVE 4bit - BEYOND THE PERiOD مترجم اون لاين",
     "poster": "data/posters/idolish7-movie-live-4bit-beyond-the-period.webp",
@@ -4163,6 +4625,18 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "build-divide-code-black",
+    "title": "انمي Build Divide: Code Black مترجم اون لاين",
+    "poster": "data/posters/build-divide-code-black.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "ansatsu-kyoushitsu",
     "title": "انمي Ansatsu Kyoushitsu مترجم اون لاين",
     "poster": "data/posters/ansatsu-kyoushitsu.webp",
@@ -4190,6 +4664,21 @@
     "season": "خريف 2024"
   },
   {
+    "id": "hataraku-maou-sama",
+    "title": "انمي Hataraku Maou-sama!! مترجم اون لاين",
+    "poster": "data/posters/hataraku-maou-sama.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "kitsutsuki-tanteidokoro",
     "title": "انمي Kitsutsuki Tanteidokoro مترجم اون لاين",
     "poster": "data/posters/kitsutsuki-tanteidokoro.webp",
@@ -4201,6 +4690,31 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2020"
+  },
+  {
+    "id": "rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu",
+    "title": "انمي Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu مترجم اون لاين",
+    "poster": "data/posters/rougo-ni-sonaete-isekai-de-8-manmai-no-kinka-wo-tamemasu.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
+  },
+  {
+    "id": "koroshi-ai",
+    "title": "انمي Koroshi Ai مترجم اون لاين",
+    "poster": "data/posters/koroshi-ai.webp",
+    "genres": [
+      "أكشن",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "violet-evergarden-kitto-ai-wo-shiru-hi-ga-kuru-no-darou",
@@ -4245,6 +4759,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "-compass-2-0-sentou-setsuri-kaiseki-system",
+    "title": "انمي #Compass 2.0: Sentou Setsuri Kaiseki System مترجم اون لاين",
+    "poster": "data/posters/-compass-2-0-sentou-setsuri-kaiseki-system.webp",
+    "genres": [
+      "أكشن",
+      "العاب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
   },
   {
     "id": "girly-air-force",
@@ -4342,6 +4869,41 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2021"
+  },
+  {
+    "id": "bokutachi-wa-benkyou-ga-dekinai",
+    "title": "انمي Bokutachi wa Benkyou ga Dekinai مترجم اون لاين",
+    "poster": "data/posters/bokutachi-wa-benkyou-ga-dekinai.webp",
+    "genres": [
+      "شونين",
+      "رومانسي",
+      "كوميدي",
+      "مدرسي",
+      "حريم"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2019"
+  },
+  {
+    "id": "hanyou-no-yashahime-sengoku-otogizoushi",
+    "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
+    "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "سحر",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020"
   },
   {
     "id": "biao-ren-er",
@@ -4564,6 +5126,23 @@
     "season": "خريف 2025"
   },
   {
+    "id": "guimi-zhi-zhu-xiaochou-pian",
+    "title": "انمي Guimi Zhi Zhu: Xiaochou Pian مترجم اون لاين",
+    "poster": "data/posters/guimi-zhi-zhu-xiaochou-pian.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "فنتازيا",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "13",
+    "season": "صيف 2025"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
@@ -4701,6 +5280,25 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "صيف 2025"
+  },
+  {
+    "id": "mugen-no-juunin-immortal",
+    "title": "انمي Mugen no Juunin: Immortal مترجم اون لاين",
+    "poster": "data/posters/mugen-no-juunin-immortal.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "مغامرات",
+      "قوى خارقة",
+      "سينين",
+      "فنون قتالية",
+      "تاريخي",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "24",
+    "season": "خريف 2019"
   },
   {
     "id": "kuroneko-to-majo-no-kyoushitsu",
@@ -4841,6 +5439,38 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "strike-the-blood-final",
+    "title": "انمي Strike the Blood Final مترجم اون لاين",
+    "poster": "data/posters/strike-the-blood-final.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "4",
+    "season": "شتاء 2021"
+  },
+  {
+    "id": "kiseijuu-sei-no-kakuritsu",
+    "title": "انمي Kiseijuu: Sei no Kakuritsu مترجم اون لاين",
+    "poster": "data/posters/kiseijuu-sei-no-kakuritsu.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "رعب",
+      "نفسي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "خريف 2014"
   },
   {
     "id": "boruto-naruto-next-generations",
@@ -4993,6 +5623,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2018"
+  },
+  {
+    "id": "pok-mon-liko-and-roy-s-departure",
+    "title": "انمي Pokémon: Liko and Roy's Departure مترجم اون لاين",
+    "poster": "data/posters/pok-mon-liko-and-roy-s-departure.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "ربيع 2023"
   },
   {
     "id": "noblesse",
@@ -5213,6 +5858,18 @@
     "season": "خريف 2018"
   },
   {
+    "id": "shadowverse-flame-recap",
+    "title": "انمي Shadowverse Flame Recap مترجم اون لاين",
+    "poster": "data/posters/shadowverse-flame-recap.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram",
     "title": "انمي Fate/Grand Order: Shinsei Entaku Ryouiki Camelot 1 - Wandering; Agateram مترجم اون لاين",
     "poster": "data/posters/fate-grand-order-shinsei-entaku-ryouiki-camelot-1-wandering-agateram.webp",
@@ -5338,6 +5995,19 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "mayonaka-heart-tune",
+    "title": "انمي Mayonaka Heart Tune مترجم اون لاين",
+    "poster": "data/posters/mayonaka-heart-tune.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "triage-x",
     "title": "انمي Triage X مترجم اون لاين",
     "poster": "data/posters/triage-x.webp",
@@ -5430,6 +6100,19 @@
     "season": "خريف 2020"
   },
   {
+    "id": "steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero",
+    "title": "انمي Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero مترجم اون لاين",
+    "poster": "data/posters/steins-gate-kyoukaimenjou-no-missing-link-divide-by-zero.webp",
+    "genres": [
+      "خيال علمي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "خريف 2015"
+  },
+  {
     "id": "shuumatsu-no-walk-re-ii",
     "title": "انمي Shuumatsu no Walküre II مترجم اون لاين",
     "poster": "data/posters/shuumatsu-no-walk-re-ii.webp",
@@ -5442,6 +6125,32 @@
     "type": "أونا",
     "episodes_count": "15",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "kibou-no-chikara-otona-precure-23",
+    "title": "انمي Kibou no Chikara: Otona Precure '23 مترجم اون لاين",
+    "poster": "data/posters/kibou-no-chikara-otona-precure-23.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2023"
+  },
+  {
+    "id": "natsunagu",
+    "title": "انمي Natsunagu! مترجم اون لاين",
+    "poster": "data/posters/natsunagu.webp",
+    "genres": [
+      "دراما",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2020"
   },
   {
     "id": "tantei-wa-mou-shindeiru",
@@ -5625,6 +6334,19 @@
     "season": "شتاء 2025"
   },
   {
+    "id": "kanpekisugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru",
+    "title": "انمي Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru مترجم اون لاين",
+    "poster": "data/posters/kanpekisugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "blue-archive-the-animation",
     "title": "انمي Blue Archive the Animation مترجم اون لاين",
     "poster": "data/posters/blue-archive-the-animation.webp",
@@ -5662,6 +6384,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2024"
+  },
+  {
+    "id": "africa-no-salaryman-tv",
+    "title": "انمي Africa no Salaryman (TV) مترجم اون لاين",
+    "poster": "data/posters/africa-no-salaryman-tv.webp",
+    "genres": [
+      "كوميدي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "pokemon-2019-kami-to-yobareshi-arceus",
@@ -5738,6 +6473,21 @@
     "season": "خريف 2016"
   },
   {
+    "id": "monogatari-series-off-monster-season",
+    "title": "انمي Monogatari Series: Off & Monster Season مترجم اون لاين",
+    "poster": "data/posters/monogatari-series-off-monster-season.webp",
+    "genres": [
+      "غموض",
+      "كوميدي",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "14",
+    "season": "صيف 2024"
+  },
+  {
     "id": "seirei-gensouki",
     "title": "انمي Seirei Gensouki مترجم اون لاين",
     "poster": "data/posters/seirei-gensouki.webp",
@@ -5784,6 +6534,19 @@
     "season": "خريف 2013"
   },
   {
+    "id": "extreme-hearts",
+    "title": "انمي Extreme Hearts مترجم اون لاين",
+    "poster": "data/posters/extreme-hearts.webp",
+    "genres": [
+      "رياضي",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
+  },
+  {
     "id": "majutsushi-orphen-hagure-tabi",
     "title": "انمي Majutsushi Orphen Hagure Tabi مترجم اون لاين",
     "poster": "data/posters/majutsushi-orphen-hagure-tabi.webp",
@@ -5799,6 +6562,21 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "code-geass-dakkan-no-roz",
+    "title": "انمي Code Geass: Dakkan no Rozé مترجم اون لاين",
+    "poster": "data/posters/code-geass-dakkan-no-roz.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2024"
   },
   {
     "id": "steel-ball-run-jojo-no-kimyou-na-bouken",
@@ -5870,6 +6648,22 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "شتاء 2024"
+  },
+  {
+    "id": "mayonaka-no-occult-koumuin",
+    "title": "انمي Mayonaka no Occult Koumuin مترجم اون لاين",
+    "poster": "data/posters/mayonaka-no-occult-koumuin.webp",
+    "genres": [
+      "غموض",
+      "فنتازيا",
+      "قوى خارقة",
+      "شياطين",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2019"
   },
   {
     "id": "haikyuu-second-season",
@@ -5988,6 +6782,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2007"
+  },
+  {
+    "id": "owari-no-seraph-nagoya-kessen-hen-owaranai-seraph-nagoya-kessen-hen",
+    "title": "انمي Owari no Seraph: Nagoya Kessen-hen - Owaranai Seraph - Nagoya Kessen-hen مترجم اون لاين",
+    "poster": "data/posters/owari-no-seraph-nagoya-kessen-hen-owaranai-seraph-nagoya-kessen-hen.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "محاكاة ساخرة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "4",
+    "season": "خريف 2015"
   },
   {
     "id": "cardfight-vanguard-will-dress-season-2",
@@ -6135,6 +6943,18 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2025"
+  },
+  {
+    "id": "yubisaki-to-renren",
+    "title": "انمي Yubisaki to Renren مترجم اون لاين",
+    "poster": "data/posters/yubisaki-to-renren.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "shin-samurai-den-yaiba",
@@ -6318,6 +7138,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru",
+    "title": "انمي Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru مترجم اون لاين",
+    "poster": "data/posters/loop-7-kaime-no-akuyaku-reijou-wa-moto-tekikoku-de-jiyuu-kimama-na-hanayome-seikatsu-wo-mankitsu-suru.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2024"
   },
   {
     "id": "nekopara",
@@ -6747,6 +7580,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
+    "title": "انمي Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo",
     "title": "انمي Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo! مترجم اون لاين",
     "poster": "data/posters/naruto-movie-1-dai-katsugeki-yuki-hime-ninpouchou-dattebayo.webp",
@@ -6972,6 +7819,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "tondemo-skill-de-isekai-hourou-meshi",
+    "title": "انمي Tondemo Skill de Isekai Hourou Meshi مترجم اون لاين",
+    "poster": "data/posters/tondemo-skill-de-isekai-hourou-meshi.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2023"
   },
   {
     "id": "bakemonogatari",
@@ -7273,6 +8134,32 @@
     "season": "صيف 2005"
   },
   {
+    "id": "fureru",
+    "title": "انمي Fureru مترجم اون لاين",
+    "poster": "data/posters/fureru.webp",
+    "genres": [
+      "دراما"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2024"
+  },
+  {
+    "id": "maou-sama-retry-r",
+    "title": "انمي Maou-sama, Retry! R مترجم اون لاين",
+    "poster": "data/posters/maou-sama-retry-r.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "gintama-movie-1-shinyaku-benizakura-hen",
     "title": "انمي Gintama Movie 1: Shinyaku Benizakura-hen مترجم اون لاين",
     "poster": "data/posters/gintama-movie-1-shinyaku-benizakura-hen.webp",
@@ -7285,6 +8172,18 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2010"
+  },
+  {
+    "id": "bang-dream-2nd-season",
+    "title": "انمي BanG Dream! 2nd Season مترجم اون لاين",
+    "poster": "data/posters/bang-dream-2nd-season.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2019"
   },
   {
     "id": "beastars-2nd-season",
@@ -7372,6 +8271,19 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "sentai-daishikkaku-2nd-season",
+    "title": "انمي Sentai Daishikkaku 2nd Season مترجم اون لاين",
+    "poster": "data/posters/sentai-daishikkaku-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "yasei-no-last-boss-ga-arawareta",
     "title": "انمي Yasei no Last Boss ga Arawareta! مترجم اون لاين",
     "poster": "data/posters/yasei-no-last-boss-ga-arawareta.webp",
@@ -7412,6 +8324,21 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "شتاء 2023"
+  },
+  {
+    "id": "uzumaki",
+    "title": "انمي Uzumaki مترجم اون لاين",
+    "poster": "data/posters/uzumaki.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة",
+      "رعب",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "4",
+    "season": "خريف 2024"
   },
   {
     "id": "high-school-dxd-ova",
@@ -7456,6 +8383,20 @@
     "type": "أونا",
     "episodes_count": "4",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "madogiwa-no-totto-chan",
+    "title": "انمي Madogiwa no Totto-chan مترجم اون لاين",
+    "poster": "data/posters/madogiwa-no-totto-chan.webp",
+    "genres": [
+      "دراما",
+      "مدرسي",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
   },
   {
     "id": "chuubyou-gekihatsu-boy-special",
@@ -7571,6 +8512,20 @@
     "season": "خريف 2017"
   },
   {
+    "id": "one-piece-film-strong-world",
+    "title": "انمي One Piece Film: Strong World مترجم اون لاين",
+    "poster": "data/posters/one-piece-film-strong-world.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "yakusoku-no-neverland-2nd-season",
     "title": "انمي Yakusoku no Neverland 2nd Season مترجم اون لاين",
     "poster": "data/posters/yakusoku-no-neverland-2nd-season.webp",
@@ -7671,6 +8626,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2023"
+  },
+  {
+    "id": "black-bullet",
+    "title": "انمي Black Bullet مترجم اون لاين",
+    "poster": "data/posters/black-bullet.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خيال علمي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "ربيع 2014"
   },
   {
     "id": "bai-yao-pu-3rd-season",
@@ -8021,6 +8991,19 @@
     "season": "شتاء 2021"
   },
   {
+    "id": "totsukuni-no-shoujo",
+    "title": "انمي Totsukuni no Shoujo مترجم اون لاين",
+    "poster": "data/posters/totsukuni-no-shoujo.webp",
+    "genres": [
+      "شونين",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2019"
+  },
+  {
     "id": "city-hunter-movie-shinjuku-private-eyes",
     "title": "انمي City Hunter Movie: Shinjuku Private Eyes مترجم اون لاين",
     "poster": "data/posters/city-hunter-movie-shinjuku-private-eyes.webp",
@@ -8215,6 +9198,19 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "maou-no-musume-wa-yasashisugiru",
+    "title": "انمي Maou no Musume wa Yasashisugiru!! مترجم اون لاين",
+    "poster": "data/posters/maou-no-musume-wa-yasashisugiru.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -8232,6 +9228,19 @@
     "season": "خريف 2005"
   },
   {
+    "id": "tonikaku-kawaii-sns",
+    "title": "انمي Tonikaku Kawaii: SNS مترجم اون لاين",
+    "poster": "data/posters/tonikaku-kawaii-sns.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "صيف 2021"
+  },
+  {
     "id": "buta-no-liver-wa-kanetsu-shiro",
     "title": "انمي Buta no Liver wa Kanetsu Shiro مترجم اون لاين",
     "poster": "data/posters/buta-no-liver-wa-kanetsu-shiro.webp",
@@ -8243,6 +9252,47 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2023"
+  },
+  {
+    "id": "wave-surfing-yappe-tv",
+    "title": "انمي Wave!!: Surfing Yappe!! (TV) مترجم اون لاين",
+    "poster": "data/posters/wave-surfing-yappe-tv.webp",
+    "genres": [
+      "شريحة من الحياة",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
+  },
+  {
+    "id": "kisaki-kyouiku-kara-nigetai-watashi",
+    "title": "انمي Kisaki Kyouiku kara Nigetai Watashi مترجم اون لاين",
+    "poster": "data/posters/kisaki-kyouiku-kara-nigetai-watashi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
+    "id": "gegege-no-kitarou-2018",
+    "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
+    "poster": "data/posters/gegege-no-kitarou-2018.webp",
+    "genres": [
+      "شونين",
+      "كوميدي",
+      "قوى خارقة",
+      "شياطين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "97",
+    "season": "ربيع 2018"
   },
   {
     "id": "kimitachi-wa-dou-ikiru-ka",
@@ -8311,6 +9361,20 @@
     ],
     "status": "مكتمل",
     "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
+    "id": "revisions",
+    "title": "انمي Revisions مترجم اون لاين",
+    "poster": "data/posters/revisions.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي",
+      "ميكا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
     "episodes_count": "12",
     "season": "خريف 2019"
   },
@@ -8441,6 +9505,16 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival",
+    "title": "انمي SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!! مترجم اون لاين",
+    "poster": "data/posters/sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2024"
   },
   {
     "id": "takt-op-destiny",
