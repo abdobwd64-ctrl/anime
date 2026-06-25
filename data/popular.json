@@ -416,6 +416,24 @@
     "score": 57
   },
   {
+    "id": "bakuten-shoot-beyblade-g-revolution",
+    "title": "انمي Bakuten Shoot Beyblade G Revolution مترجم اون لاين",
+    "poster": "data/posters/bakuten-shoot-beyblade-g-revolution.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "كوميدي",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "خريف 2003",
+    "score": 56
+  },
+  {
     "id": "diamond-no-ace-act-ii",
     "title": "انمي Diamond no Ace: Act II مترجم اون لاين",
     "poster": "data/posters/diamond-no-ace-act-ii.webp",
@@ -492,19 +510,5 @@
     "episodes_count": "50",
     "season": "ربيع 2018",
     "score": 51
-  },
-  {
-    "id": "shadowverse-tv",
-    "title": "انمي Shadowverse (TV) مترجم اون لاين",
-    "poster": "data/posters/shadowverse-tv.webp",
-    "genres": [
-      "فنتازيا",
-      "العاب"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2020",
-    "score": 50
   }
 ]
