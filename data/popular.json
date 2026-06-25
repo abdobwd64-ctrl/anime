@@ -51,7 +51,7 @@
     "type": "تلفزيون",
     "episodes_count": "220",
     "season": "خريف 2002",
-    "score": 135
+    "score": 136
   },
   {
     "id": "ginga-eiyuu-densetsu",
@@ -511,6 +511,23 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "صيف 2013",
+    "score": 30
+  },
+  {
+    "id": "code-geass-hangyaku-no-lelouch",
+    "title": "انمي Code Geass: Hangyaku no Lelouch مترجم اون لاين",
+    "poster": "data/posters/code-geass-hangyaku-no-lelouch.webp",
+    "genres": [
+      "حربي",
+      "خارق للعادة",
+      "دراما",
+      "خيال علمي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "خريف 2006",
     "score": 30
   }
 ]
