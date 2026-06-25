@@ -1388,7 +1388,279 @@
         }
       ],
       "downloads": []
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Mieruko-chan",
+      "date": "17 أكتوبر, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2582450342618"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/bOz7D-K1ea/"
+        },
+        {
+          "name": "doodstream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/eqqfv8j8gyxp"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-tcfa9chuai0h.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-l5oewtc7epd2.html"
+        },
+        {
+          "name": "vedbom org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vedbom.org/embed-goek6ppbkh44.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/dcF3WYwY!XD4Rq4jUOH9LU3bPxb3dLGehp1L5fgEBsqrmBbIPuhk"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/dty4ny6n9yee"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2582660188890"
+        },
+        {
+          "name": "doodstream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/i7p8yh25baac"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-3ol2dck14dsa.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/UF0UyDoT!5CFecAu8K4pX1MVAvK2ty927qp9pU8r8f8g1kZNAVR4"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/o6kp4v0n4o8d"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2582684568282"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-r7igcjugkwkj.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/JR002Rqb!l3gEx15o6kIt6VsACqXXebB38XGW_s083BI77-fH60M"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/tgo4xaw35rw2"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2582781168346"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/T_jp1XPRea/"
+        },
+        {
+          "name": "doodstream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/w179saha4fyr"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-0lv0ahs0pkzy.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-sb9nas5kz7ib.html"
+        },
+        {
+          "name": "vedbom org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vedbom.org/embed-qlqrhg9th03i.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/5Y1zWKaD!sPaFBCrQyxA7mDZcas-M83Q81volBXa2AMhukOI7Rq8"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/sj1mpu2tb7fa"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2582805744346"
+        },
+        {
+          "name": "doodstream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/u70dnacmh5rm"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-8q4vyq1sd3dj.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/1JlRFCyL!W9Y6v8-WpoqM9IrCqDr60gtG52wcQcHX-gue0zuMku8"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ymdbh1k9lx05"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/mlp7Fqawea/"
+        },
+        {
+          "name": "doodstream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/ckd75sftazen"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-dne6vtv4962s.html"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/4YeRv7GW5Z4ag"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-kizieivfl9y4.html"
+        },
+        {
+          "name": "vedbom org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vedbom.org/embed-ik19a9tbzlbu.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/tdQjjQQb!t22IZ4CZf5K15KKKC__mh9Z_koEhrH4ZSLNEdyzCDmQ"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/p6lrrepd6gex"
+        },
+        {
+          "name": "doodstream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/r91zqv00ib28"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/IcIBVSQb!6-jq0_gnWKiWTMcZvPkevaI0qvxWPJK01DLJ0asZCJg"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/bh3vrwljlaap"
+        },
+        {
+          "name": "doodstream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/itp938cn444g"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-301vzjq6d6vm.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/BdBHDCIC!XLGSXTyEtTkJF-P4nPgbBCXUbuWH2ZkbO0N_iQaYBH4"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/dhijyo9ab27p"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2591872912090"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2591872781018"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2591872846554"
+        }
+      ],
+      "downloads": []
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Mieruko-chan",
+      "date": "10 أكتوبر, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2557914319578"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/izQymzRHea/"
+        },
+        {
+          "name": "doodstream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/kfgfg57e4kgz"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-edk4z6h46hpd.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-9qzc6ttbcemz.html"
+        },
+        {
+          "name": "vedbom org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vedbom.org/embed-1puz0pr3ijjw.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ExNQ2T5Q!MI7C7vUgYMI5RXTca1HjwnWBhcn10VM65xOzfxSut-E"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ucgpo7ry88yt"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2558006790874"
+        },
+        {
+          "name": "doodstream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/rk1j81qfx1qb"
+        },
+        {
+          "name": "uptostream | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/o8hhy232og0h"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/2558012623578"
+        },
+        {
+          "name": "doodstream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://doodstream.com/e/lsxsq88wqa9q"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-48lqswcomrik.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/Vldg3Zja!Y6YPLffg_Ufpnq3IVsmMg2doOhNRl-fSy34p_5pSu8Y"
+        },
+        {
+          "name": "uptostream | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/ay2c0nhr3brz"
+        }
+      ],
+      "downloads": []
     }
   ],
-  "last_updated": "2026-06-25T02:11:35.522669"
+  "last_updated": "2026-06-25T02:11:57.370368"
 }
