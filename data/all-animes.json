@@ -7420,6 +7420,21 @@
     "season": "خريف 2020"
   },
   {
+    "id": "quanzhi-fashi-iv",
+    "title": "انمي Quanzhi Fashi IV مترجم اون لاين",
+    "poster": "data/posters/quanzhi-fashi-iv.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2020"
+  },
+  {
     "id": "high-school-dxd-hero-taiikukan-ura-no-holy",
     "title": "انمي High School DxD Hero: Taiikukan-ura no Holy مترجم اون لاين",
     "poster": "data/posters/high-school-dxd-hero-taiikukan-ura-no-holy.webp",
