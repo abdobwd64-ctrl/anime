@@ -8960,6 +8960,20 @@
     "season": "شتاء 2023"
   },
   {
+    "id": "maou-sama-retry-r",
+    "title": "انمي Maou-sama, Retry! R مترجم اون لاين",
+    "poster": "data/posters/maou-sama-retry-r.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
+  },
+  {
     "id": "shiroi-suna-no-aquatope",
     "title": "انمي Shiroi Suna no Aquatope مترجم اون لاين",
     "poster": "data/posters/shiroi-suna-no-aquatope.webp",
@@ -10088,6 +10102,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "maou-no-musume-wa-yasashisugiru",
+    "title": "انمي Maou no Musume wa Yasashisugiru!! مترجم اون لاين",
+    "poster": "data/posters/maou-no-musume-wa-yasashisugiru.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   },
   {
     "id": "psycho-pass-sinners-of-the-system-case-3-onshuu-no-kanata-ni",
