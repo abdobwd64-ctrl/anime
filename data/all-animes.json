@@ -1616,6 +1616,20 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "dragon-ball-z-movie-14-kami-to-kami",
+    "title": "انمي Dragon Ball Z Movie 14: Kami to Kami مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z-movie-14-kami-to-kami.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2013"
+  },
+  {
     "id": "dragon-ball-movie-2-majinjou-no-nemurihime",
     "title": "انمي Dragon Ball Movie 2: Majinjou no Nemurihime مترجم اون لاين",
     "poster": "data/posters/dragon-ball-movie-2-majinjou-no-nemurihime.webp",
@@ -1844,6 +1858,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2014"
+  },
+  {
+    "id": "hidarikiki-no-eren",
+    "title": "انمي Hidarikiki no Eren مترجم اون لاين",
+    "poster": "data/posters/hidarikiki-no-eren.webp",
+    "genres": [
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "mugyutto-black-clover",
@@ -4636,6 +4663,22 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "hakumei-no-tsubasa",
+    "title": "انمي Hakumei no Tsubasa مترجم اون لاين",
+    "poster": "data/posters/hakumei-no-tsubasa.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "أطفال"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "7",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "kami-tachi-ni-hirowareta-otoko-2nd-season",
     "title": "انمي Kami-tachi ni Hirowareta Otoko 2nd Season مترجم اون لاين",
     "poster": "data/posters/kami-tachi-ni-hirowareta-otoko-2nd-season.webp",
@@ -6492,6 +6535,23 @@
     "season": "ربيع 1997"
   },
   {
+    "id": "bungou-stray-dogs",
+    "title": "انمي Bungou Stray Dogs مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "كوميدي",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2016"
+  },
+  {
     "id": "sorairo-utility",
     "title": "انمي Sorairo Utility مترجم اون لاين",
     "poster": "data/posters/sorairo-utility.webp",
@@ -7312,6 +7372,21 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "خريف 2019"
+  },
+  {
+    "id": "knights-of-the-zodiac-saint-seiya",
+    "title": "انمي Knights of the Zodiac: Saint Seiya مترجم اون لاين",
+    "poster": "data/posters/knights-of-the-zodiac-saint-seiya.webp",
+    "genres": [
+      "فنتازيا",
+      "شونين",
+      "مغامرات",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "صيف 2019"
   },
   {
     "id": "bakeneko-anzu-chan",
@@ -11768,6 +11843,19 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "shibou-yuugi-de-meshi-wo-kuu",
+    "title": "انمي Shibou Yuugi de Meshi wo Kuu. مترجم اون لاين",
+    "poster": "data/posters/shibou-yuugi-de-meshi-wo-kuu.webp",
+    "genres": [
+      "أكشن",
+      "اثارة"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "mobile-suit-gundam-the-origin-advent-of-the-red-comet",
     "title": "انمي Mobile Suit Gundam: The Origin - Advent of the Red Comet مترجم اون لاين",
     "poster": "data/posters/mobile-suit-gundam-the-origin-advent-of-the-red-comet.webp",
@@ -14174,6 +14262,19 @@
     "season": "خريف 2020"
   },
   {
+    "id": "helck",
+    "title": "انمي Helck مترجم اون لاين",
+    "poster": "data/posters/helck.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2023"
+  },
+  {
     "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
     "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! 3 مترجم اون لاين",
     "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo-3.webp",
@@ -14471,6 +14572,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2025"
+  },
+  {
+    "id": "ueno-san-wa-bukiyou",
+    "title": "انمي Ueno-san wa Bukiyou مترجم اون لاين",
+    "poster": "data/posters/ueno-san-wa-bukiyou.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "tondemo-skill-de-isekai-hourou-meshi",
@@ -17406,6 +17521,18 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2024"
+  },
+  {
+    "id": "one-piece-barto-no-himitsu-no-heya",
+    "title": "انمي One Piece: Barto no Himitsu no Heya! مترجم اون لاين",
+    "poster": "data/posters/one-piece-barto-no-himitsu-no-heya.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "2",
+    "season": "شتاء 2021"
   },
   {
     "id": "tadaima-ojamasaremasu",
