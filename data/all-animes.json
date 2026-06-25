@@ -7079,6 +7079,18 @@
     "season": "خريف 2023"
   },
   {
+    "id": "haikyuu-movie-3-sainou-to-sense",
+    "title": "انمي Haikyuu!! Movie 3: Sainou to Sense مترجم اون لاين",
+    "poster": "data/posters/haikyuu-movie-3-sainou-to-sense.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "koro-sensei-quest",
     "title": "انمي Koro-sensei Quest! مترجم اون لاين",
     "poster": "data/posters/koro-sensei-quest.webp",
