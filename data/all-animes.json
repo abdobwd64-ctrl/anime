@@ -7346,6 +7346,21 @@
     "season": "خريف 2020"
   },
   {
+    "id": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana",
+    "title": "انمي Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana مترجم اون لاين",
+    "poster": "data/posters/keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "بوليسي",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "cowboy-bebop",
     "title": "انمي Cowboy Bebop مترجم اون لاين",
     "poster": "data/posters/cowboy-bebop.webp",
@@ -8332,6 +8347,22 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "high-score-girl-extra-stage",
+    "title": "انمي High Score Girl: Extra Stage مترجم اون لاين",
+    "poster": "data/posters/high-score-girl-extra-stage.webp",
+    "genres": [
+      "العاب",
+      "رومانسي",
+      "كوميدي",
+      "سينين",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "3",
+    "season": "شتاء 2019"
   },
   {
     "id": "teogonia",
