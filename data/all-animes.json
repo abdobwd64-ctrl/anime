@@ -244,6 +244,18 @@
     "season": "صيف 2024"
   },
   {
+    "id": "captain-tsubasa-season-2-junior-youth-hen",
+    "title": "انمي Captain Tsubasa Season 2: Junior Youth-hen مترجم اون لاين",
+    "poster": "data/posters/captain-tsubasa-season-2-junior-youth-hen.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "39",
+    "season": "خريف 2023"
+  },
+  {
     "id": "fairy-tail-2014",
     "title": "انمي Fairy Tail (2014) مترجم اون لاين",
     "poster": "data/posters/fairy-tail-2014.webp",
@@ -481,6 +493,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "2",
     "season": "صيف 2014"
+  },
+  {
+    "id": "fate-strange-fake-whispers-of-dawn",
+    "title": "انمي Fate/strange Fake: Whispers of Dawn مترجم اون لاين",
+    "poster": "data/posters/fate-strange-fake-whispers-of-dawn.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2023"
   },
   {
     "id": "date-a-live-movie-mayuri-judgment",
@@ -1680,6 +1706,20 @@
     "season": "صيف 2025"
   },
   {
+    "id": "saikyou-onmyouji-no-isekai-tenseiki",
+    "title": "انمي Saikyou Onmyouji no Isekai Tenseiki مترجم اون لاين",
+    "poster": "data/posters/saikyou-onmyouji-no-isekai-tenseiki.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
     "title": "انمي Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi مترجم اون لاين",
     "poster": "data/posters/boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi.webp",
@@ -1734,6 +1774,22 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "صيف 2020"
+  },
+  {
+    "id": "hunter-x-hunter-movie-2-the-last-mission",
+    "title": "انمي Hunter x Hunter Movie 2: The Last Mission مترجم اون لاين",
+    "poster": "data/posters/hunter-x-hunter-movie-2-the-last-mission.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "فنتازيا",
+      "شونين",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2013"
   },
   {
     "id": "shingeki-no-kyojin-the-final-season-part-2",
@@ -2338,6 +2394,20 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "شتاء 2016"
+  },
+  {
+    "id": "mahoutsukai-no-yome-season-2",
+    "title": "انمي Mahoutsukai no Yome Season 2 مترجم اون لاين",
+    "poster": "data/posters/mahoutsukai-no-yome-season-2.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2023"
   },
   {
     "id": "senyoku-no-sigrdrifa",
@@ -5849,6 +5919,20 @@
     "season": "شتاء 2022"
   },
   {
+    "id": "boku-no-hero-academia-the-movie-1-futari-no-hero",
+    "title": "انمي Boku no Hero Academia the Movie 1: Futari no Hero مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-the-movie-1-futari-no-hero.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2018"
+  },
+  {
     "id": "tsuki-to-laika-to-nosferatu",
     "title": "انمي Tsuki to Laika to Nosferatu مترجم اون لاين",
     "poster": "data/posters/tsuki-to-laika-to-nosferatu.webp",
@@ -7927,6 +8011,18 @@
     "type": "أوفا",
     "episodes_count": "1",
     "season": "صيف 2019"
+  },
+  {
+    "id": "bucchigire",
+    "title": "انمي Bucchigire! مترجم اون لاين",
+    "poster": "data/posters/bucchigire.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2022"
   },
   {
     "id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",

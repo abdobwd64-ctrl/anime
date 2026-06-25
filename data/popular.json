@@ -354,6 +354,32 @@
     "score": 32
   },
   {
+    "id": "shadowverse-flame",
+    "title": "انمي Shadowverse Flame مترجم اون لاين",
+    "poster": "data/posters/shadowverse-flame.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022",
+    "score": 31
+  },
+  {
+    "id": "captain-tsubasa-season-2-junior-youth-hen",
+    "title": "انمي Captain Tsubasa Season 2: Junior Youth-hen مترجم اون لاين",
+    "poster": "data/posters/captain-tsubasa-season-2-junior-youth-hen.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "39",
+    "season": "خريف 2023",
+    "score": 30
+  },
+  {
     "id": "nanatsu-no-taizai-kamigami-no-gekirin",
     "title": "انمي Nanatsu no Taizai: Kamigami no Gekirin مترجم اون لاين",
     "poster": "data/posters/nanatsu-no-taizai-kamigami-no-gekirin.webp",
@@ -369,19 +395,6 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2019",
-    "score": 30
-  },
-  {
-    "id": "shadowverse-flame",
-    "title": "انمي Shadowverse Flame مترجم اون لاين",
-    "poster": "data/posters/shadowverse-flame.webp",
-    "genres": [
-      "فنتازيا"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "غير معروف",
-    "season": "ربيع 2022",
     "score": 30
   },
   {
@@ -482,19 +495,5 @@
     "episodes_count": "24",
     "season": "خريف 2014",
     "score": 29
-  },
-  {
-    "id": "hajime-no-ippo-new-challenger",
-    "title": "انمي Hajime no Ippo: New Challenger مترجم اون لاين",
-    "poster": "data/posters/hajime-no-ippo-new-challenger.webp",
-    "genres": [
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "26",
-    "season": "شتاء 2009",
-    "score": 28
   }
 ]
