@@ -6270,6 +6270,18 @@
     "season": "صيف 2019"
   },
   {
+    "id": "hikari-no-ou",
+    "title": "انمي Hikari no Ou مترجم اون لاين",
+    "poster": "data/posters/hikari-no-ou.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "10",
+    "season": "شتاء 2023"
+  },
+  {
     "id": "re-zero-kara-hajimeru-isekai-seikatsu-4th-season",
     "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu 4th Season مترجم اون لاين",
     "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-4th-season.webp",
