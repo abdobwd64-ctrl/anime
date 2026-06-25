@@ -605,6 +605,18 @@
     "season": "صيف 2022"
   },
   {
+    "id": "gekidol",
+    "title": "انمي Gekidol مترجم اون لاين",
+    "poster": "data/posters/gekidol.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "akudama-drive",
     "title": "انمي Akudama Drive مترجم اون لاين",
     "poster": "data/posters/akudama-drive.webp",
@@ -726,6 +738,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "date-a-bullet-nightmare-or-queen",
+    "title": "انمي Date A Bullet: Nightmare or Queen مترجم اون لاين",
+    "poster": "data/posters/date-a-bullet-nightmare-or-queen.webp",
+    "genres": [
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2020"
   },
   {
     "id": "muv-luv-alternative-2nd-season",
@@ -1114,6 +1138,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "youjo-senki-movie",
+    "title": "انمي Youjo Senki Movie مترجم اون لاين",
+    "poster": "data/posters/youjo-senki-movie.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "سحر"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2019"
   },
   {
     "id": "bokura-no-yoake",
@@ -13092,6 +13130,18 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "boku-no-hero-academia-6th-season",
+    "title": "انمي Boku no Hero Academia 6th Season مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-6th-season.webp",
+    "genres": [
+      "أكشن"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "kami-no-shizuku",
