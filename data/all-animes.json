@@ -10194,6 +10194,23 @@
     "season": "صيف 2005"
   },
   {
+    "id": "owari-no-seraph",
+    "title": "انمي Owari no Seraph مترجم اون لاين",
+    "poster": "data/posters/owari-no-seraph.webp",
+    "genres": [
+      "أكشن",
+      "حربي",
+      "دراما",
+      "شونين",
+      "قوى خارقة",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2015"
+  },
+  {
     "id": "fureru",
     "title": "انمي Fureru مترجم اون لاين",
     "poster": "data/posters/fureru.webp",

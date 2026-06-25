@@ -1257,7 +1257,80 @@
           "url": "https://letsupload.co/3vPox/[Anime4up.com]_SWKNU_EP_06_HD.mp4"
         }
       ]
+    },
+    {
+      "number": "5",
+      "title": "الحلقة 5Shigatsu wa Kimi no Uso",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "letsupload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://letsupload.co/plugins/mediaplayer/site/_embed.php?u=4RKix&w=640&h=320"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1dc2T_OvVNXFLKko_GdUXo6a55AYJ4klQ/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!lJonlKRY!nexpyafjV-at1qAa19r_ssupfcE4MFMsV5pByWkJsOc"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/tbhhmcz5xac3"
+        },
+        {
+          "name": "vidbm | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbm.com/embed-lwtri30uge7m.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-72kzdlbagcwz.html"
+        },
+        {
+          "name": "file-up org | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.file-up.org/embed-vs34nvctnbzp.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/vs34nvctnbzp"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1dc2T_OvVNXFLKko_GdUXo6a55AYJ4klQ&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!lJonlKRY!nexpyafjV-at1qAa19r_ssupfcE4MFMsV5pByWkJsOc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/72kzdlbagcwz"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/tbhhmcz5xac3"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.co/4RKix/[Anime4up.com]_SWKNU_EP_05_HD.mp4"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T01:07:16.182669"
+  "last_updated": "2026-06-25T01:07:24.597764"
 }
