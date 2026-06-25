@@ -1631,7 +1631,126 @@
           "url": "https://updown.cam/po2auaxv8qmn"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Ranma ½ (2024)",
+      "date": "05 أكتوبر, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/9seGB97EoAw1I"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/9seGB97EoAw1I"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7368025836250"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-nycrnvihp1j0.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/sBoEhahB!8-DHQBFzt05jERiP8DZpM1rQrs7Mmjv2SZcVTfUcqZE"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-e2gft1i7hctn.html"
+        },
+        {
+          "name": "uqload ws | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.ws/embed-yy2tip4x89u6.html"
+        },
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7368041106138"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ed3mi3d65yub.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/8cRgHJwI!TdSj2kN8AFkd7__m4s0mWzzwoAojhTYkzvbHDlzbejg"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/p0l3atrf"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/7368048249562"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-9ffxzitsa9u5.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/tZ5TBCTa!GYAuUPb7T2mI64HdoAPe2MKbYJepr2bvpxd-uXRAJ68"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/9ffxzitsa9u5"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!tZ5TBCTa!GYAuUPb7T2mI64HdoAPe2MKbYJepr2bvpxd-uXRAJ68"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/9c6gdmh2kjdy"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ed3mi3d65yub"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!8cRgHJwI!TdSj2kN8AFkd7__m4s0mWzzwoAojhTYkzvbHDlzbejg"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/lmof1hcfypwc"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/nycrnvihp1j0"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!sBoEhahB!8-DHQBFzt05jERiP8DZpM1rQrs7Mmjv2SZcVTfUcqZE"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/177lfjwmiv9l"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:11:57.051442"
+  "last_updated": "2026-06-25T02:12:04.622858"
 }
