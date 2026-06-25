@@ -1,0 +1,76 @@
+{
+  "id": "kill-la-kill-specials",
+  "title": "انمي Kill la Kill Specials مترجم اون لاين",
+  "url": "https://animelek.top/anime/kill-la-kill-specials/",
+  "poster": "data/posters/kill-la-kill-specials.webp",
+  "status": "مكتمل",
+  "type": "حلقة خاصة",
+  "episodes_count": "2",
+  "start_date": "2014",
+  "season": "صيف 2014",
+  "genres": [
+    "أكشن",
+    "خارق للعادة",
+    "كوميدي",
+    "مدرسي"
+  ],
+  "story": "حلقة خاصة إضافية من انمي KIll La Kill.",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة الخاصة 1Kill la Kill Specials",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/M2Y3rz6ZaGQ7r"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/5VJ62SsAfi"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!FCAjACwR!ObxVDNcO0nITmpDqYysESW7vEo-MXqcNkJs1493Kgz0"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/hx4v0fnw7x5a"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!FCAjACwR!ObxVDNcO0nITmpDqYysESW7vEo-MXqcNkJs1493Kgz0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/4hml1hqsdcso"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/VA56d2sJpic/%5BAnime4up.com%5D_KLKS_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/hx4v0fnw7x5a"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/M2Y3rz6ZaGQ7r"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T02:59:23.758351"
+}
