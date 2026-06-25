@@ -5178,6 +5178,23 @@
     "season": "صيف 2024"
   },
   {
+    "id": "b-the-beginning-succession",
+    "title": "انمي B: The Beginning Succession مترجم اون لاين",
+    "poster": "data/posters/b-the-beginning-succession.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "قوى خارقة",
+      "نفسي",
+      "اثارة",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "high-school-dxd-new",
     "title": "انمي High School DxD New مترجم اون لاين",
     "poster": "data/posters/high-school-dxd-new.webp",
@@ -5273,6 +5290,23 @@
     "type": "أونا",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "majutsushi-orphen-hagure-tabi",
+    "title": "انمي Majutsushi Orphen Hagure Tabi مترجم اون لاين",
+    "poster": "data/posters/majutsushi-orphen-hagure-tabi.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "فنتازيا",
+      "مغامرات",
+      "سحر",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2020"
   },
   {
     "id": "code-geass-dakkan-no-roz",
@@ -5780,6 +5814,18 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "ربيع 2024"
+  },
+  {
+    "id": "yaneura-no-rudger",
+    "title": "انمي Yaneura no Rudger مترجم اون لاين",
+    "poster": "data/posters/yaneura-no-rudger.webp",
+    "genres": [
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
   },
   {
     "id": "hero-mask-2019",
@@ -6915,6 +6961,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "yano-kun-no-futsuu-no-hibi",
+    "title": "انمي Yano-kun no Futsuu no Hibi مترجم اون لاين",
+    "poster": "data/posters/yano-kun-no-futsuu-no-hibi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2025"
   },
   {
     "id": "sentai-daishikkaku-2nd-season",
