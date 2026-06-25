@@ -826,7 +826,119 @@
           "url": "https://www.file-up.org/42798civ5tuq"
         }
       ]
+    },
+    {
+      "number": "24",
+      "title": "الحلقة 24Death Note",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1090891483866"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/oIJG7Rhiee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!RyoAhKYY!I2HA0Sv5s6UG2rftaefBwEyjQ5JvpZks6jn7IlPMsDg"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-17xp64jx9lc8.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/upoux6te4wgu"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!RyoAhKYY!I2HA0Sv5s6UG2rftaefBwEyjQ5JvpZks6jn7IlPMsDg"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/m0vu98900qk8"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/obIf3Ff6swE/%5BAnime4up.com%5D_DN_EP_24_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/upoux6te4wgu"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/video/oIJG7Rhiee/Anime4upcom_DN_EP_24_HD.html"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "title": "الحلقة 23Death Note",
+      "date": "10 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1090244971226"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/WDxMRNEeda"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!1vpWDapJ!smKfPR7UOOTfqwkRTSEXs9TG4y6RnbsK8llWuHRj_gk"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-hf9ysj5m5y09.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/eb1vuigrqa7r"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!1vpWDapJ!smKfPR7UOOTfqwkRTSEXs9TG4y6RnbsK8llWuHRj_gk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/53ha7biz015q"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/-SDNsvZLoiQ/%5BAnime4up.com%5D_DN_EP_23_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/eb1vuigrqa7r"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:30:37.982594"
+  "last_updated": "2026-06-25T02:30:55.263606"
 }
