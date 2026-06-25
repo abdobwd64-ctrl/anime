@@ -1179,7 +1179,114 @@
           "url": "https://mega.nz/#!ZP0zAAbZ!K73Bc_IPGzWey5GrZCpza3dFs3py7DdryKXHbawdszo"
         }
       ]
+    },
+    {
+      "number": "13",
+      "title": "الحلقة 13Nanatsu no Taizai: Mokushiroku no Yonkishi",
+      "date": "15 يناير, 2024",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/YPJh5otE7WTVN"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/YPJh5otE7WTVN"
+        },
+        {
+          "name": "leech megamax | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://leech.megamax.me/e/YPJh5otE7WTVN"
+        },
+        {
+          "name": "vidblue online | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://a3.vidblue.online/embed-0kx7k8ltmk9u.html"
+        },
+        {
+          "name": "uqload io | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.io/embed-a7ln1kev0pve.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-84s0lg3p0vka.html"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/V3cXhYAB!YJraFVOdG3APgeS8XDV0wKcXigMQk9S78mfKslQeud0"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-o06oq8t5t75s.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/E6U2VaxB!bcdNNmQo-QEM7Ld9gpBqBE8teg9s1ABx4Vmo8ydsRg0"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-5jt49vb8tz77.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/Nq8QnQwR!QjOmJWeMAxsBLg2a8xPtm1I9HHbrwKB8k31IPxaEX5o"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/h8vgnerluw3e"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/5jt49vb8tz77"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!Nq8QnQwR!QjOmJWeMAxsBLg2a8xPtm1I9HHbrwKB8k31IPxaEX5o"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/aarn8qq1h6ai"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/84s0lg3p0vka"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!V3cXhYAB!YJraFVOdG3APgeS8XDV0wKcXigMQk9S78mfKslQeud0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/o06oq8t5t75s"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/3sltk0460qhx"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!E6U2VaxB!bcdNNmQo-QEM7Ld9gpBqBE8teg9s1ABx4Vmo8ydsRg0"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:10:22.952125"
+  "last_updated": "2026-06-25T02:10:33.863818"
 }
