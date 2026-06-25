@@ -8619,6 +8619,18 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "lapis-re-lights",
+    "title": "انمي Lapis Re:LiGHTs مترجم اون لاين",
+    "poster": "data/posters/lapis-re-lights.webp",
+    "genres": [
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2020"
+  },
+  {
     "id": "sora-no-aosa-wo-shiru-hito-yo",
     "title": "انمي Sora no Aosa wo Shiru Hito yo مترجم اون لاين",
     "poster": "data/posters/sora-no-aosa-wo-shiru-hito-yo.webp",
