@@ -1,0 +1,84 @@
+{
+  "id": "zuori-qing-kong",
+  "title": "انمي Zuori Qing Kong مترجم اون لاين",
+  "url": "https://animelek.top/anime/zuori-qing-kong/",
+  "poster": "data/posters/zuori-qing-kong.webp",
+  "status": "مكتمل",
+  "type": "فيلم",
+  "episodes_count": "1",
+  "start_date": "2018",
+  "season": "خريف 2018",
+  "genres": [
+    "دراما",
+    "رومانسي",
+    "مدرسي",
+    "شريحة من الحياة"
+  ],
+  "story": "السماء الكريستالية للأمس في أواخر التسعينات في الصين، لا يهتم طالب المدرسة الثانوية تو شياو يي بالدرجات ويفضل اللعب بألعاب الفيديو مع صديقه. ويومًا ما تم اختياره من قبل معلمه ليصبح ممثل الصف مع ياو شيتيان، وهي فتاة لطيفة للغاية وسوف يختبر حبه الأول .",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الفلم 1Zuori Qing Kong",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1055106206426"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1-NJfEfkU9tEqqf5QOrZxIV1cRGL3Slx1/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/fFHmrg1Xfi"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!jdUi2Aza!0WGL17g60mKLpRD1f64PdEqQwIAC05I3W5YF-n5isHw"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.vidbom.com/embed-1rwao70x330b.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/e3xwd9wn56k7"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1-NJfEfkU9tEqqf5QOrZxIV1cRGL3Slx1&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!jdUi2Aza!0WGL17g60mKLpRD1f64PdEqQwIAC05I3W5YF-n5isHw"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/tBMLjVRZTIo/%5BAnime4up.com%5D_ZQK_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/e3xwd9wn56k7"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/wf3v1sdj1i9p"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T03:13:02.476418"
+}

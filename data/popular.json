@@ -401,6 +401,26 @@
     "score": 32
   },
   {
+    "id": "hanyou-no-yashahime-sengoku-otogizoushi",
+    "title": "انمي Hanyou no Yashahime: Sengoku Otogizoushi مترجم اون لاين",
+    "poster": "data/posters/hanyou-no-yashahime-sengoku-otogizoushi.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي",
+      "سحر",
+      "قوى خارقة",
+      "شياطين",
+      "تاريخي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2020",
+    "score": 32
+  },
+  {
     "id": "mushishi",
     "title": "انمي Mushishi مترجم اون لاين",
     "poster": "data/posters/mushishi.webp",
@@ -478,23 +498,6 @@
     "status": "مكتمل",
     "type": "تلفزيون",
     "episodes_count": "24",
-    "season": "خريف 2019",
-    "score": 30
-  },
-  {
-    "id": "boku-no-hero-academia-4th-season",
-    "title": "انمي Boku no Hero Academia 4th Season مترجم اون لاين",
-    "poster": "data/posters/boku-no-hero-academia-4th-season.webp",
-    "genres": [
-      "أكشن",
-      "خارق للعادة",
-      "شونين",
-      "كوميدي",
-      "مدرسي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "25",
     "season": "خريف 2019",
     "score": 30
   }
