@@ -82,7 +82,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 103
+    "score": 104
   },
   {
     "id": "gegege-no-kitarou-2018",
@@ -189,21 +189,6 @@
     "score": 57
   },
   {
-    "id": "captain-tsubasa-2018",
-    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
-    "poster": "data/posters/captain-tsubasa-2018.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "52",
-    "season": "ربيع 2018",
-    "score": 52
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -220,6 +205,21 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
+    "score": 54
+  },
+  {
+    "id": "captain-tsubasa-2018",
+    "title": "انمي Captain Tsubasa (2018) مترجم اون لاين",
+    "poster": "data/posters/captain-tsubasa-2018.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "52",
+    "season": "ربيع 2018",
     "score": 52
   },
   {
