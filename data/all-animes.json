@@ -4622,6 +4622,18 @@
     "season": "ربيع 2016"
   },
   {
+    "id": "sorairo-utility",
+    "title": "انمي Sorairo Utility مترجم اون لاين",
+    "poster": "data/posters/sorairo-utility.webp",
+    "genres": [
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "kekkon-yubiwa-monogatari",
     "title": "انمي Kekkon Yubiwa Monogatari مترجم اون لاين",
     "poster": "data/posters/kekkon-yubiwa-monogatari.webp",
