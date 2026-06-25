@@ -140,6 +140,20 @@
     "season": "صيف 2023"
   },
   {
+    "id": "mato-seihei-no-slave",
+    "title": "انمي Mato Seihei no Slave مترجم اون لاين",
+    "poster": "data/posters/mato-seihei-no-slave.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2024"
+  },
+  {
     "id": "bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu",
     "title": "انمي Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu مترجم اون لاين",
     "poster": "data/posters/bleach-movie-3-fade-to-black-kimi-no-na-wo-yobu.webp",
@@ -2374,6 +2388,20 @@
     "type": "أونا",
     "episodes_count": "12",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "hokkyoku-hyakkaten-no-concierge-san",
+    "title": "انمي Hokkyoku Hyakkaten no Concierge-san مترجم اون لاين",
+    "poster": "data/posters/hokkyoku-hyakkaten-no-concierge-san.webp",
+    "genres": [
+      "فنتازيا",
+      "سينين",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2023"
   },
   {
     "id": "fate-extra-last-encore-illustrias-tendousetsu",
@@ -6373,6 +6401,18 @@
     "type": "تلفزيون",
     "episodes_count": "29",
     "season": "خريف 1991"
+  },
+  {
+    "id": "vanitas-no-karte-2nd-season",
+    "title": "انمي Vanitas no Karte 2nd Season مترجم اون لاين",
+    "poster": "data/posters/vanitas-no-karte-2nd-season.webp",
+    "genres": [
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2022"
   },
   {
     "id": "hi-no-tori-houou-hen",
@@ -13239,6 +13279,20 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "خريف 2009"
+  },
+  {
+    "id": "wakaokami-wa-shougakusei-movie",
+    "title": "انمي Wakaokami wa Shougakusei! Movie مترجم اون لاين",
+    "poster": "data/posters/wakaokami-wa-shougakusei-movie.webp",
+    "genres": [
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2018"
   },
   {
     "id": "grimm-kumikyoku",
