@@ -1275,7 +1275,196 @@
           "url": "https://uptobox.com/aaej7lwr5tk1"
         }
       ]
+    },
+    {
+      "number": "1",
+      "title": "الحلقة 1Kageki Shoujo!!",
+      "date": "03 يوليو, 2021",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2337506331354"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1b8fg1qSmt_VmvvdOB_Rjiu-za5_TCOQ3/preview"
+        },
+        {
+          "name": "solidfiles | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.solidfiles.com/e/qdM5jg5W8qVrq"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/zbYB3QpD#VCje9S_5w62EUki1CbH1Yyi5tMD1Ua-c2wwziW4aBQQ"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/t6Q45zjXiq"
+        },
+        {
+          "name": "dood la | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.la/e/9l95kcyfnwiw8pv4ugi99wv8ey7d1rb0"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-b7a6iubzhwhw.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-yfgmz8suvo4t.html"
+        },
+        {
+          "name": "vedpom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vedpom.com:2053/embed-qfe8k0hf051u.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/pusardxdzeav"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2337549257434"
+        },
+        {
+          "name": "dood la | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.la/e/7udi7n0aqpvdiy3asm7fgjrseaayeuv8"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-ddn96i7eg3g3.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/fWxwkJDK#0tCvRwZuKn5ZJHwG4SvflAaJj8rFLW1F4SVZ8Vf59Bk"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/2337551944410"
+        },
+        {
+          "name": "dood la | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://dood.la/e/cx3nea33z86ggjd3mu4g9t0kssa87fzx"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-oyfz7buqbygh.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/PaJzgQyA#22bL6fhZmLjVLMlegodDpIYknqWl8ox6aC3zv3LOiLU"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/3rdqd3kzp246"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/PaJzgQyA#22bL6fhZmLjVLMlegodDpIYknqWl8ox6aC3zv3LOiLU"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/oyfz7buqbygh"
+        },
+        {
+          "server": "letsupload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/S711/[Anime4up.com]_KS_EP_01_SD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/5ttgk342k7qp"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/37do5s659c8w"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/u/0/uc?id=1b8fg1qSmt_VmvvdOB_Rjiu-za5_TCOQ3&export=download"
+        },
+        {
+          "server": "solidfiles",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.solidfiles.com/v/qdM5jg5W8qVrq"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/zbYB3QpD#VCje9S_5w62EUki1CbH1Yyi5tMD1Ua-c2wwziW4aBQQ"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/yfgmz8suvo4t"
+        },
+        {
+          "server": "letsupload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/1y4ru/[Anime4up.com]_KS_EP_01_HD_(2).mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/pusardxdzeav"
+        },
+        {
+          "server": "4shared",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.4shared.com/s/ft6Q45zjXiq"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/eu9xpn3xt3i2"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/fWxwkJDK#0tCvRwZuKn5ZJHwG4SvflAaJj8rFLW1F4SVZ8Vf59Bk"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/ddn96i7eg3g3"
+        },
+        {
+          "server": "letsupload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://letsupload.io/1y4te/[Anime4up.com]_KS_EP_01_FHD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/sy9gw8ywk3bz"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:07:45.560514"
+  "last_updated": "2026-06-25T02:07:56.095713"
 }
