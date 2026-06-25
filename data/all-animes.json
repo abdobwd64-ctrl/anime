@@ -130,6 +130,20 @@
     "season": "ربيع 2024"
   },
   {
+    "id": "nasu-andalusia-no-natsu",
+    "title": "انمي Nasu: Andalusia no Natsu مترجم اون لاين",
+    "poster": "data/posters/nasu-andalusia-no-natsu.webp",
+    "genres": [
+      "أكشن",
+      "سينين",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2003"
+  },
+  {
     "id": "kanojo-mo-kanojo-season-2",
     "title": "انمي Kanojo mo Kanojo Season 2 مترجم اون لاين",
     "poster": "data/posters/kanojo-mo-kanojo-season-2.webp",
@@ -1924,6 +1938,19 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2023"
+  },
+  {
+    "id": "high-card-the-flowers-bloom",
+    "title": "انمي High Card: The Flowers Bloom مترجم اون لاين",
+    "poster": "data/posters/high-card-the-flowers-bloom.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "1",
+    "season": "خريف 2024"
   },
   {
     "id": "bullbuster",
@@ -10967,6 +10994,20 @@
     "season": "صيف 2025"
   },
   {
+    "id": "momentary-lily-tsuzuiteiku-kappou-kappou",
+    "title": "انمي Momentary Lily: Tsuzuiteiku Kappou, Kappou! مترجم اون لاين",
+    "poster": "data/posters/momentary-lily-tsuzuiteiku-kappou-kappou.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "aishiteru-game-wo-owarasetai",
     "title": "انمي Aishiteru Game wo Owarasetai مترجم اون لاين",
     "poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
@@ -11653,6 +11694,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2021"
+  },
+  {
+    "id": "hoshifuru-oukoku-no-nina",
+    "title": "انمي Hoshifuru Oukoku no Nina مترجم اون لاين",
+    "poster": "data/posters/hoshifuru-oukoku-no-nina.webp",
+    "genres": [
+      "فنتازيا",
+      "رومانسي",
+      "جوسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2024"
   },
   {
     "id": "one-piece-movie-04-dead-end-no-bouken",
@@ -18629,6 +18684,20 @@
     "season": "شتاء 2024"
   },
   {
+    "id": "sakamoto-days",
+    "title": "انمي Sakamoto Days مترجم اون لاين",
+    "poster": "data/posters/sakamoto-days.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "engage-kiss",
     "title": "انمي Engage Kiss مترجم اون لاين",
     "poster": "data/posters/engage-kiss.webp",
@@ -22890,6 +22959,22 @@
     "season": "خريف 2023"
   },
   {
+    "id": "sword-art-online-alicization-war-of-underworld",
+    "title": "انمي Sword Art Online: Alicization - War of Underworld مترجم اون لاين",
+    "poster": "data/posters/sword-art-online-alicization-war-of-underworld.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "العاب",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
+  },
+  {
     "id": "shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su",
     "title": "انمي Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su مترجم اون لاين",
     "poster": "data/posters/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su.webp",
@@ -23116,6 +23201,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "خريف 2019"
+  },
+  {
+    "id": "sono-bisque-doll-wa-koi-wo-suru",
+    "title": "انمي Sono Bisque Doll wa Koi wo Suru مترجم اون لاين",
+    "poster": "data/posters/sono-bisque-doll-wa-koi-wo-suru.webp",
+    "genres": [
+      "رومانسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "shokugeki-no-souma",
@@ -26029,6 +26127,16 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2019"
+  },
+  {
+    "id": "sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival",
+    "title": "انمي SutoPuri Movie: Hajimari no Monogatari - Strawberry School Festival!!! مترجم اون لاين",
+    "poster": "data/posters/sutopuri-movie-hajimari-no-monogatari-strawberry-school-festival.webp",
+    "genres": [],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2024"
   },
   {
     "id": "takt-op-destiny",
