@@ -7985,6 +7985,20 @@
     "season": "خريف 2019"
   },
   {
+    "id": "fairy-tail-100-nen-quest",
+    "title": "انمي Fairy Tail: 100-nen Quest مترجم اون لاين",
+    "poster": "data/posters/fairy-tail-100-nen-quest.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "25",
+    "season": "صيف 2024"
+  },
+  {
     "id": "pokemon-2019-kami-to-yobareshi-arceus",
     "title": "انمي Pokemon (2019): Kami to Yobareshi Arceus مترجم اون لاين",
     "poster": "data/posters/pokemon-2019-kami-to-yobareshi-arceus.webp",
