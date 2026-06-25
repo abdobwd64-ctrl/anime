@@ -84,6 +84,21 @@
     "season": "ربيع 2022"
   },
   {
+    "id": "nomad-megalo-box-2",
+    "title": "انمي Nomad: Megalo Box 2 مترجم اون لاين",
+    "poster": "data/posters/nomad-megalo-box-2.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
+  },
+  {
     "id": "mattaku-saikin-no-tantei-to-kitara",
     "title": "انمي Mattaku Saikin no Tantei to Kitara مترجم اون لاين",
     "poster": "data/posters/mattaku-saikin-no-tantei-to-kitara.webp",
@@ -3068,6 +3083,21 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020"
+  },
+  {
+    "id": "kizetsu-yuusha-to-ansatsu-hime",
+    "title": "انمي Kizetsu Yuusha to Ansatsu Hime مترجم اون لاين",
+    "poster": "data/posters/kizetsu-yuusha-to-ansatsu-hime.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "صيف 2025"
   },
   {
     "id": "gakusen-toshi-asterisk-2nd-season",
@@ -9509,6 +9539,18 @@
     "type": "أوفا",
     "episodes_count": "2",
     "season": "صيف 2012"
+  },
+  {
+    "id": "kimetsu-gakuen-valentine-hen",
+    "title": "انمي Kimetsu Gakuen: Valentine-hen مترجم اون لاين",
+    "poster": "data/posters/kimetsu-gakuen-valentine-hen.webp",
+    "genres": [
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "4",
+    "season": "شتاء 2021"
   },
   {
     "id": "boku-no-tonari-ni-ankoku-hakaishin-ga-imasu",
