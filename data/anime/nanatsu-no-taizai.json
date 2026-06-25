@@ -492,7 +492,66 @@
           "url": "https://www.file-up.org/vooil2owqkck"
         }
       ]
+    },
+    {
+      "number": "16",
+      "title": "الحلقة 16Nanatsu no Taizai",
+      "date": "12 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1UUjA4i95-wf2uVQpzaF5_Rc_xvevBrED/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!QK4TlIZD!22hKZ9AiOGCufmcT0Xw0W6j6bPdsk3zR-H5NMZqRxlM"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/0W9J9euEda"
+        },
+        {
+          "name": "vidbom | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbom.com/embed-6rfypgp2ugc7.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/de3iahc3v3cs"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?authuser=0&id=1UUjA4i95-wf2uVQpzaF5_Rc_xvevBrED&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!QK4TlIZD!22hKZ9AiOGCufmcT0Xw0W6j6bPdsk3zR-H5NMZqRxlM"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/gdr20ob2hed5"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/XTaGD40LnEc/%5BAnime4up.com%5D_NNT_EP_16_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/de3iahc3v3cs"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T00:29:43.511981"
+  "last_updated": "2026-06-25T00:29:50.790716"
 }
