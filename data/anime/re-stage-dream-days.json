@@ -1,0 +1,81 @@
+{
+  "id": "re-stage-dream-days",
+  "title": "انمي Re:Stage! Dream Days♪ مترجم اون لاين",
+  "url": "https://animelek.top/anime/re-stage-dream-days/",
+  "poster": "data/posters/re-stage-dream-days.webp",
+  "status": "مكتمل",
+  "type": "تلفزيون",
+  "episodes_count": "12",
+  "start_date": "2019",
+  "season": "صيف 2019",
+  "genres": [
+    "مدرسي",
+    "شريحة من الحياة",
+    "موسيقي"
+  ],
+  "story": "قصة انمي Re:Stage! Dream Days♪ تدور حول مانا شيكيميا و التي تحاول تحقيق حلمها في الفوز في مسابقة برسيم ستيج و هي مسابقة لتحديد أفضل فنان للمرحلة المتوسطة",
+  "episodes": [
+    {
+      "number": "1",
+      "title": "الحلقة 1Re:Stage! Dream Days♪",
+      "date": "11 يوليو, 2020",
+      "servers": [
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1BxIloGhYKCLAHYGlVracD8TIQ_g_3-wP/preview"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/J8aSBTbGee"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed#!M65DUCpD!P_BWyYbHlfFZ7-V4j0HlIwFGgXpHK-HZPKFWKjV5Zkw"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/l8iutgq1v7wj"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1BxIloGhYKCLAHYGlVracD8TIQ_g_3-wP&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!M65DUCpD!P_BWyYbHlfFZ7-V4j0HlIwFGgXpHK-HZPKFWKjV5Zkw"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/0zzee3v8u5fz"
+        },
+        {
+          "server": "openload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://openload.co/f/RGv5X5IMdRg/%5BAnime4up.com%5D_RSDD_EP_01_HD.mp4"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/l8iutgq1v7wj"
+        },
+        {
+          "server": "file-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-up.org/k92gq8hw53qn"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-06-25T04:01:14.778066"
+}

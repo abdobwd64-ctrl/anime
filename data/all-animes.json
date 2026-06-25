@@ -3777,6 +3777,22 @@
     "season": "خريف 2017"
   },
   {
+    "id": "bungou-stray-dogs-2nd-season",
+    "title": "انمي Bungou Stray Dogs 2nd Season مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "خارق للعادة",
+      "قوى خارقة",
+      "سينين"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2016"
+  },
+  {
     "id": "toaru-kagaku-no-railgun-t",
     "title": "انمي Toaru Kagaku no Railgun T مترجم اون لاين",
     "poster": "data/posters/toaru-kagaku-no-railgun-t.webp",
@@ -5058,6 +5074,23 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "ربيع 2025"
+  },
+  {
+    "id": "fruits-basket-the-final",
+    "title": "انمي Fruits Basket: The Final مترجم اون لاين",
+    "poster": "data/posters/fruits-basket-the-final.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2021"
   },
   {
     "id": "shunkashuutou-daikousha-haru-no-mai",
@@ -10336,6 +10369,20 @@
     "season": "خريف 2020"
   },
   {
+    "id": "re-stage-dream-days",
+    "title": "انمي Re:Stage! Dream Days♪ مترجم اون لاين",
+    "poster": "data/posters/re-stage-dream-days.webp",
+    "genres": [
+      "مدرسي",
+      "شريحة من الحياة",
+      "موسيقي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2019"
+  },
+  {
     "id": "given",
     "title": "انمي Given مترجم اون لاين",
     "poster": "data/posters/given.webp",
@@ -14596,6 +14643,20 @@
     "season": "صيف 2015"
   },
   {
+    "id": "meitantei-conan-movie-07-meikyuu-no-crossroad",
+    "title": "انمي Meitantei Conan Movie 07: Meikyuu no Crossroad مترجم اون لاين",
+    "poster": "data/posters/meitantei-conan-movie-07-meikyuu-no-crossroad.webp",
+    "genres": [
+      "غموض",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2003"
+  },
+  {
     "id": "arifureta-shokugyou-de-sekai-saikyou",
     "title": "انمي Arifureta Shokugyou de Sekai Saikyou مترجم اون لاين",
     "poster": "data/posters/arifureta-shokugyou-de-sekai-saikyou.webp",
@@ -18224,6 +18285,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2026"
+  },
+  {
+    "id": "shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru",
+    "title": "انمي Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru. مترجم اون لاين",
+    "poster": "data/posters/shinmai-ossan-boukensha-saikyou-party-ni-shinu-hodo-kitaerarete-muteki-ni-naru.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "build-divide-code-white",
