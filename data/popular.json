@@ -98,7 +98,7 @@
     "type": "أوفا",
     "episodes_count": "110",
     "season": "شتاء 1988",
-    "score": 98
+    "score": 100
   },
   {
     "id": "hajime-no-ippo",
@@ -204,23 +204,6 @@
     "score": 52
   },
   {
-    "id": "beyblade-burst",
-    "title": "انمي Beyblade Burst مترجم اون لاين",
-    "poster": "data/posters/beyblade-burst.webp",
-    "genres": [
-      "أكشن",
-      "شونين",
-      "مغامرات",
-      "خيال علمي",
-      "رياضي"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "51",
-    "season": "ربيع 2016",
-    "score": 48
-  },
-  {
     "id": "dragon-ball-kai-2014",
     "title": "انمي Dragon Ball Kai (2014) مترجم اون لاين",
     "poster": "data/posters/dragon-ball-kai-2014.webp",
@@ -237,7 +220,24 @@
     "type": "تلفزيون",
     "episodes_count": "61",
     "season": "ربيع 2014",
-    "score": 47
+    "score": 49
+  },
+  {
+    "id": "beyblade-burst",
+    "title": "انمي Beyblade Burst مترجم اون لاين",
+    "poster": "data/posters/beyblade-burst.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "مغامرات",
+      "خيال علمي",
+      "رياضي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "51",
+    "season": "ربيع 2016",
+    "score": 48
   },
   {
     "id": "great-teacher-onizuka",
