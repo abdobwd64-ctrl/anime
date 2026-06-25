@@ -7509,6 +7509,22 @@
     "season": "شتاء 2016"
   },
   {
+    "id": "world-trigger-2nd-season",
+    "title": "انمي World Trigger 2nd Season مترجم اون لاين",
+    "poster": "data/posters/world-trigger-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "خيال علمي",
+      "قوى خارقة",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "violet-evergarden",
     "title": "انمي Violet Evergarden مترجم اون لاين",
     "poster": "data/posters/violet-evergarden.webp",
