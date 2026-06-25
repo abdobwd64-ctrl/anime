@@ -923,6 +923,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna",
+    "title": "انمي Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna مترجم اون لاين",
+    "poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu-hyouketsu-no-kizuna.webp",
+    "genres": [
+      "دراما",
+      "فنتازيا",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "خريف 2019"
+  },
+  {
     "id": "karasu-wa-aruji-wo-erabanai",
     "title": "انمي Karasu wa Aruji wo Erabanai مترجم اون لاين",
     "poster": "data/posters/karasu-wa-aruji-wo-erabanai.webp",
@@ -1278,6 +1293,20 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "صيف 2019"
+  },
+  {
+    "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
+    "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen مترجم اون لاين",
+    "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "15",
+    "season": "خريف 2024"
   },
   {
     "id": "dragon-ball-z-movie-07-kyokugen-battle-sandai-super-saiyajin",
@@ -2718,6 +2747,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "صيف 2024"
+  },
+  {
+    "id": "rifle-is-beautiful",
+    "title": "انمي Rifle Is Beautiful مترجم اون لاين",
+    "poster": "data/posters/rifle-is-beautiful.webp",
+    "genres": [
+      "كوميدي",
+      "مدرسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "خريف 2019"
   },
   {
     "id": "hibike-euphonium-ensemble-contest-hen",
@@ -8625,6 +8668,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020"
+  },
+  {
+    "id": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+    "title": "انمي Kono Subarashii Sekai ni Shukufuku wo! 3 مترجم اون لاين",
+    "poster": "data/posters/kono-subarashii-sekai-ni-shukufuku-wo-3.webp",
+    "genres": [
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "ربيع 2024"
   },
   {
     "id": "tsundere-akuyaku-reijou-liselotte-to-jikkyou-no-endou-kun-to-kaisetsu-no-kobayashi-san",
