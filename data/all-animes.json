@@ -4184,6 +4184,23 @@
     "season": "خريف 2022"
   },
   {
+    "id": "detective-conan-the-scarlet-alibi",
+    "title": "انمي Detective Conan: The Scarlet Alibi مترجم اون لاين",
+    "poster": "data/posters/detective-conan-the-scarlet-alibi.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "شونين",
+      "كوميدي",
+      "بوليسي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2021"
+  },
+  {
     "id": "yatogame-chan-kansatsu-nikki-nisatsume",
     "title": "انمي Yatogame-chan Kansatsu Nikki Nisatsume مترجم اون لاين",
     "poster": "data/posters/yatogame-chan-kansatsu-nikki-nisatsume.webp",
