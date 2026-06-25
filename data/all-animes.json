@@ -2881,6 +2881,21 @@
     "season": "خريف 2022"
   },
   {
+    "id": "kotonoha-no-niwa",
+    "title": "انمي Kotonoha no Niwa مترجم اون لاين",
+    "poster": "data/posters/kotonoha-no-niwa.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "نفسي",
+      "شريحة من الحياة"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "ربيع 2013"
+  },
+  {
     "id": "spy-x-family-movie-code-white",
     "title": "انمي Spy x Family Movie: Code: White مترجم اون لاين",
     "poster": "data/posters/spy-x-family-movie-code-white.webp",
@@ -3048,6 +3063,21 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "quanzhi-fashi-iii",
+    "title": "انمي Quanzhi Fashi III مترجم اون لاين",
+    "poster": "data/posters/quanzhi-fashi-iii.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "سحر",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "خريف 2018"
   },
   {
     "id": "cardfight-vanguard-overdress-season-2",
@@ -3504,6 +3534,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2021"
+  },
+  {
+    "id": "yozakura-san-chi-no-daisakusen-2nd-season",
+    "title": "انمي Yozakura-san Chi no Daisakusen 2nd Season مترجم اون لاين",
+    "poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "كوميدي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
   },
   {
     "id": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
@@ -8804,6 +8848,19 @@
     "season": "خريف 2019"
   },
   {
+    "id": "yuusha-no-kuzu",
+    "title": "انمي Yuusha no Kuzu مترجم اون لاين",
+    "poster": "data/posters/yuusha-no-kuzu.webp",
+    "genres": [
+      "أكشن",
+      "خيال علمي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "شتاء 2026"
+  },
+  {
     "id": "shuumatsu-touring",
     "title": "انمي Shuumatsu Touring مترجم اون لاين",
     "poster": "data/posters/shuumatsu-touring.webp",
@@ -9551,6 +9608,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2020"
+  },
+  {
+    "id": "gintama-shiroyasha-koutan",
+    "title": "انمي Gintama: Shiroyasha Koutan مترجم اون لاين",
+    "poster": "data/posters/gintama-shiroyasha-koutan.webp",
+    "genres": [
+      "أكشن",
+      "كوميدي",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "حلقة خاصة",
+    "episodes_count": "1",
+    "season": "صيف 2008"
   },
   {
     "id": "kimetsu-no-yaiba-hashira-geiko-hen",
@@ -11626,6 +11697,18 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "shuumatsu-train-doko-e-iku",
+    "title": "انمي Shuumatsu Train Doko e Iku? مترجم اون لاين",
+    "poster": "data/posters/shuumatsu-train-doko-e-iku.webp",
+    "genres": [
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2024"
+  },
+  {
     "id": "haikyuu-second-season",
     "title": "انمي Haikyuu!! Second Season مترجم اون لاين",
     "poster": "data/posters/haikyuu-second-season.webp",
@@ -12218,6 +12301,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "shin-samurai-den-yaiba",
+    "title": "انمي Shin Samurai-den Yaiba مترجم اون لاين",
+    "poster": "data/posters/shin-samurai-den-yaiba.webp",
+    "genres": [
+      "شونين",
+      "مغامرات",
+      "ساموراي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "24",
+    "season": "ربيع 2025"
   },
   {
     "id": "uma-musume-pretty-derby-bnw-no-chikai",
@@ -13284,6 +13381,20 @@
     "type": "أونا",
     "episodes_count": "13",
     "season": "ربيع 2019"
+  },
+  {
+    "id": "kage-no-jitsuryokusha-ni-naritakute",
+    "title": "انمي Kage no Jitsuryokusha ni Naritakute! مترجم اون لاين",
+    "poster": "data/posters/kage-no-jitsuryokusha-ni-naritakute.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "20",
+    "season": "خريف 2022"
   },
   {
     "id": "selection-project",
@@ -14797,6 +14908,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "ربيع 2010"
+  },
+  {
+    "id": "natsu-e-no-tunnel-sayonara-no-deguchi",
+    "title": "انمي Natsu e no Tunnel, Sayonara no Deguchi مترجم اون لاين",
+    "poster": "data/posters/natsu-e-no-tunnel-sayonara-no-deguchi.webp",
+    "genres": [
+      "غموض",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "صيف 2022"
   },
   {
     "id": "bang-dream-2nd-season",
@@ -16829,6 +16954,19 @@
     "season": "خريف 2024"
   },
   {
+    "id": "kisaki-kyouiku-kara-nigetai-watashi",
+    "title": "انمي Kisaki Kyouiku kara Nigetai Watashi مترجم اون لاين",
+    "poster": "data/posters/kisaki-kyouiku-kara-nigetai-watashi.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "شتاء 2025"
+  },
+  {
     "id": "gegege-no-kitarou-2018",
     "title": "انمي Gegege no Kitarou (2018) مترجم اون لاين",
     "poster": "data/posters/gegege-no-kitarou-2018.webp",
@@ -17133,6 +17271,23 @@
     "type": "حلقة خاصة",
     "episodes_count": "1",
     "season": "صيف 2021"
+  },
+  {
+    "id": "fruits-basket-2nd-season",
+    "title": "انمي Fruits Basket 2nd Season مترجم اون لاين",
+    "poster": "data/posters/fruits-basket-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "رومانسي",
+      "كوميدي",
+      "قوى خارقة",
+      "شريحة من الحياة",
+      "شوجو"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2020"
   },
   {
     "id": "muhyo-to-rouji-no-mahouritsu-soudan-jimusho-2nd-season",
