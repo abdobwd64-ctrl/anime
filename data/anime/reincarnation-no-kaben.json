@@ -1636,7 +1636,130 @@
           "url": "https://gofile.io/d/kwYKwb"
         }
       ]
+    },
+    {
+      "number": "2",
+      "title": "الحلقة 2Reincarnation no Kaben",
+      "date": "09 أبريل, 2026",
+      "servers": [
+        {
+          "name": "share4max | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://share4max.com/iframe/HBS7a0WygWffM"
+        },
+        {
+          "name": "larhu website | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://w.larhu.website/play.php?id=3x75i2cc6qlg"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/S05k2J4Q#siYHiu-lmZjNMwLFjm2cZyG-BHl0Sz7mEMbKLXGCYaU"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230608608&id=456239829&hash=9619e616cfc92491&hd=3"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://videa.hu/player?v=wsEEFtrr2TxZyJFB"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/gavkys2jkcfd"
+        },
+        {
+          "name": "uqload is | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.is/embed-keeh5gt4dtci.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-2dm0o13iy50h.html"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/34hACTaR#iGMuh70MxKTVht5oggnnKKbZLqlRuf66hXJqbLk4-Rk"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-mzutgpa6cz7p.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/etZB0YBL#LiWk6ywyjmkvmScaGvY8J8Mr-AJ8wNQihwWzjgFRWr0"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mp4upload.com/embed-qbp4e90jpsuv.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!etZB0YBL!LiWk6ywyjmkvmScaGvY8J8Mr-AJ8wNQihwWzjgFRWr0"
+        },
+        {
+          "server": "gofile",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/hnmIwI"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/qbp4e90jpsuv"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!S05k2J4Q!siYHiu-lmZjNMwLFjm2cZyG-BHl0Sz7mEMbKLXGCYaU"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/gavkys2jkcfd"
+        },
+        {
+          "server": "gofile",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/tNmuLe"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/2dm0o13iy50h"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/d/HBS7a0WygWffM"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!34hACTaR!iGMuh70MxKTVht5oggnnKKbZLqlRuf66hXJqbLk4-Rk"
+        },
+        {
+          "server": "gofile",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://gofile.io/d/k3TEIx"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/mzutgpa6cz7p"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-25T02:24:42.024154"
+  "last_updated": "2026-06-25T02:24:50.811643"
 }
