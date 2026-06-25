@@ -6686,6 +6686,19 @@
     "season": "شتاء 2020"
   },
   {
+    "id": "kimi-ni-todoke-3rd-season",
+    "title": "انمي Kimi ni Todoke 3rd Season مترجم اون لاين",
+    "poster": "data/posters/kimi-ni-todoke-3rd-season.webp",
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "6",
+    "season": "صيف 2024"
+  },
+  {
     "id": "strike-the-blood-final",
     "title": "انمي Strike the Blood Final مترجم اون لاين",
     "poster": "data/posters/strike-the-blood-final.webp",
