@@ -1295,6 +1295,19 @@
     "season": "صيف 2019"
   },
   {
+    "id": "slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni",
+    "title": "انمي Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni مترجم اون لاين",
+    "poster": "data/posters/slime-taoshite-300-nen-shiranai-uchi-ni-level-max-ni-nattemashita-sono-ni.webp",
+    "genres": [
+      "فنتازيا",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen",
     "title": "انمي Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen مترجم اون لاين",
     "poster": "data/posters/dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-v-houjou-no-megami-hen.webp",
@@ -1631,6 +1644,20 @@
     "type": "أونا",
     "episodes_count": "25",
     "season": "شتاء 2021"
+  },
+  {
+    "id": "baki-dou-part-2",
+    "title": "انمي Baki-dou Part 2 مترجم اون لاين",
+    "poster": "data/posters/baki-dou-part-2.webp",
+    "genres": [
+      "أكشن",
+      "شونين",
+      "فنون قتالية"
+    ],
+    "status": "مكتمل",
+    "type": "أونا",
+    "episodes_count": "12",
+    "season": "ربيع 2026"
   },
   {
     "id": "arknights-rise-from-ember",
@@ -8104,6 +8131,21 @@
     "season": "شتاء 2026"
   },
   {
+    "id": "dragon-ball-z",
+    "title": "انمي Dragon Ball Z مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "291",
+    "season": "ربيع 1989"
+  },
+  {
     "id": "kaijuu-8-gou-hoshina-no-kyuujitsu",
     "title": "انمي Kaijuu 8-gou: Hoshina no Kyuujitsu مترجم اون لاين",
     "poster": "data/posters/kaijuu-8-gou-hoshina-no-kyuujitsu.webp",
@@ -8159,6 +8201,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "ربيع 2026"
+  },
+  {
+    "id": "genjitsu-shugi-yuusha-no-oukoku-saikenki-2nd-season",
+    "title": "انمي Genjitsu Shugi Yuusha no Oukoku Saikenki 2nd Season مترجم اون لاين",
+    "poster": "data/posters/genjitsu-shugi-yuusha-no-oukoku-saikenki-2nd-season.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "رومانسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2022"
   },
   {
     "id": "ore-wa-seikan-kokka-no-akutoku-ryoushu",
@@ -10433,6 +10489,19 @@
     "type": "تلفزيون",
     "episodes_count": "11",
     "season": "خريف 2025"
+  },
+  {
+    "id": "douse-koishite-shimaunda-2nd-season",
+    "title": "انمي Douse, Koishite Shimaunda. 2nd Season مترجم اون لاين",
+    "poster": "data/posters/douse-koishite-shimaunda-2nd-season.webp",
+    "genres": [
+      "دراما",
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2026"
   },
   {
     "id": "yasashii-akuma",

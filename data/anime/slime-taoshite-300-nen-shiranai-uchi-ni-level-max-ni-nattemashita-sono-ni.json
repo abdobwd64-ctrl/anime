@@ -15,6 +15,125 @@
   "story": "قصى انمي Slime Taoshite 300-nen Shiranai Uchi ni Level Max ni Nattemashita Sono Ni تتمة لاحداث الموسم الاول.",
   "episodes": [
     {
+      "number": "11",
+      "title": "الحلقة 11Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
+      "date": "14 يونيو, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/I53OJuLoxamCO"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/I53OJuLoxamCO"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/qA0X0Qab!or2C5sjbho0TmB5eIghXl1Ak22pn2QalFN6JWEQOOFc"
+        },
+        {
+          "name": "vkvideo ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239188&autoplay=1"
+        },
+        {
+          "name": "videa hu | HD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=Os4Mf7HSWnth7IY9"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/dcofkobqg7ks"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-zomti95qhrs7.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-csox7p5rist2.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-h7eh7ih59pry.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/bt6syct0"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/yZ8TUaxZ!fgBA2Pcd3mU7jOatB6eyNTj7d2Se8WxTCCEBCIhE61U"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-o1y4v9bn2052.html"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/DNEEDaBQ!kcVqqqO0LWUZkMKdJ7EJxz90WV3vncmWKyr8niY8D8o"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xnz3rjesf73p.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!DNEEDaBQ!kcVqqqO0LWUZkMKdJ7EJxz90WV3vncmWKyr8niY8D8o"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xnz3rjesf73p"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!qA0X0Qab!or2C5sjbho0TmB5eIghXl1Ak22pn2QalFN6JWEQOOFc"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/dcofkobqg7ks"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/h7eh7ih59pry"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/zomti95qhrs7"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!yZ8TUaxZ!fgBA2Pcd3mU7jOatB6eyNTj7d2Se8WxTCCEBCIhE61U"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/I53OJuLoxamCO"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/o1y4v9bn2052"
+        }
+      ]
+    },
+    {
       "number": "12",
       "title": "الحلقة 12Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
       "date": "21 يونيو, 2025",
@@ -152,65 +271,73 @@
       ]
     },
     {
-      "number": "11",
-      "title": "الحلقة 11Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
-      "date": "14 يونيو, 2025",
+      "number": "9",
+      "title": "الحلقة 9Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
+      "date": "31 مايو, 2025",
       "servers": [
         {
           "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/I53OJuLoxamCO"
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/B6i1yBt3r22aW"
         },
         {
           "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/I53OJuLoxamCO"
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/B6i1yBt3r22aW"
         },
         {
           "name": "mega | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/qA0X0Qab!or2C5sjbho0TmB5eIghXl1Ak22pn2QalFN6JWEQOOFc"
-        },
-        {
-          "name": "vkvideo ru | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239188&autoplay=1"
-        },
-        {
-          "name": "videa hu | HD",
-          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=Os4Mf7HSWnth7IY9"
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/zoZyEQaJ!RVcUMpSn7BFwKbQe6qJipOwNGb5bVdUhElP-W9gl7GU"
         },
         {
           "name": "voe sx | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/dcofkobqg7ks"
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/ltpyemkrobvu"
         },
         {
           "name": "vidmoly to | HD",
-          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-zomti95qhrs7.html"
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-6fzcwoukguca.html"
         },
         {
           "name": "uqload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-csox7p5rist2.html"
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-wzsl6gyjbvu5.html"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/db9aw9kgkhrj"
         },
         {
           "name": "mp4upload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-h7eh7ih59pry.html"
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-a9y3hcciihuy.html"
         },
         {
           "name": "sendvid | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/bt6syct0"
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/7zfwf790"
         },
         {
           "name": "mega | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/yZ8TUaxZ!fgBA2Pcd3mU7jOatB6eyNTj7d2Se8WxTCCEBCIhE61U"
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ekR1lJQB!WmxyXTamNrzJ7kn295CoCyJzY5VoqxDPu6x3i-ZKHy0"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8993814678018"
+        },
+        {
+          "name": "videa hu | FHD",
+          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=y8jtLEh2CRAy6iPP"
+        },
+        {
+          "name": "vkvideo ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239087&hash=dd0116ab9e5865b2&autoplay=1"
         },
         {
           "name": "mp4upload | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-o1y4v9bn2052.html"
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-9nqb61gscw5p.html"
         },
         {
           "name": "mega | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/DNEEDaBQ!kcVqqqO0LWUZkMKdJ7EJxz90WV3vncmWKyr8niY8D8o"
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/moZhDahI!jDH7BOwRZwnu9OIe2QXO31uLrFhE-60nR19-or1HzwE"
         },
         {
           "name": "mp4upload | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xnz3rjesf73p.html"
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0tabk34cu6ui.html"
         }
       ],
       "downloads": [
@@ -218,55 +345,79 @@
           "server": "mega",
           "quality": "480p",
           "language": "مترجم",
-          "url": "https://mega.nz/#!DNEEDaBQ!kcVqqqO0LWUZkMKdJ7EJxz90WV3vncmWKyr8niY8D8o"
+          "url": "https://mega.nz/#!moZhDahI!jDH7BOwRZwnu9OIe2QXO31uLrFhE-60nR19-or1HzwE"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/lmecgchktagm"
         },
         {
           "server": "mp4upload",
           "quality": "480p",
           "language": "مترجم",
-          "url": "https://www.mp4upload.com/xnz3rjesf73p"
+          "url": "https://www.mp4upload.com/0tabk34cu6ui"
         },
         {
           "server": "mega",
           "quality": "720p",
           "language": "مترجم",
-          "url": "https://mega.nz/#!qA0X0Qab!or2C5sjbho0TmB5eIghXl1Ak22pn2QalFN6JWEQOOFc"
+          "url": "https://mega.nz/#!zoZyEQaJ!RVcUMpSn7BFwKbQe6qJipOwNGb5bVdUhElP-W9gl7GU"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/4fe6s1knm1ch"
         },
         {
           "server": "voe",
           "quality": "720p",
           "language": "مترجم",
-          "url": "https://voe.sx/dcofkobqg7ks"
+          "url": "https://voe.sx/ltpyemkrobvu"
         },
         {
           "server": "mp4upload",
           "quality": "720p",
           "language": "مترجم",
-          "url": "https://www.mp4upload.com/h7eh7ih59pry"
+          "url": "https://www.mp4upload.com/a9y3hcciihuy"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/db9aw9kgkhrj"
         },
         {
           "server": "vidmoly",
           "quality": "720p",
           "language": "مترجم",
-          "url": "http://vidmoly.me/w/zomti95qhrs7"
+          "url": "http://vidmoly.me/w/6fzcwoukguca"
         },
         {
           "server": "mega",
           "quality": "1080p",
           "language": "مترجم",
-          "url": "https://mega.nz/#!yZ8TUaxZ!fgBA2Pcd3mU7jOatB6eyNTj7d2Se8WxTCCEBCIhE61U"
+          "url": "https://mega.nz/#!ekR1lJQB!WmxyXTamNrzJ7kn295CoCyJzY5VoqxDPu6x3i-ZKHy0"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/mt4s1alp14ca"
         },
         {
           "server": "megamax",
           "quality": "1080p",
           "language": "مترجم",
-          "url": "https://megamax.me/download/I53OJuLoxamCO"
+          "url": "https://megamax.me/download/B6i1yBt3r22aW"
         },
         {
           "server": "mp4upload",
           "quality": "1080p",
           "language": "مترجم",
-          "url": "https://www.mp4upload.com/o1y4v9bn2052"
+          "url": "https://www.mp4upload.com/9nqb61gscw5p"
         }
       ]
     },
@@ -422,157 +573,6 @@
           "quality": "1080p",
           "language": "مترجم",
           "url": "http://uupbom.com/qa0zdjhx9fvh"
-        }
-      ]
-    },
-    {
-      "number": "9",
-      "title": "الحلقة 9Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
-      "date": "31 مايو, 2025",
-      "servers": [
-        {
-          "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/B6i1yBt3r22aW"
-        },
-        {
-          "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/B6i1yBt3r22aW"
-        },
-        {
-          "name": "mega | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/zoZyEQaJ!RVcUMpSn7BFwKbQe6qJipOwNGb5bVdUhElP-W9gl7GU"
-        },
-        {
-          "name": "voe sx | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/ltpyemkrobvu"
-        },
-        {
-          "name": "vidmoly to | HD",
-          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-6fzcwoukguca.html"
-        },
-        {
-          "name": "uqload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-wzsl6gyjbvu5.html"
-        },
-        {
-          "name": "do7go | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/db9aw9kgkhrj"
-        },
-        {
-          "name": "mp4upload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-a9y3hcciihuy.html"
-        },
-        {
-          "name": "sendvid | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/7zfwf790"
-        },
-        {
-          "name": "mega | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/ekR1lJQB!WmxyXTamNrzJ7kn295CoCyJzY5VoqxDPu6x3i-ZKHy0"
-        },
-        {
-          "name": "ok ru | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8993814678018"
-        },
-        {
-          "name": "videa hu | FHD",
-          "embed_url": "https://animelek.top/card.php?random=//videa.hu/player?v=y8jtLEh2CRAy6iPP"
-        },
-        {
-          "name": "vkvideo ru | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://vkvideo.ru/video_ext.php?oid=-230564661&id=456239087&hash=dd0116ab9e5865b2&autoplay=1"
-        },
-        {
-          "name": "mp4upload | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-9nqb61gscw5p.html"
-        },
-        {
-          "name": "mega | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/moZhDahI!jDH7BOwRZwnu9OIe2QXO31uLrFhE-60nR19-or1HzwE"
-        },
-        {
-          "name": "mp4upload | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-0tabk34cu6ui.html"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "mega",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!moZhDahI!jDH7BOwRZwnu9OIe2QXO31uLrFhE-60nR19-or1HzwE"
-        },
-        {
-          "server": "file-upload",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/lmecgchktagm"
-        },
-        {
-          "server": "mp4upload",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/0tabk34cu6ui"
-        },
-        {
-          "server": "mega",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!zoZyEQaJ!RVcUMpSn7BFwKbQe6qJipOwNGb5bVdUhElP-W9gl7GU"
-        },
-        {
-          "server": "file-upload",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/4fe6s1knm1ch"
-        },
-        {
-          "server": "voe",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://voe.sx/ltpyemkrobvu"
-        },
-        {
-          "server": "mp4upload",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/a9y3hcciihuy"
-        },
-        {
-          "server": "do7go",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://do7go.com/d/db9aw9kgkhrj"
-        },
-        {
-          "server": "vidmoly",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "http://vidmoly.me/w/6fzcwoukguca"
-        },
-        {
-          "server": "mega",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!ekR1lJQB!WmxyXTamNrzJ7kn295CoCyJzY5VoqxDPu6x3i-ZKHy0"
-        },
-        {
-          "server": "file-upload",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/mt4s1alp14ca"
-        },
-        {
-          "server": "megamax",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://megamax.me/download/B6i1yBt3r22aW"
-        },
-        {
-          "server": "mp4upload",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/9nqb61gscw5p"
         }
       ]
     },
@@ -1367,6 +1367,171 @@
       ]
     },
     {
+      "number": "1",
+      "title": "الحلقة 1Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
+      "date": "05 أبريل, 2025",
+      "servers": [
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/tquiHe5cuPNve"
+        },
+        {
+          "name": "megamax me | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/tquiHe5cuPNve"
+        },
+        {
+          "name": "mp4upload | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xldvqmdbjw5b.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-f1a646x5t41m.html"
+        },
+        {
+          "name": "vidmoly to | HD",
+          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-lced6jk09ct5.html"
+        },
+        {
+          "name": "voe sx | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/ourgctkea7mz"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/CphlEKyQ!2bMHKrIu76WfHGzxLiPnUJLagz-tjLJh5zNy7IvNF1M"
+        },
+        {
+          "name": "do7go | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/zbjqtptpx7v1"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-rikk9peuhl4g.html"
+        },
+        {
+          "name": "sendvid | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/8u37lxiu"
+        },
+        {
+          "name": "ok ru | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8990362176218"
+        },
+        {
+          "name": "mega | FHD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/LxhgzbyC!lfZ16Lf1iKQUHtXfzNaG7A3EKHPQKdCwJPolQqBMwDQ"
+        },
+        {
+          "name": "ok ru | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8990370958042"
+        },
+        {
+          "name": "mega | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/L0pD0JKR!70xTJZobp2I1ELLW7rst3ZNhQD-9aYKP1965tZXJeuU"
+        },
+        {
+          "name": "mp4upload | SD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-3agmeyp501c3.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "mp4upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/3agmeyp501c3"
+        },
+        {
+          "server": "file-upload",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/r5jshcj6gin3"
+        },
+        {
+          "server": "mega",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!L0pD0JKR!70xTJZobp2I1ELLW7rst3ZNhQD-9aYKP1965tZXJeuU"
+        },
+        {
+          "server": "uupbom",
+          "quality": "480p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/k1wcap436z1d"
+        },
+        {
+          "server": "voe",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://voe.sx/ourgctkea7mz"
+        },
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/iu8bfagf79x0"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/rikk9peuhl4g"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!CphlEKyQ!2bMHKrIu76WfHGzxLiPnUJLagz-tjLJh5zNy7IvNF1M"
+        },
+        {
+          "server": "uupbom",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/r9lgpta7nufp"
+        },
+        {
+          "server": "do7go",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://do7go.com/d/zbjqtptpx7v1"
+        },
+        {
+          "server": "vidmoly",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "http://vidmoly.me/w/lced6jk09ct5"
+        },
+        {
+          "server": "megamax",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://megamax.me/download/tquiHe5cuPNve"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/xldvqmdbjw5b"
+        },
+        {
+          "server": "file-upload",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.org/ekmdl6uhdvcg"
+        },
+        {
+          "server": "uupbom",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "http://uupbom.com/68zzyehqhm9o"
+        },
+        {
+          "server": "mega",
+          "quality": "1080p",
+          "language": "مترجم",
+          "url": "https://mega.nz/#!LxhgzbyC!lfZ16Lf1iKQUHtXfzNaG7A3EKHPQKdCwJPolQqBMwDQ"
+        }
+      ]
+    },
+    {
       "number": "4",
       "title": "الحلقة 4Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
       "date": "26 أبريل, 2025",
@@ -1864,172 +2029,7 @@
           "url": "http://uupbom.com/xv6iwttn8gjy"
         }
       ]
-    },
-    {
-      "number": "1",
-      "title": "الحلقة 1Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
-      "date": "05 أبريل, 2025",
-      "servers": [
-        {
-          "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/tquiHe5cuPNve"
-        },
-        {
-          "name": "megamax me | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://megamax.me/iframe/tquiHe5cuPNve"
-        },
-        {
-          "name": "mp4upload | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-xldvqmdbjw5b.html"
-        },
-        {
-          "name": "uqload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://uqload.net/embed-f1a646x5t41m.html"
-        },
-        {
-          "name": "vidmoly to | HD",
-          "embed_url": "https://animelek.top/card.php?random=//vidmoly.to/embed-lced6jk09ct5.html"
-        },
-        {
-          "name": "voe sx | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://voe.sx/e/ourgctkea7mz"
-        },
-        {
-          "name": "mega | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/CphlEKyQ!2bMHKrIu76WfHGzxLiPnUJLagz-tjLJh5zNy7IvNF1M"
-        },
-        {
-          "name": "do7go | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://do7go.com/e/zbjqtptpx7v1"
-        },
-        {
-          "name": "mp4upload | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-rikk9peuhl4g.html"
-        },
-        {
-          "name": "sendvid | HD",
-          "embed_url": "https://animelek.top/card.php?random=https://sendvid.com/embed/8u37lxiu"
-        },
-        {
-          "name": "ok ru | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8990362176218"
-        },
-        {
-          "name": "mega | FHD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/LxhgzbyC!lfZ16Lf1iKQUHtXfzNaG7A3EKHPQKdCwJPolQqBMwDQ"
-        },
-        {
-          "name": "ok ru | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.ok.ru/videoembed/8990370958042"
-        },
-        {
-          "name": "mega | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/L0pD0JKR!70xTJZobp2I1ELLW7rst3ZNhQD-9aYKP1965tZXJeuU"
-        },
-        {
-          "name": "mp4upload | SD",
-          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-3agmeyp501c3.html"
-        }
-      ],
-      "downloads": [
-        {
-          "server": "mp4upload",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/3agmeyp501c3"
-        },
-        {
-          "server": "file-upload",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/r5jshcj6gin3"
-        },
-        {
-          "server": "mega",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!L0pD0JKR!70xTJZobp2I1ELLW7rst3ZNhQD-9aYKP1965tZXJeuU"
-        },
-        {
-          "server": "uupbom",
-          "quality": "480p",
-          "language": "مترجم",
-          "url": "http://uupbom.com/k1wcap436z1d"
-        },
-        {
-          "server": "voe",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://voe.sx/ourgctkea7mz"
-        },
-        {
-          "server": "file-upload",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/iu8bfagf79x0"
-        },
-        {
-          "server": "mp4upload",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/rikk9peuhl4g"
-        },
-        {
-          "server": "mega",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!CphlEKyQ!2bMHKrIu76WfHGzxLiPnUJLagz-tjLJh5zNy7IvNF1M"
-        },
-        {
-          "server": "uupbom",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "http://uupbom.com/r9lgpta7nufp"
-        },
-        {
-          "server": "do7go",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "https://do7go.com/d/zbjqtptpx7v1"
-        },
-        {
-          "server": "vidmoly",
-          "quality": "720p",
-          "language": "مترجم",
-          "url": "http://vidmoly.me/w/lced6jk09ct5"
-        },
-        {
-          "server": "megamax",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://megamax.me/download/tquiHe5cuPNve"
-        },
-        {
-          "server": "mp4upload",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://www.mp4upload.com/xldvqmdbjw5b"
-        },
-        {
-          "server": "file-upload",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://www.file-upload.org/ekmdl6uhdvcg"
-        },
-        {
-          "server": "uupbom",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "http://uupbom.com/68zzyehqhm9o"
-        },
-        {
-          "server": "mega",
-          "quality": "1080p",
-          "language": "مترجم",
-          "url": "https://mega.nz/#!LxhgzbyC!lfZ16Lf1iKQUHtXfzNaG7A3EKHPQKdCwJPolQqBMwDQ"
-        }
-      ]
     }
   ],
-  "last_updated": "2026-06-24T02:25:59.293454"
+  "last_updated": "2026-06-25T03:15:02.070605"
 }

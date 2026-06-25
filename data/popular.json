@@ -37,6 +37,22 @@
     "score": 505
   },
   {
+    "id": "dragon-ball-z",
+    "title": "انمي Dragon Ball Z مترجم اون لاين",
+    "poster": "data/posters/dragon-ball-z.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "291",
+    "season": "ربيع 1989",
+    "score": 231
+  },
+  {
     "id": "yu-gi-oh-duel-monsters-gx",
     "title": "انمي Yu☆Gi☆Oh!: Duel Monsters GX مترجم اون لاين",
     "poster": "data/posters/yu-gi-oh-duel-monsters-gx.webp",
@@ -481,24 +497,6 @@
     "type": "تلفزيون",
     "episodes_count": "39",
     "season": "خريف 2023",
-    "score": 30
-  },
-  {
-    "id": "nanatsu-no-taizai-kamigami-no-gekirin",
-    "title": "انمي Nanatsu no Taizai: Kamigami no Gekirin مترجم اون لاين",
-    "poster": "data/posters/nanatsu-no-taizai-kamigami-no-gekirin.webp",
-    "genres": [
-      "أكشن",
-      "فنتازيا",
-      "شونين",
-      "مغامرات",
-      "سحر",
-      "قوى خارقة"
-    ],
-    "status": "مكتمل",
-    "type": "تلفزيون",
-    "episodes_count": "24",
-    "season": "خريف 2019",
     "score": 30
   }
 ]
