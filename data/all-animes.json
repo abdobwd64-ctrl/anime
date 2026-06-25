@@ -10974,6 +10974,22 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "boku-no-hero-academia-sukue-kyuujo-kunren-",
+    "title": "انمي Boku no Hero Academia: Sukue! Kyuujo Kunren! مترجم اون لاين",
+    "poster": "data/posters/boku-no-hero-academia-sukue-kyuujo-kunren-.webp",
+    "genres": [
+      "أكشن",
+      "خارق للعادة",
+      "شونين",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "أوفا",
+    "episodes_count": "1",
+    "season": "ربيع 2017"
+  },
+  {
     "id": "platinum-end",
     "title": "انمي Platinum End مترجم اون لاين",
     "poster": "data/posters/platinum-end.webp",
@@ -10985,6 +11001,20 @@
     "type": "تلفزيون",
     "episodes_count": "24",
     "season": "خريف 2021"
+  },
+  {
+    "id": "koi-wa-futago-de-warikirenai",
+    "title": "انمي Koi wa Futago de Warikirenai مترجم اون لاين",
+    "poster": "data/posters/koi-wa-futago-de-warikirenai.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "مدرسي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2024"
   },
   {
     "id": "vlad-love",
@@ -11479,6 +11509,19 @@
     "type": "تلفزيون",
     "episodes_count": "13",
     "season": "صيف 2021"
+  },
+  {
+    "id": "jingai-kyoushitsu-no-ningengirai-kyoushi",
+    "title": "انمي Jingai Kyoushitsu no Ningengirai Kyoushi مترجم اون لاين",
+    "poster": "data/posters/jingai-kyoushitsu-no-ningengirai-kyoushi.webp",
+    "genres": [
+      "دراما",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2026"
   },
   {
     "id": "shingeki-no-kyojin-season-2",
@@ -13150,6 +13193,20 @@
     "type": "فيلم",
     "episodes_count": "1",
     "season": "خريف 2017"
+  },
+  {
+    "id": "bungou-stray-dogs-5th-season",
+    "title": "انمي Bungou Stray Dogs 5th Season مترجم اون لاين",
+    "poster": "data/posters/bungou-stray-dogs-5th-season.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "قوى خارقة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "11",
+    "season": "صيف 2023"
   },
   {
     "id": "edens-zero-2nd-season",
@@ -23279,6 +23336,18 @@
     "season": "ربيع 2026"
   },
   {
+    "id": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
+    "title": "انمي Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken 2 مترجم اون لاين",
+    "poster": "data/posters/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2.webp",
+    "genres": [
+      "رومانسي"
+    ],
+    "status": "يعرض الان",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2026"
+  },
+  {
     "id": "gintama-movie-1-shinyaku-benizakura-hen",
     "title": "انمي Gintama Movie 1: Shinyaku Benizakura-hen مترجم اون لاين",
     "poster": "data/posters/gintama-movie-1-shinyaku-benizakura-hen.webp",
@@ -24937,6 +25006,21 @@
     "season": "صيف 2023"
   },
   {
+    "id": "magia-record-mahou-shoujo-madoka-magica-gaiden-tv",
+    "title": "انمي Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV) مترجم اون لاين",
+    "poster": "data/posters/magia-record-mahou-shoujo-madoka-magica-gaiden-tv.webp",
+    "genres": [
+      "دراما",
+      "سحر",
+      "نفسي",
+      "اثارة"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "unnamed-memory",
     "title": "انمي Unnamed Memory مترجم اون لاين",
     "poster": "data/posters/unnamed-memory.webp",
@@ -25694,6 +25778,20 @@
     "season": "شتاء 2019"
   },
   {
+    "id": "muv-luv-alternative",
+    "title": "انمي Muv-Luv Alternative مترجم اون لاين",
+    "poster": "data/posters/muv-luv-alternative.webp",
+    "genres": [
+      "أكشن",
+      "دراما",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "خريف 2021"
+  },
+  {
     "id": "genjitsu-no-yohane-sunshine-in-the-mirror",
     "title": "انمي Genjitsu no Yohane: Sunshine in the Mirror مترجم اون لاين",
     "poster": "data/posters/genjitsu-no-yohane-sunshine-in-the-mirror.webp",
@@ -26394,6 +26492,20 @@
     "type": "تلفزيون",
     "episodes_count": "غير معروف",
     "season": "خريف 2022"
+  },
+  {
+    "id": "nier-automata-ver1-1a",
+    "title": "انمي NieR:Automata Ver1.1a مترجم اون لاين",
+    "poster": "data/posters/nier-automata-ver1-1a.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "خيال علمي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "شتاء 2023"
   },
   {
     "id": "detective-conan",
