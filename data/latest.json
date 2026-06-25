@@ -368,6 +368,14 @@
     "date_sort": "2026-06-20"
   },
   {
+    "anime_id": "monogatari-series-second-season",
+    "anime_title": "انمي Monogatari Series: Second Season مترجم اون لاين",
+    "anime_poster": "data/posters/monogatari-series-second-season.webp",
+    "episode": "23",
+    "date": "20 يونيو, 2026",
+    "date_sort": "2026-06-20"
+  },
+  {
     "anime_id": "kanan-sama-wa-akumade-choroi",
     "anime_title": "انمي Kanan-sama wa Akumade Choroi مترجم اون لاين",
     "anime_poster": "data/posters/kanan-sama-wa-akumade-choroi.webp",
@@ -390,29 +398,5 @@
     "episode": "12",
     "date": "19 يونيو, 2026",
     "date_sort": "2026-06-19"
-  },
-  {
-    "anime_id": "tensei-shitara-slime-datta-ken-4th-season",
-    "anime_title": "انمي Tensei shitara Slime Datta Ken 4th Season مترجم اون لاين",
-    "anime_poster": "data/posters/tensei-shitara-slime-datta-ken-4th-season.webp",
-    "episode": "11",
-    "date": "19 يونيو, 2026",
-    "date_sort": "2026-06-19"
-  },
-  {
-    "anime_id": "quanzhi-fashi-vii",
-    "anime_title": "انمي Quanzhi Fashi VII مترجم اون لاين",
-    "anime_poster": "data/posters/quanzhi-fashi-vii.webp",
-    "episode": "5",
-    "date": "19 يونيو, 2026",
-    "date_sort": "2026-06-19"
-  },
-  {
-    "anime_id": "haibara-kun-no-tsuyokute-seishun-new-game",
-    "anime_title": "انمي Haibara-kun no Tsuyokute Seishun New Game مترجم اون لاين",
-    "anime_poster": "data/posters/haibara-kun-no-tsuyokute-seishun-new-game.webp",
-    "episode": "12",
-    "date": "18 يونيو, 2026",
-    "date_sort": "2026-06-18"
   }
 ]
