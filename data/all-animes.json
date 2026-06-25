@@ -1910,6 +1910,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "chao-neng-lifang-chaofan-pian",
+    "title": "انمي Chao Neng Lifang: Chaofan Pian مترجم اون لاين",
+    "poster": "data/posters/chao-neng-lifang-chaofan-pian.webp",
+    "genres": [
+      "أكشن",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "ربيع 2025"
+  },
+  {
     "id": "zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru",
     "title": "انمي Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru مترجم اون لاين",
     "poster": "data/posters/zutaboro-reijou-wa-ane-no-moto-konyakusha-ni-dekiai-sareru.webp",
