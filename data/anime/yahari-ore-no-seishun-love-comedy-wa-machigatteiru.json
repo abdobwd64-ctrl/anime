@@ -1000,7 +1000,106 @@
           "url": "https://www.mp4upload.com/3z7ydwks2pxe"
         }
       ]
+    },
+    {
+      "number": "3",
+      "title": "الحلقة 3Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+      "date": "05 أغسطس, 2020",
+      "servers": [
+        {
+          "name": "ok ru | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://ok.ru/videoembed/1825477167691"
+        },
+        {
+          "name": "google | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://drive.google.com/file/d/1rCE4r7PqyWfDA91xQJTLEW15ycU-Onab/preview"
+        },
+        {
+          "name": "mega | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://mega.nz/embed/Pc5FXLIB#aLZxaLxokUU0dpVFJzQ7sFBhJ6aYmULpgG8RErG4vPQ"
+        },
+        {
+          "name": "4shared | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.4shared.com/web/embed/file/O41HGMirea"
+        },
+        {
+          "name": "vidfast | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidfast.co/embed-gy1b4muh7mby.html"
+        },
+        {
+          "name": "uptostream | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uptostream.com/iframe/g0y69w5gc37x"
+        },
+        {
+          "name": "vidbem | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidbem.com/embed-omc9sa92rf5l.html"
+        },
+        {
+          "name": "uqload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://uqload.com/embed-fsf6xwdp9v9d.html"
+        },
+        {
+          "name": "vup to | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vup.to/emb.html?8rp4kkhymcnv=img.vup.to/71/01/00180/8rp4kkhymcnv"
+        },
+        {
+          "name": "anavids | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://anavids.com/embed-o5zufd0i0apw.html"
+        },
+        {
+          "name": "vidia | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://vidia.tv/embed-uq03eya5afrb.html"
+        },
+        {
+          "name": "mp4upload | HD",
+          "embed_url": "https://animelek.top/card.php?random=https://www.mp4upload.com/embed-a76ewbyowq4t.html"
+        }
+      ],
+      "downloads": [
+        {
+          "server": "file-upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.file-upload.com/8ejwvg8ytjp9"
+        },
+        {
+          "server": "drive",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://drive.google.com/uc?id=1rCE4r7PqyWfDA91xQJTLEW15ycU-Onab&export=download"
+        },
+        {
+          "server": "mega",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://mega.nz/file/Pc5FXLIB#aLZxaLxokUU0dpVFJzQ7sFBhJ6aYmULpgG8RErG4vPQ"
+        },
+        {
+          "server": "uptobox",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://uptobox.com/g0y69w5gc37x"
+        },
+        {
+          "server": "mediafire",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mediafire.com/file/0phc8aapfm04n7k/%5BWitanime.com%5D_YONSLCWM_EP_03_BD-HD.mp4/file"
+        },
+        {
+          "server": "7-up",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://7-up.net/y9tahxulirka.html"
+        },
+        {
+          "server": "mp4upload",
+          "quality": "720p",
+          "language": "مترجم",
+          "url": "https://www.mp4upload.com/a76ewbyowq4t"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-06-24T20:20:12.354328"
+  "last_updated": "2026-06-25T00:29:56.088897"
 }
