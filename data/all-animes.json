@@ -6409,6 +6409,19 @@
     "season": "خريف 2023"
   },
   {
+    "id": "shirobako-movie",
+    "title": "انمي Shirobako Movie مترجم اون لاين",
+    "poster": "data/posters/shirobako-movie.webp",
+    "genres": [
+      "دراما",
+      "كوميدي"
+    ],
+    "status": "مكتمل",
+    "type": "فيلم",
+    "episodes_count": "1",
+    "season": "شتاء 2020"
+  },
+  {
     "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
     "title": "انمي Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season مترجم اون لاين",
     "poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
@@ -6766,6 +6779,22 @@
     "type": "تلفزيون",
     "episodes_count": "26",
     "season": "صيف 2013"
+  },
+  {
+    "id": "kami-no-tou-koubou-sen",
+    "title": "انمي Kami no Tou: Koubou-sen مترجم اون لاين",
+    "poster": "data/posters/kami-no-tou-koubou-sen.webp",
+    "genres": [
+      "أكشن",
+      "غموض",
+      "دراما",
+      "فنتازيا",
+      "مغامرات"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2024"
   },
   {
     "id": "ryuu-to-sobakasu-no-hime",
@@ -14510,6 +14539,19 @@
     "type": "تلفزيون",
     "episodes_count": "12",
     "season": "شتاء 2020"
+  },
+  {
+    "id": "tomodachi-game",
+    "title": "انمي Tomodachi Game مترجم اون لاين",
+    "poster": "data/posters/tomodachi-game.webp",
+    "genres": [
+      "غموض",
+      "رعب"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "غير معروف",
+    "season": "ربيع 2022"
   },
   {
     "id": "owari-no-seraph",
