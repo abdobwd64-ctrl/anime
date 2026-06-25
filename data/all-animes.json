@@ -9397,6 +9397,22 @@
     "season": "ربيع 2023"
   },
   {
+    "id": "hellsing",
+    "title": "انمي Hellsing مترجم اون لاين",
+    "poster": "data/posters/hellsing.webp",
+    "genres": [
+      "أكشن",
+      "قوى خارقة",
+      "رعب",
+      "سينين",
+      "مصاصي دماء"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "13",
+    "season": "خريف 2001"
+  },
+  {
     "id": "majutsushi-orphen-hagure-tabi",
     "title": "انمي Majutsushi Orphen Hagure Tabi مترجم اون لاين",
     "poster": "data/posters/majutsushi-orphen-hagure-tabi.webp",
