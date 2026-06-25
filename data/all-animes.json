@@ -4459,6 +4459,20 @@
     "season": "خريف 2022"
   },
   {
+    "id": "temple",
+    "title": "انمي Temple مترجم اون لاين",
+    "poster": "data/posters/temple.webp",
+    "genres": [
+      "رومانسي",
+      "كوميدي",
+      "إيتشي"
+    ],
+    "status": "مكتمل",
+    "type": "تلفزيون",
+    "episodes_count": "12",
+    "season": "صيف 2023"
+  },
+  {
     "id": "tsue-to-tsurugi-no-wistoria-season-2",
     "title": "انمي Tsue to Tsurugi no Wistoria Season 2 مترجم اون لاين",
     "poster": "data/posters/tsue-to-tsurugi-no-wistoria-season-2.webp",
