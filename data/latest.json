@@ -1,43 +1,12 @@
 [
   {
-    "anime_id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
-    "anime_title": "انمي Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 مترجم اون لاين",
-    "anime_poster": "data/posters/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2.webp",
-    "episode": "12",
-    "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
-  },
-  {
     "anime_id": "kyoushoku-soukou-guyver-1989",
     "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
     "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
-    "episode": "6",
+    "episode": "1",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
-  },
-  {
-    "anime_id": "kyoushoku-soukou-guyver-1989",
-    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
-    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
-    "episode": "3",
-    "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
-  },
-  {
-    "anime_id": "kyoushoku-soukou-guyver-1989",
-    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
-    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
-    "episode": "4",
-    "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
-  },
-  {
-    "anime_id": "kyoushoku-soukou-guyver-1989",
-    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
-    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
-    "episode": "5",
-    "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": "2026-06-26T00:00:55.006325"
   },
   {
     "anime_id": "kyoushoku-soukou-guyver-1989",
@@ -45,7 +14,44 @@
     "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
     "episode": "2",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": "2026-06-26T00:00:54.209803"
+  },
+  {
+    "anime_id": "kyoushoku-soukou-guyver-1989",
+    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
+    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
+    "episode": "3",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25",
+    "saved_at": "2026-06-26T00:00:54.209141"
+  },
+  {
+    "anime_id": "kyoushoku-soukou-guyver-1989",
+    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
+    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
+    "episode": "4",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25",
+    "saved_at": "2026-06-26T00:00:54.208485"
+  },
+  {
+    "anime_id": "kyoushoku-soukou-guyver-1989",
+    "anime_title": "انمي Kyoushoku Soukou Guyver (1989) مترجم اون لاين",
+    "anime_poster": "data/posters/kyoushoku-soukou-guyver-1989.webp",
+    "episode": "6",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25",
+    "saved_at": "2026-06-26T00:00:54.206836"
+  },
+  {
+    "anime_id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
+    "anime_title": "انمي Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 مترجم اون لاين",
+    "anime_poster": "data/posters/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2.webp",
+    "episode": "12",
+    "date": "25 يونيو, 2026",
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "ouran-koukou-host-club",
@@ -53,7 +59,8 @@
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
     "episode": "25",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "ouran-koukou-host-club",
@@ -61,7 +68,8 @@
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
     "episode": "26",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "ouran-koukou-host-club",
@@ -69,7 +77,8 @@
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
     "episode": "22",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "ouran-koukou-host-club",
@@ -77,7 +86,8 @@
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
     "episode": "23",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "ouran-koukou-host-club",
@@ -85,7 +95,8 @@
     "anime_poster": "data/posters/ouran-koukou-host-club.webp",
     "episode": "24",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu",
@@ -93,7 +104,8 @@
     "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu.webp",
     "episode": "2",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu",
@@ -101,7 +113,8 @@
     "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu.webp",
     "episode": "4",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu",
@@ -109,7 +122,8 @@
     "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu.webp",
     "episode": "3",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "re-zero-kara-hajimeru-isekai-seikatsu",
@@ -117,7 +131,8 @@
     "anime_poster": "data/posters/re-zero-kara-hajimeru-isekai-seikatsu.webp",
     "episode": "1",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "otaku-ni-yasashii-gal-wa-inai",
@@ -125,7 +140,8 @@
     "anime_poster": "data/posters/otaku-ni-yasashii-gal-wa-inai.webp",
     "episode": "12",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -133,7 +149,8 @@
     "anime_poster": "data/posters/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki.webp",
     "episode": "16",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "nana",
@@ -141,7 +158,8 @@
     "anime_poster": "data/posters/nana.webp",
     "episode": "39",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "nana",
@@ -149,7 +167,8 @@
     "anime_poster": "data/posters/nana.webp",
     "episode": "37",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "nana",
@@ -157,7 +176,8 @@
     "anime_poster": "data/posters/nana.webp",
     "episode": "36",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "nana",
@@ -165,7 +185,8 @@
     "anime_poster": "data/posters/nana.webp",
     "episode": "38",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "nana",
@@ -173,7 +194,8 @@
     "anime_poster": "data/posters/nana.webp",
     "episode": "35",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "heroine-seijo-iie-all-works-maid-desu-hokori",
@@ -181,7 +203,8 @@
     "anime_poster": "data/posters/heroine-seijo-iie-all-works-maid-desu-hokori.webp",
     "episode": "1",
     "date": "25 يونيو, 2026",
-    "date_sort": "2026-06-25"
+    "date_sort": "2026-06-25",
+    "saved_at": ""
   },
   {
     "anime_id": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
@@ -189,7 +212,8 @@
     "anime_poster": "data/posters/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
@@ -197,7 +221,8 @@
     "anime_poster": "data/posters/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "marriagetoxin",
@@ -205,7 +230,8 @@
     "anime_poster": "data/posters/marriagetoxin.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "kanojo-okarishimasu-5th-season",
@@ -213,7 +239,8 @@
     "anime_poster": "data/posters/kanojo-okarishimasu-5th-season.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "mao",
@@ -221,7 +248,8 @@
     "anime_poster": "data/posters/mao.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2",
@@ -229,7 +257,8 @@
     "anime_poster": "data/posters/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2.webp",
     "episode": "12",
     "date": "24 يونيو, 2026",
-    "date_sort": "2026-06-24"
+    "date_sort": "2026-06-24",
+    "saved_at": ""
   },
   {
     "anime_id": "replica-datte-koi-wo-suru",
@@ -237,7 +266,8 @@
     "anime_poster": "data/posters/replica-datte-koi-wo-suru.webp",
     "episode": "12",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "aishiteru-game-wo-owarasetai",
@@ -245,7 +275,8 @@
     "anime_poster": "data/posters/aishiteru-game-wo-owarasetai.webp",
     "episode": "11",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "isekai-nonbiri-nouka-2",
@@ -253,7 +284,8 @@
     "anime_poster": "data/posters/isekai-nonbiri-nouka-2.webp",
     "episode": "12",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "liar-game",
@@ -261,7 +293,8 @@
     "anime_poster": "data/posters/liar-game.webp",
     "episode": "12",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
@@ -269,7 +302,8 @@
     "anime_poster": "data/posters/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta.webp",
     "episode": "12",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "tadaima-ojamasaremasu",
@@ -277,7 +311,8 @@
     "anime_poster": "data/posters/tadaima-ojamasaremasu.webp",
     "episode": "12",
     "date": "23 يونيو, 2026",
-    "date_sort": "2026-06-23"
+    "date_sort": "2026-06-23",
+    "saved_at": ""
   },
   {
     "anime_id": "date-a-live-movie-mayuri-judgment",
@@ -285,7 +320,8 @@
     "anime_poster": "data/posters/date-a-live-movie-mayuri-judgment.webp",
     "episode": "1",
     "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "date_sort": "2026-06-22",
+    "saved_at": ""
   },
   {
     "anime_id": "yozakura-san-chi-no-daisakusen-2nd-season",
@@ -293,7 +329,8 @@
     "anime_poster": "data/posters/yozakura-san-chi-no-daisakusen-2nd-season.webp",
     "episode": "11",
     "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "date_sort": "2026-06-22",
+    "saved_at": ""
   },
   {
     "anime_id": "digimon-beatbreak",
@@ -301,7 +338,8 @@
     "anime_poster": "data/posters/digimon-beatbreak.webp",
     "episode": "36",
     "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "date_sort": "2026-06-22",
+    "saved_at": ""
   },
   {
     "anime_id": "tongari-boushi-no-atelier",
@@ -309,7 +347,8 @@
     "anime_poster": "data/posters/tongari-boushi-no-atelier.webp",
     "episode": "13",
     "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "date_sort": "2026-06-22",
+    "saved_at": ""
   },
   {
     "anime_id": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
@@ -317,7 +356,8 @@
     "anime_poster": "data/posters/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi.webp",
     "episode": "12",
     "date": "22 يونيو, 2026",
-    "date_sort": "2026-06-22"
+    "date_sort": "2026-06-22",
+    "saved_at": ""
   },
   {
     "anime_id": "diamond-no-ace-act-ii-second-season",
@@ -325,7 +365,8 @@
     "anime_poster": "data/posters/diamond-no-ace-act-ii-second-season.webp",
     "episode": "12",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "ghost-concert-missing-songs",
@@ -333,7 +374,8 @@
     "anime_poster": "data/posters/ghost-concert-missing-songs.webp",
     "episode": "12",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "mushishi-zoku-shou-2nd-season",
@@ -341,7 +383,8 @@
     "anime_poster": "data/posters/mushishi-zoku-shou-2nd-season.webp",
     "episode": "10",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "mushishi-zoku-shou-2nd-season",
@@ -349,7 +392,8 @@
     "anime_poster": "data/posters/mushishi-zoku-shou-2nd-season.webp",
     "episode": "6",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "mushishi-zoku-shou-2nd-season",
@@ -357,7 +401,8 @@
     "anime_poster": "data/posters/mushishi-zoku-shou-2nd-season.webp",
     "episode": "9",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "mushishi-zoku-shou-2nd-season",
@@ -365,7 +410,8 @@
     "anime_poster": "data/posters/mushishi-zoku-shou-2nd-season.webp",
     "episode": "8",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "mushishi-zoku-shou-2nd-season",
@@ -373,7 +419,8 @@
     "anime_poster": "data/posters/mushishi-zoku-shou-2nd-season.webp",
     "episode": "7",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "tsue-to-tsurugi-no-wistoria-season-2",
@@ -381,7 +428,8 @@
     "anime_poster": "data/posters/tsue-to-tsurugi-no-wistoria-season-2.webp",
     "episode": "11",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "akane-banashi",
@@ -389,7 +437,8 @@
     "anime_poster": "data/posters/akane-banashi.webp",
     "episode": "12",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   },
   {
     "anime_id": "nippon-sangoku",
@@ -397,6 +446,7 @@
     "anime_poster": "data/posters/nippon-sangoku.webp",
     "episode": "12",
     "date": "21 يونيو, 2026",
-    "date_sort": "2026-06-21"
+    "date_sort": "2026-06-21",
+    "saved_at": ""
   }
 ]
